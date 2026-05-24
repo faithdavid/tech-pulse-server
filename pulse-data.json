@@ -1,221 +1,221 @@
 {
   "ai": [
     {
-      "title": "New AI Model Releases News | April, 2026 (STARTUP EDITION)",
-      "description": "Apr 1, 2026 · Here is the quick list heading into April 2026: GPT-5.4 from OpenAI (released March 5), Gemini 3.1 Pro and Flash-Lite from Google (February and ...",
-      "url": "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/",
-      "source": "Blog",
+      "title": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code",
+      "description": "The AI industry has fully entered the \"agent era,\" a paradigm where AI models do far more than generate text — they now actively plan, execute, and course-correct complex tasks over days rather than seconds. Thus, it's perhaps unsurprising to see Chinese e-commerce giant Alibaba's famed Qwen Team of",
+      "url": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "AI Advances May 2026: Breakthroughs in GPT-5.5, Gemini ...",
-      "description": "5 days ago · May 19, 2026, witnessed transformative developments in AI, with OpenAI's GPT-5.5 unveiling security-focused frameworks and companies like ...",
-      "url": "https://af.net/es/realtime/ai-advances-may-2026-breakthroughs-in-gpt-5-5-gemini-and-claude/",
-      "source": "Af",
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "description": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google ann",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "Flagship Model Report: Gpt-5.1 vs Gemini 3 Pro vs Claude Opus 4.5",
-      "description": "Nov 27, 2025 · Compare GPT-5.1, Gemini 3 Pro, and Claude Opus 4.5 across coding, reasoning, multimodal, and safety benchmarks, and see the key trends ...",
-      "url": "https://www.vellum.ai/blog/flagship-model-report",
-      "source": "Vellum",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "description": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month d",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "What is The Best AI Model? | AI Hub",
-      "description": "6 days ago · As of May 2026, Claude Opus 4.7 leads on coding, Gemini 3.1 Pro leads on reasoning and data analysis, and GPT-5.5 leads on creative writing and ...",
-      "url": "https://overchat.ai/ai-hub/the-best-ai-model",
-      "source": "Overchat",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf o",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "AI Benchmarks 2026: GPT-5.4 vs Claude 4.6 Live Rankings",
-      "description": "7 days ago · GPT-5.4 takes the crown with 94.5% on GPQA Diamond. Complete comparison of GPT-5.4 vs Claude 4.6 vs Gemini 3.1 across all major benchmarks.",
-      "url": "https://www.mangomindbd.com/blog/ai-benchmarks-2026-hub",
-      "source": "Mangomindbd",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launc",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "Introducing Claude Opus 4.5 - Anthropic",
-      "description": "Nov 24, 2025 · Our newest model, Claude Opus 4.5, is available today. It's intelligent, efficient, and the best model in the world for coding, agents, ...",
-      "url": "https://www.anthropic.com/news/claude-opus-4-5",
-      "source": "Anthropic",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "description": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's latest B200 graphics proce",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "AI Startup Funding Report 2026: What the Numbers Actually Say",
-      "description": "This report compiles and analyzes publicly available AI startup funding data from industry-leading databases, published investor reports, regulatory filings, and verified media coverage.",
-      "url": "https://aimojo.io/ai-startup-funding-report/",
-      "source": "Aimojo",
+      "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
+      "description": "Slapping “AI” on your startup’s pitch deck is basically table stakes right now. When a founder raised $20 million from Cathie Wood’s ARK Invest for an eSports gamification loyalty startup without those two letters in the spotlight, it got us wondering how the conversation even started — especially w",
+      "url": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "Top Startup Funding Deals of Q1 2026: Record $297 Billion ...",
-      "description": "Apr 14, 2026 · According to Intellizence startup funding data, AI companies captured over $188 billion in Q1 alone, with nearly two-thirds of all global venture capital flowing to just four companies: OpenAI, Anthropic, xAI, and Waymo. The largest private funding round in history.",
-      "url": "https://intellizence.com/insights/startup-funding/top-startup-funding-deals-of-q1-2026-record-297-billion-raised-with-ai-dominating/",
-      "source": "Intellizence",
+      "title": "How Lucra raised $20M as an eSports play when every VC only wants AI",
+      "description": "Slapping “AI” on your startup’s pitch deck is basically table stakes right now. When a founder raised $20 million from Cathie Wood’s ARK Invest for an eSports gamification loyalty startup without those two letters in the spotlight, it got us wondering how the conversation even started — especially w",
+      "url": "https://techcrunch.com/podcast/how-lucra-raised-20m-as-an-esports-play-when-every-vc-only-wants-ai/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "AI Funding Tracker | AI Startup Investment Roundups 2026",
-      "description": "Apr 30, 2026 · Track the latest AI startup funding rounds and venture capital investments. Weekly updates on AI company valuations, Series rounds, news.",
-      "url": "https://aifundingtracker.com/",
-      "source": "Aifundingtracker",
+      "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
+      "description": "At least four Russian military satellites changed their orbits to match that of a Finnish-American radar surveillance satellite in the last week, raising questions about Russia's intentions amid an ever-expanding standoff high above Earth. The maneuvers were identified through open source orbital tr",
+      "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+      "source": "Ars Technica",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes ...",
-      "description": "Apr 1, 2026 · The first quarter of 2026 was unlike any other for venture investment, driven by unprecedented spending on AI compute and frontier labs. Crunchbase data shows investors poured $300 billion into 6,000 startups globally in the quarter, up over 150% quarter over quarter and year over year.",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "source": "News",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "description": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of lega",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "AI Startup Funding Q1 2026: $300B Analysis for Developers ...",
-      "description": "Apr 29, 2026 · This analysis breaks down what the Q1 2026 funding numbers actually mean: where the money is going, what it signals about the market, how it affects developer salaries and hiring, and what you should be building right now to ride the wave.",
-      "url": "https://lushbinary.com/blog/ai-startup-funding-landscape-q1-2026-analysis/",
-      "source": "Lushbinary",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like ",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "Q1 2026 Venture Capital Hits $297B: AI Captures 81% of Record ...",
-      "description": "Apr 19, 2026 · Q1 2026 venture capital hit $297 billion, with AI startups capturing 81% of all funding. OpenAI raised $122B, Anthropic $30B, xAI $20B in record mega-rounds.",
-      "url": "https://tech-insider.org/q1-2026-venture-capital-297-billion-ai-startup-funding-record/",
-      "source": "Tech-Insider",
+      "title": "Green steel startup Boston Metal is doubling down on critical metals",
+      "description": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report. The company has been known largely for its efforts to clean up steel production, an industry that’s responsible for about 8% of global greenhouse emissions today.",
+      "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+      "source": "MIT Tech Review",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Releases · NVIDIA/NeMo-Framework-Launcher",
-      "description": "- Releases · NVIDIA/NeMo-Framework-Launcher.Provides end-to-end model development pipelines for LLMs and Multimodal models that can be launched on-prem or cloud-native.",
-      "url": "https://github.com/NVIDIA/NeMo-Framework-Launcher/releases",
-      "source": "GitHub",
+      "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+      "description": "Pilots’ voices from the last seconds of a fatal cargo plane crash have been re-created by Internet sleuths using software and AI tools. The spread of reconstructed audio recordings has prompted a US government agency to suspend all public access to its database of civil transportation accidents—beca",
+      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+      "source": "Ars Technica",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Android Releases | Platform | Android Developers",
-      "description": "Android Developer Verification. Extend by device. Build apps that give your users seamless experiences from phones to tablets, watches, headsets, and more.About app compatibility. Compatibility framework tools.",
-      "url": "https://developer.android.com/about/versions",
-      "source": "Developer",
+      "title": "Your AI agents need a terminal, not just a vector database",
+      "description": "When agentic workflows fail, developers often assume the problem lies in the underlying model’s reasoning abilities. In reality, the limited information provided by the retrieval interface is often the primary limiting factor.Researchers at multiple universities propose a technique called direct cor",
+      "url": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "WWDC26 - Apple Developer",
-      "description": "June 8–12, 2026. Be there for the reveal of the latest Apple tools, frameworks, and features. Learn to elevate your apps and games through video sessions hosted by Apple engineers and designers. Engage with Apple experts in labs and connect with the worldwide developer community.",
-      "url": "https://developer.apple.com/wwdc26/",
-      "source": "Developer",
+      "title": "D&B's database of 642 million businesses was built for humans, not AI agents. So they rebuilt it.",
+      "description": "Dun & Bradstreet has spent over 180 years building a comprehensive commercial database. Its Commercial Graph, covering 642 million businesses and their relationships, corporate hierarchies and risk profiles, was designed for people. Credit analysts, risk managers and sales professionals who could wa",
+      "url": "https://venturebeat.com/data/d-and-bs-database-of-642-million-businesses-was-built-for-humans-not-ai-agents-so-they-rebuilt-it",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Node.js Latest Version - Release History, LTS & EOL",
-      "description": "Latest release Released 31 Mar 2026 (1 month ago). Software. Node.js logo Node.js. Introduction. Node.js is an open-source, JavaScript runtime environment that allows you to run JavaScript on the server-side, build backend services, etc. Developer. OpenJS Foundation. Type.",
-      "url": "https://versionlog.com/nodejs/",
-      "source": "Versionlog",
+      "title": "Enterprise AI agents keep failing because they forget what they learned",
+      "description": "RAG architectures are good at one thing: surfacing semantically relevant documents. That's also where they stop.A framework called a decision context graph addresses that gap by giving agents structured memory, time-aware reasoning, and explicit decision logic. Rippletide, a startup in the Neo4j eco",
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "MIAPI | Open Launch",
-      "description": "Mobile App Development Tools & Frameworks. Open Source Software & Projects. Product Launch & Discovery Platforms. Testing & Quality Assurance Tools.",
-      "url": "https://openlaunch.ai/projects/miapi",
-      "source": "Openlaunch",
+      "title": "Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime",
+      "description": "<p>As your AWS infrastructure scales, operational workflows naturally grow more complex. SREs and DevOps Engineers spend significant time context-switching between the AWS Management Console, CLI documentation, and multiple service dashboards. They manually translate business questions into the corr",
+      "url": "https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/",
+      "source": "AWS",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Android developer at TradingView",
-      "description": "Development. Relocation. May 16, 2026. Experience contributing to or building internal frameworks or developer tooling. Familiarity with agent frameworks, agentic patterns, or LLM tool-calling workflows. Strong intuition for UI/UX quality in interact...",
-      "url": "https://www.remocate.app/jobs/android-developer-tradingview",
-      "source": "Remocate",
+      "title": "Building multi-tenant agents with Amazon Bedrock AgentCore",
+      "description": "<p>Software as a service (SaaS) providers building multi-tenant agentic applications must address architectural challenges beyond the typical concerns of security, governance, and response accuracy. These include tenant isolation, tenant identity, tenant observability, data isolation, cost attributi",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-multi-tenant-agents-with-amazon-bedrock-agentcore/",
+      "source": "AWS",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "AI Regulation in 2026: Enforcement and Division",
-      "description": "Safety Integration: Must integrate AI Act compliance with sector-specific safety laws (e.g., machinery regulation).",
-      "url": "https://www.exin.com/article/ai-regulation-in-2026-enforcement-and-division/",
-      "source": "Exin",
+      "title": "China’s shark finning could lead to US seafood sanctions",
+      "description": "For migrant workers trapped onboard Chinese distant water fishing fleets, cutting the fins off sharks as they writhe violently on rusted decks in the Indian Ocean isn’t accidental. It’s an intentional and lucrative act that marks the start of a bloody half-a-billion-dollar offshore supply chain, tac",
+      "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
+      "source": "Ars Technica",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "AI regulation is coming to your state - FREOPP",
-      "description": "... AI litigation task force to challenge state AI laws deemed inconsistent with federal policy, including for unconstitutional regulation of interstate ...",
-      "url": "https://freopp.org/oppblog/ai-regulation-is-coming-to-your-state/",
-      "source": "Freopp",
+      "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
+      "description": "The Federal Communications Commission is escalating its attack on ABC’s The View with a proceeding that seeks public comment on whether the talk show is a \"bona fide news interview program.\" The FCC Media Bureau today issued a public notice seeking opinions on whether The View qualifies for the bona",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
+      "source": "Ars Technica",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "US laws regulating AI prove elusive, but there may be hope |",
-      "description": "Indeed, Anthropic last week warned of AI catastrophe if governments don ’ t implement regulation in the next 18 months.",
-      "url": "https://techcrunch.com/2024/11/04/u-s-laws-regulating-ai-prove-elusive-but-there-may-be-hope/",
-      "source": "TechCrunch",
+      "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
+      "description": "European law enforcement say they hacked into a VPN (virtual private network) service used for ransomware attacks and other crimes, and identified thousands of users before shutting the VPN down and arresting its administrator. Europol announced yesterday the results of the operation against the ser",
+      "url": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
+      "source": "Ars Technica",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "State AI Laws Advance as Federal Policy Remains Limited - The",
-      "description": "Generative AI Measures : Utah’s Artificial Intelligence Policy Act requires disclosure when generative AI is used for advice or sensitive personal ...",
-      "url": "https://nationalcioreview.com/articles-insights/extra-bytes/state-ai-laws-advance-as-federal-policy-remains-limited/",
-      "source": "Nationalcioreview",
+      "title": "Amazon Nova Act is now HIPAA eligible",
+      "description": "<p>Healthcare and life sciences (HCLS) organizations depend on repetitive, manual browser-based tasks for critical workflows like claims processing and referral coordination. While agentic AI can automate these workflows, compliance requirements under the Health Insurance Portability and Accountabil",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-is-now-hipaa-eligible/",
+      "source": "AWS",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "2026 New Laws Explained: AI Regulations, Paid Leave, Obamacare",
-      "description": "2026 New Laws Explained: AI Regulations, Paid Leave, Obamacare Premiums, and Voting Rights (2026) ... laws aim to prevent AI misuse in elections and ...",
-      "url": "https://lyondemere.org/article/2026-new-laws-explained-ai-regulations-paid-leave-obamacare-premiums-and-voting-rights",
-      "source": "Lyondemere",
+      "title": "Prompting Amazon Nova 2 for content moderation",
+      "description": "<p>If you moderate user-generated content at scale, you need a system that catches policy violations accurately without over-flagging legitimate posts. A moderation system that misses harmful content puts you at risk, while one that flags too aggressively frustrates your audience. Every organization",
+      "url": "https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/",
+      "source": "AWS",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "AI regulation bill aims to prevent harm from AI: Rep. Lieu",
-      "description": "... Best gifts for sister-in-law ... FAFSA 2026-27 ... 2026 All rights reserved.",
-      "url": "https://finance.yahoo.com/video/ai-regulation-bill-aims-prevent-174143999.html",
-      "source": "Finance",
+      "title": "Whatever the mirror test tells us, beluga whales pass it",
+      "description": "In hours of underwater video footage from a New York aquarium, a beluga whale named Natasha stretches her neck, pirouettes, nods, and shakes her head in front of a two-way mirror. Her daughter Maris does much the same. According to a new study published in PLOS One, both animals show the behavioral ",
+      "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+      "source": "Ars Technica",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "The Best Open-Source LLMs in 2026 - BentoML",
-      "description": "Apr 26, 2026 ... For many AI teams, closed-source options like GPT-5.5 and Opus-4.6 are convenient. With just a simple API call, you can prototype an AI product ...",
-      "url": "https://www.bentoml.com/blog/navigating-the-world-of-open-source-large-language-models",
-      "source": "Bentoml",
+      "title": "Valid certificates, stolen accounts: how attackers broke npm's last trust signal",
+      "description": "On May 19, 633 malicious npm package versions passed Sigstore provenance verification. They were cleared by the system because the attacker had generated valid signing certificates from a compromised maintainer account.Sigstore worked exactly as designed: it verified the package was built in a CI en",
+      "url": "https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "April 2026 AI Models: Every Major Release Reviewed - Medium",
-      "description": "Apr 17, 2026 ... Every major AI model released between April 1 and April 17, 2026 — with context window, SWE-Bench score, price, and open-source status at a ...",
-      "url": "https://medium.com/@sanjeevpatel3007/april-2026-ai-models-every-major-release-reviewed-6ea03d7bc0b7",
-      "source": "Medium",
+      "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
+      "description": "Pick any game engine, and you are maybe a third of the way to having the tools you need to ship a game. But there are also elements that live outside the engine: the asset pipelines your artists depend on, the level editors your designers build in, the audio tools your sound team cleans up with, to ",
+      "url": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
+      "source": "GitHub Blog",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "description": "Mar 17, 2026 ... In 2025, China's AI ecosystem steered heavily into open source, following the viral release of DeepSeek's R1 model in January. The number of ...",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "HuggingFace",
+      "title": "Building GitHub’s next chapter in accessibility",
+      "description": "Five years ago, we stood up GitHub’s accessibility program. What began as a small team addressing accessibility debt has grown into a company-wide discipline, woven into our engineering fundamentals, our design system, our AI tools, and our culture. The five-year milestone prompted us to step back a",
+      "url": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
+      "source": "GitHub Blog",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "12+ AI Models in March 2026: The Week That Changed AI",
-      "description": "Mar 16, 2026 ... The release list, catalogued by AI Search (@aisearchio) on March 8, included: GPT-5.4, LTX 2.3, FireRed Edit 1.1, Kiwi Edit, HY WU, Qwen 3.5 ...",
-      "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
-      "source": "Buildfastwithai",
+      "title": "Investigating unauthorized access to GitHub-owned repositories",
+      "description": "On Monday May 18, we detected and contained a compromise of an employee device involving a poisoned VS Code extension published by a third party. We removed the malicious extension version, isolated the endpoint, and began incident response immediately. Our current assessment is that the activity in",
+      "url": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
+      "source": "GitHub Blog",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "The state of open source AI models in 2025 | Red Hat Developer",
-      "description": "Jan 7, 2026 ... Because OpenAI is the de facto brand name for AI, its release of an open model a surprise. ... After a bit of a rough launch (due to a ...",
-      "url": "https://developers.redhat.com/articles/2026/01/07/state-open-source-ai-models-2025",
-      "source": "Developers",
+      "title": "Take your local GitHub sessions anywhere",
+      "description": "The best GitHub Copilot workflows don’t happen one–thing–at–a time. You might have an agent refactoring a module in VS Code, another debugging tests in the CLI, and a third scaffolding a new feature in the background. Managing all of that used to only be possible from your desk. The moment you stepp",
+      "url": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+      "source": "GitHub Blog",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "History of LLMs: Complete Timeline & Evolution (1950-2026)",
-      "description": "Feb 19, 2026 ... The release of ChatGPT in November 2022 marked a watershed moment. Built on GPT-3.5 and refined with RLHF, ChatGPT made advanced AI accessible ...",
-      "url": "https://toloka.ai/blog/history-of-llms/",
-      "source": "Toloka",
+      "title": "Building a general-purpose accessibility agent—and what we learned in the process",
+      "description": "It is an understatement to say agents have become a popular way of working with code. GitHub has adopted agent-based code creation and editing for many of its initiatives, including piloting an agent to help with our commitment to accessibility. GitHub is currently piloting an experimental general-p",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+      "source": "GitHub Blog",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     }
   ]
