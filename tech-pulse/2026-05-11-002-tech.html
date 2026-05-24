@@ -1,0 +1,1034 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tech Pulse 24/7 — Trillion Empire Intelligence</title>
+<meta name="description" content="Curated frontier intelligence for Lord FaithDavid — AI breakthroughs, startup funding, developer tools, industry movements, and open source.">
+<meta property="og:title" content="Tech Pulse 24/7 — Trillion Empire Intelligence">
+<meta property="og:description" content="Curated frontier intelligence — AI breakthroughs, startup funding, developer tools, industry movements, and open source.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tech-pulse-trillion.surge.sh/latest-tech-pulse.html">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Tech Pulse 24/7 — Trillion Empire Intelligence">
+<meta name="twitter:description" content="Your 24/7 technology intelligence feed.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-primary: #0d0d15;
+    --bg-secondary: #16161f;
+    --bg-card: rgba(18, 18, 32, 0.9);
+    --bg-card-hover: rgba(24, 24, 42, 0.95);
+    --border: rgba(42, 42, 70, 0.5);
+    --border-glow: rgba(0, 184, 148, 0.35);
+    --accent-ai: #6c5ce7;
+    --accent-funding: #00b894;
+    --accent-tools: #fd79a8;
+    --accent-industry: #0984e3;
+    --accent-oss: #fdcb6e;
+    --brand-emerald: #00b894;
+    --brand-emerald-light: #55efc4;
+    --brand-emerald-glow: rgba(0, 184, 148, 0.15);
+    --text-primary: #e8e8f0;
+    --text-secondary: #a0a0c0;
+    --text-muted: #7878a0;
+    --glass-bg: rgba(18, 18, 40, 0.7);
+    --glass-border: rgba(0, 184, 148, 0.15);
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* === HERO === */
+  .hero {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+    background: var(--bg-primary);
+    padding: 5rem 2rem 6rem;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse at 20% 50%, rgba(0, 184, 148, 0.2) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 50%, rgba(108, 92, 231, 0.1) 0%, transparent 50%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    opacity: 0.18;
+  }
+
+  .hero-bg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: saturate(1.2) brightness(0.5);
+  }
+
+  .hero-gradient {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg,
+      rgba(13, 13, 21, 0.2) 0%,
+      rgba(13, 13, 21, 0.6) 60%,
+      var(--bg-primary) 100%
+    );
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+  }
+
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.25);
+    color: var(--brand-emerald-light);
+    padding: 0.35rem 1rem;
+    border-radius: 100px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 1.25rem;
+    backdrop-filter: blur(8px);
+  }
+
+  .hero-badge .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--brand-emerald);
+    animation: pulse-dot 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.2; }
+  }
+
+  .hero-content h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 900;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #ffffff 0%, var(--brand-emerald-light) 40%, var(--brand-emerald) 70%, #6c5ce7 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.75rem;
+  }
+
+  .hero-sub {
+    font-size: clamp(0.95rem, 1.5vw, 1.15rem);
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin: 0 auto 1.25rem;
+    font-weight: 400;
+    line-height: 1.6;
+  }
+
+  .hero-meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+
+  .hero-meta span { display: flex; align-items: center; gap: 0.35rem; }
+  .hero-meta .sep { color: rgba(42, 42, 70, 0.8); }
+
+  /* === QUICK STATS === */
+  .stats-bar {
+    margin: -2.5rem auto 0;
+    max-width: 1200px;
+    padding: 0 2rem;
+    position: relative;
+    z-index: 3;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 0.5rem;
+    background: var(--glass-bg);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-lg);
+    padding: 1rem;
+  }
+
+  .stat-item {
+    text-align: center;
+    padding: 0.35rem 0.25rem;
+  }
+
+  .stat-item .num {
+    font-size: 1.4rem;
+    font-weight: 800;
+    background: linear-gradient(135deg, var(--brand-emerald-light), var(--brand-emerald));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.3;
+  }
+
+  .stat-item .lbl {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+    margin-top: 0.1rem;
+  }
+
+  /* === MAIN === */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 2rem 3rem;
+  }
+
+  /* === SPOTLIGHT === */
+  .spotlight {
+    position: relative;
+    margin: 2rem 0 2.5rem;
+    border-radius: var(--radius-xl);
+    overflow: hidden;
+    background: linear-gradient(135deg,
+      rgba(0, 184, 148, 0.1) 0%,
+      rgba(108, 92, 231, 0.05) 50%,
+      rgba(0, 184, 148, 0.02) 100%
+    );
+    border: 1px solid rgba(0, 184, 148, 0.2);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    align-items: center;
+  }
+
+  .spotlight-visual {
+    position: relative;
+    overflow: hidden;
+    aspect-ratio: 16 / 9;
+    background: var(--bg-secondary);
+    min-height: 200px;
+  }
+
+  .spotlight-visual img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    filter: brightness(0.85);
+    transition: transform 0.5s;
+  }
+
+  .spotlight:hover .spotlight-visual img {
+    transform: scale(1.03);
+  }
+
+  .spotlight-visual::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, rgba(13, 13, 21, 0.6) 0%, transparent 50%);
+  }
+
+  .spotlight-content {
+    padding: 2rem;
+    position: relative;
+  }
+
+  .spotlight-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--brand-emerald-light);
+    margin-bottom: 0.75rem;
+    padding: 0.2rem 0.6rem;
+    background: var(--brand-emerald-glow);
+    border-radius: 4px;
+  }
+  .spotlight-badge::before { content: '★ '; }
+
+  .spotlight h2 {
+    font-size: clamp(1.15rem, 2vw, 1.45rem);
+    font-weight: 800;
+    line-height: 1.35;
+    margin-bottom: 0.6rem;
+    color: #fff;
+  }
+
+  .spotlight p {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+
+  .spotlight .read-more {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: var(--brand-emerald-light);
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 0.4rem 0.8rem;
+    background: var(--brand-emerald-glow);
+    border-radius: var(--radius-sm);
+    transition: all 0.2s;
+    border: 1px solid rgba(0, 184, 148, 0.2);
+  }
+  .spotlight .read-more:hover {
+    background: rgba(0, 184, 148, 0.25);
+    gap: 0.6rem;
+    border-color: rgba(0, 184, 148, 0.4);
+  }
+  .spotlight .read-more:focus-visible {
+    outline: 2px solid var(--brand-emerald-light);
+    outline-offset: 2px;
+  }
+
+  /* === SECTION HEADERS === */
+  .section-header {
+    position: relative;
+    margin: 2.5rem 0 1.25rem;
+    padding: 1.25rem 1.5rem;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+
+  .section-header-bg {
+    position: absolute; inset: 0; z-index: 0; opacity: 0.12;
+  }
+  .section-header-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .section-header-shade {
+    position: absolute; inset: 0;
+    background: linear-gradient(90deg,
+      rgba(13, 13, 21, 0.97) 0%,
+      rgba(13, 13, 21, 0.7) 50%,
+      rgba(13, 13, 21, 0.3) 100%
+    );
+    z-index: 1;
+  }
+
+  .section-header-inner {
+    position: relative; z-index: 2;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+
+  .section-header-inner .icon {
+    font-size: 1.15rem;
+    width: 34px; height: 34px;
+    display: flex; align-items: center; justify-content: center;
+    background: var(--brand-emerald-glow);
+    border-radius: var(--radius-sm);
+    flex-shrink: 0;
+  }
+
+  .section-header-inner h2 {
+    font-size: 1rem; font-weight: 700; color: #fff;
+  }
+
+  .section-header-inner .count {
+    margin-left: auto;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.15rem 0.6rem;
+    border-radius: 100px;
+    flex-shrink: 0;
+  }
+
+  /* === CARDS === */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .card {
+    position: relative;
+    background: linear-gradient(
+      180deg,
+      rgba(18, 18, 32, 0.92) 0%,
+      rgba(14, 14, 26, 0.96) 60%,
+      rgba(10, 10, 20, 0.98) 100%
+    );
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 1.5rem;
+    transition: all 0.25s ease;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
+  }
+
+  /* Dark vignette gradient on cards for depth */
+  .card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.25), transparent);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .card > * { position: relative; z-index: 1; }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    opacity: 0;
+    transition: opacity 0.25s;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+    z-index: 2;
+  }
+
+  .card[data-type="ai"]::before { background: linear-gradient(90deg, var(--brand-emerald), #6c5ce7); }
+  .card[data-type="funding"]::before { background: linear-gradient(90deg, var(--brand-emerald), #55efc4); }
+  .card[data-type="tools"]::before { background: linear-gradient(90deg, #fd79a8, #fab1a0); }
+  .card[data-type="industry"]::before { background: linear-gradient(90deg, #0984e3, #74b9ff); }
+  .card[data-type="oss"]::before { background: linear-gradient(90deg, #fdcb6e, #ffeaa7); }
+
+  .card:hover {
+    background: linear-gradient(
+      180deg,
+      rgba(22, 22, 42, 0.95) 0%,
+      rgba(18, 18, 36, 0.97) 60%,
+      rgba(13, 13, 24, 0.99) 100%
+    );
+    border-color: var(--border-glow);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35), 0 0 20px rgba(0, 184, 148, 0.05);
+  }
+  .card:hover::before { opacity: 1; }
+  .card:hover::after { opacity: 0.8; }
+
+  .card:focus-within {
+    border-color: var(--border-glow);
+    box-shadow: 0 0 0 1px rgba(0, 184, 148, 0.3);
+  }
+
+  .card-tag {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.2rem 0.55rem;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    width: fit-content;
+  }
+
+  .card-tag.ai { background: rgba(0, 184, 148, 0.15); color: var(--brand-emerald-light); }
+  .card-tag.funding { background: rgba(0, 184, 148, 0.15); color: var(--brand-emerald-light); }
+  .card-tag.tools { background: rgba(253, 121, 168, 0.15); color: #fd79a8; }
+  .card-tag.industry { background: rgba(9, 132, 227, 0.15); color: #74b9ff; }
+  .card-tag.oss { background: rgba(253, 203, 110, 0.15); color: #fdcb6e; }
+
+  .card h3 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    margin-bottom: 0.35rem;
+    line-height: 1.4;
+    color: #fff;
+  }
+
+  .card p {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    flex: 1;
+    margin-bottom: 0.75rem;
+    line-height: 1.55;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-top: auto;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgba(42, 42, 70, 0.3);
+  }
+
+  .card-source {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+  }
+
+  .card-link {
+    font-size: 0.78rem;
+    color: var(--brand-emerald-light);
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+
+  .card-link:hover {
+    background: var(--brand-emerald-glow);
+  }
+  .card-link:focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  /* === EMPTY STATE === */
+  .empty-section {
+    text-align: center;
+    padding: 1.5rem;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    background: var(--bg-card);
+    border: 1px dashed var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  /* === DIVIDER === */
+  .divider {
+    display: flex; align-items: center; justify-content: center; gap: 0.75rem;
+    margin: 2.5rem 0;
+    color: var(--text-muted);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em; font-weight: 600;
+  }
+  .divider::before, .divider::after {
+    content: ''; flex: 1; height: 1px;
+    background: linear-gradient(90deg, transparent, var(--border), transparent);
+  }
+
+  /* === FOOTER === */
+  .footer {
+    text-align: center;
+    padding: 2rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .footer-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-links a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+  }
+
+  .footer-links a:hover {
+    color: var(--brand-emerald-light);
+    background: var(--brand-emerald-glow);
+  }
+  .footer-links a:focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  .footer-copy { color: var(--text-muted); font-size: 0.75rem; }
+
+  .seal {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.08);
+    padding: 0.25rem 0.9rem;
+    border-radius: 100px;
+    font-size: 0.6rem;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+  }
+
+  /* === FOCUS VISIBLE === */
+  :focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  /* === REDUCED MOTION === */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+    html { scroll-behavior: auto; }
+  }
+
+  /* === RESPONSIVE === */
+  @media (max-width: 900px) {
+    .spotlight { grid-template-columns: 1fr; }
+    .spotlight-visual { max-height: 200px; }
+  }
+
+  @media (max-width: 768px) {
+    .hero { padding: 3rem 1.25rem 4rem; }
+    .stats-bar { margin-top: -2rem; padding: 0 1rem; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 0.35rem; padding: 0.75rem; }
+    .container { padding: 1.25rem 1rem; }
+    .cards-grid { grid-template-columns: 1fr; }
+    .card { padding: 1.25rem; }
+    .spotlight-content { padding: 1.5rem; }
+    .section-header { padding: 1rem 1.25rem; }
+    .section-header-inner h2 { font-size: 0.9rem; }
+    .footer-links { flex-direction: column; gap: 0.5rem; }
+  }
+
+  @media (max-width: 480px) {
+    .hero-content h1 { font-size: 1.75rem; }
+    .hero-badge { font-size: 0.65rem; }
+    .card h3 { font-size: 0.9rem; }
+    .card p { font-size: 0.82rem; }
+    .stat-item .num { font-size: 1.2rem; }
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .card { animation: fadeUp 0.4s ease both; }
+  .card:nth-child(1) { animation-delay: 0.03s; }
+  .card:nth-child(2) { animation-delay: 0.06s; }
+  .card:nth-child(3) { animation-delay: 0.09s; }
+  .card:nth-child(4) { animation-delay: 0.12s; }
+  .card:nth-child(5) { animation-delay: 0.15s; }
+  .card:nth-child(6) { animation-delay: 0.18s; }
+
+  html { scroll-behavior: smooth; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-bg">
+    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&q=80&fm=jpg" alt="" width="1600" height="900" loading="eager">
+  </div>
+  <div class="hero-gradient"></div>
+  <div class="hero-content">
+    <div class="hero-badge">
+      <span class="dot"></span>
+      🔬 LIVE INTELLIGENCE FEED
+    </div>
+    <h1>Tech Pulse 24/7</h1>
+    <p class="hero-sub">Curated frontier intelligence — AI breakthroughs, startup funding, developer tools, industry movements, and open source.</p>
+    <div class="hero-meta">
+      <span>📅 <span id="time-display">Saturday, May 09, 2026 at 04:56 AM ET</span></span>
+      <span class="sep">◆</span>
+      <span>🔄 Every 3 hours</span>
+      <span class="sep">◆</span>
+      <span>📊 20 stories</span>
+    </div>
+  </div>
+</div>
+
+<div class="stats-bar">
+  <div class="stats-grid">
+    <div class="stat-item">
+      <div class="num">20</div>
+      <div class="lbl">Total</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">🤖 AI</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">💰 Funding</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">🔧 Tools</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">🏭 Industry</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">📦 OSS</div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+<div class="spotlight">
+  <div class="spotlight-visual">
+    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=640&q=60" alt="" width="640" height="360" loading="lazy">
+  </div>
+  <div class="spotlight-content">
+    <div class="spotlight-badge">★ Top Story</div>
+    <h2>Anthropic&#39;s Mythos AI Finds Curl Vulnerability — Model Deemed Too Dangerous Gets Results</h2>
+    <p>Anthropic&#39;s Mythos AI model, which the company previously deemed too dangerous for public release due to its exceptional ability to find security flaws, discovered a real vulnerability in curl — the ubiquitous file transfer tool used by billions of devices worldwide. Daniel Stenberg, curl&#39;s creator, confirmed the finding on his blog, noting it was &#39;singular one&#39; vulnerability found by Mythos during Anthropic&#39;s controlled testing program. The discovery validates Anthropic&#39;s concerns about the model&#39;s offensive cybersecurity capabilities and raises questions about when — or if — Mythos will ever be released publicly.</p>
+    <a class="read-more" href="https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/" target="_blank">Read full story →</a>
+  </div>
+</div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🤖</span>
+      <h2>AI Breakthroughs</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Anthropic&#39;s Mythos AI Finds Curl Vulnerability — Model Deemed Too Dangerous Gets Results</h3>
+    <p>Anthropic&#39;s Mythos AI model, which the company previously deemed too dangerous for public release due to its exceptional ability to find security flaws, discovered a real vulnerability in curl — the ubiquitous file transfer tool used by billions of devices worldwide. Daniel Stenberg, curl&#39;s creator, confirmed the finding on his blog, noting it was &#39;singular one&#39; vulnerability found by Mythos during Anthropic&#39;s controlled testing program. The discovery validates Anthropic&#39;s concerns about the model&#39;s offensive cybersecurity capabilities and raises questions about when — or if — Mythos will ever be released publicly.</p>
+  <div class="card-footer">
+    <span class="card-source">Daniel Stenberg / curl.se Blog</span>
+    <a class="card-link" href="https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Gemini API File Search Goes Multimodal With Built-in Citation Verification</h3>
+    <p>Google announced that Gemini API File Search now supports multimodal inputs including images, audio, and video alongside text, enabling developers to build retrieval-augmented generation (RAG) applications that search across any file type. The update includes automatic citation verification so AI responses are traceable to source documents, addressing one of the key reliability challenges in enterprise AI. This significantly simplifies the architecture for building grounded, verifiable AI applications from company data repositories.</p>
+  <div class="card-footer">
+    <span class="card-source">Google Blog</span>
+    <a class="card-link" href="https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Course Correction: Google to Link More Sources in AI Overviews</h3>
+    <p>Google announced it will display more direct links to websites in AI Overviews, responding to sustained criticism from publishers who saw referral traffic decline after the AI feature launched. The change represents a significant course correction for Google&#39;s AI-generated search summaries, which had been pulling content from websites without providing proportional attribution or traffic. Publishers had reported traffic drops of 20-40% from AI Overview-affected queries since the feature expanded earlier this year.</p>
+  <div class="card-footer">
+    <span class="card-source">Ars Technica</span>
+    <a class="card-link" href="https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>OpenAI in Talks With EU Over Access to New Cyber Model; Anthropic Still Holding Out on Mythos</h3>
+    <p>OpenAI is negotiating with European Union regulators about providing access to a new cybersecurity-focused AI model, while Anthropic continues to resist releasing its powerful &#39;Mythos&#39; model over safety concerns, according to CNBC. The contrasting approaches highlight the growing divide in how leading AI labs balance safety concerns against commercial and regulatory pressures. EU regulators are pushing for transparency and access to advanced AI models that could impact cybersecurity across the bloc&#39;s digital infrastructure.</p>
+  <div class="card-footer">
+    <span class="card-source">CNBC</span>
+    <a class="card-link" href="https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">💰</span>
+      <h2>Startup Funding &amp; Deals</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Nvidia Has Already Committed $40B to Equity AI Deals This Year</h3>
+    <p>Nvidia has committed over $40 billion to equity investments in AI companies in just the first few months of 2026, according to CNBC and TechCrunch. The bulk comes from a single $30 billion bet on OpenAI, but Nvidia has also announced multi-billion dollar investments in glassmaker Corning ($3.2B) and other publicly traded companies. The aggressive investment spree has sparked debate about circular investment dynamics in the AI ecosystem, where Nvidia invests in the very companies that buy its chips.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch / CNBC</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Circle Raises $222M From BlackRock, Apollo for Arc Token Presale Valued at $3B</h3>
+    <p>Circle, the company behind the USDC stablecoin, closed $222 million from BlackRock, Apollo and other institutional investors in a presale of its Arc blockchain tokens, valuing the project at $3 billion. The fundraising marks one of the largest institutional crypto deals of 2026 and signals renewed appetite from traditional finance giants for blockchain infrastructure. Circle plans to use the capital to expand its Arc network, which aims to bring institutional-grade financial infrastructure to decentralized finance.</p>
+  <div class="card-footer">
+    <span class="card-source">CNBC</span>
+    <a class="card-link" href="https://www.cnbc.com/2026/05/11/circle-closes-222-million-from-blackrock-apollo-for-arc-blockchain.html" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Korea&#39;s Biggest Manufacturers Back Config, the &#39;TSMC of Robot Data&#39;</h3>
+    <p>South Korea&#39;s largest manufacturing conglomerates are backing Config, a startup positioning itself as the &#39;TSMC of robot data&#39; — providing the infrastructure layer for physical AI and robotics. The company aims to standardize how industrial robots collect, store, and share training data, analogous to how TSMC standardized chip manufacturing. The investment reflects Asia&#39;s push into physical AI, leveraging the region&#39;s manufacturing prowess to build the data pipelines that will train next-generation industrial robots.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Intel Shares Soar on Apple Chip Deal Report, Signaling Major Pivot</h3>
+    <p>Intel shares surged on reports of a landmark chip manufacturing deal with Apple, according to CNBC. The deal would mark a dramatic reversal for Intel, which lost Apple as a customer in 2020 when the Mac transitioned to Apple Silicon, and signals that CEO Lip-Bu Tan&#39;s turnaround strategy is gaining traction. Wall Street sees the potential Apple partnership as validation of Intel&#39;s renewed manufacturing capabilities and its broader AI-focused comeback story.</p>
+  <div class="card-footer">
+    <span class="card-source">CNBC</span>
+    <a class="card-link" href="https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🔧</span>
+      <h2>Developer Tools &amp; Infrastructure</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>GitHub Improves Token Efficiency in Agentic Workflows, Cutting AI Coding Costs</h3>
+    <p>GitHub announced significant improvements to token efficiency in its Agentic Workflows for GitHub Copilot, reducing the number of tokens needed for complex multi-step coding tasks. The optimization lowers costs for developers using AI-powered agents for code generation, refactoring, and debugging by minimizing redundant context transmission. The update addresses one of the primary pain points for teams using agentic coding at scale — the rapidly mounting API costs from token-heavy multi-turn interactions.</p>
+  <div class="card-footer">
+    <span class="card-source">GitHub Blog</span>
+    <a class="card-link" href="https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Zed Editor Launches Theme-Builder for Custom Developer Environments</h3>
+    <p>The Rust-built, GPU-accelerated Zed code editor launched an interactive Theme-Builder tool that lets developers visually create and share custom editor themes. The tool provides real-time preview of syntax highlighting, UI colors, and typography, with one-click export and sharing via the Zed extension registry. Theme-Builder is part of Zed&#39;s broader push to build community around the editor, which has gained significant traction among Rust and systems programmers for its sub-millisecond startup and smooth performance.</p>
+  <div class="card-footer">
+    <span class="card-source">Zed Blog</span>
+    <a class="card-link" href="https://zed.dev/theme-builder" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>GitHub Publishes Guide on Reviewing AI-Generated Pull Requests at Scale</h3>
+    <p>GitHub published a comprehensive guide for developers on how to effectively review AI-generated pull requests, addressing a rapidly growing challenge as agentic coding tools produce an increasing volume of automated contributions. The guide covers strategies for validating AI-generated code, spotting common failure patterns, and setting up automated review pipelines that catch issues before human review. With AI agents now generating significant portions of production code at many companies, the ability to efficiently review AI PRs has become a critical skill.</p>
+  <div class="card-footer">
+    <span class="card-source">GitHub Blog</span>
+    <a class="card-link" href="https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Ars Technica Explains Chrome&#39;s Confusing 4GB Local AI Model Situation</h3>
+    <p>Ars Technica published a detailed clarification about Google Chrome&#39;s local AI features after widespread confusion erupted over reports of a 4GB AI model shipping with the browser. The article explains that Chrome&#39;s built-in local AI capabilities — including on-device translation, captioning, and the Gemini Nano model for text generation — haven&#39;t changed, but the way they&#39;re bundled and enabled has led to misconceptions. The clarification comes as browsers increasingly integrate AI capabilities directly into the client, raising questions about本地storage, privacy, and user control.</p>
+  <div class="card-footer">
+    <span class="card-source">Ars Technica</span>
+    <a class="card-link" href="https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🏭</span>
+      <h2>Industry &amp; Policy</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Cloudflare Says AI Made 1,100 Jobs Obsolete Even as Revenue Hit Record High</h3>
+    <p>Cloudflare announced it was cutting approximately 20% of its workforce — about 1,100 jobs — attributing the layoffs directly to AI-driven automation, even as the company reported record revenue. Cloudflare joins Meta, Microsoft, and Amazon in a growing trend of tech companies posting strong financial results while simultaneously reducing headcount, with AI cited as the primary driver. The cuts raise questions about whether AI-driven labor displacement is permanently reshaping the staffing models of successful technology companies.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Intel&#39;s Comeback Story Is Wilder Than It Seems — Stock Up 490%</h3>
+    <p>Intel&#39;s stock has surged 490% over the past year under CEO Lip-Bu Tan&#39;s turnaround strategy, with reported Apple chip deal talks and an aggressive AI pivot driving the recovery, according to TechCrunch and Bloomberg. The stunning rally represents one of the most dramatic corporate turnarounds in Silicon Valley history, with Intel transforming from a struggling legacy chipmaker into a perceived AI manufacturing powerhouse. The potential Apple partnership would be particularly symbolic, given that Apple left Intel for its own silicon in 2020.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch / Bloomberg</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Alphabet&#39;s 160% Rally Reflects Value of Owning &#39;Most of the Stack&#39; in AI</h3>
+    <p>Alphabet shares have rallied 160% over the past year as investors increasingly value the company&#39;s unusual position of owning AI infrastructure across the entire technology stack, according to CNBC. From custom TPU chips and data centers to foundation models (Gemini) and consumer applications (Search, YouTube, Workspace), Alphabet controls more layers of the AI ecosystem than any other company. The market is betting that this vertical integration will give Alphabet durable competitive advantages as AI reshapes the technology landscape.</p>
+  <div class="card-footer">
+    <span class="card-source">CNBC</span>
+    <a class="card-link" href="https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Meta&#39;s Embrace of AI Is Making Its Employees Miserable, NYT Reports</h3>
+    <p>A New York Times investigation details how Meta&#39;s aggressive pivot toward AI under Mark Zuckerberg has created widespread employee dissatisfaction, with workers reporting burnout, moral distress, and fear of being replaced by the very systems they&#39;re building. The report describes a culture where AI-related restructuring has eliminated entire teams while demanding remaining employees adopt AI tools in ways many find ethically troubling. The piece highlights a growing tension inside Big Tech companies between AI-driven efficiency gains and employee well-being.</p>
+  <div class="card-footer">
+    <span class="card-source">New York Times</span>
+    <a class="card-link" href="https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">📦</span>
+      <h2>Open Source</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Debian Mandates Reproducible Builds for All Packages in Landmark Security Move</h3>
+    <p>The Debian project announced that all packages in the distribution must now be reproducible — meaning anyone can verify that the binary packages match their source code, eliminating a major class of supply chain attacks. The mandate, announced by Debian release team lead Paul Gevers, makes Debian the largest general-purpose operating system to fully commit to reproducible builds. This is a landmark achievement for the Reproducible Builds project, which has worked for over a decade to make software distribution more trustworthy and verifiable.</p>
+  <div class="card-footer">
+    <span class="card-source">Debian Project</span>
+    <a class="card-link" href="https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Internet Archive Opens Swiss Branch to Preserve Digital Knowledge Globally</h3>
+    <p>The Internet Archive launched Internet Archive Switzerland, a new international branch designed to preserve digital knowledge beyond the reach of any single country&#39;s legal jurisdiction. The expansion provides legal and operational redundancy for the Archive&#39;s vast collection of web pages, books, audio, and software, which has faced increasing legal challenges in the United States. The Swiss branch will operate under Swiss law and host copies of the Archive&#39;s most culturally significant collections, ensuring their long-term preservation regardless of legal outcomes in other jurisdictions.</p>
+  <div class="card-footer">
+    <span class="card-source">Internet Archive Blog</span>
+    <a class="card-link" href="https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>GrapheneOS Patches Android VPN Leak That Google Refused to Fix</h3>
+    <p>GrapheneOS, the open source security-hardened Android distribution, patched a VPN traffic leak vulnerability in Android that Google reportedly declined to address. The vulnerability could allow network observers to detect VPN usage and potentially bypass VPN encryption under certain conditions. The fix demonstrates the value of GrapheneOS&#39;s approach to Android security — forking the open source codebase to fix issues the upstream maintainer won&#39;t address, and making those patches available to the broader Android ecosystem.</p>
+  <div class="card-footer">
+    <span class="card-source">CyberInsider</span>
+    <a class="card-link" href="https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Phel v0.36.0 Released — Lisp on PHP Gains Full Numeric Tower and First-Class Vars</h3>
+    <p>Phel, a Lisp dialect that compiles to PHP, released version 0.36.0 with a complete numeric tower (supporting integers, floats, ratios, and complex numbers) along with first-class variable support. This brings true Lisp-like functional programming capabilities to the PHP ecosystem — a language not traditionally associated with functional paradigms. The release represents a maturing of the Phel project, making it increasingly viable for PHP developers who want to leverage Lisp&#39;s powerful macro system and functional programming model.</p>
+  <div class="card-footer">
+    <span class="card-source">Phel / GitHub</span>
+    <a class="card-link" href="https://github.com/phel-lang/phel-lang/releases/tag/v0.36.0" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="divider">♔ Trillion Empire Intelligence ♔</div>
+
+</div>
+
+<div class="footer">
+  <div class="seal">
+    👑 TRINITY EMPIRE · EMERALD STANDARD
+  </div>
+  <div class="footer-links">
+    <a href="/index.html">View All Pulses</a> · <a href="/latest-ai-video-pulse.html">AI Video Pulse →</a>
+  </div>
+  <div class="footer-copy">
+    ♥ Trinity Empire · Tech Pulse 24/7 · Delivered every 3 hours
+  </div>
+</div>
+
+<script>
+  document.getElementById('time-display').textContent = new Date().toLocaleString('en-US', {
+    timeZone: 'America/New_York',
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZoneName: 'short'
+  });
+</script>
+</body>
+</html>

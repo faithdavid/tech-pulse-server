@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Video Pulse — Trillion Empire Intelligence</title>
+<meta name="description" content="Curated AI video creation intelligence — film education, industry news, tools, trends, offers & inspiration for Lord FaithDavid.">
+<meta property="og:title" content="AI Video Pulse — Trillion Empire Intelligence">
+<meta property="og:description" content="Film education, industry intelligence, tools, trends, offers & inspiration for your AI video empire.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tech-pulse-trillion.surge.sh/latest-ai-video-pulse.html">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI Video Pulse — Trillion Empire Intelligence">
+<meta name="twitter:description" content="Your AI video creator intelligence feed.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-primary: #0d0d15;
+    --bg-secondary: #16161f;
+    --bg-card: rgba(18, 18, 32, 0.9);
+    --bg-card-hover: rgba(24, 24, 42, 0.95);
+    --border: rgba(42, 42, 70, 0.5);
+    --accent-filmschool: #fdcb6e;
+    --accent-industry: #a29bfe;
+    --accent-tools: #00b894;
+    --accent-niches: #fd79a8;
+    --accent-offers: #74b9ff;
+    --accent-inspire: #fab1a0;
+    --brand-emerald: #00b894;
+    --brand-emerald-light: #55efc4;
+    --brand-emerald-glow: rgba(0, 184, 148, 0.15);
+    --text-primary: #e8e8f0;
+    --text-secondary: #a0a0c0;
+    --text-muted: #7878a0;
+    --glass-bg: rgba(18, 18, 40, 0.7);
+    --glass-border: rgba(225, 112, 85, 0.15);
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* === HERO === */
+  .hero {
+    position: relative;
+    padding: 5rem 2rem 6rem;
+    text-align: center;
+    overflow: hidden;
+    background: var(--bg-primary);
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse at 30% 50%, rgba(225, 112, 85, 0.15) 0%, transparent 50%),
+      radial-gradient(ellipse at 70% 50%, rgba(108, 92, 231, 0.1) 0%, transparent 50%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-bg {
+    position: absolute; inset: 0; z-index: 0; opacity: 0.16;
+  }
+
+  .hero-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+    filter: saturate(1.3) brightness(0.45);
+  }
+
+  .hero-gradient {
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg,
+      rgba(17, 17, 23, 0.2) 0%,
+      rgba(17, 17, 23, 0.6) 60%,
+      var(--bg-primary) 100%
+    );
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative; z-index: 2; max-width: 800px; margin: 0 auto;
+  }
+
+  .hero-badge {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.25);
+    color: var(--brand-emerald-light);
+    padding: 0.35rem 1rem;
+    border-radius: 100px;
+    font-size: 0.75rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.12em;
+    margin-bottom: 1.25rem;
+    backdrop-filter: blur(8px);
+  }
+
+  .hero-badge .dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: #fdcb6e;
+    animation: pulse-dot 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.2; }
+  }
+
+  .hero-content h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 900; line-height: 1.1; letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #ffffff 0%, var(--brand-emerald-light) 40%, var(--brand-emerald) 70%, #fab1a0 100%);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.75rem;
+  }
+
+  .hero-sub {
+    font-size: clamp(0.95rem, 1.5vw, 1.15rem);
+    color: var(--text-secondary);
+    max-width: 600px; margin: 0 auto 1.25rem;
+    font-weight: 400; line-height: 1.6;
+  }
+
+  .hero-meta {
+    display: flex; align-items: center; justify-content: center;
+    gap: 1.25rem; flex-wrap: wrap;
+    color: var(--text-muted); font-size: 0.85rem;
+  }
+  .hero-meta span { display: flex; align-items: center; gap: 0.35rem; }
+  .hero-meta .sep { color: rgba(42, 42, 70, 0.8); }
+
+  /* === STATS === */
+  .stats-bar {
+    margin: -2.5rem auto 0;
+    max-width: 1200px; padding: 0 2rem;
+    position: relative; z-index: 3;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 0.5rem;
+    background: var(--glass-bg);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-lg);
+    padding: 1rem;
+  }
+
+  .stat-item { text-align: center; padding: 0.35rem 0.25rem; }
+  .stat-item .num {
+    font-size: 1.4rem; font-weight: 800;
+    background: linear-gradient(135deg, #fab1a0, #e17055);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.3;
+  }
+  .stat-item .lbl {
+    font-size: 0.7rem; color: var(--text-muted);
+    text-transform: uppercase; letter-spacing: 0.06em;
+    font-weight: 500; margin-top: 0.1rem;
+  }
+
+  /* === MAIN === */
+  .container { max-width: 1200px; margin: 0 auto; padding: 2rem 2rem 3rem; }
+
+  /* === FILM SCHOOL SPOTLIGHT === */
+  .filmschool-spotlight {
+    position: relative;
+    margin: 2rem 0 2.5rem;
+    padding: 2rem;
+    border-radius: var(--radius-lg);
+    background: linear-gradient(135deg, rgba(253, 203, 110, 0.08), rgba(225, 112, 85, 0.04));
+    border: 1px solid rgba(253, 203, 110, 0.15);
+  }
+
+  .filmschool-spotlight .badge {
+    font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.08em; color: #fdcb6e; margin-bottom: 0.75rem;
+    display: flex; align-items: center; gap: 0.4rem;
+  }
+
+  .filmschool-spotlight h2 {
+    font-size: clamp(1.1rem, 2vw, 1.4rem);
+    font-weight: 800; line-height: 1.3; margin-bottom: 0.5rem; color: #fff;
+  }
+
+  .filmschool-spotlight p { color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 1rem; }
+
+  .filmschool-spotlight .tip-box {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(253, 203, 110, 0.12);
+    border-radius: var(--radius-md); padding: 1.25rem; margin: 1rem 0;
+  }
+
+  .filmschool-spotlight .tip-label {
+    font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.06em; color: #fdcb6e; margin-bottom: 0.3rem;
+  }
+
+  .filmschool-spotlight .tip-box p {
+    font-size: 0.9rem; color: var(--text-primary); line-height: 1.6;
+  }
+
+  .filmschool-spotlight .card-link {
+    display: inline-flex; align-items: center; gap: 0.35rem;
+    color: #fab1a0; font-size: 0.85rem; font-weight: 600; text-decoration: none;
+    padding: 0.4rem 0.8rem;
+    background: rgba(225, 112, 85, 0.1);
+    border-radius: var(--radius-sm);
+    transition: all 0.2s;
+  }
+  .filmschool-spotlight .card-link:hover { background: rgba(225, 112, 85, 0.2); gap: 0.6rem; }
+
+  /* === SECTION HEADERS === */
+  .section-header {
+    position: relative;
+    margin: 2.5rem 0 1.25rem;
+    padding: 1.25rem 1.5rem;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+
+  .section-header-bg {
+    position: absolute; inset: 0; z-index: 0; opacity: 0.12;
+  }
+  .section-header-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .section-header-shade {
+    position: absolute; inset: 0;
+    background: linear-gradient(90deg,
+      rgba(17, 17, 23, 0.97) 0%,
+      rgba(17, 17, 23, 0.7) 50%,
+      rgba(17, 17, 23, 0.3) 100%
+    );
+    z-index: 1;
+  }
+
+  .section-header-inner {
+    position: relative; z-index: 2;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+
+  .section-header-inner .icon {
+    font-size: 1.15rem;
+    width: 34px; height: 34px;
+    display: flex; align-items: center; justify-content: center;
+    background: rgba(225, 112, 85, 0.1);
+    border-radius: var(--radius-sm);
+    flex-shrink: 0;
+  }
+
+  .section-header-inner h2 {
+    font-size: 1rem; font-weight: 700; color: #fff;
+  }
+
+  .section-header-inner .count {
+    margin-left: auto;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.15rem 0.6rem;
+    border-radius: 100px;
+    flex-shrink: 0;
+  }
+
+  /* === CARDS === */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .card {
+    position: relative;
+    background: linear-gradient(
+      180deg,
+      rgba(18, 18, 32, 0.92) 0%,
+      rgba(14, 14, 26, 0.96) 60%,
+      rgba(10, 10, 20, 0.98) 100%
+    );
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 1.25rem;
+    transition: all 0.25s ease;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
+  }
+
+  /* Dark vignette for depth */
+  .card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.25), transparent);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .card > * { position: relative; z-index: 1; }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    opacity: 0;
+    transition: opacity 0.25s;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+  }
+
+  .card[data-type="filmschool"]::before { background: linear-gradient(90deg, #fdcb6e, #ffeaa7); }
+  .card[data-type="industry"]::before { background: linear-gradient(90deg, #a29bfe, #6c5ce7); }
+  .card[data-type="tools"]::before { background: linear-gradient(90deg, #00b894, #55efc4); }
+  .card[data-type="niches"]::before { background: linear-gradient(90deg, #fd79a8, #fab1a0); }
+  .card[data-type="offers"]::before { background: linear-gradient(90deg, #74b9ff, #0984e3); }
+  .card[data-type="inspire"]::before { background: linear-gradient(90deg, #fab1a0, #e17055); }
+
+  .card:hover {
+    background: linear-gradient(
+      180deg,
+      rgba(22, 22, 42, 0.95) 0%,
+      rgba(18, 18, 36, 0.97) 60%,
+      rgba(13, 13, 24, 0.99) 100%
+    );
+    border-color: rgba(0, 184, 148, 0.35);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35), 0 0 20px rgba(0, 184, 148, 0.05);
+  }
+  .card:hover::before { opacity: 1; }
+  .card:hover::after { opacity: 0.8; }
+  .card:focus-within {
+    border-color: rgba(0, 184, 148, 0.35);
+    box-shadow: 0 0 0 1px rgba(0, 184, 148, 0.3);
+  }
+
+  .card-tag {
+    display: inline-block;
+    font-size: 0.65rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    padding: 0.2rem 0.55rem; border-radius: 4px;
+    margin-bottom: 0.5rem; width: fit-content;
+  }
+
+  .card-tag.filmschool { background: rgba(253, 203, 110, 0.15); color: #fdcb6e; }
+  .card-tag.industry { background: rgba(108, 92, 231, 0.15); color: #a29bfe; }
+  .card-tag.tools { background: rgba(0, 184, 148, 0.15); color: #00b894; }
+  .card-tag.niches { background: rgba(253, 121, 168, 0.15); color: #fd79a8; }
+  .card-tag.offers { background: rgba(9, 132, 227, 0.15); color: #74b9ff; }
+  .card-tag.inspire { background: rgba(225, 112, 85, 0.15); color: #fab1a0; }
+
+  .card h3 {
+    font-size: 0.95rem; font-weight: 700;
+    margin-bottom: 0.35rem; line-height: 1.4; color: #fff;
+  }
+
+  .card p {
+    font-size: 0.85rem; color: var(--text-secondary);
+    flex: 1; margin-bottom: 0.75rem; line-height: 1.55;
+  }
+
+  .card-footer {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 0.5rem; margin-top: auto;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgba(42, 42, 70, 0.3);
+  }
+
+  .card-source { font-size: 0.7rem; color: var(--text-muted); }
+
+  .card-link {
+    font-size: 0.78rem; color: var(--brand-emerald-light); text-decoration: none;
+    font-weight: 500; padding: 0.3rem 0.6rem;
+    border-radius: 4px; transition: all 0.2s; white-space: nowrap;
+  }
+  .card-link:hover { background: var(--brand-emerald-glow); }
+  .card-link:focus-visible { outline: 2px solid var(--brand-emerald); outline-offset: 2px; }
+
+  /* === OFFER CTA === */
+  .offer-cta {
+    background: linear-gradient(135deg, rgba(9,132,227,0.1), rgba(108,92,231,0.05));
+    border: 1px solid rgba(9,132,227,0.15);
+    border-radius: var(--radius-md); padding: 1.25rem;
+    margin: 1rem 0; text-align: center;
+  }
+  .offer-cta h3 { color: #74b9ff; margin-bottom: 0.5rem; }
+  .offer-cta p { color: var(--text-secondary); font-size: 0.85rem; }
+
+  /* === EMPTY STATE === */
+  .empty-section {
+    text-align: center; padding: 1.5rem;
+    color: var(--text-muted); font-size: 0.85rem;
+    background: var(--bg-card);
+    border: 1px dashed var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  /* === DIVIDER === */
+  .divider {
+    display: flex; align-items: center; justify-content: center; gap: 0.75rem;
+    margin: 2.5rem 0;
+    color: var(--text-muted); font-size: 0.65rem;
+    text-transform: uppercase; letter-spacing: 0.2em; font-weight: 600;
+  }
+  .divider::before, .divider::after {
+    content: ''; flex: 1; height: 1px;
+    background: linear-gradient(90deg, transparent, var(--border), transparent);
+  }
+
+  /* === FOOTER === */
+  .footer {
+    text-align: center; padding: 2rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .footer-links {
+    display: flex; align-items: center; justify-content: center;
+    gap: 1.5rem; flex-wrap: wrap; margin-bottom: 0.75rem;
+  }
+
+  .footer-links a {
+    color: var(--text-secondary); text-decoration: none;
+    font-size: 0.85rem; font-weight: 500;
+    padding: 0.3rem 0.6rem; border-radius: 4px; transition: all 0.2s;
+  }
+  .footer-links a:hover { color: var(--brand-emerald-light); background: var(--brand-emerald-glow); }
+  .footer-links a:focus-visible { outline: 2px solid var(--brand-emerald); outline-offset: 2px; }
+
+  .footer-copy { color: var(--text-muted); font-size: 0.75rem; }
+
+  .seal {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: rgba(225, 112, 85, 0.05);
+    border: 1px solid rgba(225, 112, 85, 0.08);
+    padding: 0.25rem 0.9rem; border-radius: 100px;
+    font-size: 0.6rem; color: var(--text-muted);
+    letter-spacing: 0.05em; margin-bottom: 0.75rem;
+  }
+
+  /* === FOCUS VISIBLE === */
+  :focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  /* === REDUCED MOTION === */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+    html { scroll-behavior: auto; }
+  }
+
+  /* === RESPONSIVE === */
+  @media (max-width: 768px) {
+    .hero { padding: 3rem 1.25rem 4rem; }
+    .stats-bar { margin-top: -2rem; padding: 0 1rem; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 0.35rem; padding: 0.75rem; }
+    .container { padding: 1.25rem 1rem; }
+    .cards-grid { grid-template-columns: 1fr; }
+    .filmschool-spotlight { padding: 1.5rem; }
+    .section-header { padding: 1rem 1.25rem; }
+    .section-header-inner h2 { font-size: 0.9rem; }
+    .footer-links { flex-direction: column; gap: 0.5rem; }
+  }
+
+  @media (max-width: 480px) {
+    .hero-content h1 { font-size: 1.75rem; }
+    .hero-badge { font-size: 0.65rem; }
+    .card h3 { font-size: 0.9rem; }
+    .card p { font-size: 0.82rem; }
+    .stat-item .num { font-size: 1.2rem; }
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .card { animation: fadeUp 0.4s ease both; }
+  .card:nth-child(1) { animation-delay: 0.03s; }
+  .card:nth-child(2) { animation-delay: 0.06s; }
+  .card:nth-child(3) { animation-delay: 0.09s; }
+  .card:nth-child(4) { animation-delay: 0.12s; }
+
+  html { scroll-behavior: smooth; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-bg">
+    <img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1600&q=80&fm=jpg" alt="" width="1600" height="900" loading="eager">
+  </div>
+  <div class="hero-gradient"></div>
+  <div class="hero-content">
+    <div class="hero-badge">
+      <span class="dot"></span>
+      🎬 CREATOR INTELLIGENCE FEED
+    </div>
+    <h1>AI Video Pulse</h1>
+    <p class="hero-sub">Film education, industry intelligence, tools, trends, offers &amp; inspiration — for building Lord FaithDavid's AI video empire.</p>
+    <div class="hero-meta">
+      <span>📅 <span id="time-display">Monday, May 11, 2026 at 03:34 PM ET</span></span>
+      <span class="sep">◆</span>
+      <span>🔄 Every 3 hours</span>
+      <span class="sep">◆</span>
+      <span>📊 21 items</span>
+    </div>
+  </div>
+</div>
+
+<div class="stats-bar">
+  <div class="stats-grid">
+    <div class="stat-item"><div class="num">21</div><div class="lbl">Total</div></div>
+    <div class="stat-item"><div class="num">4</div><div class="lbl">🎬 School</div></div>
+    <div class="stat-item"><div class="num">4</div><div class="lbl">📰 Industry</div></div>
+    <div class="stat-item"><div class="num">4</div><div class="lbl">🔧 Tools</div></div>
+    <div class="stat-item"><div class="num">3</div><div class="lbl">📈 Trends</div></div>
+    <div class="stat-item"><div class="num">3</div><div class="lbl">💼 Offers</div></div>
+  </div>
+</div>
+
+<div class="container">
+
+<div class="filmschool-spotlight">
+  <div class="badge">🎓 Film School Tip of the Day</div>
+  <div class="tip-box">
+    <div class="tip-label">📖 Learn This</div>
+    <h2>The Complete AI Filmmaking Pipeline 2026: Script to Screen in 7 Stages</h2>
+    <p>DeepFiction&#39;s comprehensive guide (Feb 2026) breaks AI filmmaking into 7 stages: Script, Storyboard, Character Design, Video Generation, Voice and Audio, Editing, and Distribution. Recommends Claude for structural screenwriting, Flux + LoRA for consistent characters, Runway Gen-4.5 for primary video, ElevenLabs for voice, and DaVinci Resolve for editing. Key insight: successful AI filmmakers use AI to enhance creative vision, not replace it — handling tedious formatting while keeping human direction driving the process.</p>
+  </div>
+  <a class="card-link" href="https://www.deepfiction.ai/blog/ai-filmmaking-pipeline-script-to-screen-2026" target="_blank">Deep dive →</a>
+</div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🎬</span>
+      <h2>Film School</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="filmschool">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <h3>The Complete AI Filmmaking Pipeline 2026: Script to Screen in 7 Stages</h3>
+    <p>DeepFiction&#39;s comprehensive guide (Feb 2026) breaks AI filmmaking into 7 stages: Script, Storyboard, Character Design, Video Generation, Voice and Audio, Editing, and Distribution. Recommends Claude for structural screenwriting, Flux + LoRA for consistent characters, Runway Gen-4.5 for primary video, ElevenLabs for voice, and DaVinci Resolve for editing. Key insight: successful AI filmmakers use AI to enhance creative vision, not replace it — handling tedious formatting while keeping human direction driving the process.</p>
+  <div class="card-footer">
+    <span class="card-source">DeepFiction Blog</span>
+    <a class="card-link" href="https://www.deepfiction.ai/blog/ai-filmmaking-pipeline-script-to-screen-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="filmschool">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <h3>5 Proven Techniques for Consistent Characters Across Multi-Scene AI Videos</h3>
+    <p>VO3 AI (April 2026) published a step-by-step guide to maintaining character consistency across scenes in AI videos. Covers reference image anchoring via Seedance 2.0 character reference system, Runway Gen-4 consistent character mode, mid-journey character sheets for multi-model pipelines, and Veo 3.1 Nano Banana technique for preserving facial features across shots. Includes case studies showing consistent protagonists across 5-plus scene narratives.</p>
+  <div class="card-footer">
+    <span class="card-source">VO3 AI Blog</span>
+    <a class="card-link" href="https://www.vo3ai.com/blog/how-to-create-consistent-characters-in-multi-scene-ai-videos-without-losing-the--2026-04-21" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="filmschool">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <h3>Multi-Modal AI Video Generation 2026 — From Prompt Engineering to Reference Engineering</h3>
+    <p>PromptSpace 2026 guide covers the shift from single-input prompting to multi-modal generation: feeding models a mix of text, images, video clips, and audio references for superior output control. Highlights Seedance 2.0 multi-shot controller (12-layer system for scene-by-scene direction), LTX-2 reference video style transfer, and Runway Gen-4 visual references combined with text instructions for consistent worlds. 2026 is the year AI filmmaking moved from prompt engineering to reference engineering — curating visual moodboards instead of typing paragraphs.</p>
+  <div class="card-footer">
+    <span class="card-source">PromptSpace</span>
+    <a class="card-link" href="https://www.promptspace.in/blog/multi-modal-ai-video-generation-2026-complete-guide-for-creators" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="filmschool">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <h3>AI Promise to Indie Filmmakers: Faster, Cheaper, but Lonelier</h3>
+    <p>TechCrunch (Feb 2026) explores how AI video generation democratizes filmmaking for resource-constrained creators — reducing production costs from thousands to hundreds of dollars. But warns of a creative paradox: as efficiency becomes the north star, independent filmmakers risk isolation and a deluge of low-effort AI content flooding the market. Features a case study of an AI-assisted short film shot in rural Hawaii, highlighting both creative liberation and the emotional cost of solo AI production.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">📰</span>
+      <h2>Industry News</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">📰 Industry News</div>
+    <h3>Runway CEO: AI Video Is Just a Prequel — World Models Are the Real Destination</h3>
+    <p>In a May 8, 2026 Equity podcast, Runway co-founder and CEO Cristobal Valenzuela argued that AI video generation is merely a stepping stone toward full world models — systems that simulate physics, object permanence, and environmental interaction in real-time. Runway raised $315M at a $5.3B valuation (Feb 2026) specifically to pre-train next-generation world models. GWM-1 already runs in three variants: GWM Worlds (explorable environments), GWM Avatars (conversational characters), and GWM Robotics (robotic manipulation). The company positions AI video as the interface layer for broader physical world simulation.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch / Equity Podcast</span>
+    <a class="card-link" href="https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">📰 Industry News</div>
+    <h3>Kuaishou Plans to Spin Off Kling AI Video Unit at ~$20B Valuation</h3>
+    <p>China Kuaishou is spinning off its Kling AI video division at approximately $20 billion valuation (The Information, May 2026). Kling 3.0 introduced native 4K generation, physics-accurate motion, multi-shot sequencing with integrated audio, and a Canvas Agent for in-scene editing without full regeneration. API pricing runs $0.10-0.39 per second — significantly undercutting Veo ($0.50/s) and Runway Gen-4.5 ($0.40/s). The spinoff positions Kling as an independent entity competing directly with Runway and Google Veo.</p>
+  <div class="card-footer">
+    <span class="card-source">The Information</span>
+    <a class="card-link" href="https://www.theinformation.com/articles/kuaishou-plans-to-spin-off-kling-ai-video-unit" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">📰 Industry News</div>
+    <h3>Luma Launches Creative AI Agents Powered by Unified Intelligence Models</h3>
+    <p>AI video startup Luma launched Luma Agents (March 5, 2026), powered by a new Unified Intelligence model family — a single multimodal reasoning system trained across text, image, video, and audio. The agents can plan and generate end-to-end creative work while coordinating with other AI models including Luma Ray 3.14, Google Veo 3 and Nano Banana Pro, ByteDance Seedream, and ElevenLabs voice models. Targeted at ad agencies, marketing teams, and design studios needing end-to-end creative production pipelines.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">📰 Industry News</div>
+    <h3>OpenAI Shuts Down Sora — AI Video First Major Casualty After 16 Months</h3>
+    <p>OpenAI shut down Sora web and mobile experiences on April 26, 2026, after approximately 16 months of public availability. The tool reportedly cost OpenAI $15M per day in compute against only $2.1M in lifetime revenue. Disney walked away from a $1B investment deal. The Sora API survives until September 24, 2026 for existing customers only. The Sora 2 model continues inside ChatGPT Plus ($20/mo) with limited credits, but the standalone product is dead — marking the first major casualty in the AI video arms race.</p>
+  <div class="card-footer">
+    <span class="card-source">Light Wave Reports</span>
+    <a class="card-link" href="https://lightwavereports.com/openai-just-killed-sora-here-s-what-happened-and-what-comes-next" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🔧</span>
+      <h2>Tools &amp; Tech</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <h3>Seedance 2.0 — ByteDance Multi-Shot Narrative Engine Leads in Creative Control</h3>
+    <p>ByteDance Seedance 2.0 has emerged as the strongest narrative-driven AI video model in 2026, featuring multi-shot native generation (maintains character and style across scenes), synchronized audio (dialogue, SFX, ambience), and up to 2K output. Its 12-layer Multi-Shot Controller gives creators scene-by-scene control of camera angles, character positions, and lighting. ChatCut 2026 head-to-head rankings placed Seedance 2.0 number one for narrative work over Veo 3.1, Runway Gen-4, Kling 3.0, and Pika.</p>
+  <div class="card-footer">
+    <span class="card-source">ChatCut / ByteDance</span>
+    <a class="card-link" href="https://chatcut.io/blog/best-ai-video-generator-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <h3>Kling 3.0 Delivers Native 4K, Physics-Accurate Motion, and Industry-Low Pricing</h3>
+    <p>Kling 3.0 launched with native 4K video generation (no upscaling tricks), physics-accurate motion tracking, multi-shot storyboarding, and integrated Omni audio model. The Canvas Agent enables in-scene editing without full regeneration. API pricing through fal runs $0.17-0.39 per second, significantly cheaper than Veo ($0.50/s) and Runway Gen-4.5 ($0.40/s). Kling spinoff from Kuaishou at $20B valuation signals strong institutional confidence in value-priced AI video.</p>
+  <div class="card-footer">
+    <span class="card-source">VP Land</span>
+    <a class="card-link" href="https://www.vp-land.com/p/kling-3-0-native-4k-multi-shot-video-and-built-in-audio" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <h3>Google Veo 2 and 3.1 — Enterprise-Ready AI Video Integrated Into Gemini Ecosystem</h3>
+    <p>Google made Veo 2 available inside Gemini for subscribers, generating 8-second 720p MP4 video from text prompts. Veo 3 added dialogue voice-over and sound design, while Veo 3.1 introduced native vertical video for social platforms using reference images. Ranking number two in overall quality behind Seedance 2.0 for narrative, Veo leads in enterprise reliability and Google ecosystem integration — making it easiest for teams already on Google Workspace or YouTube Creator tools.</p>
+  <div class="card-footer">
+    <span class="card-source">Google Blog</span>
+    <a class="card-link" href="https://blog.google/products-and-platforms/products/gemini/video-generation/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <h3>Wan 2.5 Open-Source AI Video — Alibaba Model Now Rivals Commercial Generators Locally</h3>
+    <p>Alibaba Wan 2.5 has become the leading open-source AI video model, with variants for text-to-video (wan-2.5-t2v-fast for speed) and image-to-video (wan-2.5-i2v accepting static images plus optional audio). Available on Replicate and HuggingFace, the model produces quality that rivals commercial platforms. Open-source nature enables customization and local deployment — a significant advantage for studios needing privacy and unlimited generations without per-credit costs.</p>
+  <div class="card-footer">
+    <span class="card-source">Spheron Network</span>
+    <a class="card-link" href="https://www.spheron.network/blog/deploy-wan-2-5-gpu-cloud/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">📈</span>
+      <h2>Trends &amp; Niches</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="niches">
+    <div class="card-tag niches">📈 Trends & Niches</div>
+    <h3>Faceless YouTube Channels Explode — 38% of New Creator Ventures Are AI-Powered</h3>
+    <p>MiraFlow reports (April 2026) faceless YouTube channels now represent 38% of all new creator monetization ventures, up from 12% in 2022. AI voice tools, automated video assembly, and multilingual dubbing have collapsed production costs to under $3 per video. Top-performing niches: finance explainers ($15K/month), tech reviews ($12K/month), self-improvement ($8K/month), and AI-powered news channels. YouTube 2026 policies allow monetization of AI-generated videos meeting quality standards with proper synthetic content disclosure.</p>
+  <div class="card-footer">
+    <span class="card-source">MiraFlow AI</span>
+    <a class="card-link" href="https://miraflow.ai/blog/faceless-youtube-channel-explosion-ai-million-subscriber-creators-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="niches">
+    <div class="card-tag niches">📈 Trends & Niches</div>
+    <h3>AI UGC Video Generators — Brands Automate Authentic-Looking Social Content at Scale</h3>
+    <p>A new category of AI UGC (User-Generated Content) video generators has emerged for brands wanting authentic-looking social media without filming. AI Inspo launched a generator (May 2026) that analyzes trending TikTok and Reels formats and recreates them with AI avatars and footage. These tools are particularly hot for e-commerce brands running social ad campaigns who need volume without traditional UGC production overhead. UGC-style content consistently outperforms polished brand content on social platforms.</p>
+  <div class="card-footer">
+    <span class="card-source">24-7 Press Release / AI Inspo</span>
+    <a class="card-link" href="https://www.24-7pressrelease.com/press-release/ai-inspo-launches-ai-video-generator-viral-tiktok-reels" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="niches">
+    <div class="card-tag niches">📈 Trends & Niches</div>
+    <h3>AI Music Video Creation Matures — Audio-Reactive Generation Syncs Visuals to Beats</h3>
+    <p>AI music video creation has emerged as a major niche in 2026, with tools now offering audio-reactive generation that syncs visuals to beat drops and musical transitions. Indie musicians can produce professional music videos for $50-200 instead of $2K-20K. Runway, Pika, and Kling now include audio-aware modes that analyze music structure to time visual cuts to the track rhythm. The niche is maturing fast as more artists discover AI as a viable production tool for music videos.</p>
+  <div class="card-footer">
+    <span class="card-source">Vocal Media</span>
+    <a class="card-link" href="https://vocal.media/01/ai-music-video-creation-2026-practical-guide" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">💼</span>
+      <h2>Offers &amp; Selling</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="offers">
+    <div class="card-tag offers">💼 Offers & Selling</div>
+    <h3>How to Make Money With AI Video in 2026 — 15+ Proven Monetization Methods</h3>
+    <p>Hostinger April 2026 guide outlines 15+ monetization strategies: AI video production services, YouTube automation channels, AI-generated stock footage sales, AI video ad creation for local businesses, and AI video courses/workshops. Creators with multi-model expertise command premium rates. Typical freelance AI video projects run $200-500 for a 60-second commercial, with top creators earning $5K-10K/month. The key differentiator is creative direction — knowing which model for which shot and how to guide output toward a client vision.</p>
+  <div class="card-footer">
+    <span class="card-source">Hostinger</span>
+    <a class="card-link" href="https://www.hostinger.com/tutorials/how-to-make-money-with-ai" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="offers">
+    <div class="card-tag offers">💼 Offers & Selling</div>
+    <h3>Runway Unlimited at $76/Month — The Volume Production Power Play After Sora Collapse</h3>
+    <p>With Sora shutdown and per-generation pricing dominating, Runway Unlimited plan ($76/month annual) has become the clear economic winner for high-volume production. Generating 1,000 30-second videos would cost $13,500 on Veo 3.1 or $5,100 on Kling Pro but just $76 on Runway Unlimited. The plan includes Gen-4.5, Gen-4 Turbo, Seedance 2.0, Kling 3.0 Pro, and all editing tools. For production teams churning out volume, the unlimited model offers 67x savings compared to per-second pricing.</p>
+  <div class="card-footer">
+    <span class="card-source">Runway ML</span>
+    <a class="card-link" href="https://runwayml.com/pricing" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="offers">
+    <div class="card-tag offers">💼 Offers & Selling</div>
+    <h3>AI TikTok Creator Economy — Virtual Influencers and Automated Content at Scale</h3>
+    <p>Sozee AI May 2026 analysis covers the booming AI TikTok ecosystem, where hyper-realistic AI avatars generate content 24/7. TikTok Creator Fund provides approximately $0.50 RPM baseline, but top AI creators earn more through brand sponsorships and affiliate marketing. A single AI creator account can produce 10-20 videos per day versus a human creator 1-3. TikTok 2026 algorithm does not penalize properly-labeled synthetic content — and in some cases, consistent posting of AI creators boosts algorithmic reach.</p>
+  <div class="card-footer">
+    <span class="card-source">Sozee AI</span>
+    <a class="card-link" href="https://sozee.ai/resources/hyper-realistic-ai-tiktok-creators/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1511988617509-a57c8a288659?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">✨</span>
+      <h2>Inspiration</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="inspire">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <h3>Sundance 2026 Features AI-Assisted Films — AI Filmmaking Goes Mainstream</h3>
+    <p>The 2026 Sundance Film Festival featured AI-assisted films in its official lineup, confirming AI filmmaking has crossed from experimental novelty to legitimate creative tool. Amazon is building an AI Studio for cinematic content, and Curious Refuge (AI film school) is training Hollywood next wave of creators. Jeffrey Katzenberg called it the democratization of storytelling at a level that has never happened in the existence of humankind. Adobe survey found 85% of Sundance 2026 entrants used AI features in Premiere Pro and After Effects.</p>
+  <div class="card-footer">
+    <span class="card-source">DeepFiction Blog / Sundance Institute</span>
+    <a class="card-link" href="https://www.deepfiction.ai/blog/ai-filmmaking-pipeline-script-to-screen-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="inspire">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <h3>Multi-Model Workflows Are the Gold Standard — No Single AI Video Tool Dominates All Categories</h3>
+    <p>ChatCut comprehensive May 2026 comparison of 6 leading AI video generators (Seedance 2.0, Veo 3.1, Runway Gen-4, Kling 3.0, Pika, Hailuo MiniMax) concluded no single model dominates all categories. Seedance 2.0 leads for narrative, Veo 3.1 for enterprise reliability, Runway Gen-4.5 for physics accuracy and editing workflows, Kling 3.0 for best-value 4K, Pika for social media speed. The most successful creators in 2026 treat AI video like a camera kit — mastering 3-4 tools and switching based on project needs.</p>
+  <div class="card-footer">
+    <span class="card-source">ChatCut</span>
+    <a class="card-link" href="https://chatcut.io/blog/best-ai-video-generator-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="inspire">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <h3>Runway Gen-4.5 + GWM-1 Creates Complete Short Films With Consistent Characters and World Physics</h3>
+    <p>Runway Gen-4.5 combined with GWM-1 (General World Model) has enabled complete AI short films with consistent characters across scenes, native synchronized audio (dialogue, footsteps, ambient sound), and physically plausible motion. The model maintains coherent characters, locations, and objects across scenes without fine-tuning or additional training. AI filmmakers can now generate multi-scene narratives with coverage (multiple camera angles of the same scene) — pushing AI video from single-shot clips toward actual filmmaking with directorial intent.</p>
+  <div class="card-footer">
+    <span class="card-source">Runway Research</span>
+    <a class="card-link" href="https://runwayml.com/research/introducing-runway-gen-4" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="divider">♔ Trillion Empire Intelligence ♔</div>
+
+</div>
+
+<div class="footer">
+  <div class="seal">
+    👑 TRINITY EMPIRE · CREATOR DIVISION
+  </div>
+  <div class="footer-links">
+    <a href="/index.html">View All Pulses</a> · <a href="/latest-tech-pulse.html">Tech Pulse →</a>
+  </div>
+  <div class="footer-copy">
+    ♥ Trinity Empire · AI Video Pulse · Delivered every 3 hours
+  </div>
+</div>
+
+<script>
+  document.getElementById('time-display').textContent = new Date().toLocaleString('en-US', {
+    timeZone: 'America/New_York',
+    weekday: 'long', year: 'numeric', month: 'long', day: 'numeric',
+    hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
+  });
+</script>
+</body>
+</html>

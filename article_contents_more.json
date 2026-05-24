@@ -1,0 +1,92 @@
+{
+  "github_copilot_changes": {
+    "meta": "We're making these changes to ensure a reliable and predictable experience for existing customers.",
+    "text": "VP of Product",
+    "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/"
+  },
+  "github_agent_prs": {
+    "meta": "A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships.",
+    "text": "Andrea is a Senior Developer Advocate at GitHub with over a decade of experience in developer tools. She combines technical depth with a mission to make advanced technologies more accessible. After transitioning from Army service and construction management to software development, she brings a unique perspective to bridging complex engineering concepts with practical implementation. She lives in Florida with her Welsh partner, two sons, and two dogs, where she continues to drive innovation and ",
+    "url": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/"
+  },
+  "github_token_efficiency": {
+    "meta": "Agentic workflows that run on every pull request can quietly accumulate large API bills. Here's how we found inefficiencies and built agents to fix them.",
+    "text": "Senior Principal Researcher, Microsoft Research",
+    "url": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/"
+  },
+  "tsmc_wind_power": {
+    "meta": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
+    "text": "Taiwanese chipmaker TSMC is raking in record profits during the AI boom\u2014but it is also racing to help Taiwan develop wind power and other energy alternatives to fossil fuels amid a global energy crisis. The chipmaker hassigneda 30-year corporate power purchase agreement for 100 percent of the power produced by theHai Longoffshore wind project. The deal between TSMC and Northland Power, a Canada-based global power producer, covers more than 1 gigawatt of power capacity at three offshore wind site",
+    "url": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/"
+  },
+  "sony_ai_games": {
+    "meta": "But human artists still \"must remain at the center,\" PlayStation maker says.",
+    "text": "Anyone following the modern game industry knows thateasy-to-use game enginesandthe accelerating shift to digital distributionhave helped enable a massive increase in the quantity of commercial games released each year, bothon console storefrontsandespecially on Steam. Now, Sony Interactive Entertainment President and CEO Hideaki Nishino says we should expect the rate of new game releases to accelerate even faster as new AI development tools make it easier for developers big and small to pursue n",
+    "url": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/"
+  },
+  "linux_vulnerability": {
+    "meta": "Production-version patches are coming online and should be installed pronto.",
+    "text": "Linux users have been bitten by yet another vulnerability that gives containers and untrusted users the ability to gain root access, marking the second time in as many weeks that a severe threat has caught defenders off guard. The threat, known as Dirty Frag, allows low-privilege users, including those using virtual machines, to gain root control of servers. Attacks are particularly suitable in shared environments, where a server is used by multiple parties. Hackers can also gain root as long as",
+    "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/"
+  },
+  "silicon_valley_floating": {
+    "meta": "Panthalassa aims to test floating AI computing nodes in the Pacific in 2026.",
+    "text": "Silicon Valley investors, such asPalantirco-founder Peter Thiel, have bet hundreds of millions of dollars on deploying AI data centers powered by waves in the middle of the world\u2019s oceans\u2014a move that coincides with the mounting challenges tech companies are facing in building AI data center projects on land. The latestinvestmentround of $140 million is intended to help the companyPanthalassacomplete a pilot manufacturing facility near Portland, Oregon, and speed up deployments of wave-riding \u201cno",
+    "url": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/"
+  },
+  "data_center_water": {
+    "meta": "Can AI save us from the AI industry\u2019s endless thirst for water? Outlook not so good.",
+    "text": "A curious case in Georgia serves as a warning for many parts of the US hastily approving data center developments without first updating their water systems to better monitor for severe upticks in usage. On Friday, Politicoreportedthat one of the country\u2019s biggest data center developments had guzzled nearly 30 million gallons of water without paying for it. Even worse, the water grab came at a time when nearby drought-stricken residents were warned to restrict their personal water consumption an",
+    "url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/"
+  },
+  "starlink_gps": {
+    "meta": "Shutdown of Starlink location feature won\u2019t dampen interest in GPS alternatives.",
+    "text": "Starlink is unceremoniously shutting down a GPS-style feature that most of the Internet satellite provider\u2019s customers probably never realized existed. But that won\u2019t stop broader momentum toward harnessing Starlink\u2019s satellite constellation as a navigation alternative\u2014especially when GPS jamming and spoofing have become more widespread. The Starlink satellite constellation owned bySpaceXis designed to provide communications services first and foremost, rather than pinpointing users\u2019 locations l",
+    "url": "https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/"
+  },
+  "google_overviews": {
+    "meta": "Google's AI search will start citing its sources in several new ways.",
+    "text": "The top of a Google search page is prime real estate, but it has primarily been the domain of AI Overviews for the past two years. Websites that spent years optimizing for Google search haven\u2019t exactly loved being pushed down the page by a chatbot and may blame AI Overviews for recent traffic drops. Google is not admitting fault, but it isrolling out a number of changesthat will place more links to websites inside AI answers. Google says many AI Overviews are \u201cjust the beginning of exploring a t",
+    "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/"
+  },
+  "apple_rcs": {
+    "meta": "Probably the last big updates we'll see before the next versions appear at WWDC.",
+    "text": "Apple has released version 26.5 of all of its operating systems today:iOS 26.5,iPadOS 26.5,macOS 26.5,watchOS 26.5,tvOS 26.5,visionOS 26.5, and version26.5 of the HomePod software(whew). None of these are particularly momentous updates, which is pretty normal this late in their lifecycle, but they add a small batch of new features alongside the pile of patches outlined on Apple\u2019s security vulnerabilities page. This is Apple\u2019s first release to supportend-to-end encryption for the RCS messaging st",
+    "url": "https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/"
+  },
+  "anthropic_claude_code": {
+    "meta": "Deal follows others with Microsoft, Amazon, and more.",
+    "text": "SAN FRANCISCO\u2014At its Code with Claude developer conference on Wednesday, Anthropicannounceda deal with SpaceX to utilize the entire compute capacity of the latter\u2019s data center in Memphis, Tennessee. On stage at the conference, CEO Dario Amodei said the deal was intended to increase usage limits for Anthropic\u2019s Pro and Max plan subscribers. The announcement was accompanied by an increase in those usage limits; Anthropic doubled Claude Code\u2019s five-hour window limits for Pro and Max subscribers, r",
+    "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/"
+  },
+  "micron_sandisk": {
+    "meta": "Memory and storage stocks are surging in mid-morning Friday trading as the AI memory supercycle thesis goes fully mainstream. Micron Technology (NASDAQ:MU | MU Price Prediction) stock is up 11%, SanDisk (NASDAQ:SNDK) stock is also up 11%, and Western Digital (NASDAQ:WDC) stock is up 3%. The synchron",
+    "text": "Memory and storage stocks are surging in mid-morning Friday trading as the AI memory supercycle thesis goes fully mainstream.Micron Technology(NASDAQ:MU|MU Price Prediction) stock is up 11%,SanDisk(NASDAQ:SNDK) stock is also up 11%, andWestern Digital(NASDAQ:WDC) stock is up 3%. The synchronized move extends a parabolic stretch for the group. Micron stock has climbed 76% over the past month, while SanDisk shares have added 91% over the same window. Western Digital stock is up 40% in the past mon",
+    "url": "https://247wallst.com/investing/2026/05/08/micron-rockets-11-sandisk-rallies-11-western-digital-up-3-on-ai-memory-supercycle-bull-case/"
+  },
+  "samsung_chip_workers": {
+    "meta": "Samsung semiconductor workers want a bigger slice of the AI pie.",
+    "text": "Negotiations between the National Samsung Electronics Union, which represents workers in the company\u2019s chipmaking division, and management have seemingly broken down over a single issue. According to theFinancial Times, the two sides are close to agreeing on an allocation of 13% of operating profit, which works out to be roughly $340,000 USD per employee, as a bonus to the workers. However, company management is only willing to give this as a one-time offer, while the union wants the allocation ",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/samsung-chip-workers-reject-usd340-000-one-time-bonus-demand-annual-payouts-like-sk-hynixs-usd900-000-workers-want-share-of-ai-windfall-impending-18-day-strike-could-cost-samsung-up-to-usd11-7-billion"
+  },
+  "cloudflare_ai_jobs": {
+    "meta": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+    "text": "\n\n\n\n\n\n\n\n\nCloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high | TechCrunch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImage Credits:TechCrunch \n\n\n\n\n\n\n\n\t\tAI\t\n\n\n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n\n\n\n\nCloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high \n\n\n\n\n\nJulie Bort\n\n\n\n\n\n11:33 AM PDT \u00b7 May 8, 2026 \n\n\n\n\n\n\n\n \n\n\n \n\n \n\n \n\n \n\n \n\n \n\n\n\n\n\n\nCloudflare on Thursday joined a",
+    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/"
+  },
+  "github_maintainer_month": {
+    "meta": "What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source.",
+    "text": "Abigail Cabunoc Mayes works at GitHub to help the open source ecosystem thrive \u2014 now and in the future.",
+    "url": "https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/"
+  },
+  "gpt55_mythos": {
+    "meta": "New results suggest Mythos' cyber threat isn't \"a breakthrough specific to one model.\"",
+    "text": "Last month, Anthropicmade a big dealabout the supposedly outsize cybersecurity threat represented by its Mythos Preview model, leading the company torestrict the initial release to \u201ccritical industry partners.\u201dButnew research from the UK\u2019s AI Security Institute(AISI) suggests that OpenAI\u2019s GPT-5.5, whichlaunched publicly last week, reached \u201ca similar level of performance on our cyber evaluations\u201d as Mythos Preview, which the groupevaluated last month. Since 2023, the AISI has run a variety of fr",
+    "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/"
+  },
+  "deepmind_eve": {
+    "meta": "Move comes as CCP Games spends $120M to go independent, rebrands as Fenris Creations.",
+    "text": "Google\u2019s AI-focused DeepMind division has taken a minority stake in the developer of popular sci-fi simulationEVE Online, saying it will use the game to study \u201cintelligence in complex, dynamic, player-driven systems.\u201d The research partnership comes as the management behindEVE Online developer CCP Gamesannouncedthat they have spent $120 million to buy themselves out from their former owners at South Korean publisher Pearl Abyss(Crimson Desert).The newly independent entity is being rebranded as Fe",
+    "url": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/"
+  }
+}

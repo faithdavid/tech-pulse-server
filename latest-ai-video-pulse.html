@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Video Pulse — Trillion Empire Intelligence</title>
+<meta name="description" content="Curated AI video creation intelligence — film education, industry news, tools, trends, offers & inspiration for Lord FaithDavid.">
+<meta property="og:title" content="AI Video Pulse — Trillion Empire Intelligence">
+<meta property="og:description" content="Film education, industry intelligence, tools, trends, offers & inspiration for your AI video empire.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tech-pulse-trillion.surge.sh/latest-ai-video-pulse.html">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI Video Pulse — Trillion Empire Intelligence">
+<meta name="twitter:description" content="Your AI video creator intelligence feed.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-primary: #0d0d15;
+    --bg-secondary: #16161f;
+    --bg-card: rgba(18, 18, 32, 0.9);
+    --bg-card-hover: rgba(24, 24, 42, 0.95);
+    --border: rgba(42, 42, 70, 0.5);
+    --accent-filmschool: #fdcb6e;
+    --accent-industry: #a29bfe;
+    --accent-tools: #00b894;
+    --accent-niches: #fd79a8;
+    --accent-offers: #74b9ff;
+    --accent-inspire: #fab1a0;
+    --brand-emerald: #00b894;
+    --brand-emerald-light: #55efc4;
+    --brand-emerald-glow: rgba(0, 184, 148, 0.15);
+    --text-primary: #e8e8f0;
+    --text-secondary: #a0a0c0;
+    --text-muted: #7878a0;
+    --glass-bg: rgba(18, 18, 40, 0.7);
+    --glass-border: rgba(225, 112, 85, 0.15);
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* === HERO === */
+  .hero {
+    position: relative;
+    padding: 5rem 2rem 6rem;
+    text-align: center;
+    overflow: hidden;
+    background: var(--bg-primary);
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse at 30% 50%, rgba(225, 112, 85, 0.15) 0%, transparent 50%),
+      radial-gradient(ellipse at 70% 50%, rgba(108, 92, 231, 0.1) 0%, transparent 50%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-bg {
+    position: absolute; inset: 0; z-index: 0; opacity: 0.16;
+  }
+
+  .hero-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+    filter: saturate(1.3) brightness(0.45);
+  }
+
+  .hero-gradient {
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg,
+      rgba(17, 17, 23, 0.2) 0%,
+      rgba(17, 17, 23, 0.6) 60%,
+      var(--bg-primary) 100%
+    );
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative; z-index: 2; max-width: 800px; margin: 0 auto;
+  }
+
+  .hero-badge {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.25);
+    color: var(--brand-emerald-light);
+    padding: 0.35rem 1rem;
+    border-radius: 100px;
+    font-size: 0.75rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.12em;
+    margin-bottom: 1.25rem;
+    backdrop-filter: blur(8px);
+  }
+
+  .hero-badge .dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: #fdcb6e;
+    animation: pulse-dot 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.2; }
+  }
+
+  .hero-content h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 900; line-height: 1.1; letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #ffffff 0%, var(--brand-emerald-light) 40%, var(--brand-emerald) 70%, #fab1a0 100%);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.75rem;
+  }
+
+  .hero-sub {
+    font-size: clamp(0.95rem, 1.5vw, 1.15rem);
+    color: var(--text-secondary);
+    max-width: 600px; margin: 0 auto 1.25rem;
+    font-weight: 400; line-height: 1.6;
+  }
+
+  .hero-meta {
+    display: flex; align-items: center; justify-content: center;
+    gap: 1.25rem; flex-wrap: wrap;
+    color: var(--text-muted); font-size: 0.85rem;
+  }
+  .hero-meta span { display: flex; align-items: center; gap: 0.35rem; }
+  .hero-meta .sep { color: rgba(42, 42, 70, 0.8); }
+
+  /* === STATS === */
+  .stats-bar {
+    margin: -2.5rem auto 0;
+    max-width: 1200px; padding: 0 2rem;
+    position: relative; z-index: 3;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 0.5rem;
+    background: var(--glass-bg);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-lg);
+    padding: 1rem;
+  }
+
+  .stat-item { text-align: center; padding: 0.35rem 0.25rem; }
+  .stat-item .num {
+    font-size: 1.4rem; font-weight: 800;
+    background: linear-gradient(135deg, #fab1a0, #e17055);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.3;
+  }
+  .stat-item .lbl {
+    font-size: 0.7rem; color: var(--text-muted);
+    text-transform: uppercase; letter-spacing: 0.06em;
+    font-weight: 500; margin-top: 0.1rem;
+  }
+
+  /* === MAIN === */
+  .container { max-width: 1200px; margin: 0 auto; padding: 2rem 2rem 3rem; }
+
+  /* === FILM SCHOOL SPOTLIGHT === */
+  .filmschool-spotlight {
+    position: relative;
+    margin: 2rem 0 2.5rem;
+    padding: 2rem;
+    border-radius: var(--radius-lg);
+    background: linear-gradient(135deg, rgba(253, 203, 110, 0.08), rgba(225, 112, 85, 0.04));
+    border: 1px solid rgba(253, 203, 110, 0.15);
+  }
+
+  .filmschool-spotlight .badge {
+    font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.08em; color: #fdcb6e; margin-bottom: 0.75rem;
+    display: flex; align-items: center; gap: 0.4rem;
+  }
+
+  .filmschool-spotlight h2 {
+    font-size: clamp(1.1rem, 2vw, 1.4rem);
+    font-weight: 800; line-height: 1.3; margin-bottom: 0.5rem; color: #fff;
+  }
+
+  .filmschool-spotlight p { color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 1rem; }
+
+  .filmschool-spotlight .tip-box {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(253, 203, 110, 0.12);
+    border-radius: var(--radius-md); padding: 1.25rem; margin: 1rem 0;
+  }
+
+  .filmschool-spotlight .tip-label {
+    font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.06em; color: #fdcb6e; margin-bottom: 0.3rem;
+  }
+
+  .filmschool-spotlight .tip-box p {
+    font-size: 0.9rem; color: var(--text-primary); line-height: 1.6;
+  }
+
+  .filmschool-spotlight .card-link {
+    display: inline-flex; align-items: center; gap: 0.35rem;
+    color: #fab1a0; font-size: 0.85rem; font-weight: 600; text-decoration: none;
+    padding: 0.4rem 0.8rem;
+    background: rgba(225, 112, 85, 0.1);
+    border-radius: var(--radius-sm);
+    transition: all 0.2s;
+  }
+  .filmschool-spotlight .card-link:hover { background: rgba(225, 112, 85, 0.2); gap: 0.6rem; }
+
+  /* === SECTION HEADERS === */
+  .section-header {
+    position: relative;
+    margin: 2.5rem 0 1.25rem;
+    padding: 1.25rem 1.5rem;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+
+  .section-header-bg {
+    position: absolute; inset: 0; z-index: 0; opacity: 0.12;
+  }
+  .section-header-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .section-header-shade {
+    position: absolute; inset: 0;
+    background: linear-gradient(90deg,
+      rgba(17, 17, 23, 0.97) 0%,
+      rgba(17, 17, 23, 0.7) 50%,
+      rgba(17, 17, 23, 0.3) 100%
+    );
+    z-index: 1;
+  }
+
+  .section-header-inner {
+    position: relative; z-index: 2;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+
+  .section-header-inner .icon {
+    font-size: 1.15rem;
+    width: 34px; height: 34px;
+    display: flex; align-items: center; justify-content: center;
+    background: rgba(225, 112, 85, 0.1);
+    border-radius: var(--radius-sm);
+    flex-shrink: 0;
+  }
+
+  .section-header-inner h2 {
+    font-size: 1rem; font-weight: 700; color: #fff;
+  }
+
+  .section-header-inner .count {
+    margin-left: auto;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.15rem 0.6rem;
+    border-radius: 100px;
+    flex-shrink: 0;
+  }
+
+  /* === CARDS === */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .card {
+    position: relative;
+    background: linear-gradient(
+      180deg,
+      rgba(18, 18, 32, 0.92) 0%,
+      rgba(14, 14, 26, 0.96) 60%,
+      rgba(10, 10, 20, 0.98) 100%
+    );
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 1.25rem;
+    transition: all 0.25s ease;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
+  }
+
+  /* Dark vignette for depth */
+  .card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.25), transparent);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .card > * { position: relative; z-index: 1; }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    opacity: 0;
+    transition: opacity 0.25s;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+  }
+
+  .card[data-type="filmschool"]::before { background: linear-gradient(90deg, #fdcb6e, #ffeaa7); }
+  .card[data-type="industry"]::before { background: linear-gradient(90deg, #a29bfe, #6c5ce7); }
+  .card[data-type="tools"]::before { background: linear-gradient(90deg, #00b894, #55efc4); }
+  .card[data-type="niches"]::before { background: linear-gradient(90deg, #fd79a8, #fab1a0); }
+  .card[data-type="offers"]::before { background: linear-gradient(90deg, #74b9ff, #0984e3); }
+  .card[data-type="inspire"]::before { background: linear-gradient(90deg, #fab1a0, #e17055); }
+
+  .card:hover {
+    background: linear-gradient(
+      180deg,
+      rgba(22, 22, 42, 0.95) 0%,
+      rgba(18, 18, 36, 0.97) 60%,
+      rgba(13, 13, 24, 0.99) 100%
+    );
+    border-color: rgba(0, 184, 148, 0.35);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35), 0 0 20px rgba(0, 184, 148, 0.05);
+  }
+  .card:hover::before { opacity: 1; }
+  .card:hover::after { opacity: 0.8; }
+  .card:focus-within {
+    border-color: rgba(0, 184, 148, 0.35);
+    box-shadow: 0 0 0 1px rgba(0, 184, 148, 0.3);
+  }
+
+  .card-tag {
+    display: inline-block;
+    font-size: 0.65rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    padding: 0.2rem 0.55rem; border-radius: 4px;
+    margin-bottom: 0.5rem; width: fit-content;
+  }
+
+  .card-tag.filmschool { background: rgba(253, 203, 110, 0.15); color: #fdcb6e; }
+  .card-tag.industry { background: rgba(108, 92, 231, 0.15); color: #a29bfe; }
+  .card-tag.tools { background: rgba(0, 184, 148, 0.15); color: #00b894; }
+  .card-tag.niches { background: rgba(253, 121, 168, 0.15); color: #fd79a8; }
+  .card-tag.offers { background: rgba(9, 132, 227, 0.15); color: #74b9ff; }
+  .card-tag.inspire { background: rgba(225, 112, 85, 0.15); color: #fab1a0; }
+
+  .card h3 {
+    font-size: 0.95rem; font-weight: 700;
+    margin-bottom: 0.35rem; line-height: 1.4; color: #fff;
+  }
+
+  .card p {
+    font-size: 0.85rem; color: var(--text-secondary);
+    flex: 1; margin-bottom: 0.75rem; line-height: 1.55;
+  }
+
+  .card-footer {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 0.5rem; margin-top: auto;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgba(42, 42, 70, 0.3);
+  }
+
+  .card-source { font-size: 0.7rem; color: var(--text-muted); }
+
+  .card-link {
+    font-size: 0.78rem; color: var(--brand-emerald-light); text-decoration: none;
+    font-weight: 500; padding: 0.3rem 0.6rem;
+    border-radius: 4px; transition: all 0.2s; white-space: nowrap;
+  }
+  .card-link:hover { background: var(--brand-emerald-glow); }
+  .card-link:focus-visible { outline: 2px solid var(--brand-emerald); outline-offset: 2px; }
+
+  /* === OFFER CTA === */
+  .offer-cta {
+    background: linear-gradient(135deg, rgba(9,132,227,0.1), rgba(108,92,231,0.05));
+    border: 1px solid rgba(9,132,227,0.15);
+    border-radius: var(--radius-md); padding: 1.25rem;
+    margin: 1rem 0; text-align: center;
+  }
+  .offer-cta h3 { color: #74b9ff; margin-bottom: 0.5rem; }
+  .offer-cta p { color: var(--text-secondary); font-size: 0.85rem; }
+
+  /* === EMPTY STATE === */
+  .empty-section {
+    text-align: center; padding: 1.5rem;
+    color: var(--text-muted); font-size: 0.85rem;
+    background: var(--bg-card);
+    border: 1px dashed var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  /* === DIVIDER === */
+  .divider {
+    display: flex; align-items: center; justify-content: center; gap: 0.75rem;
+    margin: 2.5rem 0;
+    color: var(--text-muted); font-size: 0.65rem;
+    text-transform: uppercase; letter-spacing: 0.2em; font-weight: 600;
+  }
+  .divider::before, .divider::after {
+    content: ''; flex: 1; height: 1px;
+    background: linear-gradient(90deg, transparent, var(--border), transparent);
+  }
+
+  /* === FOOTER === */
+  .footer {
+    text-align: center; padding: 2rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .footer-links {
+    display: flex; align-items: center; justify-content: center;
+    gap: 1.5rem; flex-wrap: wrap; margin-bottom: 0.75rem;
+  }
+
+  .footer-links a {
+    color: var(--text-secondary); text-decoration: none;
+    font-size: 0.85rem; font-weight: 500;
+    padding: 0.3rem 0.6rem; border-radius: 4px; transition: all 0.2s;
+  }
+  .footer-links a:hover { color: var(--brand-emerald-light); background: var(--brand-emerald-glow); }
+  .footer-links a:focus-visible { outline: 2px solid var(--brand-emerald); outline-offset: 2px; }
+
+  .footer-copy { color: var(--text-muted); font-size: 0.75rem; }
+
+  .seal {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: rgba(225, 112, 85, 0.05);
+    border: 1px solid rgba(225, 112, 85, 0.08);
+    padding: 0.25rem 0.9rem; border-radius: 100px;
+    font-size: 0.6rem; color: var(--text-muted);
+    letter-spacing: 0.05em; margin-bottom: 0.75rem;
+  }
+
+  /* === FOCUS VISIBLE === */
+  :focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  /* === REDUCED MOTION === */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+    html { scroll-behavior: auto; }
+  }
+
+  /* === RESPONSIVE === */
+  @media (max-width: 768px) {
+    .hero { padding: 3rem 1.25rem 4rem; }
+    .stats-bar { margin-top: -2rem; padding: 0 1rem; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 0.35rem; padding: 0.75rem; }
+    .container { padding: 1.25rem 1rem; }
+    .cards-grid { grid-template-columns: 1fr; }
+    .filmschool-spotlight { padding: 1.5rem; }
+    .section-header { padding: 1rem 1.25rem; }
+    .section-header-inner h2 { font-size: 0.9rem; }
+    .footer-links { flex-direction: column; gap: 0.5rem; }
+  }
+
+  @media (max-width: 480px) {
+    .hero-content h1 { font-size: 1.75rem; }
+    .hero-badge { font-size: 0.65rem; }
+    .card h3 { font-size: 0.9rem; }
+    .card p { font-size: 0.82rem; }
+    .stat-item .num { font-size: 1.2rem; }
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .card { animation: fadeUp 0.4s ease both; }
+  .card:nth-child(1) { animation-delay: 0.03s; }
+  .card:nth-child(2) { animation-delay: 0.06s; }
+  .card:nth-child(3) { animation-delay: 0.09s; }
+  .card:nth-child(4) { animation-delay: 0.12s; }
+
+  html { scroll-behavior: smooth; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-bg">
+    <img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1600&q=80&fm=jpg" alt="" width="1600" height="900" loading="eager">
+  </div>
+  <div class="hero-gradient"></div>
+  <div class="hero-content">
+    <div class="hero-badge">
+      <span class="dot"></span>
+      🎬 CREATOR INTELLIGENCE FEED
+    </div>
+    <h1>AI Video Pulse</h1>
+    <p class="hero-sub">Film education, industry intelligence, tools, trends, offers &amp; inspiration — for building Lord FaithDavid's AI video empire.</p>
+    <div class="hero-meta">
+      <span>📅 <span id="time-display">Friday, May 15, 2026 at 06:12 PM ET</span></span>
+      <span class="sep">◆</span>
+      <span>🔄 Every 3 hours</span>
+      <span class="sep">◆</span>
+      <span>📊 22 items</span>
+    </div>
+  </div>
+</div>
+
+<div class="stats-bar">
+  <div class="stats-grid">
+    <div class="stat-item"><div class="num">22</div><div class="lbl">Total</div></div>
+    <div class="stat-item"><div class="num">4</div><div class="lbl">🎬 School</div></div>
+    <div class="stat-item"><div class="num">4</div><div class="lbl">📰 Industry</div></div>
+    <div class="stat-item"><div class="num">4</div><div class="lbl">🔧 Tools</div></div>
+    <div class="stat-item"><div class="num">3</div><div class="lbl">📈 Trends</div></div>
+    <div class="stat-item"><div class="num">3</div><div class="lbl">💼 Offers</div></div>
+  </div>
+</div>
+
+<div class="container">
+
+<div class="filmschool-spotlight">
+  <div class="badge">🎓 Film School Tip of the Day</div>
+  <div class="tip-box">
+    <div class="tip-label">📖 Learn This</div>
+    <h2>Peter Jackson at Cannes: &#39;AI Is Just a Tool Like Any Other&#39; — Teases Hunt for Gollum</h2>
+    <p>Speaking at the 2026 Cannes Film Festival, Peter Jackson framed AI as a natural evolution of filmmaking tools, not a threat. The Lord of the Rings director teased his upcoming &#39;Hunt for Gollum&#39; project and emphasized that AI-assisted workflows can democratize blockbuster-quality visuals for indie creators. His endorsement marks a major shift in how established Hollywood figures publicly discuss generative AI.</p>
+  </div>
+  <a class="card-link" href="https://variety.com/2026/film/news/peter-jackson-ai-filmmaking-hunt-for-gollum-cannes-1236726156/" target="_blank">Deep dive →</a>
+</div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🎬</span>
+      <h2>Film School</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="filmschool">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1485846234645?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Peter Jackson at Cannes: &#39;AI Is Just a Tool Like Any Other&#39; — Teases Hunt for Gollum</h3>
+    <p>Speaking at the 2026 Cannes Film Festival, Peter Jackson framed AI as a natural evolution of filmmaking tools, not a threat. The Lord of the Rings director teased his upcoming &#39;Hunt for Gollum&#39; project and emphasized that AI-assisted workflows can democratize blockbuster-quality visuals for indie creators. His endorsement marks a major shift in how established Hollywood figures publicly discuss generative AI.</p>
+  <div class="card-footer">
+    <span class="card-source">Variety</span>
+    <a class="card-link" href="https://variety.com/2026/film/news/peter-jackson-ai-filmmaking-hunt-for-gollum-cannes-1236726156/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="filmschool">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1523050854058-8df90110c7f1?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>AI Film School Trains Next Generation of Hollywood Moviemakers — Reuters</h3>
+    <p>Reuters reports on a new wave of AI-focused film schools training creators to build production pipelines around tools like Runway, Kling, and Seedance. The curriculum covers neural scriptwriting, AI storyboarding, generative video production, and AI-assisted editing — preparing students for a hybrid workflow reality where traditional cinematography meets generative AI.</p>
+  <div class="card-footer">
+    <span class="card-source">Reuters</span>
+    <a class="card-link" href="https://www.reuters.com/technology/ai-film-school-hollywood-2026-02-14/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="filmschool">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Roger Avary to Direct &#39;Paradise Lost&#39; Using AI-Driven Filmmaking</h3>
+    <p>Pulp Fiction co-writer Roger Avary is directing a feature adaptation of &#39;Paradise Lost&#39; using AI-driven filmmaking techniques — one of the first major Hollywood-adjacent projects to commit fully to AI-generated visuals and virtual production. The project signals growing acceptance of AI as a legitimate production methodology for narrative features, not just experimental shorts.</p>
+  <div class="card-footer">
+    <span class="card-source">World of Reel</span>
+    <a class="card-link" href="https://www.worldofreel.com/blog/2026/4/29/roger-avary-paradise-lost-ai-film" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="filmschool">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>DCAA &amp; Video Rebirth Launch Africa&#39;s First Industrial AI Filmmaking Programme</h3>
+    <p>The Digital Creators Association of Africa partnered with Video Rebirth to launch Africa&#39;s first industrial-scale AI filmmaking training programme. The initiative aims to train 1,000+ creators across Nigeria, Kenya, and South Africa in AI video production workflows — opening new economic opportunities in what the UN calls the world&#39;s fastest-growing creative economy region.</p>
+  <div class="card-footer">
+    <span class="card-source">Independent Newspaper Nigeria</span>
+    <a class="card-link" href="https://independent.ng/dcaa-video-rebirth-launch-africas-first-industrial-ai-filmmaking-programme/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">📰</span>
+      <h2>Industry News</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">📰 Industry News</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Runway Started by Helping Filmmakers — Now It Wants to Beat Google at AI</h3>
+    <p>TechCrunch reports Runway is betting big that video generation is the path to world models — positioning itself not just as a creative tool but as a foundational AI company competing with Google DeepMind. With Gen-4.5 now production-grade across all tiers, Runway aims to leapfrog traditional AI labs by proving video understanding is the key to general intelligence.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">📰 Industry News</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Kuaishou Eyes $20B IPO for Kling AI Video Unit</h3>
+    <p>Chinese tech giant Kuaishou is reportedly weighing a $20 billion IPO for its Kling AI video generation unit, capitalizing on explosive demand after OpenAI&#39;s Sora shutdown. Kling has emerged as the leading AI video platform in Asia with over 50M monthly active users and is aggressively expanding into Western markets through strategic partnerships.</p>
+  <div class="card-footer">
+    <span class="card-source">Bloomberg / Let&#39;s Data Science</span>
+    <a class="card-link" href="https://www.bloomberg.com/news/articles/2026-05-11/kuaishou-weighs-20-billion-ipo-for-ai-video-unit-kling" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">📰 Industry News</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Two AI Video iPhone Apps Go Viral After Rising from Ashes of OpenAI&#39;s Sora</h3>
+    <p>9to5Mac reports two new AI video iPhone apps have gone viral, filling the void left by OpenAI&#39;s Sora shutdown. The apps leverage on-device neural engines for real-time video generation and editing, bringing Hollywood-grade AI video tools directly to mobile creators. One app hit #1 in the App Store&#39;s photo &amp; video category within 48 hours of launch.</p>
+  <div class="card-footer">
+    <span class="card-source">9to5Mac</span>
+    <a class="card-link" href="https://9to5mac.com/2026/05/13/ai-video-iphone-apps-sora-shutdown/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">📰 Industry News</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Google Demand Gen Adds AI Video Creation with New &#39;Create Video&#39; CTA</h3>
+    <p>Google&#39;s Demand Gen platform now includes native AI video creation — advertisers can generate video ads directly from product descriptions using Google&#39;s Veo 3.1 model. The &#39;Create Video&#39; CTA streamlines ad production from concept to delivery in under 5 minutes, potentially disrupting the $60B video ad production industry.</p>
+  <div class="card-footer">
+    <span class="card-source">ALM Corp</span>
+    <a class="card-link" href="https://almcorp.com/google-demand-gen-ai-video-creation-2026/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🔧</span>
+      <h2>Tools &amp; Tech</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>TikTok Symphony Gets Dreamina Seedance 2.0 Integration — What Changes for Advertisers</h3>
+    <p>TikTok&#39;s Symphony ad platform now integrates Dreamina&#39;s Seedance 2.0, giving advertisers direct access to state-of-the-art AI video generation within TikTok&#39;s ecosystem. Brands can generate multi-shot narrative sequences, product demos, and cinematic brand stories directly in TikTok&#39;s ad manager — massively reducing production costs for short-form video campaigns.</p>
+  <div class="card-footer">
+    <span class="card-source">PPC Land</span>
+    <a class="card-link" href="https://ppcland.com/tiktok-symphony-dreamina-seedance-2-0-advertisers-2026/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Novi AI Launches &#39;Long Video Agent&#39; — Narrative AI Video up to 5 Minutes</h3>
+    <p>Novi AI released its Long Video Agent, capable of generating coherent narrative video content up to 5 minutes — significantly longer than most AI video generators that max out at 60 seconds. The agent maintains character consistency, plot coherence, and visual style across scenes, opening AI video to documentary, educational, and short film applications.</p>
+  <div class="card-footer">
+    <span class="card-source">Business Insider / Novi AI</span>
+    <a class="card-link" href="https://markets.businessinsider.com/news/stocks/novi-ai-launches-long-video-agent-2026-04" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>HappyHorse-1.0 Crowned #1 Open-Source AI Video Generator on Global Benchmark</h3>
+    <p>HappyHorse-1.0 topped the Artificial Analysis Global Leaderboard as the #1 open-source AI video generator in April 2026. The model achieves competitive visual quality against proprietary systems like Runway Gen-4.5 and Kling 3.0 while being fully open-weight — a major milestone for democratizing AI video production outside the walled gardens of big tech.</p>
+  <div class="card-footer">
+    <span class="card-source">24-7 Press Release / Artificial Analysis</span>
+    <a class="card-link" href="https://www.24-7pressrelease.com/press-release/happyhorse-10-crowned-1-open-source-ai-video-generator-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Shutterstock Adds Google&#39;s Veo &amp; Runway Gen-4.5 — Two Free Generations per Account</h3>
+    <p>Stock Titan reports Shutterstock now offers two free AI video generations per account via integration with Google Veo and Runway Gen-4.5. The move positions Shutterstock as a distribution hub for AI-generated stock footage, giving creators legal access to AI video content with full commercial licensing — addressing the copyright ambiguity that has plagued AI-generated media.</p>
+  <div class="card-footer">
+    <span class="card-source">Stock Titan</span>
+    <a class="card-link" href="https://stocktitan.net/news/shutterstock/shutterstock-adds-google-runway-ai-video-generations/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">📈</span>
+      <h2>Trends &amp; Niches</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="niches">
+    <div class="card-tag niches">📈 Trends & Niches</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>How AI Video Generators Are Changing Social Media Marketing in 2026</h3>
+    <p>PC Tech Magazine reports AI video generators are transforming social media marketing — brands using AI-generated short-form video see 3-5x higher engagement rates than static content. The article covers how tools like Kling, Runway, and Pika enable creators to produce platform-optimized videos for TikTok, Reels, and Shorts in minutes instead of days.</p>
+  <div class="card-footer">
+    <span class="card-source">PC Tech Magazine</span>
+    <a class="card-link" href="https://pctechmag.com/2026/05/how-ai-video-generators-changing-social-media-marketing-2026/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="niches">
+    <div class="card-tag niches">📈 Trends & Niches</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Video Trends That Matter: Why 2026 Changes Everything for Content Creators</h3>
+    <p>The Media Online&#39;s 2026 trend report highlights the collapse of the uncanny valley — AI avatars and voices are now lifelike enough for mainstream commercial use. Smart-cropping and auto-reframing tools enable cinematic multi-format distribution from single source videos, while interactive video experiences where viewers influence narratives emerge as the next frontier.</p>
+  <div class="card-footer">
+    <span class="card-source">The Media Online</span>
+    <a class="card-link" href="https://themediaonline.co.za/2026/05/video-trends-2026-changes-everything/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="niches">
+    <div class="card-tag niches">📈 Trends & Niches</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>AI-Driven Video Formats: How Creators Keep Up With Viral Trends in 2026</h3>
+    <p>Space Coast Daily explores how AI video tools enable creators to rapidly iterate on trending formats — from AI-generated lip-sync dubbing for global reach to instant green-screen replacement and AI-driven visual effects that match viral aesthetics. The key insight: creators who combine AI speed with human creative direction are winning the algorithmic lottery on every major platform.</p>
+  <div class="card-footer">
+    <span class="card-source">Space Coast Daily</span>
+    <a class="card-link" href="https://spacecoastdaily.com/2026/04/ai-driven-video-formats-creators-viral-trends/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">💼</span>
+      <h2>Offers &amp; Selling</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="offers">
+    <div class="card-tag offers">💼 Offers & Selling</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>AI Tools Every Freelancer Should Use in 2026 to Maximize Income</h3>
+    <p>A comprehensive guide covering the AI tool stack that separates top-earning freelancers from the rest. For AI video creators specifically: Runway Gen-4.5 for production-grade footage, Kling for high-volume short-form content, Seedance for narrative sequences, and Descript for AI-powered editing. The guide emphasizes specialization as the key to premium rates in a crowded market.</p>
+  <div class="card-footer">
+    <span class="card-source">Vocal Media</span>
+    <a class="card-link" href="https://vocal.media/futurism/ai-tools-every-freelancer-should-use-in-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="offers">
+    <div class="card-tag offers">💼 Offers & Selling</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>How to Make Money With AI Video in 2026 — 15 Effective Strategies</h3>
+    <p>Hostinger&#39;s 2026 guide covers 15 proven ways to monetize AI video skills, from AI-generated social media content for local businesses ($200-500/month retainers) to AI video course creation ($1,000-5,000 per course), AI-powered YouTube channel management, and enterprise AI video consulting at $150-300/hour. Includes actionable pricing tiers and client acquisition strategies.</p>
+  <div class="card-footer">
+    <span class="card-source">Hostinger</span>
+    <a class="card-link" href="https://www.hostinger.com/tutorials/how-to-make-money-with-ai" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="offers">
+    <div class="card-tag offers">💼 Offers & Selling</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Upwork 2026 Market Report: Specialized AI Video Expertise Is the Competitive Moat</h3>
+    <p>GigRadar&#39;s Upwork Market Report reveals that with 18M freelancers competing for 5M clients, general video production no longer stands out. Creators offering specialized AI video services — AI avatar creation, generative B-roll automation, automated short-form repurposing — command 3-5x higher rates and significantly higher proposal win rates on the platform.</p>
+  <div class="card-footer">
+    <span class="card-source">GigRadar</span>
+    <a class="card-link" href="https://gigradar.io/blog/upwork-market-report-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1511988617509-a57c8a288659?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">✨</span>
+      <h2>Inspiration</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="inspire">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Peter Jackson Endorses AI in Films at Cannes 2026: &#39;It&#39;s Just Fear of the Unknown&#39;</h3>
+    <p>Peter Jackson told the Cannes Film Festival audience that opposition to AI in filmmaking stems from fear of the unknown, not genuine concerns about artistry. He revealed AI-assisted pre-visualization and VFX workflows on &#39;Hunt for Gollum&#39; and predicted that within 5 years, AI-assisted filmmaking will be as routine as digital editing is today. A landmark moment for AI acceptance in Hollywood.</p>
+  <div class="card-footer">
+    <span class="card-source">Hindustan Times / Variety</span>
+    <a class="card-link" href="https://www.hindustantimes.com/entertainment/peter-jackson-ai-films-cannes-2026-101736528119476.html" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="inspire">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1487180144351-b8472da7d491?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>The Oscars Are Barring AI-Generated Films — But Gaming Awards Should Do the Same</h3>
+    <p>Kotaku reports the Academy of Motion Picture Arts and Sciences has formally barred AI-generated films from Oscar consideration, sparking intense debate about the line between AI-assisted and AI-generated filmmaking. Meanwhile, the Astana AI Film Festival opened its global call for submissions, creating a dedicated venue for AI-native cinema to be celebrated on its own terms.</p>
+  <div class="card-footer">
+    <span class="card-source">Kotaku</span>
+    <a class="card-link" href="https://kotaku.com/oscars-barring-ai-generated-films-2026-1851567890" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="inspire">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Astana AI Film Festival Opens Global Call for Submissions — AI Cinema&#39;s Cannes Moment</h3>
+    <p>The Astana AI Film Festival (Kazakhstan) opened its global call for AI-generated film submissions, positioning itself as the world&#39;s premier showcase for AI-native cinema. With categories for short films, music videos, and experimental works, the festival represents a growing ecosystem of dedicated AI film festivals filling the gap left by traditional awards bodies.</p>
+  <div class="card-footer">
+    <span class="card-source">The Astana Times</span>
+    <a class="card-link" href="https://astanatimes.com/2026/04/astana-ai-film-festival-opens-global-call-for-submissions/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="inspire">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>PRWeek Global Awards 2026: Best Use of AI Goes to Groundbreaking AI Video Campaign</h3>
+    <p>The PRWeek Global Awards 2026 honored the &#39;Best Use of AI or PR Software&#39; category with a campaign built entirely around AI-generated video content. The winning entry demonstrated how brands can leverage AI video for authentic storytelling at scale — producing 200+ localized video variants from a single production pipeline for a global campaign.</p>
+  <div class="card-footer">
+    <span class="card-source">PR Week UK</span>
+    <a class="card-link" href="https://www.prweek.com/article/1928456/prweek-global-awards-2026-best-use-ai-pr-software" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="divider">♔ Trillion Empire Intelligence ♔</div>
+
+</div>
+
+<div class="footer">
+  <div class="seal">
+    👑 TRINITY EMPIRE · CREATOR DIVISION
+  </div>
+  <div class="footer-links">
+    <a href="/index.html">View All Pulses</a> · <a href="/latest-tech-pulse.html">Tech Pulse →</a>
+  </div>
+  <div class="footer-copy">
+    ♥ Trinity Empire · AI Video Pulse · Delivered every 3 hours
+  </div>
+</div>
+
+<script>
+  document.getElementById('time-display').textContent = new Date().toLocaleString('en-US', {
+    timeZone: 'America/New_York',
+    weekday: 'long', year: 'numeric', month: 'long', day: 'numeric',
+    hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
+  });
+</script>
+</body>
+</html>

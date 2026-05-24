@@ -1,0 +1,1014 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tech Pulse 24/7 — Trillion Empire Intelligence</title>
+<meta name="description" content="Curated frontier intelligence for Lord FaithDavid — AI breakthroughs, startup funding, developer tools, industry movements, and open source.">
+<meta property="og:title" content="Tech Pulse 24/7 — Trillion Empire Intelligence">
+<meta property="og:description" content="Curated frontier intelligence — AI breakthroughs, startup funding, developer tools, industry movements, and open source.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tech-pulse-trillion.surge.sh/latest-tech-pulse.html">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Tech Pulse 24/7 — Trillion Empire Intelligence">
+<meta name="twitter:description" content="Your 24/7 technology intelligence feed.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-primary: #0d0d15;
+    --bg-secondary: #16161f;
+    --bg-card: rgba(18, 18, 32, 0.9);
+    --bg-card-hover: rgba(24, 24, 42, 0.95);
+    --border: rgba(42, 42, 70, 0.5);
+    --border-glow: rgba(0, 184, 148, 0.35);
+    --accent-ai: #6c5ce7;
+    --accent-funding: #00b894;
+    --accent-tools: #fd79a8;
+    --accent-industry: #0984e3;
+    --accent-oss: #fdcb6e;
+    --brand-emerald: #00b894;
+    --brand-emerald-light: #55efc4;
+    --brand-emerald-glow: rgba(0, 184, 148, 0.15);
+    --text-primary: #e8e8f0;
+    --text-secondary: #a0a0c0;
+    --text-muted: #7878a0;
+    --glass-bg: rgba(18, 18, 40, 0.7);
+    --glass-border: rgba(0, 184, 148, 0.15);
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* === HERO === */
+  .hero {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+    background: var(--bg-primary);
+    padding: 5rem 2rem 6rem;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse at 20% 50%, rgba(0, 184, 148, 0.2) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 50%, rgba(108, 92, 231, 0.1) 0%, transparent 50%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    opacity: 0.18;
+  }
+
+  .hero-bg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: saturate(1.2) brightness(0.5);
+  }
+
+  .hero-gradient {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg,
+      rgba(13, 13, 21, 0.2) 0%,
+      rgba(13, 13, 21, 0.6) 60%,
+      var(--bg-primary) 100%
+    );
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+  }
+
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.25);
+    color: var(--brand-emerald-light);
+    padding: 0.35rem 1rem;
+    border-radius: 100px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 1.25rem;
+    backdrop-filter: blur(8px);
+  }
+
+  .hero-badge .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--brand-emerald);
+    animation: pulse-dot 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.2; }
+  }
+
+  .hero-content h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 900;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #ffffff 0%, var(--brand-emerald-light) 40%, var(--brand-emerald) 70%, #6c5ce7 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.75rem;
+  }
+
+  .hero-sub {
+    font-size: clamp(0.95rem, 1.5vw, 1.15rem);
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin: 0 auto 1.25rem;
+    font-weight: 400;
+    line-height: 1.6;
+  }
+
+  .hero-meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+
+  .hero-meta span { display: flex; align-items: center; gap: 0.35rem; }
+  .hero-meta .sep { color: rgba(42, 42, 70, 0.8); }
+
+  /* === QUICK STATS === */
+  .stats-bar {
+    margin: -2.5rem auto 0;
+    max-width: 1200px;
+    padding: 0 2rem;
+    position: relative;
+    z-index: 3;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 0.5rem;
+    background: var(--glass-bg);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-lg);
+    padding: 1rem;
+  }
+
+  .stat-item {
+    text-align: center;
+    padding: 0.35rem 0.25rem;
+  }
+
+  .stat-item .num {
+    font-size: 1.4rem;
+    font-weight: 800;
+    background: linear-gradient(135deg, var(--brand-emerald-light), var(--brand-emerald));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.3;
+  }
+
+  .stat-item .lbl {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+    margin-top: 0.1rem;
+  }
+
+  /* === MAIN === */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 2rem 3rem;
+  }
+
+  /* === SPOTLIGHT === */
+  .spotlight {
+    position: relative;
+    margin: 2rem 0 2.5rem;
+    border-radius: var(--radius-xl);
+    overflow: hidden;
+    background: linear-gradient(135deg,
+      rgba(0, 184, 148, 0.1) 0%,
+      rgba(108, 92, 231, 0.05) 50%,
+      rgba(0, 184, 148, 0.02) 100%
+    );
+    border: 1px solid rgba(0, 184, 148, 0.2);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    align-items: center;
+  }
+
+  .spotlight-visual {
+    position: relative;
+    overflow: hidden;
+    aspect-ratio: 16 / 9;
+    background: var(--bg-secondary);
+    min-height: 200px;
+  }
+
+  .spotlight-visual img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    filter: brightness(0.85);
+    transition: transform 0.5s;
+  }
+
+  .spotlight:hover .spotlight-visual img {
+    transform: scale(1.03);
+  }
+
+  .spotlight-visual::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, rgba(13, 13, 21, 0.6) 0%, transparent 50%);
+  }
+
+  .spotlight-content {
+    padding: 2rem;
+    position: relative;
+  }
+
+  .spotlight-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--brand-emerald-light);
+    margin-bottom: 0.75rem;
+    padding: 0.2rem 0.6rem;
+    background: var(--brand-emerald-glow);
+    border-radius: 4px;
+  }
+  .spotlight-badge::before { content: '★ '; }
+
+  .spotlight h2 {
+    font-size: clamp(1.15rem, 2vw, 1.45rem);
+    font-weight: 800;
+    line-height: 1.35;
+    margin-bottom: 0.6rem;
+    color: #fff;
+  }
+
+  .spotlight p {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+
+  .spotlight .read-more {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: var(--brand-emerald-light);
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 0.4rem 0.8rem;
+    background: var(--brand-emerald-glow);
+    border-radius: var(--radius-sm);
+    transition: all 0.2s;
+    border: 1px solid rgba(0, 184, 148, 0.2);
+  }
+  .spotlight .read-more:hover {
+    background: rgba(0, 184, 148, 0.25);
+    gap: 0.6rem;
+    border-color: rgba(0, 184, 148, 0.4);
+  }
+  .spotlight .read-more:focus-visible {
+    outline: 2px solid var(--brand-emerald-light);
+    outline-offset: 2px;
+  }
+
+  /* === SECTION HEADERS === */
+  .section-header {
+    position: relative;
+    margin: 2.5rem 0 1.25rem;
+    padding: 1.25rem 1.5rem;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+
+  .section-header-bg {
+    position: absolute; inset: 0; z-index: 0; opacity: 0.12;
+  }
+  .section-header-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .section-header-shade {
+    position: absolute; inset: 0;
+    background: linear-gradient(90deg,
+      rgba(13, 13, 21, 0.97) 0%,
+      rgba(13, 13, 21, 0.7) 50%,
+      rgba(13, 13, 21, 0.3) 100%
+    );
+    z-index: 1;
+  }
+
+  .section-header-inner {
+    position: relative; z-index: 2;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+
+  .section-header-inner .icon {
+    font-size: 1.15rem;
+    width: 34px; height: 34px;
+    display: flex; align-items: center; justify-content: center;
+    background: var(--brand-emerald-glow);
+    border-radius: var(--radius-sm);
+    flex-shrink: 0;
+  }
+
+  .section-header-inner h2 {
+    font-size: 1rem; font-weight: 700; color: #fff;
+  }
+
+  .section-header-inner .count {
+    margin-left: auto;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.15rem 0.6rem;
+    border-radius: 100px;
+    flex-shrink: 0;
+  }
+
+  /* === CARDS === */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .card {
+    position: relative;
+    background: linear-gradient(
+      180deg,
+      rgba(18, 18, 32, 0.92) 0%,
+      rgba(14, 14, 26, 0.96) 60%,
+      rgba(10, 10, 20, 0.98) 100%
+    );
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 1.5rem;
+    transition: all 0.25s ease;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
+  }
+
+  /* Dark vignette gradient on cards for depth */
+  .card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.25), transparent);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .card > * { position: relative; z-index: 1; }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    opacity: 0;
+    transition: opacity 0.25s;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+    z-index: 2;
+  }
+
+  .card[data-type="ai"]::before { background: linear-gradient(90deg, var(--brand-emerald), #6c5ce7); }
+  .card[data-type="funding"]::before { background: linear-gradient(90deg, var(--brand-emerald), #55efc4); }
+  .card[data-type="tools"]::before { background: linear-gradient(90deg, #fd79a8, #fab1a0); }
+  .card[data-type="industry"]::before { background: linear-gradient(90deg, #0984e3, #74b9ff); }
+  .card[data-type="oss"]::before { background: linear-gradient(90deg, #fdcb6e, #ffeaa7); }
+
+  .card:hover {
+    background: linear-gradient(
+      180deg,
+      rgba(22, 22, 42, 0.95) 0%,
+      rgba(18, 18, 36, 0.97) 60%,
+      rgba(13, 13, 24, 0.99) 100%
+    );
+    border-color: var(--border-glow);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35), 0 0 20px rgba(0, 184, 148, 0.05);
+  }
+  .card:hover::before { opacity: 1; }
+  .card:hover::after { opacity: 0.8; }
+
+  .card:focus-within {
+    border-color: var(--border-glow);
+    box-shadow: 0 0 0 1px rgba(0, 184, 148, 0.3);
+  }
+
+  .card-tag {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.2rem 0.55rem;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    width: fit-content;
+  }
+
+  .card-tag.ai { background: rgba(0, 184, 148, 0.15); color: var(--brand-emerald-light); }
+  .card-tag.funding { background: rgba(0, 184, 148, 0.15); color: var(--brand-emerald-light); }
+  .card-tag.tools { background: rgba(253, 121, 168, 0.15); color: #fd79a8; }
+  .card-tag.industry { background: rgba(9, 132, 227, 0.15); color: #74b9ff; }
+  .card-tag.oss { background: rgba(253, 203, 110, 0.15); color: #fdcb6e; }
+
+  .card h3 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    margin-bottom: 0.35rem;
+    line-height: 1.4;
+    color: #fff;
+  }
+
+  .card p {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    flex: 1;
+    margin-bottom: 0.75rem;
+    line-height: 1.55;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-top: auto;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgba(42, 42, 70, 0.3);
+  }
+
+  .card-source {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+  }
+
+  .card-link {
+    font-size: 0.78rem;
+    color: var(--brand-emerald-light);
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+
+  .card-link:hover {
+    background: var(--brand-emerald-glow);
+  }
+  .card-link:focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  /* === EMPTY STATE === */
+  .empty-section {
+    text-align: center;
+    padding: 1.5rem;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    background: var(--bg-card);
+    border: 1px dashed var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  /* === DIVIDER === */
+  .divider {
+    display: flex; align-items: center; justify-content: center; gap: 0.75rem;
+    margin: 2.5rem 0;
+    color: var(--text-muted);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em; font-weight: 600;
+  }
+  .divider::before, .divider::after {
+    content: ''; flex: 1; height: 1px;
+    background: linear-gradient(90deg, transparent, var(--border), transparent);
+  }
+
+  /* === FOOTER === */
+  .footer {
+    text-align: center;
+    padding: 2rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .footer-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-links a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+  }
+
+  .footer-links a:hover {
+    color: var(--brand-emerald-light);
+    background: var(--brand-emerald-glow);
+  }
+  .footer-links a:focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  .footer-copy { color: var(--text-muted); font-size: 0.75rem; }
+
+  .seal {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.08);
+    padding: 0.25rem 0.9rem;
+    border-radius: 100px;
+    font-size: 0.6rem;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+  }
+
+  /* === FOCUS VISIBLE === */
+  :focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  /* === REDUCED MOTION === */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+    html { scroll-behavior: auto; }
+  }
+
+  /* === RESPONSIVE === */
+  @media (max-width: 900px) {
+    .spotlight { grid-template-columns: 1fr; }
+    .spotlight-visual { max-height: 200px; }
+  }
+
+  @media (max-width: 768px) {
+    .hero { padding: 3rem 1.25rem 4rem; }
+    .stats-bar { margin-top: -2rem; padding: 0 1rem; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 0.35rem; padding: 0.75rem; }
+    .container { padding: 1.25rem 1rem; }
+    .cards-grid { grid-template-columns: 1fr; }
+    .card { padding: 1.25rem; }
+    .spotlight-content { padding: 1.5rem; }
+    .section-header { padding: 1rem 1.25rem; }
+    .section-header-inner h2 { font-size: 0.9rem; }
+    .footer-links { flex-direction: column; gap: 0.5rem; }
+  }
+
+  @media (max-width: 480px) {
+    .hero-content h1 { font-size: 1.75rem; }
+    .hero-badge { font-size: 0.65rem; }
+    .card h3 { font-size: 0.9rem; }
+    .card p { font-size: 0.82rem; }
+    .stat-item .num { font-size: 1.2rem; }
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .card { animation: fadeUp 0.4s ease both; }
+  .card:nth-child(1) { animation-delay: 0.03s; }
+  .card:nth-child(2) { animation-delay: 0.06s; }
+  .card:nth-child(3) { animation-delay: 0.09s; }
+  .card:nth-child(4) { animation-delay: 0.12s; }
+  .card:nth-child(5) { animation-delay: 0.15s; }
+  .card:nth-child(6) { animation-delay: 0.18s; }
+
+  html { scroll-behavior: smooth; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-bg">
+    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&q=80&fm=jpg" alt="" width="1600" height="900" loading="eager">
+  </div>
+  <div class="hero-gradient"></div>
+  <div class="hero-content">
+    <div class="hero-badge">
+      <span class="dot"></span>
+      🔬 LIVE INTELLIGENCE FEED
+    </div>
+    <h1>Tech Pulse 24/7</h1>
+    <p class="hero-sub">Curated frontier intelligence — AI breakthroughs, startup funding, developer tools, industry movements, and open source.</p>
+    <div class="hero-meta">
+      <span>📅 <span id="time-display">Saturday, May 09, 2026 at 04:56 AM ET</span></span>
+      <span class="sep">◆</span>
+      <span>🔄 Every 3 hours</span>
+      <span class="sep">◆</span>
+      <span>📊 18 stories</span>
+    </div>
+  </div>
+</div>
+
+<div class="stats-bar">
+  <div class="stats-grid">
+    <div class="stat-item">
+      <div class="num">18</div>
+      <div class="lbl">Total</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">🤖 AI</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">💰 Funding</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">3</div>
+      <div class="lbl">🔧 Tools</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">🏭 Industry</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">3</div>
+      <div class="lbl">📦 OSS</div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+<div class="spotlight">
+  <div class="spotlight-visual">
+    <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=640&q=60" alt="" width="640" height="360" loading="lazy">
+  </div>
+  <div class="spotlight-content">
+    <div class="spotlight-badge">★ Top Story</div>
+    <h2>Radicle 1.8.0 — A Sovereign Code Forge Built on Git, Fully Peer-to-Peer</h2>
+    <p>Radicle is an open-source, peer-to-peer code collaboration stack built on Git that eliminates reliance on centralized platforms like GitHub. Repositories are replicated across peers with cryptographic identities, local-first architecture, and collaborative objects (COBs) for issues and code review. Version 1.8.0 brings enhanced networking and desktop client support. A genuine decentralized alternative gaining traction.</p>
+    <a class="read-more" href="https://radicle.dev/" target="_blank">Read full story →</a>
+  </div>
+</div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🤖</span>
+      <h2>AI Breakthroughs</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Cerebras Stock Nearly Doubles on Day One, Hits $100B Market Cap in Largest AI Chip IPO</h3>
+    <p>Cerebras Systems erupted onto the Nasdaq at $350/share, nearly double its $185 IPO price, hitting a $100B market cap. The company raised $5.55B — the largest US tech IPO since Uber in 2019. Its Wafer-Scale Engine WSE-3 is 58x larger than Nvidia&#39;s B200 with 2,625x more memory bandwidth. Cerebras has a $20B+ deal with OpenAI and a partnership with AWS.</p>
+  <div class="card-footer">
+    <span class="card-source">VentureBeat</span>
+    <a class="card-link" href="https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>AI IQ Launches — Frontier Models Scored on Human IQ Scale, GPT-5.5 Leads at 136</h3>
+    <p>A new site called AI IQ (aiiq.org) assigns estimated IQ scores to 50+ language models using 12 benchmarks across 4 dimensions. GPT-5.5 leads at ~136 IQ, followed by Opus 4.7 at ~132 and Gemini 3.1 Pro at ~131. The site also measures EQ (emotional intelligence) where Opus 4.7 leads. The project has divided the AI community between praise and sharp methodological criticism.</p>
+  <div class="card-footer">
+    <span class="card-source">VentureBeat</span>
+    <a class="card-link" href="https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Anthropic Finally Beats OpenAI in Business AI Adoption — 34.4% vs 32.3% of US Companies</h3>
+    <p>For the first time, more US businesses pay for Anthropic&#39;s Claude than OpenAI&#39;s ChatGPT, per Ramp&#39;s May 2026 AI Index. Anthropic quadrupled business adoption over the past year from ~8% to 34.4%, while OpenAI fell to 32.3%. Overall AI adoption crossed 50% of US businesses. Claude Code is the driving force — 4% of all GitHub commits are now authored by it.</p>
+  <div class="card-footer">
+    <span class="card-source">VentureBeat</span>
+    <a class="card-link" href="https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Claude Code /goals: A Built-In Evaluator That Catches Agents Quitting Too Soon</h3>
+    <p>Anthropic introduced /goals for Claude Code, formally separating task execution from task evaluation. After each step, a secondary Haiku model checks if defined goals are met before allowing the agent to stop. This prevents the common failure mode where AI agents declare work complete prematurely — a major reliability breakthrough for autonomous coding agents.</p>
+  <div class="card-footer">
+    <span class="card-source">VentureBeat</span>
+    <a class="card-link" href="https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">💰</span>
+      <h2>Startup Funding &amp; Deals</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Cerebras Raises $5.55B in Record IPO — Stock Opens at $350, Market Cap Hits $100B</h3>
+    <p>Cerebras Systems pulled off the largest US tech IPO since Uber 2019, selling 30M shares at $185 each. The stock opened at $350 nearly doubling. The AI chipmaker&#39;s Wafer-Scale Engine powers OpenAI&#39;s Codex Spark inference at 15x faster speeds. Cerebras now has a war chest exceeding $8B to expand cloud inference infrastructure.</p>
+  <div class="card-footer">
+    <span class="card-source">VentureBeat</span>
+    <a class="card-link" href="https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>OpenAI&#39;s $122B Funding Round Closes at $852B Valuation as Revenue Soars</h3>
+    <p>OpenAI closed its massive $122 billion funding round in March at an $852B valuation. The company now has 900M weekly active users on ChatGPT, and enterprise revenue makes up over 40% of total revenue on track to reach parity with consumer by end of 2026. The immense capital gives OpenAI vast resources to compete on pricing and product.</p>
+  <div class="card-footer">
+    <span class="card-source">VentureBeat</span>
+    <a class="card-link" href="https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Anthropic in Talks to Raise Another $50B at ~$900B Valuation</h3>
+    <p>Anthropic is reportedly in talks to raise $50 billion at a valuation approaching $900 billion. The company has signed compute agreements totaling billions with Amazon, Google, Microsoft, and Nvidia. CEO Dario Amodei said the company saw 80x growth per year in revenue and usage for Q1 2026, far exceeding the planned 10x.</p>
+  <div class="card-footer">
+    <span class="card-source">VentureBeat</span>
+    <a class="card-link" href="https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Anthropic Told Court $5B Revenue but Public Markets Hear $19B — Discrepancy Raises Questions</h3>
+    <p>A flyingpenguin.com report highlights that Anthropic claimed $5 billion in revenue figures to a court while publicly signaling $19 billion to potential IPO investors. The discrepancy has drawn scrutiny as Anthropic prepares for its anticipated public offering, raising questions about how the company measures and reports its financial performance.</p>
+  <div class="card-footer">
+    <span class="card-source">Flying Penguin</span>
+    <a class="card-link" href="https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🔧</span>
+      <h2>Developer Tools &amp; Infrastructure</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Raindrop&#39;s Workshop — Free Open-Source Local Debugger for AI Agents (MIT Licensed)</h3>
+    <p>Raindrop AI launched Workshop, an MIT-licensed open-source tool that lets developers debug and evaluate AI agents locally. It streams every token, tool call, and decision to localhost:5899 in real-time with zero latency. Features a self-healing eval loop where Claude Code reads traces, writes evals, and fixes broken code autonomously. Supports TS, Python, Rust, Go.</p>
+  <div class="card-footer">
+    <span class="card-source">VentureBeat</span>
+    <a class="card-link" href="https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Python 3.15 Enters Feature Freeze — First Beta Released with Major JIT Improvements</h3>
+    <p>Python 3.15 hit feature freeze with its first beta release, featuring a much-improved JIT compiler. The release solidifies significant performance enhancements while notably not reinstating the leaky incremental garbage collector. The Python community is closely watching the JIT developments as CPython moves toward competitive performance with other runtimes.</p>
+  <div class="card-footer">
+    <span class="card-source">The Register</span>
+    <a class="card-link" href="https://www.theregister.com/devops/2026/05/11/feature-freeze-for-python-315-as-first-beta-released/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Anthropic&#39;s Bun Rust Rewrite Merged — 1 Million Lines of Rust in a Single Commit</h3>
+    <p>Bun version 1.3.14 was released as the last Zig version after Anthropic merged a gargantuan commit rewriting ~1M lines of Rust code. The JavaScript toolkit&#39;s migration from Zig to Rust was driven by AI coding assistance and completes a major architectural shift. The Rust rewrite promises better performance, memory safety, and ecosystem compatibility.</p>
+  <div class="card-footer">
+    <span class="card-source">The Register</span>
+    <a class="card-link" href="https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/5240381" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🏭</span>
+      <h2>Industry &amp; Policy</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>UK Government Ditches Palantir, Saves Millions with In-House Refugee IT System</h3>
+    <p>The UK&#39;s Ministry of Housing replaced Palantir&#39;s Foundry platform with an internally-built system for the Homes for Ukraine scheme, saving millions of pounds. The original Palantir system cost £4.5M then £5.5M annual contracts after an initial free period. The new system is described as &#39;more flexible&#39; and a step toward &#39;sovereign technology&#39; — a major blow to Palantir&#39;s government contracting.</p>
+  <div class="card-footer">
+    <span class="card-source">BBC News</span>
+    <a class="card-link" href="https://www.bbc.com/news/articles/c2l2j1lxdk5o" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Apple and Google Bring E2EE to Cross-Platform Texting — Green Bubble Encryption Arrives</h3>
+    <p>After years of blocking at the green bubble border, Apple and Google finally enabled end-to-end encryption for cross-platform RCS messaging. iPhone and Android users can now send E2EE messages without relying on third-party apps. The move eliminates one of the biggest privacy gaps in mobile communications and addresses long-standing criticism of SMS fallback insecurity.</p>
+  <div class="card-footer">
+    <span class="card-source">The Register</span>
+    <a class="card-link" href="https://www.theregister.com/security/2026/05/12/apple-google-drag-cross-platform-texting-into-the-encrypted-age/5238556" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>UK MPs Want Social Media Treated Like Unsafe Toys — Online Safety Regime Failing Children</h3>
+    <p>A UK Parliamentary committee told ministers the online safety regime is failing children and warned &#39;no action is not an option.&#39; MPs argue social media platforms should be regulated more like unsafe toys than harmless apps, calling for stricter age verification, content moderation standards, and corporate accountability for harms to minors.</p>
+  <div class="card-footer">
+    <span class="card-source">The Register</span>
+    <a class="card-link" href="https://www.theregister.com/security/2026/05/15/mps-want-social-media-treated-more-like-unsafe-toys-than-harmless-apps/5240578" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Cisco to Lay Off 4,000 Staff While Offering Free Cisco Training to Affected Employees</h3>
+    <p>Cisco announced plans to fire 4,000 employees while generously offering them free training — on Cisco products. The layoffs are part of a broader strategy to &#39;reduce memory requirements to control costs in a new wave of kit.&#39; The move has drawn criticism for the irony of training workers on the very ecosystem they&#39;re being laid off from.</p>
+  <div class="card-footer">
+    <span class="card-source">The Register</span>
+    <a class="card-link" href="https://www.theregister.com/networks/2026/05/14/cisco-to-fire-4000-staff-and-generously-give-them-free-training-on-cisco/5240125" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">📦</span>
+      <h2>Open Source</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Welcome to the Strip Mining Era of OSS Security — LLMs Unearthing Vast Numbers of Vulnerabilities</h3>
+    <p>Metabase&#39;s CEO published a widely-shared essay warning that LLM-powered vulnerability scanning is ushering in a &#39;strip mining era&#39; for open source security. High-volume AI scanning is uncovering enormous numbers of security issues in any project with public source code. The piece notes Metabase went from 10 submissions/month to a torrent — most now substantive findings from AI tools, not false positives.</p>
+  <div class="card-footer">
+    <span class="card-source">Metabase Blog</span>
+    <a class="card-link" href="https://www.metabase.com/blog/strip-mining-era-of-open-source-security" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Radicle 1.8.0 — A Sovereign Code Forge Built on Git, Fully Peer-to-Peer</h3>
+    <p>Radicle is an open-source, peer-to-peer code collaboration stack built on Git that eliminates reliance on centralized platforms like GitHub. Repositories are replicated across peers with cryptographic identities, local-first architecture, and collaborative objects (COBs) for issues and code review. Version 1.8.0 brings enhanced networking and desktop client support. A genuine decentralized alternative gaining traction.</p>
+  <div class="card-footer">
+    <span class="card-source">Radicle</span>
+    <a class="card-link" href="https://radicle.dev/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>New &#39;Nginx-Rift&#39; Exploit Disclosed — Critical Vulnerability in the World&#39;s Most Popular Web Server</h3>
+    <p>A high-severity Nginx exploit named &#39;Nginx-Rift&#39; was disclosed on GitHub by DepthFirstDisclosures, targeting a previously unknown vulnerability in the widely-used web server. The exploit potentially affects millions of websites globally. Patches and mitigations are being urgently developed by the Nginx security team. 399 points on Hacker News with urgent discussion.</p>
+  <div class="card-footer">
+    <span class="card-source">GitHub / DepthFirstDisclosures</span>
+    <a class="card-link" href="https://github.com/DepthFirstDisclosures/Nginx-Rift" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="divider">♔ Trillion Empire Intelligence ♔</div>
+
+</div>
+
+<div class="footer">
+  <div class="seal">
+    👑 TRINITY EMPIRE · EMERALD STANDARD
+  </div>
+  <div class="footer-links">
+    <a href="/index.html">View All Pulses</a> · <a href="/latest-ai-video-pulse.html">AI Video Pulse →</a>
+  </div>
+  <div class="footer-copy">
+    ♥ Trinity Empire · Tech Pulse 24/7 · Delivered every 3 hours
+  </div>
+</div>
+
+<script>
+  document.getElementById('time-display').textContent = new Date().toLocaleString('en-US', {
+    timeZone: 'America/New_York',
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZoneName: 'short'
+  });
+</script>
+</body>
+</html>

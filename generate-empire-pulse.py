@@ -1,0 +1,240 @@
+#!/usr/bin/env python3
+"""Empire Pulse Generator
+Reads data from empire-pulse-data.py + cron/kanban state, generates HTML.
+Usage: python3 generate-empire-pulse.py
+"""
+import json, os, sys, subprocess, glob
+from datetime import datetime, timezone, timedelta
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+SURGE_DOMAIN = "tech-pulse-trillion.surge.sh"
+SURGE_PATH = "/home/linuxbrew/.linuxbrew/bin/surge"
+ET_TZ = timezone(timedelta(hours=-4))
+
+def escape(s):
+    s = str(s or "")
+    for a, b in [('&','&amp;'), ('<','&lt;'), ('>','&gt;'), ('"','&quot;'), ("'",'&#39;')]:
+        s = s.replace(a, b)
+    return s
+
+def gather_data():
+    """Run the data gatherer and merge with known state"""
+    result = subprocess.run(
+        [sys.executable, os.path.join(BASE_DIR, 'empire-pulse-data.py')],
+        capture_output=True, text=True, timeout=120
+    )
+    if result.returncode != 0:
+        print("ERROR gathering data:", result.stderr, file=sys.stderr)
+        return None
+    return json.loads(result.stdout)
+
+def generate(data):
+    with open(os.path.join(BASE_DIR, 'empire-pulse-template.html')) as f:
+        template = f.read()
+
+    # === KANBAN STATS ===
+    crons = data.get('cron_jobs', [])
+    active = sum(1 for c in crons if c.get('status') == 'ok' and c.get('enabled', True))
+    
+    vfl = data.get('vfl', {})
+    acc = data.get('accuracy', {}).get('overall', {})
+    
+    replacements = {
+        '{generated_at}': data.get('generated_at', '?'),
+        '{hostname}': data.get('hostname', '?'),
+        '{uptime}': data.get('uptime', '?'),
+        '{disk_free}': f"{data.get('disk_free_gb', '?')} GB",
+        '{cron_active}': str(active),
+        '{cron_total}': str(len(crons)),
+        '{vfl_accuracy}': str(acc.get('accuracy', vfl.get('accuracy', '?'))),
+        '{vfl_correct}': str(acc.get('correct', '?')),
+        '{vfl_settled}': str(vfl.get('settled', 0)),
+        '{vfl_pending}': str(vfl.get('pending', 0)),
+        '{vfl_total}': str(vfl.get('total', 0)),
+        '{vfl_season}': vfl.get('latest_season', '?'),
+        '{pulse_total}': str(data.get('pulse_archives', {}).get('total', 0)),
+        '{pulse_tech}': str(data.get('pulse_archives', {}).get('tech', 0)),
+        '{pulse_video}': str(data.get('pulse_archives', {}).get('video', 0)),
+    }
+
+    # === CRON TABLE ===
+    cron_rows = []
+    for c in crons:
+        status = c.get('status', '?')
+        if status == 'ok':
+            badge = '<span class="badge ok"><span class="dot"></span>OK</span>'
+        elif status == 'error':
+            badge = '<span class="badge err"><span class="dot"></span>ERROR</span>'
+        else:
+            badge = '<span class="badge warn">?</span>'
+        cron_rows.append(
+            f'<tr><td>{escape(c.get("name","?"))}</td>'
+            f'<td class="mono">{escape(c.get("schedule","?"))}</td>'
+            f'<td>{badge}</td>'
+            f'<td>{escape(c.get("channel","?"))}</td>'
+            f'<td>{escape(c.get("purpose","?"))}</td>'
+            f'<td>{escape(c.get("last_run","?"))}</td></tr>'
+        )
+    replacements['{cron_rows}'] = '\n'.join(cron_rows)
+
+    # === SOVEREIGN DB ===
+    sov = data.get('sovereign', {})
+    sov_order = ['SETTLED', 'PREDICTED', 'WON', 'LOST', 'PENDING', 'STALE']
+    sov_rows = []
+    for k in sov_order:
+        v = sov.get(k, 0)
+        if v:
+            if k == 'WON':
+                badge = '<span class="badge ok"><span class="dot"></span>WON</span>'
+            elif k == 'LOST':
+                badge = '<span class="badge err"><span class="dot"></span>LOST</span>'
+            elif k == 'STALE':
+                badge = '<span class="badge warn">STALE</span>'
+            elif k == 'PENDING':
+                badge = '<span class="badge info">PENDING</span>'
+            else:
+                badge = f'<span class="badge info">{k}</span>'
+            sov_rows.append(f'<tr><td>{badge}</td><td style="text-align:right;font-weight:700;">{v}</td></tr>')
+    replacements['{sovereign_rows}'] = '\n'.join(sov_rows)
+
+    # === ACCURACY BY SEASON ===
+    acc_data = data.get('accuracy', {}).get('seasons', {})
+    # Sort: highest accuracy first
+    sorted_acc = sorted(acc_data.items(), key=lambda x: x[1].get('accuracy', 0), reverse=True)
+    acc_rows = []
+    for season, sdata in sorted_acc:
+        pct = sdata.get('accuracy', 0)
+        bar_w = max(int(pct), 2)
+        acc_rows.append(
+            f'<tr><td>{escape(season)}</td>'
+            f'<td>{sdata.get("predicted",0)}</td>'
+            f'<td>{sdata.get("correct",0)}</td>'
+            f'<td><div style="display:flex;align-items:center;gap:0.4rem;">'
+            f'<div class="acc-bar" style="width:{bar_w}px;background:{ "var(--emerald)" if pct >= 50 else "var(--gold)" if pct >= 40 else "var(--err)"}"></div>'
+            f'{pct}%</div></td></tr>'
+        )
+    replacements['{accuracy_rows}'] = '\n'.join(acc_rows)
+
+    # === CABINET ===
+    cabinet = data.get('cabinet', [])
+    cabinet_cards = []
+    for m in cabinet:
+        sex = m.get('sex', 'M').lower()
+        avatar_sex = '👨' if sex == 'm' else '👩'
+        css_sex = 'm' if sex == 'm' else 'f'
+        cabinet_cards.append(
+            f'<div class="minister-card">'
+            f'<div class="avatar {css_sex}">{avatar_sex}</div>'
+            f'<div class="info"><div class="name">{escape(m.get("name","?"))}</div>'
+            f'<div class="role">{escape(m.get("ministry","?"))}</div></div>'
+            f'</div>'
+        )
+    replacements['{cabinet_cards}'] = '\n'.join(cabinet_cards)
+    replacements['{cabinet_count}'] = str(len(cabinet))
+
+    # === RECENT PREDICTIONS ===
+    recent_preds = vfl.get('recent_predictions', [])
+    pred_rows = []
+    for p in recent_preds:
+        outcome = p.get('outcome', '-')
+        if outcome == 'WON':
+            result_html = '<span class="result W">✓ WON</span>'
+        elif outcome == 'LOST':
+            result_html = '<span class="result L">✗ LOST</span>'
+        else:
+            result_html = '<span class="result -">—</span>' if not p.get('settled') else '<span class="result -">?</span>'
+        pred_rows.append(
+            f'<div class="pred-item">'
+            f'<span class="md">MD{p.get("md","?")}</span>'
+            f'<span class="teams">{escape(p.get("home","?"))} vs {escape(p.get("away","?"))}</span>'
+            f'<span style="font-weight:700;color:var(--emerald-light);font-size:0.7rem;">{p.get("pred","?")}</span>'
+            f'<span style="color:var(--text3);font-size:0.65rem;">{p.get("conf",0)}%</span>'
+            f'{result_html}'
+            f'</div>'
+        )
+    replacements['{recent_predictions}'] = '\n'.join(pred_rows) if pred_rows else '<div style="color:var(--text3);padding:0.5rem;">No recent predictions</div>'
+
+    # === CHANNELS ===
+    channels = data.get('channels', {})
+    chan_rows = []
+    for name, info in channels.items():
+        chan_rows.append(
+            f'<div class="chan-item">'
+            f'<span class="hash">#{name}</span>'
+            f'<span class="purpose">{escape(info.get("purpose","?"))}</span>'
+            f'</div>'
+        )
+    replacements['{channel_rows}'] = '\n'.join(chan_rows)
+    replacements['{channel_count}'] = str(len(channels))
+
+    # === ACTIVITY ===
+    activity = data.get('recent_activity', [])
+    act_rows = []
+    for a in activity:
+        act_rows.append(
+            f'<div class="activity-item">'
+            f'<span class="time">{escape(a.get("time","?"))}</span>'
+            f'<span class="file">{escape(a.get("file","?"))}</span>'
+            f'<span class="size">{escape(a.get("size","?"))}</span>'
+            f'</div>'
+        )
+    replacements['{activity_rows}'] = '\n'.join(act_rows)
+    replacements['{activity_count}'] = str(len(activity))
+
+    # Fill template
+    for key, val in replacements.items():
+        template = template.replace(key, val)
+
+    # Save
+    now = datetime.now(ET_TZ)
+    file_date = now.strftime('%Y-%m-%d')
+    
+    archive_dir = os.path.join(BASE_DIR, 'empire-pulse')
+    os.makedirs(archive_dir, exist_ok=True)
+    
+    existing = sorted(glob.glob(os.path.join(archive_dir, f"{file_date}-*.html")))
+    seq = 1
+    if existing:
+        last = os.path.basename(existing[-1])
+        try:
+            seq = int(last.split('-')[-1].replace('.html', '')) + 1
+        except:
+            seq = len(existing) + 1
+    
+    archive_filename = f"{file_date}-{seq:03d}-empire.html"
+    archive_path = os.path.join(archive_dir, archive_filename)
+    
+    with open(archive_path, 'w') as f:
+        f.write(template)
+    
+    latest_path = os.path.join(BASE_DIR, 'latest-empire-pulse.html')
+    with open(latest_path, 'w') as f:
+        f.write(template)
+    
+    return archive_path, latest_path, archive_filename
+
+def deploy():
+    result = subprocess.run(
+        [SURGE_PATH, BASE_DIR, SURGE_DOMAIN],
+        capture_output=True, text=True, timeout=120,
+        env={**os.environ, "PATH": f"{os.environ.get('PATH', '')}:{os.path.dirname(SURGE_PATH)}"}
+    )
+    return result.returncode == 0, result.stderr.strip()
+
+if __name__ == '__main__':
+    print("[Empire Pulse] Gathering data...")
+    data = gather_data()
+    if not data:
+        sys.exit(1)
+    
+    print("[Empire Pulse] Generating...")
+    archive_path, latest_path, filename = generate(data)
+    
+    print(f"[Empire Pulse] Deploying...")
+    ok, err = deploy()
+    status = "OK" if ok else f"WARNING: {err}"
+    
+    print(f"[Empire Pulse] Generated: {archive_path}")
+    print(f"[Empire Pulse] Latest: {latest_path}")
+    print(f"[Empire Pulse] Published: https://{SURGE_DOMAIN}/{filename}")
+    print(f"[Empire Pulse] Surge: {status}")

@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tech Pulse 24/7 — Trillion Empire Intelligence</title>
+<meta name="description" content="Curated frontier intelligence for Lord FaithDavid — AI breakthroughs, startup funding, developer tools, industry movements, and open source.">
+<meta property="og:title" content="Tech Pulse 24/7 — Trillion Empire Intelligence">
+<meta property="og:description" content="Curated frontier intelligence — AI breakthroughs, startup funding, developer tools, industry movements, and open source.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tech-pulse-trillion.surge.sh/latest-tech-pulse.html">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Tech Pulse 24/7 — Trillion Empire Intelligence">
+<meta name="twitter:description" content="Your 24/7 technology intelligence feed.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-primary: #111117;
+    --bg-secondary: #16161f;
+    --bg-card: rgba(22, 22, 35, 0.92);
+    --bg-card-hover: rgba(30, 30, 48, 0.96);
+    --border: rgba(42, 42, 70, 0.5);
+    --border-glow: rgba(108, 92, 231, 0.35);
+    --accent-ai: #6c5ce7;
+    --accent-funding: #00b894;
+    --accent-tools: #fd79a8;
+    --accent-industry: #0984e3;
+    --accent-oss: #fdcb6e;
+    --text-primary: #e8e8f0;
+    --text-secondary: #a0a0c0;
+    --text-muted: #7878a0;
+    --glass-bg: rgba(18, 18, 40, 0.7);
+    --glass-border: rgba(108, 92, 231, 0.15);
+    --space-xs: 0.25rem;
+    --space-sm: 0.5rem;
+    --space-md: 1rem;
+    --space-lg: 1.5rem;
+    --space-xl: 2rem;
+    --space-2xl: 3rem;
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* === HERO === */
+  .hero {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+    background: var(--bg-primary);
+    padding: 5rem 2rem 6rem;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse at 20% 50%, rgba(108, 92, 231, 0.15) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 50%, rgba(0, 184, 148, 0.1) 0%, transparent 50%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    opacity: 0.18;
+  }
+
+  .hero-bg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: saturate(1.2) brightness(0.5);
+  }
+
+  .hero-gradient {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg,
+      rgba(17, 17, 23, 0.2) 0%,
+      rgba(17, 17, 23, 0.6) 60%,
+      var(--bg-primary) 100%
+    );
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+  }
+
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(108, 92, 231, 0.12);
+    border: 1px solid rgba(108, 92, 231, 0.25);
+    color: #a29bfe;
+    padding: 0.35rem 1rem;
+    border-radius: 100px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 1.25rem;
+    backdrop-filter: blur(8px);
+  }
+
+  .hero-badge .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #00b894;
+    animation: pulse-dot 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.2; }
+  }
+
+  .hero-content h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 900;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #ffffff 0%, #a29bfe 40%, #6c5ce7 70%, #00b894 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.75rem;
+  }
+
+  .hero-sub {
+    font-size: clamp(0.95rem, 1.5vw, 1.15rem);
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin: 0 auto 1.25rem;
+    font-weight: 400;
+    line-height: 1.6;
+  }
+
+  .hero-meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+
+  .hero-meta span { display: flex; align-items: center; gap: 0.35rem; }
+  .hero-meta .sep { color: rgba(42, 42, 70, 0.8); }
+
+  /* === QUICK STATS === */
+  .stats-bar {
+    margin: -2.5rem auto 0;
+    max-width: 1200px;
+    padding: 0 2rem;
+    position: relative;
+    z-index: 3;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 0.5rem;
+    background: var(--glass-bg);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-lg);
+    padding: 1rem;
+  }
+
+  .stat-item {
+    text-align: center;
+    padding: 0.35rem 0.25rem;
+  }
+
+  .stat-item .num {
+    font-size: 1.4rem;
+    font-weight: 800;
+    background: linear-gradient(135deg, #a29bfe, #6c5ce7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.3;
+  }
+
+  .stat-item .lbl {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+    margin-top: 0.1rem;
+  }
+
+  /* === MAIN === */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: var(--space-xl) var(--space-xl) var(--space-2xl);
+  }
+
+  /* === SPOTLIGHT === */
+  .spotlight {
+    position: relative;
+    margin: var(--space-xl) 0 var(--space-2xl);
+    padding: var(--space-xl);
+    border-radius: var(--radius-xl);
+    overflow: hidden;
+    background: linear-gradient(135deg,
+      rgba(108, 92, 231, 0.1) 0%,
+      rgba(0, 184, 148, 0.05) 50%,
+      rgba(108, 92, 231, 0.02) 100%
+    );
+    border: 1px solid rgba(108, 92, 231, 0.2);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-xl);
+    align-items: center;
+  }
+
+  .spotlight-visual {
+    position: relative;
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    aspect-ratio: 16 / 9;
+    background: var(--bg-secondary);
+  }
+
+  .spotlight-visual img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    filter: brightness(0.85);
+  }
+
+  .spotlight-content { position: relative; }
+
+  .spotlight-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #fdcb6e;
+    margin-bottom: 0.75rem;
+  }
+  .spotlight-badge::before { content: '★'; font-size: 0.85rem; }
+
+  .spotlight h2 {
+    font-size: clamp(1.15rem, 2vw, 1.45rem);
+    font-weight: 800;
+    line-height: 1.35;
+    margin-bottom: 0.6rem;
+    color: #fff;
+  }
+
+  .spotlight p {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+
+  .spotlight .read-more {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: #a29bfe;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 0.4rem 0.8rem;
+    background: rgba(108, 92, 231, 0.1);
+    border-radius: var(--radius-sm);
+    transition: all 0.2s;
+  }
+  .spotlight .read-more:hover {
+    background: rgba(108, 92, 231, 0.2);
+    gap: 0.6rem;
+  }
+  .spotlight .read-more:focus-visible {
+    outline: 2px solid #a29bfe;
+    outline-offset: 2px;
+  }
+
+  /* === SECTION HEADERS === */
+  .section-header {
+    position: relative;
+    margin: var(--space-2xl) 0 var(--space-lg);
+    padding: var(--space-lg);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+
+  .section-header-bg {
+    position: absolute; inset: 0; z-index: 0; opacity: 0.12;
+  }
+  .section-header-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .section-header-shade {
+    position: absolute; inset: 0;
+    background: linear-gradient(90deg,
+      rgba(17, 17, 23, 0.97) 0%,
+      rgba(17, 17, 23, 0.7) 50%,
+      rgba(17, 17, 23, 0.3) 100%
+    );
+    z-index: 1;
+  }
+
+  .section-header-inner {
+    position: relative; z-index: 2;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+
+  .section-header-inner .icon {
+    font-size: 1.25rem;
+    width: 36px; height: 36px;
+    display: flex; align-items: center; justify-content: center;
+    background: rgba(108, 92, 231, 0.1);
+    border-radius: var(--radius-sm);
+    flex-shrink: 0;
+  }
+
+  .section-header-inner h2 {
+    font-size: 1.05rem; font-weight: 700; color: #fff;
+  }
+
+  .section-header-inner .count {
+    margin-left: auto;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.15rem 0.6rem;
+    border-radius: 100px;
+    flex-shrink: 0;
+  }
+
+  /* === CARDS === */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .card {
+    position: relative;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: var(--space-lg);
+    transition: all 0.25s ease;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    opacity: 0;
+    transition: opacity 0.25s;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+  }
+
+  .card[data-type="ai"]::before { background: linear-gradient(90deg, #6c5ce7, #a29bfe); }
+  .card[data-type="funding"]::before { background: linear-gradient(90deg, #00b894, #55efc4); }
+  .card[data-type="tools"]::before { background: linear-gradient(90deg, #fd79a8, #fab1a0); }
+  .card[data-type="industry"]::before { background: linear-gradient(90deg, #0984e3, #74b9ff); }
+  .card[data-type="oss"]::before { background: linear-gradient(90deg, #fdcb6e, #ffeaa7); }
+
+  .card:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--border-glow);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
+  }
+  .card:hover::before { opacity: 1; }
+
+  .card:focus-within {
+    border-color: var(--border-glow);
+    box-shadow: 0 0 0 1px rgba(108, 92, 231, 0.3);
+  }
+
+  .card-tag {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.2rem 0.55rem;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    width: fit-content;
+  }
+
+  .card-tag.ai { background: rgba(108, 92, 231, 0.15); color: #a29bfe; }
+  .card-tag.funding { background: rgba(0, 184, 148, 0.15); color: #00b894; }
+  .card-tag.tools { background: rgba(253, 121, 168, 0.15); color: #fd79a8; }
+  .card-tag.industry { background: rgba(9, 132, 227, 0.15); color: #74b9ff; }
+  .card-tag.oss { background: rgba(253, 203, 110, 0.15); color: #fdcb6e; }
+
+  .card h3 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    margin-bottom: 0.35rem;
+    line-height: 1.4;
+    color: #fff;
+  }
+
+  .card p {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    flex: 1;
+    margin-bottom: 0.75rem;
+    line-height: 1.55;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-top: auto;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgba(42, 42, 70, 0.3);
+  }
+
+  .card-source {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+  }
+
+  .card-link {
+    font-size: 0.78rem;
+    color: #a29bfe;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+
+  .card-link:hover {
+    background: rgba(108, 92, 231, 0.1);
+  }
+  .card-link:focus-visible {
+    outline: 2px solid #a29bfe;
+    outline-offset: 2px;
+  }
+
+  /* === EMPTY STATE === */
+  .empty-section {
+    text-align: center;
+    padding: var(--space-xl);
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    background: var(--bg-card);
+    border: 1px dashed var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  /* === DIVIDER === */
+  .divider {
+    display: flex; align-items: center; justify-content: center; gap: 0.75rem;
+    margin: var(--space-2xl) 0;
+    color: var(--text-muted);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-weight: 600;
+  }
+  .divider::before, .divider::after {
+    content: ''; flex: 1; height: 1px;
+    background: linear-gradient(90deg, transparent, var(--border), transparent);
+  }
+
+  /* === FOOTER === */
+  .footer {
+    text-align: center;
+    padding: var(--space-xl) var(--space-xl) var(--space-2xl);
+    border-top: 1px solid var(--border);
+  }
+
+  .footer-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-links a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+  }
+
+  .footer-links a:hover { color: #a29bfe; background: rgba(108, 92, 231, 0.06); }
+  .footer-links a:focus-visible {
+    outline: 2px solid #a29bfe;
+    outline-offset: 2px;
+  }
+
+  .footer-copy {
+    color: var(--text-muted);
+    font-size: 0.75rem;
+  }
+
+  .seal {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: rgba(108, 92, 231, 0.05);
+    border: 1px solid rgba(108, 92, 231, 0.08);
+    padding: 0.25rem 0.9rem;
+    border-radius: 100px;
+    font-size: 0.6rem;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+  }
+
+  /* === FOCUS VISIBLE (global) === */
+  :focus-visible {
+    outline: 2px solid #a29bfe;
+    outline-offset: 2px;
+  }
+
+  /* === REDUCED MOTION === */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+    html { scroll-behavior: auto; }
+  }
+
+  /* === RESPONSIVE === */
+  @media (max-width: 900px) {
+    .spotlight { grid-template-columns: 1fr; }
+    .spotlight-visual { aspect-ratio: 16 / 9; max-height: 200px; }
+  }
+
+  @media (max-width: 768px) {
+    .hero { padding: 3rem 1.25rem 4rem; }
+    .stats-bar { margin-top: -2rem; padding: 0 1rem; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 0.35rem; padding: 0.75rem; }
+    .container { padding: var(--space-lg) var(--space-md); }
+    .cards-grid { grid-template-columns: 1fr; }
+    .card { padding: var(--space-md); }
+    .spotlight { padding: var(--space-lg); }
+    .section-header { padding: var(--space-md); }
+    .section-header-inner h2 { font-size: 0.95rem; }
+    .footer-links { flex-direction: column; gap: 0.5rem; }
+  }
+
+  @media (max-width: 480px) {
+    .hero-content h1 { font-size: 1.75rem; }
+    .hero-badge { font-size: 0.65rem; }
+    .card h3 { font-size: 0.9rem; }
+    .card p { font-size: 0.82rem; }
+    .stat-item .num { font-size: 1.2rem; }
+  }
+
+  /* === ANIMATIONS === */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .card { animation: fadeUp 0.4s ease both; }
+  .card:nth-child(1) { animation-delay: 0.03s; }
+  .card:nth-child(2) { animation-delay: 0.06s; }
+  .card:nth-child(3) { animation-delay: 0.09s; }
+  .card:nth-child(4) { animation-delay: 0.12s; }
+  .card:nth-child(5) { animation-delay: 0.15s; }
+  .card:nth-child(6) { animation-delay: 0.18s; }
+
+  html { scroll-behavior: smooth; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-bg">
+    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&q=80&fm=jpg" alt="" width="1600" height="900" loading="eager">
+  </div>
+  <div class="hero-gradient"></div>
+  <div class="hero-content">
+    <div class="hero-badge">
+      <span class="dot"></span>
+      🔬 LIVE INTELLIGENCE FEED
+    </div>
+    <h1>Tech Pulse 24/7</h1>
+    <p class="hero-sub">Curated frontier intelligence — AI breakthroughs, startup funding, developer tools, industry movements, and open source.</p>
+    <div class="hero-meta">
+      <span>📅 <span id="time-display">Saturday, May 09, 2026 at 04:56 AM ET</span></span>
+      <span class="sep">◆</span>
+      <span>🔄 Every 3 hours</span>
+      <span class="sep">◆</span>
+      <span>📊 16 stories</span>
+    </div>
+  </div>
+</div>
+
+<div class="stats-bar">
+  <div class="stats-grid">
+    <div class="stat-item">
+      <div class="num">16</div>
+      <div class="lbl">Total</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">🤖 AI</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">3</div>
+      <div class="lbl">💰 Funding</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">3</div>
+      <div class="lbl">🔧 Tools</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">3</div>
+      <div class="lbl">🏭 Industry</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">3</div>
+      <div class="lbl">📦 OSS</div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+<div class="spotlight">
+  <div class="spotlight-visual">
+    <img src="https://images.unsplash.com/photo-1677442136019-21780f3b7e7b?w=640&q=60" alt="" width="640" height="360" loading="lazy">
+  </div>
+  <div class="spotlight-content">
+    <div class="spotlight-badge">★ Top Story</div>
+    <h2>Anthropic&#39;s Claude Mythos Preview Clears 32-Step Cyber Attack Range</h2>
+    <p>Anthropic&#39;s Claude Mythos Preview became the first AI model to autonomously complete a 32-step end-to-end cyberattack simulation. The company launched Project Glasswing alongside it — a multi-company initiative with AWS, Apple, Broadcom, Cisco, CrowdStrike, Google and others to secure critical software infrastructure.</p>
+    <a class="read-more" href="https://nathanbenaich.substack.com/p/state-of-ai-may-2026" target="_blank">Read full story →</a>
+  </div>
+</div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1677442136019-21780f3b7e7b?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🤖</span>
+      <h2>AI Breakthroughs</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <h3>OpenAI Releases GPT-5.5 Instant — New Default ChatGPT Model</h3>
+    <p>OpenAI released GPT-5.5 Instant, replacing GPT-5.3 as the default ChatGPT model. It achieves 88.7% on SWE-bench, delivers 60% fewer hallucinations, and introduces tiered cybersecurity access policies. The model matches GPT-5.4 speed while outperforming on nearly every benchmark.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <h3>Anthropic&#39;s Claude Mythos Preview Clears 32-Step Cyber Attack Range</h3>
+    <p>Anthropic&#39;s Claude Mythos Preview became the first AI model to autonomously complete a 32-step end-to-end cyberattack simulation. The company launched Project Glasswing alongside it — a multi-company initiative with AWS, Apple, Broadcom, Cisco, CrowdStrike, Google and others to secure critical software infrastructure.</p>
+  <div class="card-footer">
+    <span class="card-source">State of AI / Anthropic</span>
+    <a class="card-link" href="https://nathanbenaich.substack.com/p/state-of-ai-may-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <h3>Google TurboQuant — AI Memory Compression That Shook the Chip Market</h3>
+    <p>Google unveiled TurboQuant, a KV-cache compression algorithm reducing AI memory usage by 6x with 8x performance gains. The breakthrough wiped $25B from memory chip stocks within 48 hours of announcement. Presented at ICLR 2026.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <h3>DeepSeek V4 Preview Released — Open-Weight Model with 1M Context</h3>
+    <p>Chinese AI lab DeepSeek released V4 Preview with open weights and a 1M-token default context window. The model delivers frontier-competitive performance and comes in V4-Pro and V4-Flash variants, intensifying the open-source AI competition.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">💰</span>
+      <h2>Startup Funding &amp; Deals</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <h3>Sierra Raises $950M at $15B+ Valuation for Enterprise AI Agents</h3>
+    <p>Bret Taylor&#39;s AI startup Sierra closed a $950M Series E led by Tiger Global and GV, pushing valuation past $15B. The company reached $150M ARR by February 2026, up from $100M ARR in November 2025, as enterprise AI agents move from hype to budget line items.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <h3>Q1 2026 Shatters Venture Records: $297B Global Startup Funding, AI Takes $242B</h3>
+    <p>Global startup funding hit a record $297B in Q1 2026, with AI startups absorbing $242B (81% of all VC). This represents a 150% year-over-year surge, with late-stage mega-rounds concentrated in AI model companies and infrastructure.</p>
+  <div class="card-footer">
+    <span class="card-source">Crunchbase</span>
+    <a class="card-link" href="https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <h3>xAI Closes $20B Series E — Largest Single AI Funding Round of Q1</h3>
+    <p>Elon Musk&#39;s xAI opened 2026 with a $20B Series E round, one of the largest single AI funding events outside frontier labs. The mega-round was the first of four record-breaking deals that defined Q1 2026&#39;s unprecedented venture activity.</p>
+  <div class="card-footer">
+    <span class="card-source">Wellows / Crunchbase</span>
+    <a class="card-link" href="https://wellows.com/blog/ai-startups/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🔧</span>
+      <h2>Developer Tools &amp; Infrastructure</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <h3>Google Antigravity — Agent-First IDE Bridges Prompt-to-Production</h3>
+    <p>Google launched Antigravity, an agent-first IDE that integrates directly with Google AI Studio, allowing developers to turn prompts into production-ready applications. The tool supports multi-model workflows and was a centerpiece of Google I/O 2026 previews. Google I/O runs May 19-20.</p>
+  <div class="card-footer">
+    <span class="card-source">Google I/O</span>
+    <a class="card-link" href="https://io.google/2026/explore/pa-keynote-2" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <h3>Claude Code Named Most-Loved Developer Tool in 2026 Survey</h3>
+    <p>The Pragmatic Engineer&#39;s 2026 survey of 906 developers found Claude Code at 46% &#39;love&#39; rating, far ahead of Cursor (19%) and GitHub Copilot (9%). JetBrains&#39; April 2026 survey reports 84% of developers now use AI coding tools daily, with Claude Code adoption exploding to 18%.</p>
+  <div class="card-footer">
+    <span class="card-source">Pragmatic Engineer / Vinod Sharma</span>
+    <a class="card-link" href="https://vinodsharma.co/blog/claude-code-most-loved-developer-tool-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <h3>Qwen3-Coder-Next: 80B Open Coding Model Runs on Consumer Hardware</h3>
+    <p>Alibaba&#39;s Qwen team released Qwen3-Coder-Next, an 80B-parameter MoE model with only 3B active parameters. It achieves Sonnet 4.5-level coding performance while running locally on ~46GB RAM with a 256K context window — making frontier coding accessible without cloud GPUs.</p>
+  <div class="card-footer">
+    <span class="card-source">Qwen / Hugging Face</span>
+    <a class="card-link" href="https://qwen.ai/blog?id=qwen3-coder-next" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🏭</span>
+      <h2>Industry &amp; Policy</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <h3>Google, Microsoft, and xAI Agree to US Government Pre-Release AI Safety Testing</h3>
+    <p>The three tech giants signed agreements with the Commerce Department&#39;s CAISI to give U.S. officials early access to new AI models for national security evaluations. The testing covers cybersecurity, biosecurity, and chemical weapons risks, joining OpenAI and Anthropic in voluntary pre-release oversight.</p>
+  <div class="card-footer">
+    <span class="card-source">Reuters</span>
+    <a class="card-link" href="https://www.reuters.com/legal/litigation/microsoft-xai-google-will-share-ai-models-with-us-govt-security-reviews-2026-05-05/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <h3>Google Plans $10B-$40B Additional Investment in Anthropic</h3>
+    <p>Alphabet plans to invest $10B more in Anthropic, with possible increases up to $40B, signaling an intensifying AI partnership race. The move comes as OpenAI and Microsoft reportedly shake up their partnership structure amid growing market competition.</p>
+  <div class="card-footer">
+    <span class="card-source">MSN / Bloomberg</span>
+    <a class="card-link" href="https://www.msn.com/en-us/money/other/google-to-increase-anthropic-investment-openai-microsoft-shake-up-partnership/ar-AA21P5RT" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <h3>Wave of Tech Laws Takes Effect in 2026: AI Regulation, Privacy, and Social Media</h3>
+    <p>A battery of new state and federal tech laws targeting AI governance, data privacy, teen social media access, and content moderation take effect in 2026. The emerging regulatory framework is reshaping compliance requirements across the tech industry.</p>
+  <div class="card-footer">
+    <span class="card-source">The Verge</span>
+    <a class="card-link" href="https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">📦</span>
+      <h2>Open Source</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <h3>DeepSeek V4 Preview Goes Open-Weight with 1M Context Window</h3>
+    <p>DeepSeek released V4 Preview with open weights and 1M-token context — the longest of any open model. Available in V4-Pro and V4-Flash variants, it narrows the gap with closed frontier models while maintaining dramatically lower pricing, intensifying the open-source AI momentum.</p>
+  <div class="card-footer">
+    <span class="card-source">DeepSeek</span>
+    <a class="card-link" href="https://api-docs.deepseek.com/news/news260424" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <h3>Qwen3-Coder-Next: Open-Weight Model Redefines Local AI Coding</h3>
+    <p>Alibaba&#39;s Qwen team open-sourced Qwen3-Coder-Next, an 80B MoE model (3B active) that achieves coding performance on par with Sonnet 4.5 while fitting in ~46GB RAM. It tops SWE-rebench at Pass 5 among open models, making agentic coding accessible anywhere.</p>
+  <div class="card-footer">
+    <span class="card-source">GitHub / Qwen</span>
+    <a class="card-link" href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <h3>Anthropic Launches Project Glasswing — Multi-Company Open Security Initiative</h3>
+    <p>Anthropic announced Project Glasswing, bringing together 12 companies including AWS, Apple, Google, Broadcom, Cisco, and CrowdStrike to use AI for automated vulnerability discovery in critical open-source software. The initiative found decades-old bugs in minutes during early testing.</p>
+  <div class="card-footer">
+    <span class="card-source">Anthropic</span>
+    <a class="card-link" href="https://www.anthropic.com/glasswing" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="divider">♔ Trillion Empire Intelligence ♔</div>
+
+</div>
+
+<div class="footer">
+  <div class="seal">
+    👑 TRINITY EMPIRE · CLASSIFIED
+  </div>
+  <div class="footer-links">
+    <a href="/index.html">View All Pulses</a> · <a href="/latest-ai-video-pulse.html">AI Video Pulse →</a>
+  </div>
+  <div class="footer-copy">
+    ♥ Trinity Empire · Tech Pulse 24/7 · Delivered every 3 hours
+  </div>
+</div>
+
+<script>
+  document.getElementById('time-display').textContent = new Date().toLocaleString('en-US', {
+    timeZone: 'America/New_York',
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZoneName: 'short'
+  });
+</script>
+</body>
+</html>

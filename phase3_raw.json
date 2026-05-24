@@ -1,0 +1,38 @@
+{
+  "ai": [
+    {
+      "title": "OpenAI | Research & Deployment",
+      "description": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe \u2026",
+      "url": "https://openai.com/",
+      "source": "openai.com"
+    },
+    {
+      "title": "ChatGPT",
+      "description": "Chat with the most advanced AI to explore ideas, solve problems, and learn faster.",
+      "url": "https://chatgpt.com/",
+      "source": "chatgpt.com"
+    },
+    {
+      "title": "Google Gemini",
+      "description": "Meet Gemini, Google\u2019s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.",
+      "url": "https://gemini.google.com/",
+      "source": "gemini.google.com"
+    },
+    {
+      "title": "DeepAI",
+      "description": "Whether you are a hobbyist, a professional artist, or a developer integrating AI into your product, DeepAI delivers advanced technology with \u2026",
+      "url": "https://deepai.org/?lang=en",
+      "source": "deepai.org"
+    },
+    {
+      "title": "Microsoft Copilot: Your AI companion",
+      "description": "Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now.",
+      "url": "https://copilot.microsoft.com/",
+      "source": "copilot.microsoft.com"
+    }
+  ],
+  "funding": [],
+  "tools": [],
+  "industry": [],
+  "oss": []
+}

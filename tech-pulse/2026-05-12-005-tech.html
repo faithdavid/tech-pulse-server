@@ -1,0 +1,1034 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tech Pulse 24/7 — Trillion Empire Intelligence</title>
+<meta name="description" content="Curated frontier intelligence for Lord FaithDavid — AI breakthroughs, startup funding, developer tools, industry movements, and open source.">
+<meta property="og:title" content="Tech Pulse 24/7 — Trillion Empire Intelligence">
+<meta property="og:description" content="Curated frontier intelligence — AI breakthroughs, startup funding, developer tools, industry movements, and open source.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tech-pulse-trillion.surge.sh/latest-tech-pulse.html">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Tech Pulse 24/7 — Trillion Empire Intelligence">
+<meta name="twitter:description" content="Your 24/7 technology intelligence feed.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-primary: #0d0d15;
+    --bg-secondary: #16161f;
+    --bg-card: rgba(18, 18, 32, 0.9);
+    --bg-card-hover: rgba(24, 24, 42, 0.95);
+    --border: rgba(42, 42, 70, 0.5);
+    --border-glow: rgba(0, 184, 148, 0.35);
+    --accent-ai: #6c5ce7;
+    --accent-funding: #00b894;
+    --accent-tools: #fd79a8;
+    --accent-industry: #0984e3;
+    --accent-oss: #fdcb6e;
+    --brand-emerald: #00b894;
+    --brand-emerald-light: #55efc4;
+    --brand-emerald-glow: rgba(0, 184, 148, 0.15);
+    --text-primary: #e8e8f0;
+    --text-secondary: #a0a0c0;
+    --text-muted: #7878a0;
+    --glass-bg: rgba(18, 18, 40, 0.7);
+    --glass-border: rgba(0, 184, 148, 0.15);
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* === HERO === */
+  .hero {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+    background: var(--bg-primary);
+    padding: 5rem 2rem 6rem;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse at 20% 50%, rgba(0, 184, 148, 0.2) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 50%, rgba(108, 92, 231, 0.1) 0%, transparent 50%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    opacity: 0.18;
+  }
+
+  .hero-bg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: saturate(1.2) brightness(0.5);
+  }
+
+  .hero-gradient {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg,
+      rgba(13, 13, 21, 0.2) 0%,
+      rgba(13, 13, 21, 0.6) 60%,
+      var(--bg-primary) 100%
+    );
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+  }
+
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.25);
+    color: var(--brand-emerald-light);
+    padding: 0.35rem 1rem;
+    border-radius: 100px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 1.25rem;
+    backdrop-filter: blur(8px);
+  }
+
+  .hero-badge .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--brand-emerald);
+    animation: pulse-dot 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.2; }
+  }
+
+  .hero-content h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 900;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #ffffff 0%, var(--brand-emerald-light) 40%, var(--brand-emerald) 70%, #6c5ce7 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.75rem;
+  }
+
+  .hero-sub {
+    font-size: clamp(0.95rem, 1.5vw, 1.15rem);
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin: 0 auto 1.25rem;
+    font-weight: 400;
+    line-height: 1.6;
+  }
+
+  .hero-meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+
+  .hero-meta span { display: flex; align-items: center; gap: 0.35rem; }
+  .hero-meta .sep { color: rgba(42, 42, 70, 0.8); }
+
+  /* === QUICK STATS === */
+  .stats-bar {
+    margin: -2.5rem auto 0;
+    max-width: 1200px;
+    padding: 0 2rem;
+    position: relative;
+    z-index: 3;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 0.5rem;
+    background: var(--glass-bg);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-lg);
+    padding: 1rem;
+  }
+
+  .stat-item {
+    text-align: center;
+    padding: 0.35rem 0.25rem;
+  }
+
+  .stat-item .num {
+    font-size: 1.4rem;
+    font-weight: 800;
+    background: linear-gradient(135deg, var(--brand-emerald-light), var(--brand-emerald));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.3;
+  }
+
+  .stat-item .lbl {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+    margin-top: 0.1rem;
+  }
+
+  /* === MAIN === */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 2rem 3rem;
+  }
+
+  /* === SPOTLIGHT === */
+  .spotlight {
+    position: relative;
+    margin: 2rem 0 2.5rem;
+    border-radius: var(--radius-xl);
+    overflow: hidden;
+    background: linear-gradient(135deg,
+      rgba(0, 184, 148, 0.1) 0%,
+      rgba(108, 92, 231, 0.05) 50%,
+      rgba(0, 184, 148, 0.02) 100%
+    );
+    border: 1px solid rgba(0, 184, 148, 0.2);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    align-items: center;
+  }
+
+  .spotlight-visual {
+    position: relative;
+    overflow: hidden;
+    aspect-ratio: 16 / 9;
+    background: var(--bg-secondary);
+    min-height: 200px;
+  }
+
+  .spotlight-visual img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    filter: brightness(0.85);
+    transition: transform 0.5s;
+  }
+
+  .spotlight:hover .spotlight-visual img {
+    transform: scale(1.03);
+  }
+
+  .spotlight-visual::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, rgba(13, 13, 21, 0.6) 0%, transparent 50%);
+  }
+
+  .spotlight-content {
+    padding: 2rem;
+    position: relative;
+  }
+
+  .spotlight-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--brand-emerald-light);
+    margin-bottom: 0.75rem;
+    padding: 0.2rem 0.6rem;
+    background: var(--brand-emerald-glow);
+    border-radius: 4px;
+  }
+  .spotlight-badge::before { content: '★ '; }
+
+  .spotlight h2 {
+    font-size: clamp(1.15rem, 2vw, 1.45rem);
+    font-weight: 800;
+    line-height: 1.35;
+    margin-bottom: 0.6rem;
+    color: #fff;
+  }
+
+  .spotlight p {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+
+  .spotlight .read-more {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: var(--brand-emerald-light);
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 0.4rem 0.8rem;
+    background: var(--brand-emerald-glow);
+    border-radius: var(--radius-sm);
+    transition: all 0.2s;
+    border: 1px solid rgba(0, 184, 148, 0.2);
+  }
+  .spotlight .read-more:hover {
+    background: rgba(0, 184, 148, 0.25);
+    gap: 0.6rem;
+    border-color: rgba(0, 184, 148, 0.4);
+  }
+  .spotlight .read-more:focus-visible {
+    outline: 2px solid var(--brand-emerald-light);
+    outline-offset: 2px;
+  }
+
+  /* === SECTION HEADERS === */
+  .section-header {
+    position: relative;
+    margin: 2.5rem 0 1.25rem;
+    padding: 1.25rem 1.5rem;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+
+  .section-header-bg {
+    position: absolute; inset: 0; z-index: 0; opacity: 0.12;
+  }
+  .section-header-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .section-header-shade {
+    position: absolute; inset: 0;
+    background: linear-gradient(90deg,
+      rgba(13, 13, 21, 0.97) 0%,
+      rgba(13, 13, 21, 0.7) 50%,
+      rgba(13, 13, 21, 0.3) 100%
+    );
+    z-index: 1;
+  }
+
+  .section-header-inner {
+    position: relative; z-index: 2;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+
+  .section-header-inner .icon {
+    font-size: 1.15rem;
+    width: 34px; height: 34px;
+    display: flex; align-items: center; justify-content: center;
+    background: var(--brand-emerald-glow);
+    border-radius: var(--radius-sm);
+    flex-shrink: 0;
+  }
+
+  .section-header-inner h2 {
+    font-size: 1rem; font-weight: 700; color: #fff;
+  }
+
+  .section-header-inner .count {
+    margin-left: auto;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.15rem 0.6rem;
+    border-radius: 100px;
+    flex-shrink: 0;
+  }
+
+  /* === CARDS === */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .card {
+    position: relative;
+    background: linear-gradient(
+      180deg,
+      rgba(18, 18, 32, 0.92) 0%,
+      rgba(14, 14, 26, 0.96) 60%,
+      rgba(10, 10, 20, 0.98) 100%
+    );
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 1.5rem;
+    transition: all 0.25s ease;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
+  }
+
+  /* Dark vignette gradient on cards for depth */
+  .card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.25), transparent);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .card > * { position: relative; z-index: 1; }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    opacity: 0;
+    transition: opacity 0.25s;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+    z-index: 2;
+  }
+
+  .card[data-type="ai"]::before { background: linear-gradient(90deg, var(--brand-emerald), #6c5ce7); }
+  .card[data-type="funding"]::before { background: linear-gradient(90deg, var(--brand-emerald), #55efc4); }
+  .card[data-type="tools"]::before { background: linear-gradient(90deg, #fd79a8, #fab1a0); }
+  .card[data-type="industry"]::before { background: linear-gradient(90deg, #0984e3, #74b9ff); }
+  .card[data-type="oss"]::before { background: linear-gradient(90deg, #fdcb6e, #ffeaa7); }
+
+  .card:hover {
+    background: linear-gradient(
+      180deg,
+      rgba(22, 22, 42, 0.95) 0%,
+      rgba(18, 18, 36, 0.97) 60%,
+      rgba(13, 13, 24, 0.99) 100%
+    );
+    border-color: var(--border-glow);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35), 0 0 20px rgba(0, 184, 148, 0.05);
+  }
+  .card:hover::before { opacity: 1; }
+  .card:hover::after { opacity: 0.8; }
+
+  .card:focus-within {
+    border-color: var(--border-glow);
+    box-shadow: 0 0 0 1px rgba(0, 184, 148, 0.3);
+  }
+
+  .card-tag {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.2rem 0.55rem;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    width: fit-content;
+  }
+
+  .card-tag.ai { background: rgba(0, 184, 148, 0.15); color: var(--brand-emerald-light); }
+  .card-tag.funding { background: rgba(0, 184, 148, 0.15); color: var(--brand-emerald-light); }
+  .card-tag.tools { background: rgba(253, 121, 168, 0.15); color: #fd79a8; }
+  .card-tag.industry { background: rgba(9, 132, 227, 0.15); color: #74b9ff; }
+  .card-tag.oss { background: rgba(253, 203, 110, 0.15); color: #fdcb6e; }
+
+  .card h3 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    margin-bottom: 0.35rem;
+    line-height: 1.4;
+    color: #fff;
+  }
+
+  .card p {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    flex: 1;
+    margin-bottom: 0.75rem;
+    line-height: 1.55;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-top: auto;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgba(42, 42, 70, 0.3);
+  }
+
+  .card-source {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+  }
+
+  .card-link {
+    font-size: 0.78rem;
+    color: var(--brand-emerald-light);
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+
+  .card-link:hover {
+    background: var(--brand-emerald-glow);
+  }
+  .card-link:focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  /* === EMPTY STATE === */
+  .empty-section {
+    text-align: center;
+    padding: 1.5rem;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    background: var(--bg-card);
+    border: 1px dashed var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  /* === DIVIDER === */
+  .divider {
+    display: flex; align-items: center; justify-content: center; gap: 0.75rem;
+    margin: 2.5rem 0;
+    color: var(--text-muted);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em; font-weight: 600;
+  }
+  .divider::before, .divider::after {
+    content: ''; flex: 1; height: 1px;
+    background: linear-gradient(90deg, transparent, var(--border), transparent);
+  }
+
+  /* === FOOTER === */
+  .footer {
+    text-align: center;
+    padding: 2rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .footer-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-links a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+  }
+
+  .footer-links a:hover {
+    color: var(--brand-emerald-light);
+    background: var(--brand-emerald-glow);
+  }
+  .footer-links a:focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  .footer-copy { color: var(--text-muted); font-size: 0.75rem; }
+
+  .seal {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.08);
+    padding: 0.25rem 0.9rem;
+    border-radius: 100px;
+    font-size: 0.6rem;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+  }
+
+  /* === FOCUS VISIBLE === */
+  :focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  /* === REDUCED MOTION === */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+    html { scroll-behavior: auto; }
+  }
+
+  /* === RESPONSIVE === */
+  @media (max-width: 900px) {
+    .spotlight { grid-template-columns: 1fr; }
+    .spotlight-visual { max-height: 200px; }
+  }
+
+  @media (max-width: 768px) {
+    .hero { padding: 3rem 1.25rem 4rem; }
+    .stats-bar { margin-top: -2rem; padding: 0 1rem; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 0.35rem; padding: 0.75rem; }
+    .container { padding: 1.25rem 1rem; }
+    .cards-grid { grid-template-columns: 1fr; }
+    .card { padding: 1.25rem; }
+    .spotlight-content { padding: 1.5rem; }
+    .section-header { padding: 1rem 1.25rem; }
+    .section-header-inner h2 { font-size: 0.9rem; }
+    .footer-links { flex-direction: column; gap: 0.5rem; }
+  }
+
+  @media (max-width: 480px) {
+    .hero-content h1 { font-size: 1.75rem; }
+    .hero-badge { font-size: 0.65rem; }
+    .card h3 { font-size: 0.9rem; }
+    .card p { font-size: 0.82rem; }
+    .stat-item .num { font-size: 1.2rem; }
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .card { animation: fadeUp 0.4s ease both; }
+  .card:nth-child(1) { animation-delay: 0.03s; }
+  .card:nth-child(2) { animation-delay: 0.06s; }
+  .card:nth-child(3) { animation-delay: 0.09s; }
+  .card:nth-child(4) { animation-delay: 0.12s; }
+  .card:nth-child(5) { animation-delay: 0.15s; }
+  .card:nth-child(6) { animation-delay: 0.18s; }
+
+  html { scroll-behavior: smooth; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-bg">
+    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&q=80&fm=jpg" alt="" width="1600" height="900" loading="eager">
+  </div>
+  <div class="hero-gradient"></div>
+  <div class="hero-content">
+    <div class="hero-badge">
+      <span class="dot"></span>
+      🔬 LIVE INTELLIGENCE FEED
+    </div>
+    <h1>Tech Pulse 24/7</h1>
+    <p class="hero-sub">Curated frontier intelligence — AI breakthroughs, startup funding, developer tools, industry movements, and open source.</p>
+    <div class="hero-meta">
+      <span>📅 <span id="time-display">Saturday, May 09, 2026 at 04:56 AM ET</span></span>
+      <span class="sep">◆</span>
+      <span>🔄 Every 3 hours</span>
+      <span class="sep">◆</span>
+      <span>📊 20 stories</span>
+    </div>
+  </div>
+</div>
+
+<div class="stats-bar">
+  <div class="stats-grid">
+    <div class="stat-item">
+      <div class="num">20</div>
+      <div class="lbl">Total</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">🤖 AI</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">💰 Funding</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">🔧 Tools</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">🏭 Industry</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">📦 OSS</div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+<div class="spotlight">
+  <div class="spotlight-visual">
+    <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=640&q=60" alt="" width="640" height="360" loading="lazy">
+  </div>
+  <div class="spotlight-content">
+    <div class="spotlight-badge">★ Top Story</div>
+    <h2>TanStack Publishes Postmortem of NPM Supply-Chain Compromise Affecting 42 Packages</h2>
+    <p>TanStack published a detailed postmortem of a sophisticated supply-chain attack where an attacker published 84 malicious versions across 42 @tanstack/* npm packages by chaining three GitHub Actions vulnerabilities. The attack, which scored 1,025 points on Hacker News, was detected within 20 minutes by an external researcher and exploited the pull_request_target &#39;Pwn Request&#39; pattern combined with cache poisoning.</p>
+    <a class="read-more" href="https://tanstack.com/blog/npm-supply-chain-compromise-postmortem" target="_blank">Read full story →</a>
+  </div>
+</div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🤖</span>
+      <h2>AI Breakthroughs</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Amazon Employees &#39;Tokenmaxxing&#39; Due to Pressure to Use AI Tools</h3>
+    <p>Amazon employees are gaming internal AI token usage leaderboards by automating unnecessary AI activity through the company&#39;s MeshClaw agent tool, according to the Financial Times. Amazon expects to spend $200 billion in capital expenditure this year — mostly on AI infrastructure — and has set targets for 80% of developers to use AI weekly, creating perverse incentives that some staff call &#39;tokenmaxxing.&#39;</p>
+  <div class="card-footer">
+    <span class="card-source">Ars Technica / Financial Times</span>
+    <a class="card-link" href="https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>DeepMind Reimagines the Mouse Pointer for the AI Era</h3>
+    <p>Google DeepMind unveiled a new AI-powered pointer technology that adapts to user intent, moving beyond the traditional mouse cursor paradigm. The system uses machine learning to predict where users want to click and can auto-complete interaction patterns, potentially transforming how humans interact with computers in an AI-augmented workflow.</p>
+  <div class="card-footer">
+    <span class="card-source">Google DeepMind</span>
+    <a class="card-link" href="https://deepmind.google/blog/ai-pointer/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Orpheus-3B: Canopy Labs Releases Open Emotive Text-to-Speech Model</h3>
+    <p>Canopy Labs released Orpheus-3B, an open emotive text-to-speech model that generates human-like speech with emotional inflection and natural prosody. The 3-billion-parameter model scored 186 points on Hacker News on release day, signaling strong community interest in open-source alternatives to proprietary TTS systems.</p>
+  <div class="card-footer">
+    <span class="card-source">Canopy Labs</span>
+    <a class="card-link" href="https://canopylabs.ai/model-releases" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Thinking Machines Building AI That Listens While It Talks — A First for Conversational AI</h3>
+    <p>Startup Thinking Machines is developing an AI model that processes real-time feedback and adjusts mid-conversation, breaking the standard request-response paradigm. If successful, the approach could revolutionize voice assistants, customer service, and real-time translation by enabling truly interactive dialogue rather than turn-based exchanges.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">💰</span>
+      <h2>Startup Funding &amp; Deals</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Exaforce Raises $125M Series B at $725M Valuation for AI-Powered Cybersecurity</h3>
+    <p>Three-year-old startup Exaforce raised $125 million in Series B funding to build AI systems that detect and stop cyberattacks in real time. The round values the company at $725 million, reflecting surging investor appetite for AI-native security solutions as cyber threats grow more sophisticated.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>AI Voice Startup Vapi Hits $500M Valuation After Winning Amazon Ring Over 40 Rivals</h3>
+    <p>Vapi, an AI voice platform startup, reached a $500 million valuation after Amazon&#39;s Ring division selected its technology over 40 competing platforms. The company&#39;s enterprise business has grown 10-fold since early 2025 as companies across industries shift customer support and sales calls to AI voice agents.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Helsing to Raise $1.2B at $18B Valuation for European AI Defense Technology</h3>
+    <p>European defense AI startup Helsing, backed by Spotify founder Daniel Ek, is close to raising $1.2 billion at an $18 billion valuation. The five-year-old company builds AI-powered military drone systems and has become Europe&#39;s most valuable AI startup as defense tech investment surges amid geopolitical tensions.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Nvidia Has Already Committed $40B to AI Equity Deals This Year, Led by OpenAI Stake</h3>
+    <p>Nvidia has deployed over $40 billion in AI equity investments in 2026, led by a $30 billion stake in OpenAI, as the chipmaker aggressively pursues financial returns beyond hardware sales. The strategy positions Nvidia as both the dominant AI infrastructure provider and the largest corporate investor in the AI ecosystem.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40-billion-to-equity-ai-deals-this-year/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🔧</span>
+      <h2>Developer Tools &amp; Infrastructure</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Obsidian Launches New Plugin Ecosystem with 120M+ Downloads and AI-Powered Auto-Review</h3>
+    <p>Obsidian announced a revamped plugin ecosystem featuring a new Community site, automated security reviews for all 4,000+ plugins, and the ability to process 2,300 queued submissions in days. The platform has surpassed 120 million total plugin downloads and introduced automated scanning for every version, responding to the surge in AI-agent-generated plugin submissions.</p>
+  <div class="card-footer">
+    <span class="card-source">Obsidian Blog</span>
+    <a class="card-link" href="https://obsidian.md/blog/future-of-plugins/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Python 3.15 Adds Built-in Statistical Profiling Module</h3>
+    <p>Python 3.15 introduces `profiling.sampling`, a new built-in statistical profiler that provides low-overhead performance analysis without modifying source code. The module earned 73 points on Hacker News and represents a significant quality-of-life improvement for Python developers debugging performance bottlenecks in production applications.</p>
+  <div class="card-footer">
+    <span class="card-source">Python Docs</span>
+    <a class="card-link" href="https://docs.python.org/3.15/library/profiling.sampling.html" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Voker (YC S24) Launches Analytics Platform for AI Agents</h3>
+    <p>Voker, a Y Combinator S24 startup, launched an analytics platform specifically designed for monitoring and debugging AI agent workflows. The tool provides observability into agent decision-making, token usage, and success rates, addressing the growing need for production-grade monitoring as enterprises deploy more autonomous AI agents.</p>
+  <div class="card-footer">
+    <span class="card-source">Voker / Y Combinator</span>
+    <a class="card-link" href="https://voker.ai" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Statewright: Open-Source Visual State Machines for Reliable AI Agents</h3>
+    <p>Statewright, a new open-source project on GitHub, provides visual state machine tools designed specifically for building reliable AI agent workflows. The framework allows developers to design, visualize, and enforce agent behavior through state machines, reducing unpredictable outputs in production agent deployments.</p>
+  <div class="card-footer">
+    <span class="card-source">GitHub (Statewright)</span>
+    <a class="card-link" href="https://github.com/statewright/statewright" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🏭</span>
+      <h2>Industry &amp; Policy</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>EU to Crack Down on TikTok and Instagram&#39;s &#39;Addictive Design&#39; Targeting Children</h3>
+    <p>The European Union announced new regulations targeting TikTok, Instagram, and other social media platforms over &#39;addictive design&#39; features aimed at children. The proposed rules, which scored 420 points on Hacker News, would require platforms to implement stronger age verification and default privacy settings, with fines reaching up to 6% of global revenue for non-compliance.</p>
+  <div class="card-footer">
+    <span class="card-source">CNBC</span>
+    <a class="card-link" href="https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>eBay Rejects GameStop&#39;s $56B Takeover Bid as &#39;Not Credible&#39;</h3>
+    <p>eBay formally rejected GameStop&#39;s $56 billion takeover offer, calling the bid not credible. The rejection, which scored 167 points on Hacker News, sent GameStop&#39;s stock down sharply and raised questions about the video game retailer&#39;s strategic direction under its meme-stock-era leadership.</p>
+  <div class="card-footer">
+    <span class="card-source">Bloomberg</span>
+    <a class="card-link" href="https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Instructure Pays Ransom to Canvas Hackers After Cyberattack</h3>
+    <p>Instructure, the company behind the widely-used Canvas learning management system, paid a ransom to hackers following a cyberattack that disrupted services for millions of students and educators. The incident, which scored 132 points on Hacker News, raises serious questions about security practices in educational technology and the ethics of ransom payments.</p>
+  <div class="card-footer">
+    <span class="card-source">Inside Higher Ed</span>
+    <a class="card-link" href="https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Waymo Issues Software Recall to Make Robotaxis Safer Around Flooding</h3>
+    <p>Waymo issued a voluntary software recall for its autonomous vehicles to improve navigation around flooded roads. The update makes Waymo&#39;s robotaxis more cautious when detecting standing water, adding new detection and response protocols as the company continues refining its AV software through real-world deployment data.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">📦</span>
+      <h2>Open Source</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>TanStack Publishes Postmortem of NPM Supply-Chain Compromise Affecting 42 Packages</h3>
+    <p>TanStack published a detailed postmortem of a sophisticated supply-chain attack where an attacker published 84 malicious versions across 42 @tanstack/* npm packages by chaining three GitHub Actions vulnerabilities. The attack, which scored 1,025 points on Hacker News, was detected within 20 minutes by an external researcher and exploited the pull_request_target &#39;Pwn Request&#39; pattern combined with cache poisoning.</p>
+  <div class="card-footer">
+    <span class="card-source">TanStack Blog</span>
+    <a class="card-link" href="https://tanstack.com/blog/npm-supply-chain-compromise-postmortem" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Bambu Lab Accused of Abusing Open Source Social Contract Over Slicer Fork Legal Threats</h3>
+    <p>Jeff Geerling reported that Bambu Lab threatened legal action against the developer of OrcaSlicer-bambulab, a fork of the AGPLv3-licensed Bambu Studio, for enabling local printing without routing through Bambu&#39;s cloud. The incident, scoring 738 points on Hacker News, highlights growing tensions between hardware companies and the open source community over device ownership and software freedom.</p>
+  <div class="card-footer">
+    <span class="card-source">Jeff Geerling</span>
+    <a class="card-link" href="https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>CERT Releasing Six CVEs for Critical Security Vulnerabilities in Dnsmasq</h3>
+    <p>CERT is preparing to disclose six CVEs for serious security vulnerabilities discovered in dnsmasq, the widely-used DNS forwarding and DHCP server software. The vulnerabilities affect countless embedded devices, routers, and Linux systems worldwide that rely on dnsmasq for network services, making this one of the most significant open source security disclosures in recent months.</p>
+  <div class="card-footer">
+    <span class="card-source">Dnsmasq Mailing List</span>
+    <a class="card-link" href="https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>&#39;They Live&#39; Inspired Open-Source Adblocker Goes Viral on GitHub</h3>
+    <p>An open-source adblocker inspired by the 1988 film &#39;They Live&#39; went viral on GitHub, scoring 495 points on Hacker News. The browser extension overlays augmented reality-style markers on ads and tracking scripts, gamifying the ad-blocking experience while providing transparency into which companies are tracking users across the web.</p>
+  <div class="card-footer">
+    <span class="card-source">GitHub (davmlaw)</span>
+    <a class="card-link" href="https://github.com/davmlaw/they_live_adblocker" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="divider">♔ Trillion Empire Intelligence ♔</div>
+
+</div>
+
+<div class="footer">
+  <div class="seal">
+    👑 TRINITY EMPIRE · EMERALD STANDARD
+  </div>
+  <div class="footer-links">
+    <a href="/index.html">View All Pulses</a> · <a href="/latest-ai-video-pulse.html">AI Video Pulse →</a>
+  </div>
+  <div class="footer-copy">
+    ♥ Trinity Empire · Tech Pulse 24/7 · Delivered every 3 hours
+  </div>
+</div>
+
+<script>
+  document.getElementById('time-display').textContent = new Date().toLocaleString('en-US', {
+    timeZone: 'America/New_York',
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZoneName: 'short'
+  });
+</script>
+</body>
+</html>

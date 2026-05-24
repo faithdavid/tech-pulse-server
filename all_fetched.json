@@ -1,0 +1,69 @@
+{
+  "known_articles": [
+    {
+      "key": "cnbc_veo3",
+      "title": "Google launches Veo 3, an AI video generator that incorporates audio",
+      "url": "https://www.cnbc.com/2025/05/20/google-ai-video-generator-audio-veo-3.html",
+      "page_title": "Google launches Veo 3, an AI video generator that incorporates audio",
+      "description": "Google on Tuesday announced Veo 3, an AI video generator that can also create and incorporate audio.\u00a0",
+      "summary": "Google launches Veo 3, an AI video generator that incorporates audio Skip Navigation Markets Business Investing Tech Politics Video Watchlist Investing Club PRO Livestream Menu Key Points Google announced Veo 3, an AI video generator that can also create and incorporate audio. The artificial intelligence tool competes with OpenAI's Sora video generator, but its ability to also incorporate audio into the video that it creates is a key distinction. The video-audio AI tool is available Tuesday to U.S. subscribers of Google's new $249.99 per month Ultra subscription plan, which is geared toward hardcore AI enthusiasts. "
+    },
+    {
+      "key": "techcrunch_flow",
+      "title": "Google debuts an AI-powered video tool called Flow",
+      "url": "https://techcrunch.com/2025/05/20/google-debuts-an-ai-powered-video-tool-called-flow/",
+      "page_title": "Google debuts an AI-powered video tool called Flow | TechCrunch",
+      "description": "At its Google I/O 2025 developer conference on Tuesday, Google announced Flow, a new AI-powered video tool geared toward filmmaking. The company said it's",
+      "summary": "Google debuts an AI-powered video tool called Flow | TechCrunch Image Credits: Google AI Google debuts an AI-powered video tool called Flow Ivan Mehta 10:45 AM PDT \u00b7 May 20, 2025 At its Google I/O 2025 developer conference on Tuesday, Google announced Flow, a new AI-powered video tool geared toward filmmaking. The company said it\u2019s using a trio of its AI models \u2014 Veo for video generation, Imagen for image generation, and Gemini for text and prompting \u2014 to power the new tool. Flow is following in the footsteps of other tools by letting users import characters or scenes, or letting them create those artifacts within the tool. "
+    },
+    {
+      "key": "sciencedaily_metamorphic",
+      "title": "Text-to-video AI blossoms with new metamorphic video capabilities",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250505170633.htm",
+      "page_title": "Text-to-video AI blossoms with new metamorphic video capabilities | ScienceDaily",
+      "description": "Computer scientists have developed a new AI text-to-video model that learns real-world physics knowledge from time-lapse videos.",
+      "summary": "Text-to-video AI blossoms with new metamorphic video capabilities | ScienceDaily Science News from research organizations Text-to-video AI blossoms with new metamorphic video capabilities Using time-lapse videos as training data, computer scientists have developed video generators that simulate the physical world more accurately Date: May 5, 2025 Source: University of Rochester Summary: Computer scientists have developed a new AI text-to-video model that learns real-world physics knowledge from time-lapse videos. Share: Facebook Twitter Pinterest LinkedIN Email FULL STORY While text-to-video artificial intelligence models like OpenAI's Sora are rapidly metamorphosing in front of our eyes, they have struggled to produce metamorphic videos. "
+    },
+    {
+      "key": "ithy_levelup",
+      "title": "AI Video Creation Just Leveled Up: What's New in May 2025?",
+      "url": "https://ithy.com/article/ai-video-creation-news-may-2025-w0irorw4",
+      "page_title": "Ithy - AI Video Creation Just Leveled Up: What's New in May 2025?",
+      "description": "Explore groundbreaking models, user-friendly tools, and industry trends reshaping how we create video content.",
+      "summary": "Ithy - AI Video Creation Just Leveled Up: What's New in May 2025? Chat Ask me anything AI Video Creation Just Leveled Up: What's New in May 2025? Explore groundbreaking models, user-friendly tools, and industry trends reshaping how we create video content. The landscape of video content creation is undergoing a dramatic transformation, driven by rapid advancements in Artificial Intelligence (AI). As of May 2025, AI video tools are not just automating tasks; they are unlocking new creative possibilities, making high-quality video production more accessible, efficient, and personalized than ever before. "
+    },
+    {
+      "key": "creativepool_top10",
+      "title": "Top 10 AI Video Tools (2025 Edition)",
+      "url": "https://creativepool.com/magazine/features/top-10-ai-video-tools-2025-edition.33137",
+      "page_title": "Top 10 AI Video Tools (2025 Edition)",
+      "description": "Video has always been one of the most time-intensive creative mediums and that\u2019s always tended to ensure only the cream of the crop rise to the top of the pile. After all, editing footage, creating animations and producing polished content......",
+      "summary": "Top 10 AI Video Tools (2025 Edition) . Top 10 AI Video Tools (2025 Edition) Benjamin Hiorns Published 28/07/2025 Video has always been one of the most time-intensive creative mediums and that\u2019s always tended to ensure only the cream of the crop rise to the top of the pile. After all, editing footage, creating animations and producing polished content requires significant skill and, in some cases, hundreds of hours of work. In a business (nay world) where time is money, it\u2019s no wonder video has been one of the first mediums to be automated by AI. Even South Park, (the gold standard for quick turnaround animation) got in on the action recently with a horrific (and hilarious) AI spot aimed at a certain Orange despot. "
+    },
+    {
+      "key": "runway_gen4",
+      "title": "Runway Gen-4: AI Video Generation with World Consistency",
+      "url": "https://runwayml.com/gen-4",
+      "page_title": "https://runwayml.com/gen-4",
+      "description": "",
+      "summary": ""
+    },
+    {
+      "key": "runway_gen45",
+      "title": "Runway rolls out Gen 4.5 AI video model that beats Google, OpenAI",
+      "url": "https://arstechnica.com/ai/2025/05/runway-rolls-out-gen-4-5-ai-video-model/",
+      "page_title": "https://arstechnica.com/ai/2025/05/runway-rolls-out-gen-4-5-ai-video-model/",
+      "description": "",
+      "summary": ""
+    },
+    {
+      "key": "kling30",
+      "title": "Kling 3.0 - The Most Advanced AI Video Model",
+      "url": "https://klingai.com/",
+      "page_title": "Kling AI",
+      "description": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
+      "summary": "Kling AI Kling AI: Next-Generation AI Creative Studio All-New KlingAI 3.0 Series All in One, One for All Create Now Kling 3.0 Model Series Built on a fully upgraded architecture, VIDEO 3.0 and VIDEO 3.0 Omni natively support deep multimodal instruction parsing and cross-task integration, redefining the narrative logic of light and sound. From precise long-form storyboard control to Native Audio\u2013powered feature decoupling, the system enables dual binding of visual identity and vocal tone. Across complex multi-scene transitions, VIDEO 3.0 delivers high creative freedom with exceptional consistency "
+    }
+  ],
+  "search_results": {}
+}

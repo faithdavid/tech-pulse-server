@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Video Pulse — Trillion Empire Intelligence</title>
+<meta name="description" content="Curated AI video creation intelligence — film education, industry news, tools, trends, offers & inspiration for Lord FaithDavid.">
+<meta property="og:title" content="AI Video Pulse — Trillion Empire Intelligence">
+<meta property="og:description" content="Film education, industry intelligence, tools, trends, offers & inspiration for your AI video empire.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tech-pulse-trillion.surge.sh/latest-ai-video-pulse.html">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI Video Pulse — Trillion Empire Intelligence">
+<meta name="twitter:description" content="Your AI video creator intelligence feed.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-primary: #0d0d15;
+    --bg-secondary: #16161f;
+    --bg-card: rgba(18, 18, 32, 0.9);
+    --bg-card-hover: rgba(24, 24, 42, 0.95);
+    --border: rgba(42, 42, 70, 0.5);
+    --accent-filmschool: #fdcb6e;
+    --accent-industry: #a29bfe;
+    --accent-tools: #00b894;
+    --accent-niches: #fd79a8;
+    --accent-offers: #74b9ff;
+    --accent-inspire: #fab1a0;
+    --brand-emerald: #00b894;
+    --brand-emerald-light: #55efc4;
+    --brand-emerald-glow: rgba(0, 184, 148, 0.15);
+    --text-primary: #e8e8f0;
+    --text-secondary: #a0a0c0;
+    --text-muted: #7878a0;
+    --glass-bg: rgba(18, 18, 40, 0.7);
+    --glass-border: rgba(225, 112, 85, 0.15);
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* === HERO === */
+  .hero {
+    position: relative;
+    padding: 5rem 2rem 6rem;
+    text-align: center;
+    overflow: hidden;
+    background: var(--bg-primary);
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse at 30% 50%, rgba(225, 112, 85, 0.15) 0%, transparent 50%),
+      radial-gradient(ellipse at 70% 50%, rgba(108, 92, 231, 0.1) 0%, transparent 50%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-bg {
+    position: absolute; inset: 0; z-index: 0; opacity: 0.16;
+  }
+
+  .hero-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+    filter: saturate(1.3) brightness(0.45);
+  }
+
+  .hero-gradient {
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg,
+      rgba(17, 17, 23, 0.2) 0%,
+      rgba(17, 17, 23, 0.6) 60%,
+      var(--bg-primary) 100%
+    );
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative; z-index: 2; max-width: 800px; margin: 0 auto;
+  }
+
+  .hero-badge {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.25);
+    color: var(--brand-emerald-light);
+    padding: 0.35rem 1rem;
+    border-radius: 100px;
+    font-size: 0.75rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.12em;
+    margin-bottom: 1.25rem;
+    backdrop-filter: blur(8px);
+  }
+
+  .hero-badge .dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: #fdcb6e;
+    animation: pulse-dot 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.2; }
+  }
+
+  .hero-content h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 900; line-height: 1.1; letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #ffffff 0%, var(--brand-emerald-light) 40%, var(--brand-emerald) 70%, #fab1a0 100%);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.75rem;
+  }
+
+  .hero-sub {
+    font-size: clamp(0.95rem, 1.5vw, 1.15rem);
+    color: var(--text-secondary);
+    max-width: 600px; margin: 0 auto 1.25rem;
+    font-weight: 400; line-height: 1.6;
+  }
+
+  .hero-meta {
+    display: flex; align-items: center; justify-content: center;
+    gap: 1.25rem; flex-wrap: wrap;
+    color: var(--text-muted); font-size: 0.85rem;
+  }
+  .hero-meta span { display: flex; align-items: center; gap: 0.35rem; }
+  .hero-meta .sep { color: rgba(42, 42, 70, 0.8); }
+
+  /* === STATS === */
+  .stats-bar {
+    margin: -2.5rem auto 0;
+    max-width: 1200px; padding: 0 2rem;
+    position: relative; z-index: 3;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 0.5rem;
+    background: var(--glass-bg);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-lg);
+    padding: 1rem;
+  }
+
+  .stat-item { text-align: center; padding: 0.35rem 0.25rem; }
+  .stat-item .num {
+    font-size: 1.4rem; font-weight: 800;
+    background: linear-gradient(135deg, #fab1a0, #e17055);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.3;
+  }
+  .stat-item .lbl {
+    font-size: 0.7rem; color: var(--text-muted);
+    text-transform: uppercase; letter-spacing: 0.06em;
+    font-weight: 500; margin-top: 0.1rem;
+  }
+
+  /* === MAIN === */
+  .container { max-width: 1200px; margin: 0 auto; padding: 2rem 2rem 3rem; }
+
+  /* === FILM SCHOOL SPOTLIGHT === */
+  .filmschool-spotlight {
+    position: relative;
+    margin: 2rem 0 2.5rem;
+    padding: 2rem;
+    border-radius: var(--radius-lg);
+    background: linear-gradient(135deg, rgba(253, 203, 110, 0.08), rgba(225, 112, 85, 0.04));
+    border: 1px solid rgba(253, 203, 110, 0.15);
+  }
+
+  .filmschool-spotlight .badge {
+    font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.08em; color: #fdcb6e; margin-bottom: 0.75rem;
+    display: flex; align-items: center; gap: 0.4rem;
+  }
+
+  .filmschool-spotlight h2 {
+    font-size: clamp(1.1rem, 2vw, 1.4rem);
+    font-weight: 800; line-height: 1.3; margin-bottom: 0.5rem; color: #fff;
+  }
+
+  .filmschool-spotlight p { color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 1rem; }
+
+  .filmschool-spotlight .tip-box {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(253, 203, 110, 0.12);
+    border-radius: var(--radius-md); padding: 1.25rem; margin: 1rem 0;
+  }
+
+  .filmschool-spotlight .tip-label {
+    font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.06em; color: #fdcb6e; margin-bottom: 0.3rem;
+  }
+
+  .filmschool-spotlight .tip-box p {
+    font-size: 0.9rem; color: var(--text-primary); line-height: 1.6;
+  }
+
+  .filmschool-spotlight .card-link {
+    display: inline-flex; align-items: center; gap: 0.35rem;
+    color: #fab1a0; font-size: 0.85rem; font-weight: 600; text-decoration: none;
+    padding: 0.4rem 0.8rem;
+    background: rgba(225, 112, 85, 0.1);
+    border-radius: var(--radius-sm);
+    transition: all 0.2s;
+  }
+  .filmschool-spotlight .card-link:hover { background: rgba(225, 112, 85, 0.2); gap: 0.6rem; }
+
+  /* === SECTION HEADERS === */
+  .section-header {
+    position: relative;
+    margin: 2.5rem 0 1.25rem;
+    padding: 1.25rem 1.5rem;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+
+  .section-header-bg {
+    position: absolute; inset: 0; z-index: 0; opacity: 0.12;
+  }
+  .section-header-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .section-header-shade {
+    position: absolute; inset: 0;
+    background: linear-gradient(90deg,
+      rgba(17, 17, 23, 0.97) 0%,
+      rgba(17, 17, 23, 0.7) 50%,
+      rgba(17, 17, 23, 0.3) 100%
+    );
+    z-index: 1;
+  }
+
+  .section-header-inner {
+    position: relative; z-index: 2;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+
+  .section-header-inner .icon {
+    font-size: 1.15rem;
+    width: 34px; height: 34px;
+    display: flex; align-items: center; justify-content: center;
+    background: rgba(225, 112, 85, 0.1);
+    border-radius: var(--radius-sm);
+    flex-shrink: 0;
+  }
+
+  .section-header-inner h2 {
+    font-size: 1rem; font-weight: 700; color: #fff;
+  }
+
+  .section-header-inner .count {
+    margin-left: auto;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.15rem 0.6rem;
+    border-radius: 100px;
+    flex-shrink: 0;
+  }
+
+  /* === CARDS === */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .card {
+    position: relative;
+    background: linear-gradient(
+      180deg,
+      rgba(18, 18, 32, 0.92) 0%,
+      rgba(14, 14, 26, 0.96) 60%,
+      rgba(10, 10, 20, 0.98) 100%
+    );
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 1.25rem;
+    transition: all 0.25s ease;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
+  }
+
+  /* Dark vignette for depth */
+  .card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.25), transparent);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .card > * { position: relative; z-index: 1; }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    opacity: 0;
+    transition: opacity 0.25s;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+  }
+
+  .card[data-type="filmschool"]::before { background: linear-gradient(90deg, #fdcb6e, #ffeaa7); }
+  .card[data-type="industry"]::before { background: linear-gradient(90deg, #a29bfe, #6c5ce7); }
+  .card[data-type="tools"]::before { background: linear-gradient(90deg, #00b894, #55efc4); }
+  .card[data-type="niches"]::before { background: linear-gradient(90deg, #fd79a8, #fab1a0); }
+  .card[data-type="offers"]::before { background: linear-gradient(90deg, #74b9ff, #0984e3); }
+  .card[data-type="inspire"]::before { background: linear-gradient(90deg, #fab1a0, #e17055); }
+
+  .card:hover {
+    background: linear-gradient(
+      180deg,
+      rgba(22, 22, 42, 0.95) 0%,
+      rgba(18, 18, 36, 0.97) 60%,
+      rgba(13, 13, 24, 0.99) 100%
+    );
+    border-color: rgba(0, 184, 148, 0.35);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35), 0 0 20px rgba(0, 184, 148, 0.05);
+  }
+  .card:hover::before { opacity: 1; }
+  .card:hover::after { opacity: 0.8; }
+  .card:focus-within {
+    border-color: rgba(0, 184, 148, 0.35);
+    box-shadow: 0 0 0 1px rgba(0, 184, 148, 0.3);
+  }
+
+  .card-tag {
+    display: inline-block;
+    font-size: 0.65rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    padding: 0.2rem 0.55rem; border-radius: 4px;
+    margin-bottom: 0.5rem; width: fit-content;
+  }
+
+  .card-tag.filmschool { background: rgba(253, 203, 110, 0.15); color: #fdcb6e; }
+  .card-tag.industry { background: rgba(108, 92, 231, 0.15); color: #a29bfe; }
+  .card-tag.tools { background: rgba(0, 184, 148, 0.15); color: #00b894; }
+  .card-tag.niches { background: rgba(253, 121, 168, 0.15); color: #fd79a8; }
+  .card-tag.offers { background: rgba(9, 132, 227, 0.15); color: #74b9ff; }
+  .card-tag.inspire { background: rgba(225, 112, 85, 0.15); color: #fab1a0; }
+
+  .card h3 {
+    font-size: 0.95rem; font-weight: 700;
+    margin-bottom: 0.35rem; line-height: 1.4; color: #fff;
+  }
+
+  .card p {
+    font-size: 0.85rem; color: var(--text-secondary);
+    flex: 1; margin-bottom: 0.75rem; line-height: 1.55;
+  }
+
+  .card-footer {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 0.5rem; margin-top: auto;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgba(42, 42, 70, 0.3);
+  }
+
+  .card-source { font-size: 0.7rem; color: var(--text-muted); }
+
+  .card-link {
+    font-size: 0.78rem; color: var(--brand-emerald-light); text-decoration: none;
+    font-weight: 500; padding: 0.3rem 0.6rem;
+    border-radius: 4px; transition: all 0.2s; white-space: nowrap;
+  }
+  .card-link:hover { background: var(--brand-emerald-glow); }
+  .card-link:focus-visible { outline: 2px solid var(--brand-emerald); outline-offset: 2px; }
+
+  /* === OFFER CTA === */
+  .offer-cta {
+    background: linear-gradient(135deg, rgba(9,132,227,0.1), rgba(108,92,231,0.05));
+    border: 1px solid rgba(9,132,227,0.15);
+    border-radius: var(--radius-md); padding: 1.25rem;
+    margin: 1rem 0; text-align: center;
+  }
+  .offer-cta h3 { color: #74b9ff; margin-bottom: 0.5rem; }
+  .offer-cta p { color: var(--text-secondary); font-size: 0.85rem; }
+
+  /* === EMPTY STATE === */
+  .empty-section {
+    text-align: center; padding: 1.5rem;
+    color: var(--text-muted); font-size: 0.85rem;
+    background: var(--bg-card);
+    border: 1px dashed var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  /* === DIVIDER === */
+  .divider {
+    display: flex; align-items: center; justify-content: center; gap: 0.75rem;
+    margin: 2.5rem 0;
+    color: var(--text-muted); font-size: 0.65rem;
+    text-transform: uppercase; letter-spacing: 0.2em; font-weight: 600;
+  }
+  .divider::before, .divider::after {
+    content: ''; flex: 1; height: 1px;
+    background: linear-gradient(90deg, transparent, var(--border), transparent);
+  }
+
+  /* === FOOTER === */
+  .footer {
+    text-align: center; padding: 2rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .footer-links {
+    display: flex; align-items: center; justify-content: center;
+    gap: 1.5rem; flex-wrap: wrap; margin-bottom: 0.75rem;
+  }
+
+  .footer-links a {
+    color: var(--text-secondary); text-decoration: none;
+    font-size: 0.85rem; font-weight: 500;
+    padding: 0.3rem 0.6rem; border-radius: 4px; transition: all 0.2s;
+  }
+  .footer-links a:hover { color: var(--brand-emerald-light); background: var(--brand-emerald-glow); }
+  .footer-links a:focus-visible { outline: 2px solid var(--brand-emerald); outline-offset: 2px; }
+
+  .footer-copy { color: var(--text-muted); font-size: 0.75rem; }
+
+  .seal {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: rgba(225, 112, 85, 0.05);
+    border: 1px solid rgba(225, 112, 85, 0.08);
+    padding: 0.25rem 0.9rem; border-radius: 100px;
+    font-size: 0.6rem; color: var(--text-muted);
+    letter-spacing: 0.05em; margin-bottom: 0.75rem;
+  }
+
+  /* === FOCUS VISIBLE === */
+  :focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  /* === REDUCED MOTION === */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+    html { scroll-behavior: auto; }
+  }
+
+  /* === RESPONSIVE === */
+  @media (max-width: 768px) {
+    .hero { padding: 3rem 1.25rem 4rem; }
+    .stats-bar { margin-top: -2rem; padding: 0 1rem; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 0.35rem; padding: 0.75rem; }
+    .container { padding: 1.25rem 1rem; }
+    .cards-grid { grid-template-columns: 1fr; }
+    .filmschool-spotlight { padding: 1.5rem; }
+    .section-header { padding: 1rem 1.25rem; }
+    .section-header-inner h2 { font-size: 0.9rem; }
+    .footer-links { flex-direction: column; gap: 0.5rem; }
+  }
+
+  @media (max-width: 480px) {
+    .hero-content h1 { font-size: 1.75rem; }
+    .hero-badge { font-size: 0.65rem; }
+    .card h3 { font-size: 0.9rem; }
+    .card p { font-size: 0.82rem; }
+    .stat-item .num { font-size: 1.2rem; }
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .card { animation: fadeUp 0.4s ease both; }
+  .card:nth-child(1) { animation-delay: 0.03s; }
+  .card:nth-child(2) { animation-delay: 0.06s; }
+  .card:nth-child(3) { animation-delay: 0.09s; }
+  .card:nth-child(4) { animation-delay: 0.12s; }
+
+  html { scroll-behavior: smooth; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-bg">
+    <img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1600&q=80&fm=jpg" alt="" width="1600" height="900" loading="eager">
+  </div>
+  <div class="hero-gradient"></div>
+  <div class="hero-content">
+    <div class="hero-badge">
+      <span class="dot"></span>
+      🎬 CREATOR INTELLIGENCE FEED
+    </div>
+    <h1>AI Video Pulse</h1>
+    <p class="hero-sub">Film education, industry intelligence, tools, trends, offers &amp; inspiration — for building Lord FaithDavid's AI video empire.</p>
+    <div class="hero-meta">
+      <span>📅 <span id="time-display">Monday, May 11, 2026 at 06:11 AM ET</span></span>
+      <span class="sep">◆</span>
+      <span>🔄 Every 3 hours</span>
+      <span class="sep">◆</span>
+      <span>📊 19 items</span>
+    </div>
+  </div>
+</div>
+
+<div class="stats-bar">
+  <div class="stats-grid">
+    <div class="stat-item"><div class="num">19</div><div class="lbl">Total</div></div>
+    <div class="stat-item"><div class="num">3</div><div class="lbl">🎬 School</div></div>
+    <div class="stat-item"><div class="num">3</div><div class="lbl">📰 Industry</div></div>
+    <div class="stat-item"><div class="num">4</div><div class="lbl">🔧 Tools</div></div>
+    <div class="stat-item"><div class="num">3</div><div class="lbl">📈 Trends</div></div>
+    <div class="stat-item"><div class="num">3</div><div class="lbl">💼 Offers</div></div>
+  </div>
+</div>
+
+<div class="container">
+
+<div class="filmschool-spotlight">
+  <div class="badge">🎓 Film School Tip of the Day</div>
+  <div class="tip-box">
+    <div class="tip-label">📖 Learn This</div>
+    <h2>Sora vs Runway vs Pika 2026 — Data-Backed Comparison After 150+ Tests</h2>
+    <p>BytePulse&#39;s engineering team ran 150+ text-to-video and image-to-video generation tests across Sora 2, Runway Gen-4.5, and Pika 2.5 over 60 days. Key findings: Runway wins on photorealism (9.2/10) and professional production workflow; Pika wins on speed/cost at $8/mo for short-form content; Sora 2 has best prompt adherence (9.0/10) but standalone app is discontinued. With Sora gone, it&#39;s now a Runway vs Pika decision depending on use case. Updated March 25, 2026.</p>
+  </div>
+  <a class="card-link" href="https://bytepulse.io/sora-vs-runway-vs-2026/" target="_blank">Deep dive →</a>
+</div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🎬</span>
+      <h2>Film School</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="filmschool">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1485846234645?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Sora vs Runway vs Pika 2026 — Data-Backed Comparison After 150+ Tests</h3>
+    <p>BytePulse&#39;s engineering team ran 150+ text-to-video and image-to-video generation tests across Sora 2, Runway Gen-4.5, and Pika 2.5 over 60 days. Key findings: Runway wins on photorealism (9.2/10) and professional production workflow; Pika wins on speed/cost at $8/mo for short-form content; Sora 2 has best prompt adherence (9.0/10) but standalone app is discontinued. With Sora gone, it&#39;s now a Runway vs Pika decision depending on use case. Updated March 25, 2026.</p>
+  <div class="card-footer">
+    <span class="card-source">BytePulse</span>
+    <a class="card-link" href="https://bytepulse.io/sora-vs-runway-vs-2026/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="filmschool">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1536240478700?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>AI Video Generation 2026 — Honest Breakdown of Sora, Runway, Kling &amp; Pika</h3>
+    <p>Precision AI Academy&#39;s April 2026 guide cuts through the hype with a practical breakdown: Sora produces the most cinematic quality but remains expensive at scale ($0.75/sec API). Runway Gen-3 is the professional&#39;s choice for iteration and editing workflows. Kling AI delivers impressive motion coherence at a fraction of the cost (~$0.10/sec). Pika 2.0 is consumer-friendly with creative &#39;Pikaffects.&#39; Physics consistency, hand rendering, and character consistency across scenes remain the biggest unsolved problems across all platforms.</p>
+  <div class="card-footer">
+    <span class="card-source">Precision AI Academy</span>
+    <a class="card-link" href="https://precisionaiacademy.com/blog/ai-video-generation-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="filmschool">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1558494949?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>AI Video Model Release Tracker 2026 — What Actually Changed This Quarter</h3>
+    <p>Magic Hour CEO Runbo Li&#39;s comprehensive tracker (March 8, 2026) covers Seedance 2.0, Kling 3.0, Veo, Sora, Runway, Pika, and Luma. Biggest takeaways: Seedance 2.0 and Kling 3.0 push realism and motion physics hardest; Sora and Veo focus on scene consistency and narrative continuity; creator workflows matter more than raw model breakthroughs in 2026. The shift is toward full creation pipelines rather than isolated model quality.</p>
+  <div class="card-footer">
+    <span class="card-source">Magic Hour</span>
+    <a class="card-link" href="https://magichour.ai/blog/ai-video-model-release-tracker-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">📰</span>
+      <h2>Industry News</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">📰 Industry News</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>OpenAI Shuts Down Sora Standalone App — Model Lives On in ChatGPT</h3>
+    <p>OpenAI officially discontinued the Sora standalone app and API on March 24, 2026 after burning an estimated $15M/day in compute costs against only $2.1M lifetime revenue. The Sora 2 model remains accessible through ChatGPT Plus ($20/mo) and ChatGPT Pro ($200/mo) but with limited credit allocation. Disney walked away from a $1B investment deal. Developers who embedded Sora via API must migrate before September 2026 when API access ends entirely. Runway Gen-4.5 and Pika 2.5 are the recommended migration targets.</p>
+  <div class="card-footer">
+    <span class="card-source">The New York Times</span>
+    <a class="card-link" href="https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">📰 Industry News</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>PixVerse Partners with UN AI for Good Global Summit 2026</h3>
+    <p>PixVerse, a global AI video generation platform, announced its partnership with the UN AI for Good Global Summit 2026 in Singapore (announced April 24, 2026). The summit returns for a second year, bringing together AI video creators and UN delegates to explore generative AI&#39;s potential for humanitarian and educational applications. PixVerse&#39;s platform enables text-to-video and image-to-video generation with multi-language support, positioning it as a bridge between AI video technology and global development goals.</p>
+  <div class="card-footer">
+    <span class="card-source">Rutland Herald / Business Wire</span>
+    <a class="card-link" href="https://www.rutlandherald.com/news/business/pixverse-announces-partnership-with-the-un-ai-for-good-global-summit-2026-invites-global-ai/article_b852caf8-ec00-59f0-b398-7ecfe91843c8.html" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">📰 Industry News</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1551288049?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Best AI Video Generators 2026 Tier List — Veo 3.1 Takes Top Spot</h3>
+    <p>Get AI Perks&#39; definitive April 30, 2026 ranking places Google Veo 3.1 at S-Tier #1 for true 4K output ($0.15-0.35/sec), followed by Sora 2 ($0.75/sec, cinematic physics) and Kling 3.0 ($0.10/sec, best value). Runway Gen-4.5 lands at A-Tier with a variable credit system. The report notes picking the wrong model can cost 5-10x more for the same output. For high-volume production (1,000 videos/month), Runway Unlimited at $76/month is unbeatable; for per-output flexibility, Kling 3.0 at $3/video is the sweet spot.</p>
+  <div class="card-footer">
+    <span class="card-source">Get AI Perks</span>
+    <a class="card-link" href="https://www.getaiperks.com/en/blogs/44-best-ai-video-generators-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🔧</span>
+      <h2>Tools &amp; Tech</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Kling 3.0 Omni — World&#39;s First Unified Multimodal AI Video Engine</h3>
+    <p>Kuaishou&#39;s Kling 3.0 debuts the Omni architecture, the first unified multimodal model that generates video, audio, and images within a single framework. Director-grade features include physics-accurate motion, native audio sync, multi-shot storyboarding, endframe control, and broadcast-ready 4K at 60fps. Priced at ~$0.10/sec — 65% cheaper than Sora was, 44% cheaper than Runway. Early access via Ultra subscribers, general rollout in progress per the Magic Hour tracker.</p>
+  <div class="card-footer">
+    <span class="card-source">Kling AI / Kuaishou</span>
+    <a class="card-link" href="https://kling3.io/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1461749280684?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Google Veo 3.1 — True 4K with Multi-Reference Image Control</h3>
+    <p>Veo 3.1 introduces multi-reference image upload for precise character, object, and style consistency across scenes. Three generation modes (fast at $0.15/sec, standard, quality) offer flexible pricing. Outputs native 4K with synchronized audio — only Veo and Sora 2 hit this resolution consistently. Available via Vertex AI for enterprise, Google Vids ($19.99/mo AI Pro), and Adobe Firefly integration. Ranked #1 overall by Get AI Perks (April 30, 2026) and RCT Vs AI Video Stack (May 10, 2026).</p>
+  <div class="card-footer">
+    <span class="card-source">Google DeepMind</span>
+    <a class="card-link" href="https://aistudio.google.com/models/veo-3" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1485846234645?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Seedance 2.0 — ByteDance&#39;s Narrative-First Multi-Shot Generator</h3>
+    <p>ByteDance&#39;s Seedance 2.0 focuses on temporal coherence and cinematic structure, addressing motion stability issues that plague earlier AI video models. Supports multimodal input (image, video, audio, text), 2K resolution output, and 30% faster generation than version 1.0. Strongest character consistency in the market per multiple benchmarks. Available via CapCut with regional restrictions. Its prompt library on YouMind offers hundreds of curated, playable prompts for hands-on learning.</p>
+  <div class="card-footer">
+    <span class="card-source">ByteDance / Seedance</span>
+    <a class="card-link" href="https://seedance.io/seedance-2" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1492691527719?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Midjourney Video V1 Enters AI Video Space — New Contender</h3>
+    <p>Midjourney officially launched Video V1, entering the AI video generation market after dominating AI image generation. The subscription-based model mirrors Midjourney&#39;s familiar Discord-centric workflow but extends to short video generation. Early reviews note characteristic Midjourney aesthetic quality and stylization, though the video length and motion control are currently more limited than dedicated video platforms like Runway or Kling. Positioned as a B-Tier entry in the Get AI Perks 2026 tier list.</p>
+  <div class="card-footer">
+    <span class="card-source">Midjourney / Get AI Perks</span>
+    <a class="card-link" href="https://www.getaiperks.com/en/blogs/44-best-ai-video-generators-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">📈</span>
+      <h2>Trends &amp; Niches</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="niches">
+    <div class="card-tag niches">📈 Trends & Niches</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1536240478700?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>AI Avatar Video Explosion — HeyGen Leads Enterprise Talking-Head Market</h3>
+    <p>HeyGen&#39;s AI avatar video platform has become the go-to for enterprise talking-head content, with pricing from free to $149/mo (Creator, Pro, Business tiers). Avatars deliver human-like speech, facial expressions, and gestures for scalable video creation. Digen AI&#39;s May 10, 2026 ranking of the 10 best AI avatar generators places HeyGen at the top, with Synthesia 3.0 close behind offering interactive branching and quizzes. The niche is exploding for training videos, marketing, and internal communications.</p>
+  <div class="card-footer">
+    <span class="card-source">Digen AI</span>
+    <a class="card-link" href="https://resource.digen.ai/best-ai-avatar-video-generator/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="niches">
+    <div class="card-tag niches">📈 Trends & Niches</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1454165804606?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>AI Video Ads for Ecommerce — Topview AI Clones Viral Styles at Scale</h3>
+    <p>Topview AI&#39;s Video Agent analyzes 10M+ viral ad patterns and recreates successful styles around any product. Users upload a reference video or product URL and the AI recreates the concept in minutes with voice cloning included. E-commerce brands are the primary adopters, with the platform targeting UGC-style ads that convert without professional filming. This niche is growing rapidly as brands seek cost-effective alternatives to traditional video production for social commerce.</p>
+  <div class="card-footer">
+    <span class="card-source">Topview AI</span>
+    <a class="card-link" href="https://www.topview.ai/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="niches">
+    <div class="card-tag niches">📈 Trends & Niches</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1551288049?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>AI Short-Form Video Dominates Social — Creators Automate with AI Pipelines</h3>
+    <p>TikTok and Instagram creators are increasingly adopting AI video pipelines for short-form content production. Tools like CapCut (with Seedance 2.0 integration), Pika 2.5, and Runway Gen-4.5 are being used to generate B-roll, transitions, and effects that previously required professional editing. The trend is most visible on TikTok&#39;s Symphony Creative Studio, which uses AI to analyze trends and generate high-performing content. AI short-form video creation has become the hottest niche for creator earnings in 2026.</p>
+  <div class="card-footer">
+    <span class="card-source">Shopify</span>
+    <a class="card-link" href="https://www.shopify.com/blog/tiktok-trends" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">💼</span>
+      <h2>Offers &amp; Selling</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="offers">
+    <div class="card-tag offers">💼 Offers & Selling</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1611974789855?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>AI Perks Aggregator — $1,500-$75,000+ in Free AI Video Credits</h3>
+    <p>Get AI Perks aggregates startup credits from AI video platforms including Google Cloud Vertex AI (Veo 3.1, up to $350,000 credits), OpenAI (Sora 2, up to $50,000), Replicate (Kling 3.0, Runway), and fal.ai (multiple models). Single subscription unlocks access to credits that would normally require individual applications to accelerator programs. For creators and startups, this is the most cost-effective way to test and compare all major AI video models without committing to individual subscriptions.</p>
+  <div class="card-footer">
+    <span class="card-source">Get AI Perks</span>
+    <a class="card-link" href="https://www.getaiperks.com/en/blogs/44-best-ai-video-generators-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="offers">
+    <div class="card-tag offers">💼 Offers & Selling</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1492691527719?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Runway Unlimited at $76/Month — Best Value for High-Volume Production</h3>
+    <p>Runway&#39;s Unlimited plan at $76/month (annual) offers unlimited generations, making it the most cost-effective option for power users and production teams. For context: generating 1,000 30-second videos costs $1,500 on Sora 2 API, $13,500 on Veo 3.1 fast mode, but just $76 on Runway Unlimited. The plan includes access to Gen-4.5, Gen-4 Turbo, and all Runway AI editing tools. Standard plan at $12-15/month is sufficient for occasional users.</p>
+  <div class="card-footer">
+    <span class="card-source">Runway ML</span>
+    <a class="card-link" href="https://runwayml.com/pricing" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="offers">
+    <div class="card-tag offers">💼 Offers & Selling</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1454165804606?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Fiverr AI Video Production Goes Mainstream — New Freelancer Category</h3>
+    <p>AI video production has emerged as a dedicated service category on Fiverr and Freelancer platforms, with freelancers offering AI video creation, prompt engineering, lip-sync avatars, and AI-assisted editing. The demand is growing from businesses that want AI video but lack technical skills. Freelancers with expertise in Runway, Pika, and Kling workflows are commanding premium rates. This creates a new &#39;AI video agency&#39; micro-entrepreneur niche for creators who master the tools.</p>
+  <div class="card-footer">
+    <span class="card-source">Fiverr</span>
+    <a class="card-link" href="https://www.fiverr.com/search/gigs?query=ai%20video%20production" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1511988617509-a57c8a288659?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">✨</span>
+      <h2>Inspiration</h2>
+      <span class="count">3</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="inspire">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1536240478700?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Seedance 2.0 Cinematic Demos — ByteDance Redefines AI Film Grammar</h3>
+    <p>ByteDance&#39;s Seedance 2.0 prompt library on YouMind showcases hundreds of pre-built, playable video prompts covering text-to-video, image-to-video, character animation, and multi-scene narratives. Each prompt links to a live generated result, demonstrating the model&#39;s ability to handle camera movement, lighting transitions, and character consistency across shots. The demos represent a significant leap in AI-generated cinematic language — moving beyond single clips toward structured multi-shot sequences that feel like actual film scenes.</p>
+  <div class="card-footer">
+    <span class="card-source">YouMind / ByteDance</span>
+    <a class="card-link" href="https://youmind.com/seedance-2-0-prompts" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="inspire">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1519389950473?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Magic Hour CEO&#39;s Vision for AI Video — From Clips to Full Creation Pipelines</h3>
+    <p>Runbo Li, CEO of Magic Hour, published a comprehensive analysis (March 8, 2026) arguing that 2026&#39;s biggest shift isn&#39;t better models — it&#39;s the move toward full creation pipelines. He argues platforms that integrate video generation with editing, sound design, and iteration workflows will win, not those with the best single model. His tracker covers Seedance 2.0&#39;s cinematic realism, Kling 3.0&#39;s motion physics, and Veo&#39;s enterprise infrastructure, providing a strategic roadmap for creators building AI video studios.</p>
+  <div class="card-footer">
+    <span class="card-source">Magic Hour</span>
+    <a class="card-link" href="https://magichour.ai/blog/ai-video-model-release-tracker-2026" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="inspire">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <img class="card-image" src="https://images.unsplash.com/photo-1677442136019?w=600&amp;q=60" alt="" loading="lazy">
+    <h3>Sora 2 Cinematic Physics Demos — What OpenAI&#39;s Model Still Does Best</h3>
+    <p>Despite the standalone app shutdown, Sora 2&#39;s remaining strength is its physics simulation — generating realistic fabric draping, fluid dynamics, and natural object interactions that other models still struggle with. Prompt adherence scoring 9.0/10 in comparative benchmarks means it executes complex scene descriptions more faithfully than competitors. For filmmakers who need specific cinematic styles (film grain, color grading, aspect ratio control), Sora 2 via ChatGPT Plus remains a powerful tool for concept visualization and pre-visualization work.</p>
+  <div class="card-footer">
+    <span class="card-source">BytePulse</span>
+    <a class="card-link" href="https://bytepulse.io/sora-vs-runway-vs-2026/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="divider">♔ Trillion Empire Intelligence ♔</div>
+
+</div>
+
+<div class="footer">
+  <div class="seal">
+    👑 TRINITY EMPIRE · CREATOR DIVISION
+  </div>
+  <div class="footer-links">
+    <a href="/index.html">View All Pulses</a> · <a href="/latest-tech-pulse.html">Tech Pulse →</a>
+  </div>
+  <div class="footer-copy">
+    ♥ Trinity Empire · AI Video Pulse · Delivered every 3 hours
+  </div>
+</div>
+
+<script>
+  document.getElementById('time-display').textContent = new Date().toLocaleString('en-US', {
+    timeZone: 'America/New_York',
+    weekday: 'long', year: 'numeric', month: 'long', day: 'numeric',
+    hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
+  });
+</script>
+</body>
+</html>

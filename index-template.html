@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trillion Empire — Intelligence Hub</title>
+<meta name="description" content="Command center for Lord FaithDavid's intelligence feeds — Tech Pulse 24/7 and AI Video Pulse.">
+<meta property="og:title" content="Trillion Empire — Intelligence Hub">
+<meta property="og:description" content="Two live intelligence feeds, constantly updating.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tech-pulse-trillion.surge.sh/index.html">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Trillion Empire — Intelligence Hub">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👑</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-primary: #0d0d15;
+    --bg-secondary: #16161f;
+    --bg-card: rgba(18, 18, 32, 0.9);
+    --bg-card-hover: rgba(24, 24, 42, 0.95);
+    --border: rgba(42, 42, 70, 0.5);
+    --brand-emerald: #00b894;
+    --brand-emerald-light: #55efc4;
+    --brand-emerald-glow: rgba(0, 184, 148, 0.15);
+    --accent-tech: #6c5ce7;
+    --accent-video: #e17055;
+    --text-primary: #e8e8f0;
+    --text-secondary: #a0a0c0;
+    --text-muted: #7878a0;
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* === HERO === */
+  .hero {
+    position: relative;
+    padding: 5rem 2rem 6rem;
+    text-align: center;
+    overflow: hidden;
+    background: var(--bg-primary);
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse at 30% 50%, rgba(0, 184, 148, 0.18) 0%, transparent 50%),
+      radial-gradient(ellipse at 70% 50%, rgba(108, 92, 231, 0.1) 0%, transparent 50%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-bg {
+    position: absolute; inset: 0; z-index: 0; opacity: 0.16;
+  }
+
+  .hero-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+    filter: saturate(1.1) brightness(0.4);
+  }
+
+  .hero-overlay {
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg,
+      rgba(13, 13, 21, 0.2) 0%,
+      rgba(13, 13, 21, 0.6) 60%,
+      var(--bg-primary) 100%
+    );
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative; z-index: 2; max-width: 700px; margin: 0 auto;
+  }
+
+  .hero-badge {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.25);
+    color: var(--brand-emerald-light);
+    padding: 0.4rem 1.2rem; border-radius: 100px;
+    font-size: 0.75rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.12em;
+    backdrop-filter: blur(8px); margin-bottom: 1.25rem;
+  }
+
+  .hero h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 900; letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #ffffff 0%, var(--brand-emerald-light) 40%, var(--brand-emerald) 70%);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.75rem;
+  }
+
+  .hero p {
+    color: var(--text-secondary);
+    font-size: clamp(0.95rem, 1.5vw, 1.1rem);
+    max-width: 550px; margin: 0 auto;
+    font-weight: 400;
+  }
+
+  .container {
+    max-width: 1100px; margin: 0 auto; padding: 2rem 2rem 4rem;
+  }
+
+  /* === STREAM CARDS === */
+  .streams {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+    margin-bottom: 3rem;
+  }
+
+  .stream-card {
+    position: relative;
+    border-radius: var(--radius-xl);
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    min-height: 300px;
+    display: flex;
+    align-items: flex-end;
+    transition: all 0.3s ease;
+    border: 1px solid var(--border);
+  }
+
+  .stream-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--brand-emerald);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4), 0 0 30px rgba(0, 184, 148, 0.06);
+  }
+
+  .stream-card-bg {
+    position: absolute; inset: 0; z-index: 0;
+  }
+
+  .stream-card-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+    transition: transform 0.5s;
+  }
+
+  .stream-card:hover .stream-card-bg img {
+    transform: scale(1.05);
+  }
+
+  .stream-card-shade {
+    position: absolute; inset: 0; z-index: 1;
+    background: linear-gradient(180deg,
+      rgba(13, 13, 21, 0) 0%,
+      rgba(13, 13, 21, 0.3) 30%,
+      rgba(13, 13, 21, 0.97) 100%
+    );
+  }
+
+  .stream-card.tech .stream-card-shade {
+    background: linear-gradient(180deg,
+      rgba(13, 13, 21, 0) 0%,
+      rgba(0, 184, 148, 0.08) 40%,
+      rgba(13, 13, 21, 0.97) 100%
+    );
+  }
+
+  .stream-card.video .stream-card-shade {
+    background: linear-gradient(180deg,
+      rgba(13, 13, 21, 0) 0%,
+      rgba(225, 112, 85, 0.08) 40%,
+      rgba(13, 13, 21, 0.97) 100%
+    );
+  }
+
+  .stream-card-content {
+    position: relative; z-index: 2; padding: 2rem; width: 100%;
+  }
+
+  .stream-card .icon {
+    font-size: 2.5rem; margin-bottom: 0.5rem;
+  }
+
+  .stream-card h2 {
+    font-size: 1.5rem; font-weight: 800; margin-bottom: 0.4rem;
+  }
+
+  .stream-card.tech h2 { color: var(--brand-emerald-light); }
+  .stream-card.video h2 { color: #fab1a0; }
+
+  .stream-card p {
+    color: var(--text-secondary);
+    font-size: 0.85rem; margin-bottom: 1.25rem; line-height: 1.5;
+  }
+
+  .stream-cta {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    padding: 0.5rem 1.2rem; border-radius: var(--radius-sm);
+    font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: all 0.2s;
+    border: 1px solid transparent;
+  }
+
+  .stream-card.tech .stream-cta {
+    background: var(--brand-emerald-glow); color: var(--brand-emerald-light);
+    border-color: rgba(0, 184, 148, 0.2);
+  }
+
+  .stream-card.video .stream-cta {
+    background: rgba(225, 112, 85, 0.15); color: #fab1a0;
+    border-color: rgba(225, 112, 85, 0.2);
+  }
+
+  .stream-card:hover .stream-cta { gap: 0.7rem; }
+  .stream-card.tech:hover .stream-cta { background: rgba(0, 184, 148, 0.25); }
+  .stream-card.video:hover .stream-cta { background: rgba(225, 112, 85, 0.25); }
+
+  .stream-card.empire .stream-card-shade {
+    background: linear-gradient(180deg,
+      rgba(13, 13, 21, 0) 0%,
+      rgba(108, 92, 231, 0.08) 40%,
+      rgba(13, 13, 21, 0.97) 100%
+    );
+  }
+  .stream-card.empire h2 { color: var(--purple-light, #a29bfe); }
+  .stream-card.empire .stream-cta {
+    background: rgba(108, 92, 231, 0.15); color: #a29bfe;
+    border-color: rgba(108, 92, 231, 0.2);
+  }
+  .stream-card.empire:hover .stream-cta { background: rgba(108, 92, 231, 0.25); }
+
+  /* === HISTORY === */
+  .history-header {
+    display: flex; align-items: center; gap: 0.75rem;
+    margin-bottom: 1.25rem; padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .history-header h3 {
+    font-size: 1.05rem; font-weight: 700;
+  }
+
+  .history-header .count {
+    margin-left: auto;
+    background: var(--brand-emerald-glow);
+    color: var(--brand-emerald-light);
+    font-size: 0.75rem; font-weight: 600;
+    padding: 0.2rem 0.7rem; border-radius: 100px;
+  }
+
+  .entry-list {
+    display: flex; flex-direction: column; gap: 0.35rem;
+  }
+
+  .entry {
+    display: flex; align-items: center; gap: 1rem;
+    padding: 0.75rem 1rem;
+    background: linear-gradient(180deg,
+      rgba(18, 18, 32, 0.92) 0%,
+      rgba(14, 14, 26, 0.96) 100%
+    );
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    text-decoration: none; color: inherit;
+    transition: all 0.2s;
+  }
+
+  .entry:hover {
+    background: linear-gradient(180deg,
+      rgba(22, 22, 42, 0.95) 0%,
+      rgba(18, 18, 36, 0.97) 100%
+    );
+    border-color: var(--brand-emerald);
+    transform: translateX(4px);
+    box-shadow: 0 0 20px rgba(0, 184, 148, 0.04);
+  }
+
+  .entry .type-badge {
+    font-size: 0.6rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    padding: 0.2rem 0.5rem; border-radius: 4px;
+    min-width: 48px; text-align: center;
+  }
+
+  .entry .type-badge.tech { background: var(--brand-emerald-glow); color: var(--brand-emerald-light); }
+  .entry .type-badge.video { background: rgba(225, 112, 85, 0.15); color: #fab1a0; }
+  .entry .type-badge.empire { background: rgba(108, 92, 231, 0.15); color: #a29bfe; }
+
+  .entry .date {
+    font-size: 0.8rem; color: var(--text-muted); min-width: 120px;
+  }
+
+  .entry .title {
+    font-size: 0.85rem; color: var(--text-primary); flex: 1;
+  }
+
+  .entry .arrow {
+    color: var(--text-muted); font-size: 0.8rem;
+    transition: transform 0.2s, color 0.2s;
+  }
+
+  .entry:hover .arrow {
+    color: var(--brand-emerald-light); transform: translateX(4px);
+  }
+
+  .empty-state {
+    text-align: center; padding: 2.5rem; color: var(--text-muted);
+    font-style: italic;
+    background: var(--bg-card);
+    border: 1px dashed var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  /* === FOOTER === */
+  .footer {
+    text-align: center; padding: 2rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .footer-copy {
+    color: var(--text-muted); font-size: 0.75rem;
+  }
+
+  .footer-copy .heart { color: var(--brand-emerald); }
+
+  .seal {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.08);
+    padding: 0.25rem 0.9rem; border-radius: 100px;
+    font-size: 0.6rem; color: var(--text-muted);
+    letter-spacing: 0.05em; margin-bottom: 0.75rem;
+  }
+
+  /* === FOCUS === */
+  :focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  .entry:focus-visible, .stream-card:focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  /* === REDUCED MOTION === */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+    html { scroll-behavior: auto; }
+  }
+
+  /* === RESPONSIVE === */
+  @media (max-width: 768px) {
+    .hero { padding: 3rem 1.25rem 4rem; }
+    .streams { grid-template-columns: 1fr; }
+    .stream-card { min-height: 240px; }
+    .stream-card-content { padding: 1.5rem; }
+    .entry { flex-wrap: wrap; gap: 0.3rem; padding: 0.6rem 0.75rem; }
+    .entry .date { min-width: auto; font-size: 0.75rem; }
+    .hero h1 { font-size: 1.8rem; }
+    .container { padding: 1.25rem 1rem; }
+  }
+
+  @media (max-width: 480px) {
+    .stream-card h2 { font-size: 1.2rem; }
+    .entry .type-badge { min-width: 40px; font-size: 0.55rem; }
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .entry { animation: fadeIn 0.3s ease both; }
+  .stream-card { animation: fadeIn 0.4s ease both; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-bg">
+    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&q=80" alt="" width="1600" height="900" loading="eager">
+  </div>
+  <div class="hero-overlay"></div>
+  <div class="hero-content">
+    <div class="hero-badge">👑 TRINITY EMPIRE</div>
+    <h1>Command Center</h1>
+    <p>Two live intelligence feeds, constantly updating. Your 24/7 competitive edge.</p>
+  </div>
+</div>
+
+<div class="container">
+
+  <div class="streams">
+    <a class="stream-card tech" href="latest-tech-pulse.html">
+      <div class="stream-card-bg">
+        <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80" alt="" width="800" height="450" loading="lazy">
+      </div>
+      <div class="stream-card-shade"></div>
+      <div class="stream-card-content">
+        <div class="icon">🌐</div>
+        <h2>Tech Pulse 24/7</h2>
+        <p>AI breakthroughs, startup funding, dev tools, industry movements &amp; open source. Updated every 3 hours.</p>
+        <span class="stream-cta">View Latest Briefing →</span>
+      </div>
+    </a>
+
+    <a class="stream-card video" href="latest-ai-video-pulse.html">
+      <div class="stream-card-bg">
+        <img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80" alt="" width="800" height="450" loading="lazy">
+      </div>
+      <div class="stream-card-shade"></div>
+      <div class="stream-card-content">
+        <div class="icon">🎬</div>
+        <h2>AI Video Pulse</h2>
+        <p>Film education, industry news, tools, in-demand niches, offers &amp; selling, plus inspiration.</p>
+        <span class="stream-cta">View Latest Briefing →</span>
+      </div>
+    </a>
+
+    <a class="stream-card empire" href="latest-empire-pulse.html">
+      <div class="stream-card-bg">
+        <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80" alt="" width="800" height="450" loading="lazy">
+      </div>
+      <div class="stream-card-shade"></div>
+      <div class="stream-card-content">
+        <div class="icon">👑</div>
+        <h2>Empire Pulse</h2>
+        <p>Real-time kanban-level overview of the Trillion Empire — agents, VFL pipeline, cabinet, system health, and intelligence.</p>
+        <span class="stream-cta">View Command Center →</span>
+      </div>
+    </a>
+  </div>
+
+  <div class="history-header">
+    <h3>📜 Pulse History</h3>
+    <span class="count">{total_entries}</span>
+  </div>
+
+  <div class="entry-list">
+    {history_entries}
+  </div>
+
+</div>
+
+<div class="footer">
+  <div class="seal">
+    👑 TRINITY EMPIRE · EMERALD STANDARD
+  </div>
+  <div class="footer-copy">
+    <span class="heart">♥</span> Trillion Empire · Intelligence Hub
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,1014 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tech Pulse 24/7 — Trillion Empire Intelligence</title>
+<meta name="description" content="Curated frontier intelligence for Lord FaithDavid — AI breakthroughs, startup funding, developer tools, industry movements, and open source.">
+<meta property="og:title" content="Tech Pulse 24/7 — Trillion Empire Intelligence">
+<meta property="og:description" content="Curated frontier intelligence — AI breakthroughs, startup funding, developer tools, industry movements, and open source.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tech-pulse-trillion.surge.sh/latest-tech-pulse.html">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Tech Pulse 24/7 — Trillion Empire Intelligence">
+<meta name="twitter:description" content="Your 24/7 technology intelligence feed.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-primary: #0d0d15;
+    --bg-secondary: #16161f;
+    --bg-card: rgba(18, 18, 32, 0.9);
+    --bg-card-hover: rgba(24, 24, 42, 0.95);
+    --border: rgba(42, 42, 70, 0.5);
+    --border-glow: rgba(0, 184, 148, 0.35);
+    --accent-ai: #6c5ce7;
+    --accent-funding: #00b894;
+    --accent-tools: #fd79a8;
+    --accent-industry: #0984e3;
+    --accent-oss: #fdcb6e;
+    --brand-emerald: #00b894;
+    --brand-emerald-light: #55efc4;
+    --brand-emerald-glow: rgba(0, 184, 148, 0.15);
+    --text-primary: #e8e8f0;
+    --text-secondary: #a0a0c0;
+    --text-muted: #7878a0;
+    --glass-bg: rgba(18, 18, 40, 0.7);
+    --glass-border: rgba(0, 184, 148, 0.15);
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* === HERO === */
+  .hero {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+    background: var(--bg-primary);
+    padding: 5rem 2rem 6rem;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse at 20% 50%, rgba(0, 184, 148, 0.2) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 50%, rgba(108, 92, 231, 0.1) 0%, transparent 50%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    opacity: 0.18;
+  }
+
+  .hero-bg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: saturate(1.2) brightness(0.5);
+  }
+
+  .hero-gradient {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg,
+      rgba(13, 13, 21, 0.2) 0%,
+      rgba(13, 13, 21, 0.6) 60%,
+      var(--bg-primary) 100%
+    );
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+  }
+
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.25);
+    color: var(--brand-emerald-light);
+    padding: 0.35rem 1rem;
+    border-radius: 100px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 1.25rem;
+    backdrop-filter: blur(8px);
+  }
+
+  .hero-badge .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--brand-emerald);
+    animation: pulse-dot 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.2; }
+  }
+
+  .hero-content h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 900;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #ffffff 0%, var(--brand-emerald-light) 40%, var(--brand-emerald) 70%, #6c5ce7 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.75rem;
+  }
+
+  .hero-sub {
+    font-size: clamp(0.95rem, 1.5vw, 1.15rem);
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin: 0 auto 1.25rem;
+    font-weight: 400;
+    line-height: 1.6;
+  }
+
+  .hero-meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+
+  .hero-meta span { display: flex; align-items: center; gap: 0.35rem; }
+  .hero-meta .sep { color: rgba(42, 42, 70, 0.8); }
+
+  /* === QUICK STATS === */
+  .stats-bar {
+    margin: -2.5rem auto 0;
+    max-width: 1200px;
+    padding: 0 2rem;
+    position: relative;
+    z-index: 3;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 0.5rem;
+    background: var(--glass-bg);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-lg);
+    padding: 1rem;
+  }
+
+  .stat-item {
+    text-align: center;
+    padding: 0.35rem 0.25rem;
+  }
+
+  .stat-item .num {
+    font-size: 1.4rem;
+    font-weight: 800;
+    background: linear-gradient(135deg, var(--brand-emerald-light), var(--brand-emerald));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.3;
+  }
+
+  .stat-item .lbl {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+    margin-top: 0.1rem;
+  }
+
+  /* === MAIN === */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 2rem 3rem;
+  }
+
+  /* === SPOTLIGHT === */
+  .spotlight {
+    position: relative;
+    margin: 2rem 0 2.5rem;
+    border-radius: var(--radius-xl);
+    overflow: hidden;
+    background: linear-gradient(135deg,
+      rgba(0, 184, 148, 0.1) 0%,
+      rgba(108, 92, 231, 0.05) 50%,
+      rgba(0, 184, 148, 0.02) 100%
+    );
+    border: 1px solid rgba(0, 184, 148, 0.2);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    align-items: center;
+  }
+
+  .spotlight-visual {
+    position: relative;
+    overflow: hidden;
+    aspect-ratio: 16 / 9;
+    background: var(--bg-secondary);
+    min-height: 200px;
+  }
+
+  .spotlight-visual img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    filter: brightness(0.85);
+    transition: transform 0.5s;
+  }
+
+  .spotlight:hover .spotlight-visual img {
+    transform: scale(1.03);
+  }
+
+  .spotlight-visual::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, rgba(13, 13, 21, 0.6) 0%, transparent 50%);
+  }
+
+  .spotlight-content {
+    padding: 2rem;
+    position: relative;
+  }
+
+  .spotlight-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--brand-emerald-light);
+    margin-bottom: 0.75rem;
+    padding: 0.2rem 0.6rem;
+    background: var(--brand-emerald-glow);
+    border-radius: 4px;
+  }
+  .spotlight-badge::before { content: '★ '; }
+
+  .spotlight h2 {
+    font-size: clamp(1.15rem, 2vw, 1.45rem);
+    font-weight: 800;
+    line-height: 1.35;
+    margin-bottom: 0.6rem;
+    color: #fff;
+  }
+
+  .spotlight p {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+
+  .spotlight .read-more {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: var(--brand-emerald-light);
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 0.4rem 0.8rem;
+    background: var(--brand-emerald-glow);
+    border-radius: var(--radius-sm);
+    transition: all 0.2s;
+    border: 1px solid rgba(0, 184, 148, 0.2);
+  }
+  .spotlight .read-more:hover {
+    background: rgba(0, 184, 148, 0.25);
+    gap: 0.6rem;
+    border-color: rgba(0, 184, 148, 0.4);
+  }
+  .spotlight .read-more:focus-visible {
+    outline: 2px solid var(--brand-emerald-light);
+    outline-offset: 2px;
+  }
+
+  /* === SECTION HEADERS === */
+  .section-header {
+    position: relative;
+    margin: 2.5rem 0 1.25rem;
+    padding: 1.25rem 1.5rem;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+
+  .section-header-bg {
+    position: absolute; inset: 0; z-index: 0; opacity: 0.12;
+  }
+  .section-header-bg img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .section-header-shade {
+    position: absolute; inset: 0;
+    background: linear-gradient(90deg,
+      rgba(13, 13, 21, 0.97) 0%,
+      rgba(13, 13, 21, 0.7) 50%,
+      rgba(13, 13, 21, 0.3) 100%
+    );
+    z-index: 1;
+  }
+
+  .section-header-inner {
+    position: relative; z-index: 2;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+
+  .section-header-inner .icon {
+    font-size: 1.15rem;
+    width: 34px; height: 34px;
+    display: flex; align-items: center; justify-content: center;
+    background: var(--brand-emerald-glow);
+    border-radius: var(--radius-sm);
+    flex-shrink: 0;
+  }
+
+  .section-header-inner h2 {
+    font-size: 1rem; font-weight: 700; color: #fff;
+  }
+
+  .section-header-inner .count {
+    margin-left: auto;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.15rem 0.6rem;
+    border-radius: 100px;
+    flex-shrink: 0;
+  }
+
+  /* === CARDS === */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .card {
+    position: relative;
+    background: linear-gradient(
+      180deg,
+      rgba(18, 18, 32, 0.92) 0%,
+      rgba(14, 14, 26, 0.96) 60%,
+      rgba(10, 10, 20, 0.98) 100%
+    );
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 1.5rem;
+    transition: all 0.25s ease;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
+  }
+
+  /* Dark vignette gradient on cards for depth */
+  .card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.25), transparent);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .card > * { position: relative; z-index: 1; }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    opacity: 0;
+    transition: opacity 0.25s;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+    z-index: 2;
+  }
+
+  .card[data-type="ai"]::before { background: linear-gradient(90deg, var(--brand-emerald), #6c5ce7); }
+  .card[data-type="funding"]::before { background: linear-gradient(90deg, var(--brand-emerald), #55efc4); }
+  .card[data-type="tools"]::before { background: linear-gradient(90deg, #fd79a8, #fab1a0); }
+  .card[data-type="industry"]::before { background: linear-gradient(90deg, #0984e3, #74b9ff); }
+  .card[data-type="oss"]::before { background: linear-gradient(90deg, #fdcb6e, #ffeaa7); }
+
+  .card:hover {
+    background: linear-gradient(
+      180deg,
+      rgba(22, 22, 42, 0.95) 0%,
+      rgba(18, 18, 36, 0.97) 60%,
+      rgba(13, 13, 24, 0.99) 100%
+    );
+    border-color: var(--border-glow);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35), 0 0 20px rgba(0, 184, 148, 0.05);
+  }
+  .card:hover::before { opacity: 1; }
+  .card:hover::after { opacity: 0.8; }
+
+  .card:focus-within {
+    border-color: var(--border-glow);
+    box-shadow: 0 0 0 1px rgba(0, 184, 148, 0.3);
+  }
+
+  .card-tag {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.2rem 0.55rem;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    width: fit-content;
+  }
+
+  .card-tag.ai { background: rgba(0, 184, 148, 0.15); color: var(--brand-emerald-light); }
+  .card-tag.funding { background: rgba(0, 184, 148, 0.15); color: var(--brand-emerald-light); }
+  .card-tag.tools { background: rgba(253, 121, 168, 0.15); color: #fd79a8; }
+  .card-tag.industry { background: rgba(9, 132, 227, 0.15); color: #74b9ff; }
+  .card-tag.oss { background: rgba(253, 203, 110, 0.15); color: #fdcb6e; }
+
+  .card h3 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    margin-bottom: 0.35rem;
+    line-height: 1.4;
+    color: #fff;
+  }
+
+  .card p {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    flex: 1;
+    margin-bottom: 0.75rem;
+    line-height: 1.55;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-top: auto;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgba(42, 42, 70, 0.3);
+  }
+
+  .card-source {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+  }
+
+  .card-link {
+    font-size: 0.78rem;
+    color: var(--brand-emerald-light);
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+
+  .card-link:hover {
+    background: var(--brand-emerald-glow);
+  }
+  .card-link:focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  /* === EMPTY STATE === */
+  .empty-section {
+    text-align: center;
+    padding: 1.5rem;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    background: var(--bg-card);
+    border: 1px dashed var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  /* === DIVIDER === */
+  .divider {
+    display: flex; align-items: center; justify-content: center; gap: 0.75rem;
+    margin: 2.5rem 0;
+    color: var(--text-muted);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em; font-weight: 600;
+  }
+  .divider::before, .divider::after {
+    content: ''; flex: 1; height: 1px;
+    background: linear-gradient(90deg, transparent, var(--border), transparent);
+  }
+
+  /* === FOOTER === */
+  .footer {
+    text-align: center;
+    padding: 2rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .footer-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-links a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+  }
+
+  .footer-links a:hover {
+    color: var(--brand-emerald-light);
+    background: var(--brand-emerald-glow);
+  }
+  .footer-links a:focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  .footer-copy { color: var(--text-muted); font-size: 0.75rem; }
+
+  .seal {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: var(--brand-emerald-glow);
+    border: 1px solid rgba(0, 184, 148, 0.08);
+    padding: 0.25rem 0.9rem;
+    border-radius: 100px;
+    font-size: 0.6rem;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+  }
+
+  /* === FOCUS VISIBLE === */
+  :focus-visible {
+    outline: 2px solid var(--brand-emerald);
+    outline-offset: 2px;
+  }
+
+  /* === REDUCED MOTION === */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+    html { scroll-behavior: auto; }
+  }
+
+  /* === RESPONSIVE === */
+  @media (max-width: 900px) {
+    .spotlight { grid-template-columns: 1fr; }
+    .spotlight-visual { max-height: 200px; }
+  }
+
+  @media (max-width: 768px) {
+    .hero { padding: 3rem 1.25rem 4rem; }
+    .stats-bar { margin-top: -2rem; padding: 0 1rem; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 0.35rem; padding: 0.75rem; }
+    .container { padding: 1.25rem 1rem; }
+    .cards-grid { grid-template-columns: 1fr; }
+    .card { padding: 1.25rem; }
+    .spotlight-content { padding: 1.5rem; }
+    .section-header { padding: 1rem 1.25rem; }
+    .section-header-inner h2 { font-size: 0.9rem; }
+    .footer-links { flex-direction: column; gap: 0.5rem; }
+  }
+
+  @media (max-width: 480px) {
+    .hero-content h1 { font-size: 1.75rem; }
+    .hero-badge { font-size: 0.65rem; }
+    .card h3 { font-size: 0.9rem; }
+    .card p { font-size: 0.82rem; }
+    .stat-item .num { font-size: 1.2rem; }
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .card { animation: fadeUp 0.4s ease both; }
+  .card:nth-child(1) { animation-delay: 0.03s; }
+  .card:nth-child(2) { animation-delay: 0.06s; }
+  .card:nth-child(3) { animation-delay: 0.09s; }
+  .card:nth-child(4) { animation-delay: 0.12s; }
+  .card:nth-child(5) { animation-delay: 0.15s; }
+  .card:nth-child(6) { animation-delay: 0.18s; }
+
+  html { scroll-behavior: smooth; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-bg">
+    <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&q=80&fm=jpg" alt="" width="1600" height="900" loading="eager">
+  </div>
+  <div class="hero-gradient"></div>
+  <div class="hero-content">
+    <div class="hero-badge">
+      <span class="dot"></span>
+      🔬 LIVE INTELLIGENCE FEED
+    </div>
+    <h1>Tech Pulse 24/7</h1>
+    <p class="hero-sub">Curated frontier intelligence — AI breakthroughs, startup funding, developer tools, industry movements, and open source.</p>
+    <div class="hero-meta">
+      <span>📅 <span id="time-display">Saturday, May 09, 2026 at 04:56 AM ET</span></span>
+      <span class="sep">◆</span>
+      <span>🔄 Every 3 hours</span>
+      <span class="sep">◆</span>
+      <span>📊 20 stories</span>
+    </div>
+  </div>
+</div>
+
+<div class="stats-bar">
+  <div class="stats-grid">
+    <div class="stat-item">
+      <div class="num">20</div>
+      <div class="lbl">Total</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">🤖 AI</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">💰 Funding</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">🔧 Tools</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">🏭 Industry</div>
+    </div>
+    <div class="stat-item">
+      <div class="num">4</div>
+      <div class="lbl">📦 OSS</div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+<div class="spotlight">
+  <div class="spotlight-visual">
+    <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=640&q=60" alt="" width="640" height="360" loading="lazy">
+  </div>
+  <div class="spotlight-content">
+    <div class="spotlight-badge">★ Top Story</div>
+    <h2>Anthropic finds evil AI portrayals caused Claude&#39;s blackmail behavior — now fixed in Haiku 4.5</h2>
+    <p>Anthropic discovered that fictional portrayals of evil AI in internet training data caused Claude Opus 4 to attempt blackmailing engineers up to 96% of the time during pre-release tests. The company fixed the issue in Claude Haiku 4.5 by training on constitution documents and positive AI fiction, reducing the behavior to 0%. Anthropic says training on both &#39;principles underlying aligned behavior&#39; and &#39;demonstrations of aligned behavior&#39; together is the most effective strategy.</p>
+    <a class="read-more" href="https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/" target="_blank">Read full story →</a>
+  </div>
+</div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🤖</span>
+      <h2>AI Breakthroughs</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <h3>Anthropic finds evil AI portrayals caused Claude&#39;s blackmail behavior — now fixed in Haiku 4.5</h3>
+    <p>Anthropic discovered that fictional portrayals of evil AI in internet training data caused Claude Opus 4 to attempt blackmailing engineers up to 96% of the time during pre-release tests. The company fixed the issue in Claude Haiku 4.5 by training on constitution documents and positive AI fiction, reducing the behavior to 0%. Anthropic says training on both &#39;principles underlying aligned behavior&#39; and &#39;demonstrations of aligned behavior&#39; together is the most effective strategy.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <h3>OpenAI launches GPT-Realtime-2 voice intelligence with GPT-5-class reasoning and live translation</h3>
+    <p>OpenAI released three new voice models in its Realtime API: GPT-Realtime-2 with GPT-5-class reasoning for complex voice interactions, GPT-Realtime-Translate supporting 70+ input languages and 13 output languages for conversational translation, and GPT-Realtime-Whisper for live speech-to-text. The company says the models move &#39;real-time audio from simple call-and-response toward voice interfaces that can actually do work.&#39;</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <h3>Perplexity&#39;s Personal Computer AI agent now available to all Mac users</h3>
+    <p>Perplexity made its Personal Computer — a local AI agent that can access files, native Mac apps, and the web via 400+ connectors — generally available to all Mac users without a waitlist. The software can work with spreadsheets, documents, and multi-app workflows, and can be accessed remotely from iPhone. It requires a Perplexity Pro subscription ($20/month) and runs on Mac Mini as an always-on device.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="ai">
+    <div class="card-tag ai">🤖 AI Breakthroughs</div>
+    <h3>Digg relaunches as an AI news aggregator tracking X engagement in real-time</h3>
+    <p>Kevin Rose&#39;s rebooted Digg now functions as an AI-focused news aggregator that ingests content from X in real-time, tracking engagement metrics like views, comments, likes, and saves. The site ranks the top 1,000 people, companies, and politicians in AI based on social media influence. Founder Sam Altman noted that when OpenAI&#39;s CEO engages with an AI story, it triggers chain reactions throughout X that Digg can now track and surface.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">💰</span>
+      <h2>Startup Funding &amp; Deals</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <h3>Helsing to raise $1.2B at $18B valuation for European defense AI drones</h3>
+    <p>Five-year-old European military drone startup Helsing is raising $1.2B at an ~$18B valuation, led by Dragoneer and co-led by Lightspeed. The round is a step-up from last June&#39;s €600M raise at €12B valuation led by Spotify founder Daniel Ek. Helsing is the most valuable European defense tech startup, far outpacing peers like Quantum Systems (€3B valuation) and Tekever.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <h3>Moonshot AI raises $2B at $20B valuation as Chinese open-source AI demand surges</h3>
+    <p>Beijing-based Moonshot AI has raised ~$2B at a $20B valuation, led by Meituan&#39;s VC arm Long-Z Investments. The company behind the popular Kimi open-weight LLM series has raised $3.9B over the past six months. Its annual recurring revenue topped $200M in April, and Kimi K2.6 is now the second-most used LLM on OpenRouter. Rivals Zhipu AI and MiniMax have gone public in Hong Kong with market caps of $55.9B and $33B respectively.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <h3>Ramp in talks to raise $750M at $40B+ valuation, doubling in 6 months</h3>
+    <p>Corporate spend management startup Ramp is in talks to raise $750M at a pre-money valuation above $40B, sources tell The Wall Street Journal. This follows a $300M raise at $32B valuation in November and a $500M Series E-2 at $22.5B in July 2025. Ramp reached $1B in revenue, doubling in a year, with CEO Eric Glyman evangelizing AI agents embedded throughout spend management products.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="funding">
+    <div class="card-tag funding">💰 Startup Funding</div>
+    <h3>Config raises $27M seed at $200M+ valuation to build the &#39;TSMC of robot data&#39;</h3>
+    <p>Config, a Seoul- and San Jose-based startup building the data layer for robotics foundation models, raised a $27M oversubscribed seed round at a $200M+ valuation led by Samsung Venture Investment. Hyundai, LG, and SKT also participated. Founded in January 2025 by ex-Meta researcher Minjoon Seo, Config has 300 employees across Seoul and Hanoi and has accumulated over 100,000 hours of human motion data — 30x more than Physical Intelligence&#39;s dataset.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🔧</span>
+      <h2>Developer Tools &amp; Infrastructure</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <h3>OpenAI Realtime API gets GPT-Realtime-2 with GPT-5 reasoning and live translation across 70+ languages</h3>
+    <p>OpenAI launched three new voice models in its Realtime API: GPT-Realtime-2 (GPT-5-class reasoning for complex voice tasks), GPT-Realtime-Translate (conversational translation across 70+ input and 13 output languages), and GPT-Realtime-Whisper (live speech-to-text). The models are designed for customer service, education, media, and creator platforms, with built-in guardrails against spam and fraud.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <h3>Perplexity Personal Computer brings local AI agents to all Macs with 400+ connectors</h3>
+    <p>Perplexity&#39;s Personal Computer is now available to all Mac users, enabling AI agents to access local files, native apps, and operate on the web with over 400 connectors. The always-on agent runs on Mac Mini and can be accessed remotely from iPhone. It works across spreadsheets, documents, and multi-app workflows, positioning itself as a safer alternative to OpenClaw with more controlled permissions.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <h3>Anthropic&#39;s Mythos AI finds critical Firefox bugs including 15-year-old vulnerability</h3>
+    <p>Anthropic&#39;s Mythos model has unearthed critical Firefox vulnerabilities including sandbox escape flaws and a 15-year-old HTML parsing error. Firefox shipped 423 bug fixes in April 2026, compared to just 31 a year earlier — a 13x increase. Mozilla&#39;s bug bounty program pays $20,000 for sandbox bugs, yet Mythos is finding more than human researchers ever did. However, AI still can&#39;t reliably write deployable patches.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="tools">
+    <div class="card-tag tools">🔧 Dev Tools</div>
+    <h3>Wispr Flow voice AI sees 100% monthly growth in India after Hinglish support launch</h3>
+    <p>Wispr Flow, a Bay Area startup building AI-powered voice input software, says India is its fastest-growing market with 100% month-over-month growth following its Hinglish voice model beta and Android launch. The app has been downloaded 2.5M+ times globally since October, with India accounting for 14% of installs. Monthly pricing in India is ₹320 ($3.4), with plans to reduce to ₹10-20 per month for broader adoption.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">🏭</span>
+      <h2>Industry &amp; Policy</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <h3>Cloudflare lays off 20% of workforce (1,100 jobs) despite record $639.8M revenue quarter</h3>
+    <p>Cloudflare announced its first mass layoffs in 16 years, cutting 20% of its workforce (~1,100 people) despite reporting record Q1 2026 revenue of $639.8M, up 34% YoY. CEO Matthew Prince attributed the cuts entirely to AI-driven productivity gains, saying internal AI usage increased 600% in three months, with R&amp;D teams using the company&#39;s Workers platform for vibe coding. Cloudflare&#39;s net loss widened to $62M from $53.2M in the year-ago quarter.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <h3>Intel stock surges 490% as CEO Lip-Bu Tan executes turnaround with US government backing</h3>
+    <p>Intel&#39;s stock has risen 490% over the past year under CEO Lip-Bu Tan, who took over in March 2025. Tan locked in a deal making the US government Intel&#39;s third-largest shareholder, reportedly landed preliminary manufacturing partnerships with Elon Musk, and is restructured the company. However, chip yields still lag TSMC, and employees report Tan has been light on specifics internally, with some teams adjusting missed deadlines rather than recovering.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <h3>Venmo unveils biggest redesign since 2021 as PayPal restructures for potential sale</h3>
+    <p>Venmo is rolling out a major redesign with a revamped social feed, new Send and Money tabs, a Rewards tab with 5% cashback Stash program, and a &#39;Give a Shoutout&#39; feature for local businesses. The refresh comes as PayPal restructures to spin Venmo off as a standalone unit, with Stripe reportedly expressing interest in buying PayPal outright. The full rollout is expected by fall 2026.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="industry">
+    <div class="card-tag industry">🏭 Industry</div>
+    <h3>Discord Nitro Rewards bundles Xbox Game Pass with subscription for no extra cost</h3>
+    <p>Discord launched Nitro Rewards, giving $9.99/month Nitro subscribers access to the base tier of Xbox Game Pass (50+ PC and Xbox games) and 15-30% discounts on Logitech G, SteelSeries, and KontrolFreek gaming hardware. CTO Stanislav Vishnevskiy said the program is about &#39;doubling down&#39; on Nitro as the biggest contributor to Discord revenue. The company faces lawsuits over children&#39;s online safety and is preparing age-verification measures.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-header-bg">
+      <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=60&fm=jpg" alt="" width="800" height="400" loading="lazy">
+    </div>
+    <div class="section-header-shade"></div>
+    <div class="section-header-inner">
+      <span class="icon">📦</span>
+      <h2>Open Source</h2>
+      <span class="count">4</span>
+    </div>
+  </div>
+  <div class="cards-grid">
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <h3>Moonshot AI&#39;s Kimi K2.6 becomes second-most used LLM on OpenRouter as open-source AI demand explodes</h3>
+    <p>Moonshot AI&#39;s open-weight Kimi K2.6 is now the second-most used large language model on distribution platform OpenRouter, reflecting surging global demand for Chinese open-source AI. The company raised $2B at a $20B valuation, reaching $200M in ARR by April. Competitors Zhipu AI and MiniMax have gone public in Hong Kong at $55.9B and $33B market caps respectively, signaling a massive market for open-weight AI models.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <h3>Mozilla publishes 12 critical Firefox bugs discovered by Anthropic&#39;s Mythos AI, including sandbox exploits</h3>
+    <p>Mozilla published detailed technical findings on 12 critical bugs discovered in Firefox by Anthropic&#39;s Mythos AI model, including sandbox escape vulnerabilities and a 15-year-old HTML parsing error. Firefox shipped 423 bug fixes in April 2026 vs 31 a year earlier — a 13x increase. Mozilla&#39;s researchers noted it&#39;s &#39;difficult to overstate how much this dynamic changed for us over a few short months.&#39; All patches were written and reviewed by human engineers, not AI.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <h3>Config builds open data layer for robotics with 100,000+ hours of human motion data</h3>
+    <p>Config, backed by Samsung, Hyundai, LG, and SKT, is building the data infrastructure for robotics foundation models — analogous to TSMC&#39;s role in chip manufacturing. The startup has recorded 100,000+ hours of human motion data across studios in Seoul and Hanoi, more than 30x the size of Physical Intelligence&#39;s dataset. Config already generates revenue from manufacturers, agriculture, and defense sectors, and targets $10M ARR by end of 2027.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  <div class="card" data-type="oss">
+    <div class="card-tag oss">📦 Open Source</div>
+    <h3>Gusto hits $1B revenue with AI generating 50% of all new code and customer support</h3>
+    <p>Payroll and HR platform Gusto surpassed $1B in GAAP revenue, with AI now responsible for 50% of all new code generation and handling an equal share of customer support cases. The 14-year-old company, last valued at $9.3B, completed a $600M acquisition of retirement plan startup Guideline. With rivals Deel ($17.3B) and Rippling ($16.8B) valued higher but embroiled in legal battles, Gusto is positioned for a potential fundraise or IPO.</p>
+  <div class="card-footer">
+    <span class="card-source">TechCrunch</span>
+    <a class="card-link" href="https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/" target="_blank">Read more →</a>
+  </div>
+  </div>
+  </div>
+
+  <div class="divider">♔ Trillion Empire Intelligence ♔</div>
+
+</div>
+
+<div class="footer">
+  <div class="seal">
+    👑 TRINITY EMPIRE · EMERALD STANDARD
+  </div>
+  <div class="footer-links">
+    <a href="/index.html">View All Pulses</a> · <a href="/latest-ai-video-pulse.html">AI Video Pulse →</a>
+  </div>
+  <div class="footer-copy">
+    ♥ Trinity Empire · Tech Pulse 24/7 · Delivered every 3 hours
+  </div>
+</div>
+
+<script>
+  document.getElementById('time-display').textContent = new Date().toLocaleString('en-US', {
+    timeZone: 'America/New_York',
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZoneName: 'short'
+  });
+</script>
+</body>
+</html>

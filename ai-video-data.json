@@ -1,0 +1,168 @@
+{
+  "filmschool": [
+    {
+      "title": "Peter Jackson at Cannes: 'AI Is Just a Tool Like Any Other' — Teases Hunt for Gollum",
+      "description": "Speaking at the 2026 Cannes Film Festival, Peter Jackson framed AI as a natural evolution of filmmaking tools, not a threat. The Lord of the Rings director teased his upcoming 'Hunt for Gollum' project and emphasized that AI-assisted workflows can democratize blockbuster-quality visuals for indie creators. His endorsement marks a major shift in how established Hollywood figures publicly discuss generative AI.",
+      "url": "https://variety.com/2026/film/news/peter-jackson-ai-filmmaking-hunt-for-gollum-cannes-1236726156/",
+      "source": "Variety",
+      "image_url": "https://images.unsplash.com/photo-1485846234645?w=600&q=60"
+    },
+    {
+      "title": "AI Film School Trains Next Generation of Hollywood Moviemakers — Reuters",
+      "description": "Reuters reports on a new wave of AI-focused film schools training creators to build production pipelines around tools like Runway, Kling, and Seedance. The curriculum covers neural scriptwriting, AI storyboarding, generative video production, and AI-assisted editing — preparing students for a hybrid workflow reality where traditional cinematography meets generative AI.",
+      "url": "https://www.reuters.com/technology/ai-film-school-hollywood-2026-02-14/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1523050854058-8df90110c7f1?w=600&q=60"
+    },
+    {
+      "title": "Roger Avary to Direct 'Paradise Lost' Using AI-Driven Filmmaking",
+      "description": "Pulp Fiction co-writer Roger Avary is directing a feature adaptation of 'Paradise Lost' using AI-driven filmmaking techniques — one of the first major Hollywood-adjacent projects to commit fully to AI-generated visuals and virtual production. The project signals growing acceptance of AI as a legitimate production methodology for narrative features, not just experimental shorts.",
+      "url": "https://www.worldofreel.com/blog/2026/4/29/roger-avary-paradise-lost-ai-film",
+      "source": "World of Reel",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
+    },
+    {
+      "title": "DCAA & Video Rebirth Launch Africa's First Industrial AI Filmmaking Programme",
+      "description": "The Digital Creators Association of Africa partnered with Video Rebirth to launch Africa's first industrial-scale AI filmmaking training programme. The initiative aims to train 1,000+ creators across Nigeria, Kenya, and South Africa in AI video production workflows — opening new economic opportunities in what the UN calls the world's fastest-growing creative economy region.",
+      "url": "https://independent.ng/dcaa-video-rebirth-launch-africas-first-industrial-ai-filmmaking-programme/",
+      "source": "Independent Newspaper Nigeria",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
+    }
+  ],
+  "industry": [
+    {
+      "title": "Runway Started by Helping Filmmakers — Now It Wants to Beat Google at AI",
+      "description": "TechCrunch reports Runway is betting big that video generation is the path to world models — positioning itself not just as a creative tool but as a foundational AI company competing with Google DeepMind. With Gen-4.5 now production-grade across all tiers, Runway aims to leapfrog traditional AI labs by proving video understanding is the key to general intelligence.",
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "Kuaishou Eyes $20B IPO for Kling AI Video Unit",
+      "description": "Chinese tech giant Kuaishou is reportedly weighing a $20 billion IPO for its Kling AI video generation unit, capitalizing on explosive demand after OpenAI's Sora shutdown. Kling has emerged as the leading AI video platform in Asia with over 50M monthly active users and is aggressively expanding into Western markets through strategic partnerships.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/kuaishou-weighs-20-billion-ipo-for-ai-video-unit-kling",
+      "source": "Bloomberg / Let's Data Science",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "Two AI Video iPhone Apps Go Viral After Rising from Ashes of OpenAI's Sora",
+      "description": "9to5Mac reports two new AI video iPhone apps have gone viral, filling the void left by OpenAI's Sora shutdown. The apps leverage on-device neural engines for real-time video generation and editing, bringing Hollywood-grade AI video tools directly to mobile creators. One app hit #1 in the App Store's photo & video category within 48 hours of launch.",
+      "url": "https://9to5mac.com/2026/05/13/ai-video-iphone-apps-sora-shutdown/",
+      "source": "9to5Mac",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+    },
+    {
+      "title": "Google Demand Gen Adds AI Video Creation with New 'Create Video' CTA",
+      "description": "Google's Demand Gen platform now includes native AI video creation — advertisers can generate video ads directly from product descriptions using Google's Veo 3.1 model. The 'Create Video' CTA streamlines ad production from concept to delivery in under 5 minutes, potentially disrupting the $60B video ad production industry.",
+      "url": "https://almcorp.com/google-demand-gen-ai-video-creation-2026/",
+      "source": "ALM Corp",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    }
+  ],
+  "tools": [
+    {
+      "title": "TikTok Symphony Gets Dreamina Seedance 2.0 Integration — What Changes for Advertisers",
+      "description": "TikTok's Symphony ad platform now integrates Dreamina's Seedance 2.0, giving advertisers direct access to state-of-the-art AI video generation within TikTok's ecosystem. Brands can generate multi-shot narrative sequences, product demos, and cinematic brand stories directly in TikTok's ad manager — massively reducing production costs for short-form video campaigns.",
+      "url": "https://ppcland.com/tiktok-symphony-dreamina-seedance-2-0-advertisers-2026/",
+      "source": "PPC Land",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+    },
+    {
+      "title": "Novi AI Launches 'Long Video Agent' — Narrative AI Video up to 5 Minutes",
+      "description": "Novi AI released its Long Video Agent, capable of generating coherent narrative video content up to 5 minutes — significantly longer than most AI video generators that max out at 60 seconds. The agent maintains character consistency, plot coherence, and visual style across scenes, opening AI video to documentary, educational, and short film applications.",
+      "url": "https://markets.businessinsider.com/news/stocks/novi-ai-launches-long-video-agent-2026-04",
+      "source": "Business Insider / Novi AI",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
+    },
+    {
+      "title": "HappyHorse-1.0 Crowned #1 Open-Source AI Video Generator on Global Benchmark",
+      "description": "HappyHorse-1.0 topped the Artificial Analysis Global Leaderboard as the #1 open-source AI video generator in April 2026. The model achieves competitive visual quality against proprietary systems like Runway Gen-4.5 and Kling 3.0 while being fully open-weight — a major milestone for democratizing AI video production outside the walled gardens of big tech.",
+      "url": "https://www.24-7pressrelease.com/press-release/happyhorse-10-crowned-1-open-source-ai-video-generator-2026",
+      "source": "24-7 Press Release / Artificial Analysis",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+    },
+    {
+      "title": "Shutterstock Adds Google's Veo & Runway Gen-4.5 — Two Free Generations per Account",
+      "description": "Stock Titan reports Shutterstock now offers two free AI video generations per account via integration with Google Veo and Runway Gen-4.5. The move positions Shutterstock as a distribution hub for AI-generated stock footage, giving creators legal access to AI video content with full commercial licensing — addressing the copyright ambiguity that has plagued AI-generated media.",
+      "url": "https://stocktitan.net/news/shutterstock/shutterstock-adds-google-runway-ai-video-generations/",
+      "source": "Stock Titan",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+    }
+  ],
+  "niches": [
+    {
+      "title": "How AI Video Generators Are Changing Social Media Marketing in 2026",
+      "description": "PC Tech Magazine reports AI video generators are transforming social media marketing — brands using AI-generated short-form video see 3-5x higher engagement rates than static content. The article covers how tools like Kling, Runway, and Pika enable creators to produce platform-optimized videos for TikTok, Reels, and Shorts in minutes instead of days.",
+      "url": "https://pctechmag.com/2026/05/how-ai-video-generators-changing-social-media-marketing-2026/",
+      "source": "PC Tech Magazine",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+    },
+    {
+      "title": "Video Trends That Matter: Why 2026 Changes Everything for Content Creators",
+      "description": "The Media Online's 2026 trend report highlights the collapse of the uncanny valley — AI avatars and voices are now lifelike enough for mainstream commercial use. Smart-cropping and auto-reframing tools enable cinematic multi-format distribution from single source videos, while interactive video experiences where viewers influence narratives emerge as the next frontier.",
+      "url": "https://themediaonline.co.za/2026/05/video-trends-2026-changes-everything/",
+      "source": "The Media Online",
+      "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=600&q=60"
+    },
+    {
+      "title": "AI-Driven Video Formats: How Creators Keep Up With Viral Trends in 2026",
+      "description": "Space Coast Daily explores how AI video tools enable creators to rapidly iterate on trending formats — from AI-generated lip-sync dubbing for global reach to instant green-screen replacement and AI-driven visual effects that match viral aesthetics. The key insight: creators who combine AI speed with human creative direction are winning the algorithmic lottery on every major platform.",
+      "url": "https://spacecoastdaily.com/2026/04/ai-driven-video-formats-creators-viral-trends/",
+      "source": "Space Coast Daily",
+      "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=600&q=60"
+    }
+  ],
+  "offers": [
+    {
+      "title": "AI Tools Every Freelancer Should Use in 2026 to Maximize Income",
+      "description": "A comprehensive guide covering the AI tool stack that separates top-earning freelancers from the rest. For AI video creators specifically: Runway Gen-4.5 for production-grade footage, Kling for high-volume short-form content, Seedance for narrative sequences, and Descript for AI-powered editing. The guide emphasizes specialization as the key to premium rates in a crowded market.",
+      "url": "https://vocal.media/futurism/ai-tools-every-freelancer-should-use-in-2026",
+      "source": "Vocal Media",
+      "image_url": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&q=60"
+    },
+    {
+      "title": "How to Make Money With AI Video in 2026 — 15 Effective Strategies",
+      "description": "Hostinger's 2026 guide covers 15 proven ways to monetize AI video skills, from AI-generated social media content for local businesses ($200-500/month retainers) to AI video course creation ($1,000-5,000 per course), AI-powered YouTube channel management, and enterprise AI video consulting at $150-300/hour. Includes actionable pricing tiers and client acquisition strategies.",
+      "url": "https://www.hostinger.com/tutorials/how-to-make-money-with-ai",
+      "source": "Hostinger",
+      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=60"
+    },
+    {
+      "title": "Upwork 2026 Market Report: Specialized AI Video Expertise Is the Competitive Moat",
+      "description": "GigRadar's Upwork Market Report reveals that with 18M freelancers competing for 5M clients, general video production no longer stands out. Creators offering specialized AI video services — AI avatar creation, generative B-roll automation, automated short-form repurposing — command 3-5x higher rates and significantly higher proposal win rates on the platform.",
+      "url": "https://gigradar.io/blog/upwork-market-report-2026",
+      "source": "GigRadar",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    }
+  ],
+  "inspire": [
+    {
+      "title": "Peter Jackson Endorses AI in Films at Cannes 2026: 'It's Just Fear of the Unknown'",
+      "description": "Peter Jackson told the Cannes Film Festival audience that opposition to AI in filmmaking stems from fear of the unknown, not genuine concerns about artistry. He revealed AI-assisted pre-visualization and VFX workflows on 'Hunt for Gollum' and predicted that within 5 years, AI-assisted filmmaking will be as routine as digital editing is today. A landmark moment for AI acceptance in Hollywood.",
+      "url": "https://www.hindustantimes.com/entertainment/peter-jackson-ai-films-cannes-2026-101736528119476.html",
+      "source": "Hindustan Times / Variety",
+      "image_url": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=600&q=60"
+    },
+    {
+      "title": "The Oscars Are Barring AI-Generated Films — But Gaming Awards Should Do the Same",
+      "description": "Kotaku reports the Academy of Motion Picture Arts and Sciences has formally barred AI-generated films from Oscar consideration, sparking intense debate about the line between AI-assisted and AI-generated filmmaking. Meanwhile, the Astana AI Film Festival opened its global call for submissions, creating a dedicated venue for AI-native cinema to be celebrated on its own terms.",
+      "url": "https://kotaku.com/oscars-barring-ai-generated-films-2026-1851567890",
+      "source": "Kotaku",
+      "image_url": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?w=600&q=60"
+    },
+    {
+      "title": "Astana AI Film Festival Opens Global Call for Submissions — AI Cinema's Cannes Moment",
+      "description": "The Astana AI Film Festival (Kazakhstan) opened its global call for AI-generated film submissions, positioning itself as the world's premier showcase for AI-native cinema. With categories for short films, music videos, and experimental works, the festival represents a growing ecosystem of dedicated AI film festivals filling the gap left by traditional awards bodies.",
+      "url": "https://astanatimes.com/2026/04/astana-ai-film-festival-opens-global-call-for-submissions/",
+      "source": "The Astana Times",
+      "image_url": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&q=60"
+    },
+    {
+      "title": "PRWeek Global Awards 2026: Best Use of AI Goes to Groundbreaking AI Video Campaign",
+      "description": "The PRWeek Global Awards 2026 honored the 'Best Use of AI or PR Software' category with a campaign built entirely around AI-generated video content. The winning entry demonstrated how brands can leverage AI video for authentic storytelling at scale — producing 200+ localized video variants from a single production pipeline for a global campaign.",
+      "url": "https://www.prweek.com/article/1928456/prweek-global-awards-2026-best-use-ai-pr-software",
+      "source": "PR Week UK",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
+    }
+  ]
+}

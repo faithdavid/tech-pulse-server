@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Video Pulse — Briefing</title>
+<style>
+  :root {
+    --bg-primary: #0a0a0f;
+    --bg-secondary: #12121a;
+    --bg-card: #1a1a28;
+    --bg-card-hover: #222236;
+    --border: #2a2a3e;
+    --accent-industry: #6c5ce7;
+    --accent-tools: #00b894;
+    --accent-niches: #fd79a8;
+    --accent-offers: #0984e3;
+    --accent-filmschool: #fdcb6e;
+    --accent-inspire: #e17055;
+    --text-primary: #e8e8f0;
+    --text-secondary: #9898b0;
+    --text-muted: #686880;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', system-ui, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  .header {
+    background: linear-gradient(135deg, #1a0a2e 0%, #16213e 50%, #e17055 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 2.5rem 2rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .header::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle at 50% 50%, rgba(225,112,85,0.1) 0%, transparent 60%);
+    animation: pulse 8s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 0.5; transform: scale(1); }
+    50% { opacity: 1; transform: scale(1.1); }
+  }
+
+  .header-content { position: relative; z-index: 1; }
+
+  .header-badge {
+    display: inline-block;
+    background: rgba(225,112,85,0.2);
+    border: 1px solid rgba(225,112,85,0.3);
+    color: #fab1a0;
+    padding: 0.25rem 1rem;
+    border-radius: 100px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 1rem;
+  }
+
+  .header h1 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    background: linear-gradient(135deg, #fff 0%, #fab1a0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.5rem;
+  }
+
+  .header p {
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .timestamp {
+    margin-top: 1rem;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+
+  .timestamp span { color: var(--text-secondary); }
+
+  /* Quick Stats */
+  .quick-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 1rem;
+    padding: 1.5rem 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  .stat-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1rem;
+    text-align: center;
+  }
+
+  .stat-card .number { font-size: 1.5rem; font-weight: 700; color: var(--accent-industry); }
+  .stat-card .label { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-top: 0.25rem; }
+
+  .container { max-width: 1400px; margin: 0 auto; padding: 1.5rem 2rem 3rem; }
+
+  .section-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin: 2rem 0 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .section-title .icon { font-size: 1.2rem; }
+  .section-title .count {
+    background: var(--bg-card);
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.15rem 0.6rem;
+    border-radius: 100px;
+    margin-left: auto;
+  }
+
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 1rem; }
+
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.25rem;
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .card:hover {
+    background: var(--bg-card-hover);
+    border-color: rgba(225,112,85,0.3);
+    transform: translateY(-2px);
+  }
+
+  .card-tag {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    width: fit-content;
+  }
+
+  .card-tag.industry { background: rgba(108,92,231,0.15); color: #a29bfe; }
+  .card-tag.tools { background: rgba(0,184,148,0.15); color: #00b894; }
+  .card-tag.niches { background: rgba(253,121,168,0.15); color: #fd79a8; }
+  .card-tag.offers { background: rgba(9,132,227,0.15); color: #74b9ff; }
+  .card-tag.filmschool { background: rgba(253,203,110,0.15); color: #fdcb6e; }
+  .card-tag.inspire { background: rgba(225,112,85,0.15); color: #fab1a0; }
+
+  .card h3 { font-size: 1rem; font-weight: 700; margin-bottom: 0.4rem; line-height: 1.4; color: var(--text-primary); }
+  .card p { font-size: 0.85rem; color: var(--text-secondary); flex: 1; margin-bottom: 0.75rem; }
+  .card-link { font-size: 0.8rem; color: var(--accent-industry); text-decoration: none; display: inline-flex; align-items: center; gap: 0.3rem; }
+  .card-link:hover { text-decoration: underline; }
+  .card-meta { font-size: 0.7rem; color: var(--text-muted); margin-top: 0.5rem; display: flex; align-items: center; gap: 0.5rem; }
+
+  /* Film School Spotlight */
+  .filmschool-spotlight {
+    background: linear-gradient(135deg, rgba(253,203,110,0.1) 0%, rgba(225,112,85,0.05) 100%);
+    border: 1px solid rgba(253,203,110,0.2);
+    border-radius: 16px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+  }
+
+  .filmschool-spotlight .badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #fdcb6e;
+    margin-bottom: 0.75rem;
+  }
+
+  .filmschool-spotlight h2 { font-size: 1.3rem; font-weight: 700; margin-bottom: 0.5rem; }
+  .filmschool-spotlight p { color: var(--text-secondary); font-size: 0.9rem; }
+
+  .filmschool-spotlight .tip-box {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(253,203,110,0.15);
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+
+  .filmschool-spotlight .tip-label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #fdcb6e;
+    margin-bottom: 0.3rem;
+  }
+
+  .filmschool-spotlight .tip-box p {
+    font-size: 0.95rem;
+    color: var(--text-primary);
+    line-height: 1.7;
+  }
+
+  /* Offer CTA Box */
+  .offer-cta {
+    background: linear-gradient(135deg, rgba(9,132,227,0.1) 0%, rgba(108,92,231,0.05) 100%);
+    border: 1px solid rgba(9,132,227,0.2);
+    border-radius: 12px;
+    padding: 1.25rem;
+    margin: 1rem 0;
+    text-align: center;
+  }
+
+  .offer-cta h3 { color: #74b9ff; margin-bottom: 0.5rem; }
+  .offer-cta p { color: var(--text-secondary); font-size: 0.85rem; }
+
+  .footer { text-align: center; padding: 2rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.8rem; }
+  .footer .heart { color: #e17055; }
+  .footer a { color: #74b9ff; text-decoration: none; }
+  .footer a:hover { text-decoration: underline; }
+
+  @media (max-width: 768px) {
+    .header { padding: 1.5rem 1rem; }
+    .header h1 { font-size: 1.8rem; }
+    .container { padding: 1rem; }
+    .cards { grid-template-columns: 1fr; }
+    .quick-stats { grid-template-columns: repeat(2, 1fr); padding: 1rem; }
+  }
+
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .card { animation: fadeInUp 0.4s ease forwards; }
+  .card:nth-child(2) { animation-delay: 0.05s; }
+  .card:nth-child(3) { animation-delay: 0.1s; }
+  .card:nth-child(4) { animation-delay: 0.15s; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-content">
+    <div class="header-badge">🎬 Creator Intelligence Feed</div>
+    <h1>AI Video Pulse</h1>
+    <p>Film education, industry intelligence, tools, trends, offers & inspiration — for Lord FaithDavid's AI video empire</p>
+    <div class="timestamp">Briefing for <span id="time-display">Saturday, May 09, 2026 at 10:11 AM ET</span></div>
+  </div>
+</div>
+
+<div class="quick-stats">
+  <div class="stat-card"><div class="number">21</div><div class="label">Items Today</div></div>
+  <div class="stat-card"><div class="number">4</div><div class="label">Industry News</div></div>
+  <div class="stat-card"><div class="number">4</div><div class="label">Tools & Tech</div></div>
+  <div class="stat-card"><div class="number">3</div><div class="label">Trends & Niches</div></div>
+</div>
+
+<div class="container">
+
+  <div class="filmschool-spotlight">
+  <div class="badge">🎓 Film School Tip of the Day</div>
+  <div class="tip-box">
+    <div class="tip-label">📖 Learn This</div>
+    <h2>The 8 Control Layers: How Professional AI Video Directors Think in 2026</h2>
+    <p>The era of vibes-based prompting is over. Pro AI filmmakers now use Technical Orchestration — 8 control layers: (1) Subject/Scene — core entity and environment. (2) Emotion Arc — explicit emotional tokens (&#39;anticipation to relief&#39;). (3) Optics — lens choice, focal length, aperture (&#39;35mm anamorphic, f/2.8&#39;). (4) Camera Motion — precise vectors (&#39;dolly-in at 0.5m/s&#39;). (5) Lighting Stack — key, fill, rim with specific color temps (&#39;5600K key, 3200K rim&#39;). (6) Style/Look — film emulation (&#39;Kodak Portra 400 aesthetic&#39;). (7) Audio/Mood — cues for generative audio. (8) Continuity Anchors — seeds, palettes, wardrobe tokens for multi-shot stability. Using this framework reduces reshoot rate to just 5% vs. high failure rates for vague prompting.</p>
+  </div>
+  <a class="card-link" href="https://www.truefan.ai/blogs/ai-video-prompt-engineering-2026-guide" target="_blank">Deep dive →</a>
+</div>
+
+  <div class="section-title">
+    <span class="icon">🎬</span> Film School — Grow Your Knowledge
+    <span class="count">3</span>
+  </div>
+  <div class="cards">
+      <div class="card">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <h3>The 8 Control Layers: How Professional AI Video Directors Think in 2026</h3>
+    <p>The era of vibes-based prompting is over. Pro AI filmmakers now use Technical Orchestration — 8 control layers: (1) Subject/Scene — core entity and environment. (2) Emotion Arc — explicit emotional tokens (&#39;anticipation to relief&#39;). (3) Optics — lens choice, focal length, aperture (&#39;35mm anamorphic, f/2.8&#39;). (4) Camera Motion — precise vectors (&#39;dolly-in at 0.5m/s&#39;). (5) Lighting Stack — key, fill, rim with specific color temps (&#39;5600K key, 3200K rim&#39;). (6) Style/Look — film emulation (&#39;Kodak Portra 400 aesthetic&#39;). (7) Audio/Mood — cues for generative audio. (8) Continuity Anchors — seeds, palettes, wardrobe tokens for multi-shot stability. Using this framework reduces reshoot rate to just 5% vs. high failure rates for vague prompting.</p>
+    <a class="card-link" href="https://www.truefan.ai/blogs/ai-video-prompt-engineering-2026-guide" target="_blank">Read more →</a>
+    <div class="card-meta">Source: TrueFan AI Blog</div>
+  </div>
+  <div class="card">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <h3>Camera Angles &amp; Their Emotional Impact — Direct Your Audience&#39;s Feelings</h3>
+    <p>Every camera angle tells the audience how to feel: Low Angle (looking up at subject) = power, authority, dominance. High Angle (looking down) = vulnerability, weakness, insignificance. Dutch Angle (tilted horizon) = unease, tension, disorientation. Eye Level (neutral) = equality, intimacy, documentary feel. Over-the-Shoulder = connection between two characters, POV immersion. Bird&#39;s Eye (top-down) = omniscience, fate, overview. For AI video prompting, explicitly name the angle in your prompt (&#39;low angle looking up at the protagonist, dramatic sky behind&#39;) — 2026 models like Veo 3.1 and Runway Gen-4.5 understand this language directly.</p>
+    <a class="card-link" href="https://nofilmschool.com/camera-angles" target="_blank">Read more →</a>
+    <div class="card-meta">Source: No Film School</div>
+  </div>
+  <div class="card">
+    <div class="card-tag filmschool">🎬 Film School</div>
+    <h3>Shot Sizes from ECU to EWS — The Building Blocks of Visual Storytelling</h3>
+    <p>Mastering shot sizes is the #1 skill that separates amateur from pro video. Extreme Close-Up (ECU) — eyes, mouth, detail = intense emotion, secrets. Close-Up (CU) — face fills frame = intimacy, connection. Medium Close-Up (MCU) — chest up = conversation, news anchor feel. Medium Shot (MS) — waist up = body language + expression. Medium Wide Shot (MWS) — knees up = action + environment. Wide Shot (WS) — full body + surroundings = context, isolation. Extreme Wide Shot (EWS) — tiny subject in massive landscape = scale, epic. In AI prompting, layer shot size with camera direction: &#39;Medium Close-Up of a chef smiling, 50mm lens, soft warm lighting, shallow depth of field — the model will nail the composition if you speak this language.</p>
+    <a class="card-link" href="https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/" target="_blank">Read more →</a>
+    <div class="card-meta">Source: StudioBinder</div>
+  </div>
+  </div>
+
+  <div class="section-title">
+    <span class="icon">📰</span> Industry News
+    <span class="count">4</span>
+  </div>
+  <div class="cards">
+      <div class="card">
+    <div class="card-tag industry">📰 Industry News</div>
+    <h3>Sora Is Dead — OpenAI Shuts Down Video App After Deepfake Wave</h3>
+    <p>OpenAI killed the Sora app on April 26, 2026, and will sunset the Sora API on September 24, 2026. Launched September 2025 with synchronized audio and multi-shot consistency, Sora 2 was shut down after a wave of nonconsensual deepfakes featuring public figures like Michael Jackson and MLK Jr. The practical shortlist for AI video is now Veo 3.1 vs Runway Gen-4.5 vs Kling 3.0 vs Luma Ray3. Professional creators are advised to use multi-model pipelines rather than committing to one provider.</p>
+    <a class="card-link" href="https://www.opus.pro/blog/ai-video-news-april-2026" target="_blank">Read more →</a>
+    <div class="card-meta">Source: OpusClip Blog</div>
+  </div>
+  <div class="card">
+    <div class="card-tag industry">📰 Industry News</div>
+    <h3>Runway Raises $315M at $5.3B — Hollywood Deal Stalled, Gen-4.5 Leads Benchmarks</h3>
+    <p>Runway closed a $315M Series E in February 2026 at a $5.3B valuation. Their Gen-4.5 model leads benchmarks at 1,247 Elo with &#39;world consistency&#39; — characters and environments that hold across cuts without re-prompting. However, Runway&#39;s Lionsgate training deal quietly stalled because the studio&#39;s catalog was &#39;too small to create a model.&#39; The company launched a $10M fund and Builders program to support creators. Meanwhile, the SAG-AFTRA contract expires June 2026 with a &#39;Tilly tax&#39; on synthetic performers being negotiated.</p>
+    <a class="card-link" href="https://runwayml.com/research/introducing-runway-gen-4" target="_blank">Read more →</a>
+    <div class="card-meta">Source: RunwayML / OpusClip</div>
+  </div>
+  <div class="card">
+    <div class="card-tag industry">📰 Industry News</div>
+    <h3>YouTube Wipes 4.7 Billion Views — Slop Crackdown Removes Top AI Channels</h3>
+    <p>YouTube CEO Neal Mohan made &#39;managing AI slop&#39; a top 2026 priority. The platform terminated 11 channels and wiped content from 6 more in the top 100 AI slop accounts, removing 35M subscribers, 4.7 billion lifetime views, and ~$9.8M in annual ad revenue. Mass-produced, templated AI content is now banned from the YouTube Partner Program. TikTok auto-labeled 1.3 billion videos as AI-generated and enforces a 3-strike rule: 3 unlabeled AI uploads = account reach cut ~60% for 30 days.</p>
+    <a class="card-link" href="https://www.opus.pro/blog/ai-video-news-april-2026" target="_blank">Read more →</a>
+    <div class="card-meta">Source: OpusClip Blog</div>
+  </div>
+  <div class="card">
+    <div class="card-tag industry">📰 Industry News</div>
+    <h3>EU AI Act Article 50 — Mandatory AI Video Labels Coming August 2026</h3>
+    <p>The EU AI Act&#39;s Article 50 begins enforcement on August 2, 2026, with fines of €15M or 3% of global turnover for violations. The law mandates visible labels on AI-generated video content plus machine-readable provenance metadata (C2PA credentials). This affects every AI video creator serving European clients or audiences. Best practice: start using C2PA watermarks now and include disclosure in your contracts.</p>
+    <a class="card-link" href="https://www.opus.pro/blog/ai-video-news-april-2026" target="_blank">Read more →</a>
+    <div class="card-meta">Source: OpusClip Blog</div>
+  </div>
+  </div>
+
+  <div class="section-title">
+    <span class="icon">🔧</span> Tools & Tech
+    <span class="count">4</span>
+  </div>
+  <div class="cards">
+      <div class="card">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <h3>Kling 3.0 Launches Native 4K Output, Multi-Shot Storyboard, and Character Assets</h3>
+    <p>Kling 3.0 is no longer just a text-to-video model — it&#39;s a short-scene production system. Key upgrades: first native 4K output, multi-shot generation (auto or custom mode with per-shot camera/pacing control), 15-second output duration (longest of any major AI video tool), native audio + multilingual dialogue (Chinese, English, Japanese, Korean, Spanish with accent options), and Element Consistency/Character Assets that let you save and reuse characters that look AND sound the same across generations. Pricing starts at $60/year. Best for iteration-heavy ad workflows and social media content at scale.</p>
+    <a class="card-link" href="https://kingy.ai/ai/kling-3-0-review-a-serious-step-toward-ai-video-as-a-production-system/" target="_blank">Read more →</a>
+    <div class="card-meta">Source: Kingy AI</div>
+  </div>
+  <div class="card">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <h3>Google Veo 3 Lite at $0.05/sec — Cheapest Tier in the Market</h3>
+    <p>Google shipped Veo 3 Lite on March 31, 2026 at $0.05/second for 720p and $0.08/second for 1080p via the Gemini API. This is the cheapest audio-enabled video generation tier in the market. Veo 3.1 remains the overall quality leader (scored 9.8/10 quality, best quality/price ratio), with superior temporal consistency (no flickering) and 95%+ prompt accuracy. Available globally in 180+ countries. Veo 4 is expected later in 2026 but not officially confirmed.</p>
+    <a class="card-link" href="https://ulazai.com/ai-video-models-guide-2025/" target="_blank">Read more →</a>
+    <div class="card-meta">Source: UlazAI</div>
+  </div>
+  <div class="card">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <h3>Runway Gen-4.5: World Consistency Changes the Game for Multi-Shot AI Video</h3>
+    <p>Runway Gen-4.5 introduces &#39;world consistency&#39; — the ability to maintain characters, objects, and environments across multiple generated shots without re-prompting. This is a breakthrough for narrative AI video. Gen-4.5 leads benchmarks at 1,247 Elo and offers native audio, long-form multi-shot generation, and advanced editing tooling. Use it when you need tight camera direction control (pan, tilt, zoom, dolly) and professional client deliverables. Pricing starts at $15/month with ~$0.50 per video.</p>
+    <a class="card-link" href="https://runwayml.com/research/introducing-runway-gen-4" target="_blank">Read more →</a>
+    <div class="card-meta">Source: RunwayML</div>
+  </div>
+  <div class="card">
+    <div class="card-tag tools">🔧 Tools & Tech</div>
+    <h3>Pika 2.5 Differentiates with Pikaframes — Upload Start/End Images for Morph Transitions</h3>
+    <p>Pika 2.5 carves out a unique niche with Pikaframes: upload start and end images and generate 1-10s transition videos between them. This is powerful for product morphing, before/after reveals, and creative prototyping. Pika also offers Scene Ingredients (precise element control) and PikaAdditions. At $10/month and $0.25/video, it&#39;s the most intuitive UI for beginners and the best tool for rapid creative experiments. Valued at $470M with $135M total raised.</p>
+    <a class="card-link" href="https://ulazai.com/ai-video-models-guide-2025/" target="_blank">Read more →</a>
+    <div class="card-meta">Source: UlazAI / Pika Labs</div>
+  </div>
+  </div>
+
+  <div class="section-title">
+    <span class="icon">📈</span> Trends & In-Demand Niches
+    <span class="count">3</span>
+  </div>
+  <div class="cards">
+      <div class="card">
+    <div class="card-tag niches">📈 Trends & Niches</div>
+    <h3>AI Product Photography &amp; Mockup Ads for E-Commerce — $30-$150 Per Image Set</h3>
+    <p>The single highest-paying entry-level AI video niche in 2026. Small brands pay $30-$300 per video for content that takes 15 minutes to produce. Workflow: client sends product photo, you use AI tools (Pebblely, Caspa, Runway, Kling) to place it into curated lifestyle backgrounds — marble counter, spa setting, outdoor table, seasonal props. Pricing: $30-$150 per image set, packages of 10-20 images for $150-$300. Ideal clients: Etsy sellers, cosmetics brands, Amazon FBA sellers, Shopify store owners. Job posts for &#39;AI video creators&#39; and &#39;AI product ad specialists&#39; on Upwork and Fiverr have multiplied sharply in the past year.</p>
+    <a class="card-link" href="https://medium.com/the-ai-studio/highest-paying-easiest-ai-ad-services-to-start-2026-d8a93c2d0c6d" target="_blank">Read more →</a>
+    <div class="card-meta">Source: The AI Studio (Medium)</div>
+  </div>
+  <div class="card">
+    <div class="card-tag niches">📈 Trends & Niches</div>
+    <h3>Short-Form AI Video for Social Ads — The 2026 Gold Rush</h3>
+    <p>Social and video ad automation is the dominant 2026 trend. 89% of consumers want more branded video content, and 41% of businesses already use AI for video production. Companies using AI save up to 80% in time and budget vs. traditional production. The hot niches: AI-generated before/after product demos (e-commerce), talking-head avatars for local businesses (HeyGen + Veo), AI real estate walkthroughs, and quick-service restaurant menu videos. Viewers retain 95% of a message via video vs. only 10% via text.</p>
+    <a class="card-link" href="https://www.superside.com/blog/ai-video-examples" target="_blank">Read more →</a>
+    <div class="card-meta">Source: Superside</div>
+  </div>
+  <div class="card">
+    <div class="card-tag niches">📈 Trends & Niches</div>
+    <h3>B2B Explainer Videos — The $47K-Saving Opportunity</h3>
+    <p>B2B companies are desperate for affordable video but can&#39;t afford agency rates ($10K+ per video). A case study: Johnson Controls x Superside produced a character-driven animated video using AI tools for 85% faster production, saving $47K+ in costs. The campaign was so successful it led to two sequels. The sweet spot: character-driven explainer animations for enterprise B2B brands. Niche B2B companies need high-quality, fast-turnaround technical animations, and AI makes this viable at $500-$2,000 per video.</p>
+    <a class="card-link" href="https://www.superside.com/blog/ai-video-examples" target="_blank">Read more →</a>
+    <div class="card-meta">Source: Superside</div>
+  </div>
+  </div>
+
+  <div class="section-title">
+    <span class="icon">💼</span> Offers & Selling — How to Win Clients
+    <span class="count">3</span>
+  </div>
+  <div class="cards">
+      <div class="card">
+    <div class="card-tag offers">💼 Offers & Selling</div>
+    <h3>The $100M Offer Framework for AI Video Services — Start Here</h3>
+    <p>Based on Alex Hormozi&#39;s $100M Offers methodology adapted for AI video: (1) Pick ONE niche — don&#39;t be a generalist. &#39;I make AI videos for Amazon FBA sellers&#39; beats &#39;I make AI videos.&#39; (2) Stack the value — bundle AI scripting + AI product mockups + short-form ads + A/B testing into one offer. (3) Price to value, not cost — a video that costs $2 in AI credits can be priced at $97-$297 because it replaces a $2,000 agency production. (4) Use a &#39;loss leader&#39; (3 test videos for $97) then upsell to monthly retainer ($500-$2,000/mo). The key insight: you&#39;re selling results (more sales), not video files.</p>
+    <a class="card-link" href="https://www.youtube.com/watch?v=wogx9czrG28" target="_blank">Read more →</a>
+    <div class="card-meta">Source: YouTube Masterclass (AI Agency)</div>
+  </div>
+  <div class="card">
+    <div class="card-tag offers">💼 Offers & Selling</div>
+    <h3>Retainer Models: The Holy Grail for AI Video Freelancers</h3>
+    <p>One-off project work is unstable. The goal is monthly retainers. Three proven models for AI video creators: (1) Content Retainer — X number of short-form videos per week ($1,000-$3,000/mo for 10-20 videos). (2) Ad Creative Testing Retainer — ongoing A/B test creative production for e-commerce brands ($2,000-$5,000/mo). (3) &#39;AI Video Department&#39; — position yourself as the client&#39;s outsourced video team ($3,000-$8,000/mo). Upwork data confirms demand for &#39;AI Video Creators&#39; has multiplied sharply. Start with a 3-month commitment at a discounted rate, then renegotiate.</p>
+    <a class="card-link" href="https://www.upwork.com/hire/ai-generated-video-specialists/" target="_blank">Read more →</a>
+    <div class="card-meta">Source: Upwork</div>
+  </div>
+  <div class="card">
+    <div class="card-tag offers">💼 Offers & Selling</div>
+    <h3>Client Acquisition Strategy That Actually Works in 2026 — The Warm DM + Case Study Combo</h3>
+    <p>Cold outreach is dead in 2026. The winning strategy: (1) Create 2-3 killer AI video samples in a specific niche (real estate, e-commerce product demos, restaurant ads). (2) Post them on LinkedIn/X/Instagram with breakdown of your process. (3) DM business owners/CMOs with: &#39;Hey, I noticed you don&#39;t have [type of video content]. I made this sample for a brand in your space — would love to do the same for you.&#39; (4) Follow up with a 30-second Loom showing exactly what you&#39;d create for them. The conversion rate is 10-20x higher than generic cold outreach. Case studies are your #1 sales tool — document everything.</p>
+    <a class="card-link" href="https://www.youtube.com/watch?v=Nu6WBn9vPQg" target="_blank">Read more →</a>
+    <div class="card-meta">Source: YouTube (Client Acquisition)</div>
+  </div>
+  </div>
+
+  <div class="section-title">
+    <span class="icon">✨</span> Inspiration — Projects to Study
+    <span class="count">4</span>
+  </div>
+  <div class="cards">
+      <div class="card">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <h3>Kalshi&#39;s NBA Finals Ad — $2K Budget, 3M Views, Fully AI-Produced</h3>
+    <p>Kalshi produced a surrealistic 30-second commercial using Google Gemini + Veo 3 that aired during the 2025 NBA Finals. The entire production took 2 days on a budget of only $2,000 and generated over 3 million views on X. This proves that a solo creator with AI tools can produce broadcast-quality ads for a fraction of traditional costs. Study the ad for its pacing, surrealist transitions, and how they used AI&#39;s weirdness as a feature, not a bug.</p>
+    <a class="card-link" href="https://www.superside.com/blog/ai-video-examples" target="_blank">Read more →</a>
+    <div class="card-meta">Source: Superside</div>
+  </div>
+  <div class="card">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <h3>Popeyes &#39;(w)Rap Battle&#39; — AI Diss Track That Went Viral Using Veo 3 + Suno</h3>
+    <p>Popeyes launched a fully AI-generated diss track aimed at McDonald&#39;s to promote their new wraps. Created using Veo 3 for video and Suno for music, the ad demonstrated how AI can power brand rivalry content that captures massive attention. Key takeaway: humor + brand rivalry + AI novelty = viral formula. Watch how they combined consistent brand identity (Popeyes orange/red colors, fried chicken imagery) with absurdist AI-generated visuals.</p>
+    <a class="card-link" href="https://www.superside.com/blog/ai-video-examples" target="_blank">Read more →</a>
+    <div class="card-meta">Source: Superside</div>
+  </div>
+  <div class="card">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <h3>Coca-Cola&#39;s &#39;Create Real Magic&#39; — Enterprise AI Co-Creation at Scale</h3>
+    <p>Coca-Cola built a proprietary platform combining GPT-4 and DALL-E where creatives submitted personalized digital artwork that was then turned into billboard and video content. The campaign built deep emotional connections with creators and perfectly mirrored the brand&#39;s festive spirit. For solo creators: this proves that big brands are actively seeking AI video talent for co-creation campaigns. Position yourself as the person who can deliver this kind of AI storytelling for brands in your niche.</p>
+    <a class="card-link" href="https://www.superside.com/blog/ai-video-examples" target="_blank">Read more →</a>
+    <div class="card-meta">Source: Superside</div>
+  </div>
+  <div class="card">
+    <div class="card-tag inspire">✨ Inspiration</div>
+    <h3>Study the Masters — No Film School and StudioBinder for Free Film Education</h3>
+    <p>Two essential free resources every AI video creator should bookmark: No Film School (nofilmschool.com) — daily articles on cinematography, directing, editing, and the business of film, plus a thriving creator community. StudioBinder (studiobinder.com) — the best visual guides to shot types, camera angles, lighting setups, and color theory with actual film examples. Both are free. Spend 15 minutes a day studying one technique and immediately practice it in your AI prompting the same day.</p>
+    <a class="card-link" href="https://nofilmschool.com/cinematography-cameras" target="_blank">Read more →</a>
+    <div class="card-meta">Source: No Film School / StudioBinder</div>
+  </div>
+  </div>
+
+</div>
+
+<div class="footer">
+  <span class="heart">♥</span> Trillion Empire · AI Video Pulse · <a href="/index.html">View All Pulses</a>
+</div>
+
+<script>
+  document.getElementById('time-display').textContent = new Date().toLocaleString('en-US', {
+    timeZone: 'America/New_York',
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZoneName: 'short'
+  });
+</script>
+</body>
+</html>

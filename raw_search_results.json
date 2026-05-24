@@ -1,0 +1,282 @@
+{
+  "filmschool": [
+    {
+      "title": "OpenAI | OpenAI",
+      "url": "https://openai.com/",
+      "snippet": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission."
+    },
+    {
+      "title": "Artificial intelligence - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "snippet": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision \u2026"
+    },
+    {
+      "title": "What is AI - DeepAI",
+      "url": "https://deepai.org/chat/what-is-ai",
+      "snippet": "What is AI, and how does it enable machines to perform tasks requiring human intelligence, like speech recognition and decision-making? AI learns and adapts through new data, integrating into daily life \u2026"
+    },
+    {
+      "title": "Artificial intelligence (AI) | Definition, Examples, Types ...",
+      "url": "https://www.britannica.com/technology/artificial-intelligence",
+      "snippet": "2 days ago \u00b7 artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings."
+    },
+    {
+      "title": "What is Artificial Intelligence (AI)? | Google Cloud",
+      "url": "https://cloud.google.com/learn/what-is-artificial-intelligence",
+      "snippet": "Artificial intelligence (AI) is a set of technologies that empowers computers to learn, reason, and perform a variety of advanced tasks in ways that used to require human intelligence, such as..."
+    },
+    {
+      "title": "What is Artificial Intelligence? | Microsoft Azure",
+      "url": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-artificial-intelligence/?msockid=228fef3f19d863eb3c1ff865188d627f",
+      "snippet": "Learn what artificial intelligence (AI) is and how it works, explore the different types of AI, see examples of AI, and discover the benefits of AI."
+    },
+    {
+      "title": "Artificial intelligence: What it is, how it works and why it matters",
+      "url": "https://www.iso.org/artificial-intelligence/",
+      "snippet": "For those unfamiliar with computer science, it can be overwhelming to try and grasp the many facets of artificial intelligence and their implications. Here, we break down what artificial intelligence is, how it \u2026"
+    },
+    {
+      "title": "What Is Artificial Intelligence (AI)? Definition & Examples",
+      "url": "https://www.ucf.edu/artificial-intelligence/what-is-artificial-intelligence-ai-and-why-people-should-learn-about-it/",
+      "snippet": "Artificial intelligence (AI) is the ability of machines to learn, reason and make decisions. Learn how AI works, real-world examples and why it matters."
+    },
+    {
+      "title": "Google AI - How we're making AI helpful for everyone",
+      "url": "https://ai.google/",
+      "snippet": "Discover how Google AI is committed to enriching knowledge, solving complex challenges and helping people grow by building useful AI tools and technologies."
+    },
+    {
+      "title": "GENERATIVE Definition & Meaning - Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/generative",
+      "snippet": "3 days ago \u00b7 The meaning of GENERATIVE is having the power or function of generating, originating, producing, or reproducing. How to \u2026"
+    },
+    {
+      "title": "Generative AI - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Generative_artificial_intelligence",
+      "snippet": "Generative artificial intelligence (GenAI) is a subfield of artificial intelligence (AI) that uses generative models to generate text, images, \u2026"
+    },
+    {
+      "title": "Generative AI Tutorial - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/artificial-intelligence/generative-ai-tutorial/",
+      "snippet": "Mar 10, 2026 \u00b7 Generative AI focuses on building models that can create new content such as text, images, audio and code by learning patterns \u2026"
+    },
+    {
+      "title": "GENERATIVE | definition in the Cambridge English Dictionary",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/generative",
+      "snippet": "When the collective body and mind are integrated, we see the rise of generative social expressions that operate from a direct \u2026"
+    },
+    {
+      "title": "What is generative AI? - IBM",
+      "url": "https://www.ibm.com/think/topics/generative-ai",
+      "snippet": "Generative AI, sometimes called gen AI, is artificial intelligence (AI) that can create original content such as text, images, video, audio or \u2026"
+    }
+  ],
+  "industry": [
+    {
+      "title": "Google",
+      "url": "https://www.google.com/",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help \u2026"
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com.ai/webhp?hl=en&gl=ai",
+      "snippet": "Advertising Business Solutions About Google Google.com \u00a9 2026 - Privacy - Terms"
+    },
+    {
+      "title": "Travel - Google",
+      "url": "https://www.google.us/travel/",
+      "snippet": "Plan your trip with Google. Find flights, hotels, vacation rentals, things to do, and more."
+    },
+    {
+      "title": "Sign in - Google Accounts",
+      "url": "https://accounts.google.com/",
+      "snippet": "Not your computer? Use a private browsing window to sign in. Learn more about using Guest mode Next Create account"
+    },
+    {
+      "title": "About Google: Our products, technology and company informa\u2026",
+      "url": "https://about.google/",
+      "snippet": "Learn more about Google. Explore our innovative AI products and services, and how we're using technology to help \u2026"
+    },
+    {
+      "title": "Runway Gen-4: AI Video Generation with World Consistency",
+      "url": "https://runwayml.com/research/introducing-runway-gen-4",
+      "snippet": "With Runway Gen-4, you are now able to precisely generate consistent characters, locations and objects across scenes. Simply set your look and feel and the model will maintain coherent world \u2026Scene Builder Craft your multi-shot scene step by step \u2014 see the look, then bring it to life."
+    },
+    {
+      "title": "Runway Released Gen-4 Video Generation Model",
+      "url": "https://theaitrack.com/runway-gen-4-ai-video/",
+      "snippet": "On March 31, 2025, AI startup Runway released Gen-4, a new family of video-generating AI models. Designed to maintain consistency across frames and regenerate scene elements from various \u2026"
+    },
+    {
+      "title": "AI Video Models 2025: Sora vs Veo 3 vs Runway Gen-4 Comparison",
+      "url": "https://reezo.ai/blog/ai-video-models-comparison-2025",
+      "snippet": "Mar 10, 2025 \u00b7 Complete comparison of top AI video models in 2025. Compare OpenAI Sora, Google Veo 3, and Runway Gen-4 features, pricing, and performance."
+    },
+    {
+      "title": "Runway Gen-4 - AI Wiki",
+      "url": "https://aiwiki.ai/wiki/runway_gen_4",
+      "snippet": "2 days ago \u00b7 Runway Gen-4 is the fourth-generation video generation model developed by Runway (company), announced and released on March 31, 2025. The model introduced a reference image \u2026"
+    },
+    {
+      "title": "Runway Gen-4 Released: New AI Model for Consistent Video Generation",
+      "url": "https://kie.ai/runway-gen4",
+      "snippet": "Runway Gen-4 is the latest video generation model from Runway ML, designed to turn images into short, cinematic video clips with improved consistency, motion realism, and prompt adherence."
+    },
+    {
+      "title": "Runway Gen-4 Just Dropped: 5 Surprising AI Video Upgrades",
+      "url": "https://www.vo3ai.com/blog/runway-gen-4-just-dropped-5-surprising-upgrades-ai-video-makers-need-to-know-2026-05-03",
+      "snippet": "May 3, 2026 \u00b7 Runway Gen-4 just launched with 5 major upgrades. Discover new features, industry reactions, and how it impacts AI video creators."
+    },
+    {
+      "title": "Runway Gen-4 Tutorial: Create Cinematic AI-Generated Videos",
+      "url": "https://app.genape.ai/tutorial-article/ai-generator/runway-gen-four",
+      "snippet": "Jul 10, 2025 \u00b7 This article covers the new breakthroughs of Runway Gen-4, the differences of Gen-4 Turbo, prompt design strategies, and practical examples to help creators better understand this \u2026"
+    },
+    {
+      "title": "What Is Runway Gen-4 Turbo? The Flagship AI Video Model from Runway",
+      "url": "https://www.mindstudio.ai/blog/what-is-runway-gen-4-turbo-video",
+      "snippet": "Feb 12, 2026 \u00b7 Runway Gen-4 Turbo is an AI video generation model that creates videos from images and text prompts. Released in April 2025, it generates 10-second video clips in approximately 30 \u2026"
+    },
+    {
+      "title": "Runway releases an impressive new video-generating AI model",
+      "url": "https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/",
+      "snippet": "Mar 31, 2025 \u00b7 AI startup Runway on Monday released what it claims is one of the highest-fidelity AI-powered video generators yet. Called Gen-4, the model is rolling out to the company\u2019s individual..."
+    },
+    {
+      "title": "Runway rolls out Gen 4.5 AI video model that beats Google, OpenAI",
+      "url": "https://www.cnbc.com/2025/12/01/runway-gen-4-5-video-model-google-open-ai.html?msockid=2ccb1825f6c9631b25610f7ff7426239",
+      "snippet": "Dec 1, 2025 \u00b7 Artificial intelligence startup Runway on Monday announced Gen 4.5, a new video model that outperforms similar models from Google and OpenAI in an independent benchmark. Gen 4.5 \u2026"
+    },
+    {
+      "title": "Kling AI: Next-Generation AI Creative Studio",
+      "url": "https://kling.ai/",
+      "snippet": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods."
+    },
+    {
+      "title": "Kling 3.0 - The Most Advanced AI Video Model | Higgsfield",
+      "url": "https://higgsfield.ai/kling-3.0",
+      "snippet": "Kling AI video generator on Higgsfield \u2014 create cinematic videos with motion control, presets, and pro-grade VFX. All Kling models in one workspace."
+    },
+    {
+      "title": "Kling 3.0 AI Video Generator | Director-Grade Creation",
+      "url": "https://kling3.io/",
+      "snippet": "Kling 3.0 is the world's first unified multimodal AI video engine. Generate hyper-realistic 1080p HD videos with synchronized sound using text or images. Perfect for ads, social media, e-commerce, and film \u2026"
+    },
+    {
+      "title": "Kling 3 AI Video Generator | Next-Gen Cinematic Video Creation",
+      "url": "https://www.kling3.ai/",
+      "snippet": "Kling 3.0 is the latest generation of the Kling AI video model. It brings motion, audio, physics, and story structure into a more unified video generation system, designed for cinematic and realistic video creation."
+    },
+    {
+      "title": "Kling 2.6 - AI Video Generation with Audio-Visual Synchronization",
+      "url": "https://www.kling26.com/",
+      "snippet": "Kling 2.6 generates video and audio together in perfect sync. Character dialogue, multi-person conversations, singing, environmental sounds, and sound effects - all naturally aligned with visuals."
+    },
+    {
+      "title": "David Kling Obituary (1964 - 2026) - Sandusky Register",
+      "url": "https://obituaries.sanduskyregister.com/us/obituaries/sanduskyregister/name/david-kling-obituary?id=61138940",
+      "snippet": "Mar 31, 2026 \u00b7 David Patrick Kling, 62, passed away peacefully Saturday, March 28, 2026, at Kingston Residence of Vermilion after a courageous battle with glioblastoma. He faced his illness with strength, \u2026"
+    },
+    {
+      "title": "Kling Motion Control \u2013 Precise AI Motion Transfer Animation",
+      "url": "https://www.klingmotion.com/",
+      "snippet": "Kling Motion Control is an advanced AI motion transfer technology built into Kling Video 2.6 Pro. With Kling Motion Control, character actions, body movements, and expressions are no longer random \u2014 they are \u2026"
+    },
+    {
+      "title": "Kling 3.0 - Free Kling AI Video Generator | Text & Image to Video",
+      "url": "https://kling-3.org/",
+      "snippet": "The Kling AI video engine transforms text prompts into cinematic videos. It understands natural language and generates high-quality scenes from descriptions, producing more accurate results than previous \u2026"
+    },
+    {
+      "title": "Kling 3.0 - AI Video Generator | Smart Storyboard, Audio-Visual Sync ...",
+      "url": "https://klingapi.com/",
+      "snippet": "Brand new smart storyboard system, native audio-visual sync, 15s ultra-long video generation. Experience Kling Video 3.0 and 3.0 Omni now. Kling officially enters the 3.0 era! Advanced beta testing in progress."
+    },
+    {
+      "title": "Kling AI - YouTube",
+      "url": "https://www.youtube.com/@Kling_ai",
+      "snippet": "Kling 4K Mode is now live in Video 3.0 series. \ud83d\udd25 Generate stunning 4K videos in one click with sharper visuals, richer details, and cinematic-level quality."
+    }
+  ],
+  "tools": [],
+  "niches": [],
+  "offers": [
+    {
+      "title": "Upwork | Hire Top Freelance Talent with Confidence",
+      "url": "https://www.upwork.com/",
+      "snippet": "Upwork is the world\u2019s largest human and AI-powered freelance marketplace to hire top talent\u2014trusted by businesses and professionals worldwide."
+    },
+    {
+      "title": "What Is Upwork, and Is It Legit? - NerdWallet",
+      "url": "https://www.nerdwallet.com/finance/learn/how-to-make-money-on-upwork?msockid=1d455a6f18a96fba02514d3519a36e7f",
+      "snippet": "Feb 18, 2026 \u00b7 What is Upwork? Upwork is a marketplace for freelancers in fields like writing, graphic design, web development, marketing and many other categories of online work."
+    },
+    {
+      "title": "Upwork - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.upwork.android.apps.main&hl=en-US",
+      "snippet": "Manage your work on the go. Whether you're hiring, freelancing, or doing both, you can post jobs, submit proposals, message, track projects, and manage contracts \u2014 all from a single app. This..."
+    },
+    {
+      "title": "Freelance Jobs on Upwork: Work Remote & Earn Online",
+      "url": "https://www.upwork.com/freelance-jobs/",
+      "snippet": "Find & apply for freelance jobs on Upwork - the world's largest online workplace where savvy businesses hire freelancers & remote teams."
+    },
+    {
+      "title": "Sign up for Upwork | Client & Freelancer Accounts",
+      "url": "https://www.upwork.com/nx/signup/",
+      "snippet": "Create your Upwork account for both clients and freelancers. Upwork is the leading online workplace, where savvy businesses hire, manage, and pay an on-demand workforce of talented freelancers."
+    },
+    {
+      "title": "Hire Freelancers: Find Top Freelance Talent Online - Upwork",
+      "url": "https://www.upwork.com/hire/",
+      "snippet": "Hire top freelancers on Upwork. Find talent for any project\u2014fast, flexible, and trusted by businesses of all sizes."
+    },
+    {
+      "title": "Upwork Customer Service & Support | Upwork Help",
+      "url": "https://support.upwork.com/hc/en-us",
+      "snippet": "Find solutions fast."
+    },
+    {
+      "title": "Es rentable ser freelance? - YouTube",
+      "url": "/videos/riverview/relatedvideo?q=Upwork+AI+video+freelancer+tips+2025&first=31&ru=/search?q=Upwork+AI+video+freelancer+tips+2025&first=31&FORM=PERE2&mmscn=vwrc&mid=1F98440A0961C49568A41F98440A0961C49568A4&FORM=WRVORC&ntb=1&msockid=77b7c204505c11f1b59a3c89789a1993",
+      "snippet": "Jun 15, 2023 \u00b7 Aprende a programar ahora con la academia Hola Mundo! utiliza el cup\u00f3n \"cortos\" para pagar solo 49.90 USD el primer a\u00f1o de suscripci\u00f3n!aqu\u00ed: https://academia..."
+    },
+    {
+      "title": "How to get your 1st client as a freelancer! - YouTube",
+      "url": "/videos/riverview/relatedvideo?q=Upwork+AI+video+freelancer+tips+2025&first=31&ru=/search?q=Upwork+AI+video+freelancer+tips+2025&first=31&FORM=PERE2&mmscn=vwrc&mid=FA99FB4B37AE9B36AA32FA99FB4B37AE9B36AA32&FORM=WRVORC&ntb=1&msockid=77b82ceb505c11f18befa114ec399f9f",
+      "snippet": "Nov 10, 2022 \u00b7 Check out the full podcast here: https://youtu.be/3EqcKGKgMxU Be sure to subscribe to the channel so you don't miss videos every Tuesday at 3pm."
+    },
+    {
+      "title": "POV: You\u2019re Editing a \u20b921,000 Client Project (Full Process)",
+      "url": "/videos/riverview/relatedvideo?q=Upwork+AI+video+freelancer+tips+2025&first=31&ru=/search?q=Upwork+AI+video+freelancer+tips+2025&first=31&FORM=PERE2&mmscn=vwrc&mid=3C5362EEB82D42C896943C5362EEB82D42C89694&FORM=WRVORC&ntb=1&msockid=77b85520505c11f18b569dcad056eeed",
+      "snippet": "Mar 22, 2025 \u00b7 How to make money on Fiverr: \u2022 How to Make Money on Fiverr How you can get unlimited clients through these lead generation methods: \u2022 Video If I Wanted to Become a Freelancer In 2025, This is ..."
+    }
+  ],
+  "inspire": [
+    {
+      "title": "VIRAL Definition & Meaning - Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/viral",
+      "snippet": "4 days ago \u00b7 The meaning of VIRAL is of, relating to, or caused by a virus. How to use viral in a sentence."
+    },
+    {
+      "title": "VIRAL | English meaning - Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/viral",
+      "snippet": "VIRAL definition: 1. caused by a virus: 2. used to describe something that quickly becomes very popular or well\u2026. Learn more."
+    },
+    {
+      "title": "viral adjective - Definition, pictures, pronunciation and usage notes ...",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/viral",
+      "snippet": "Definition of viral adjective in Oxford Advanced Learner's Dictionary. Meaning, pronunciation, picture, example sentences, grammar, usage \u2026"
+    },
+    {
+      "title": "VIRAL definition and meaning | Collins English Dictionary",
+      "url": "https://www.collinsdictionary.com/dictionary/english/viral",
+      "snippet": "4 meanings: 1. of, relating to, or caused by a virus 2. (of a video, image, story, etc) spread quickly and widely among.... Click for more \u2026"
+    },
+    {
+      "title": "Viral - definition of viral by The Free Dictionary",
+      "url": "https://www.thefreedictionary.com/viral",
+      "snippet": "Define viral. viral synonyms, viral pronunciation, viral translation, English dictionary definition of viral. adj. 1. Of, relating to, or caused by a \u2026"
+    }
+  ]
+}

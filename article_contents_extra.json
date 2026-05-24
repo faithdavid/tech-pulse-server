@@ -1,0 +1,72 @@
+{
+  "character_ai_lawsuit": {
+    "meta": "State says chatbot claimed to practice medicine, gave invalid license number.",
+    "text": "Pennsylvania has sued the maker of Character.AI, alleging that it violated state law by presenting an AI chatbot character as a licensed doctor. Thelawsuitwas filed in a state court by the Pennsylvania Department of State and State Board of Medicine. \u201cThe department\u2019s investigation found that AI chatbot characters on Character.AI claimed to be licensed medical professionals, including psychiatrist",
+    "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/"
+  },
+  "mozilla_mythos_detailed": {
+    "meta": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
+    "text": "The disbelief was palpable when Mozilla\u2019s CTO last month declared that AI-assisted vulnerability detection meant \u201czero-days are numbered\u201d and \u201cdefenders finally have a chance to win, decisively.\u201d After all, it looked like part of an all-too-familiar pattern: Cherry-pick a handful of impressive AI-achieved results, leave out any of the fine print that might paint a more nuanced picture, and let the",
+    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
+  },
+  "google_gemma4_speed": {
+    "meta": "Up to 3x the speed with no loss of quality\u2014is it too good to be true?",
+    "text": "Google launched itsGemma 4 open modelsthis spring, promising a new level of power and performance for local AI. Google\u2019s take on edge AI could be getting even faster already with the release ofMulti-Token Prediction(MTP) drafters for Gemma. Google says these experimental models leverage a form of speculative decoding to take a guess at future tokens, which can speed up generation compared to the w",
+    "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/"
+  },
+  "ai_study_retracted": {
+    "meta": "The retracted study on ChatGPT in education was already cited hundreds of times.",
+    "text": "A study that claimed OpenAI\u2019s ChatGPT can positively impact student learning has beenretractednearly one year after publication. The journal publisher, Springer Nature, cited \u201cdiscrepancies\u201d in the analysis and a lack of confidence in the conclusions\u2014but not before the paper racked up hundreds of citations and made the rounds on social media. \u201cThe paper\u2019s authors made some very attention-grabbing ",
+    "url": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/"
+  },
+  "minnesota_ai_nudes": {
+    "meta": "More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.",
+    "text": "This week, Minnesota became the first state to pass a law banning nudification apps that make it easy to \u201cundress\u201d or sexualize images of real people. Under thelaw, developers of websites, apps, software, or other services designed to \u201cnudify\u201d images risk extensive damages, including punitive damages, if a victim decides to sue. Their offending products could also be blocked in the state. Addition",
+    "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/"
+  },
+  "eval_study_errors": {
+    "meta": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.\u201d...",
+    "text": "In human-to-human communication, the desire to be empathetic or polite often conflicts with the need to be truthful\u2014hence terms like \u201cbeing brutally honest\u201d for situations where you value the truth over sparing someone\u2019s feelings. Now, new research suggests that large language models can sometimes show a similar tendency when specifically trained to present a \u201cwarmer\u201d tone for the user. Ina new pa",
+    "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/"
+  },
+  "kalshi_doubles": {
+    "meta": "",
+    "text": "We\u2019re sorry, we seem to have lost this page",
+    "url": "https://techcrunch.com/2026/05/08/kalshi-doubles-valuation-in-5-months-hitting-22b/"
+  },
+  "robhinhood_retail_ipo": {
+    "meta": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+    "text": "\n\n\n\n\n\n\n\n\nRiding an AI rally, Robinhood preps second retail venture IPO | TechCrunch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImage Credits:Axelle/Bauer-Griffin / Contributor (opens in a new window) / Getty Images \n\n\n\n\n\n\n\n\t\tVenture\t\n\n\n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n\n\n\n\nRiding an AI rally, Robinhood preps second",
+    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/"
+  },
+  "aurora_autonomous": {
+    "meta": "Aurora co-founder and CEO joins Equity to break down why self-driving trucks are finally ready to scale and what 24 years in autonomy has taught him about building for safety first.",
+    "text": "Self-driving has been \u201calmost here\u201d for over a decade. But somewhere between DARPA\u00a0challenges\u00a0and a handful of driverless trucks hauling freight between Dallas and Houston, Aurora\u00a0co-founder and\u00a0CEOChris Urmson\u2019s story\u00a0changed.\u00a0The self-driving truck\u00a0company\u00a0started commercial driverless operations last April and is now scaling from a handful of trucks to hundreds this year. On this episode of Tec",
+    "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/"
+  },
+  "openai_nadella_trial": {
+    "meta": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
+    "text": " In this article MicrosoftCEOSatya Nadellatook the stand in theMusk v. Altman trialon Monday, where he testified thatElon Musknever contacted him with concerns that Microsoft's investments in OpenAI were in violation of any special terms or commitments. Nadella, wearing a navy suit with a blue tie, concluded his testimony in federal court in Oakland, California, after several hours of questioning.",
+    "url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html"
+  },
+  "circle_arc": {
+    "meta": "Andreessen Horowitz served as the lead investor in the sale with a $75 million investment. Other investors include BlackRock and Apollo Funds. ",
+    "text": " In this article Circle Internet Grouphas raised $222 million in the presale of Arc, the native token of its new blockchain, as the company looks to expand beyond its core business of issuing the USDC stablecoin, CNBC has learned. The raise gives Arc a fully diluted\u00a0network valuation of $3 billion. \"[Blockchain] infrastructure is becoming as important as mobile operating systems or cloud platforms",
+    "url": "https://www.cnbc.com/2026/05/11/circle-closes-222-million-from-blackrock-apollo-for-arc-blockchain.html"
+  },
+  "fitbit_air": {
+    "meta": "The $100 Fitbit Air is available for preorder today.",
+    "text": "Wearables have really come full circle. The early Fitbits didn\u2019t have screens, but the move to smartwatches put a screen on everyone\u2019s wrist. Now, devices likeWhoopand Hume are designed as data trackers first and foremost without so much as a clock. Google\u2019s newest wearable jumps on that trend: The Fitbit Air doesn\u2019t have a screen, but it does have a suite of health sensors that pipe data into the",
+    "url": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/"
+  },
+  "parker_bankruptcy": {
+    "meta": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
+    "text": "\n\n\n\n\n\n\n\n\nFintech startup Parker files for bankruptcy | TechCrunch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImage Credits:Parker \n\n\n\n\n\n\n\n\t\tFintech\t\n\n\n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n\n\n\n\nFintech startup Parker files for bankruptcy \n\n\n\n\n\nAnthony Ha\n\n\n\n\n\n1:32 PM PDT \u00b7 May 9, 2026 \n\n\n\n\n\n\n\n \n\n\n \n\n \n\n \n\n \n\n \n\n \n\n\n\n\n\n\n",
+    "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/"
+  },
+  "kodiak_ai_100m": {
+    "meta": "",
+    "text": "We\u2019re sorry, we seem to have lost this page",
+    "url": "https://techcrunch.com/2026/05/08/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/"
+  }
+}
