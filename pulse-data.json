@@ -1,151 +1,221 @@
 {
   "ai": [
     {
-      "title": "Anthropic's Mythos AI Model Sets Off Global Security Alarms",
-      "description": "Anthropic launched Mythos, its next-generation AI model with advanced autonomous capabilities that have sparked global security concerns. The model can autonomously identify and exploit software vulnerabilities at scale, with the House Homeland Security panel receiving briefings on its implications. Security experts are debating whether frontier AI models like Mythos and GPT-Cyber fundamentally change the cybersecurity landscape.",
-      "url": "https://www.nytimes.com/2026/05/15/technology/anthropic-mythos-ai-model.html",
-      "source": "The New York Times",
+      "title": "New AI Model Releases News | April, 2026 (STARTUP EDITION)",
+      "description": "Apr 1, 2026 · Here is the quick list heading into April 2026: GPT-5.4 from OpenAI (released March 5), Gemini 3.1 Pro and Flash-Lite from Google (February and ...",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/",
+      "source": "Blog",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "DeepSeek Unveils Flagship AI Model a Year After Breakthrough",
-      "description": "China's DeepSeek launched its latest flagship AI model, one year after shocking the industry with its breakthrough R1 model that rivaled US competitors at a fraction of the cost. The new model pushes performance boundaries further while maintaining the company's signature efficiency, with benchmark results rivaling top Western models.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-15/deepseek-unveils-flagship-ai-model",
-      "source": "Bloomberg",
+      "title": "AI Advances May 2026: Breakthroughs in GPT-5.5, Gemini ...",
+      "description": "5 days ago · May 19, 2026, witnessed transformative developments in AI, with OpenAI's GPT-5.5 unveiling security-focused frameworks and companies like ...",
+      "url": "https://af.net/es/realtime/ai-advances-may-2026-breakthroughs-in-gpt-5-5-gemini-and-claude/",
+      "source": "Af",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "New AI Breakthrough Cuts Energy Use by 100x While Boosting Accuracy",
-      "description": "Researchers demonstrated a novel AI architecture that slashes energy consumption by 100x while simultaneously improving model accuracy. The breakthrough, published in Science, uses a fundamentally different computational approach that could make large-scale AI deployment far more sustainable and accessible, addressing one of the industry's most pressing environmental challenges.",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515100100.htm",
-      "source": "ScienceDaily",
+      "title": "Flagship Model Report: Gpt-5.1 vs Gemini 3 Pro vs Claude Opus 4.5",
+      "description": "Nov 27, 2025 · Compare GPT-5.1, Gemini 3 Pro, and Claude Opus 4.5 across coding, reasoning, multimodal, and safety benchmarks, and see the key trends ...",
+      "url": "https://www.vellum.ai/blog/flagship-model-report",
+      "source": "Vellum",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "Stanford AI Index 2026: 12 Key Takeaways on the State of AI",
-      "description": "Stanford HAI released its 2026 AI Index report, revealing that AI model training costs have dropped 40% year-over-year while capability benchmarks continue rising. Key findings include that AI now outperforms humans on 87% of tested benchmarks, global private AI investment topped $150 billion, and the number of AI safety incidents rose 300% year-over-year.",
-      "url": "https://hai.stanford.edu/news/inside-ai-index-12-takeaways-2026-report",
-      "source": "Stanford HAI",
+      "title": "What is The Best AI Model? | AI Hub",
+      "description": "6 days ago · As of May 2026, Claude Opus 4.7 leads on coding, Gemini 3.1 Pro leads on reasoning and data analysis, and GPT-5.5 leads on creative writing and ...",
+      "url": "https://overchat.ai/ai-hub/the-best-ai-model",
+      "source": "Overchat",
+      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
+    },
+    {
+      "title": "AI Benchmarks 2026: GPT-5.4 vs Claude 4.6 Live Rankings",
+      "description": "7 days ago · GPT-5.4 takes the crown with 94.5% on GPQA Diamond. Complete comparison of GPT-5.4 vs Claude 4.6 vs Gemini 3.1 across all major benchmarks.",
+      "url": "https://www.mangomindbd.com/blog/ai-benchmarks-2026-hub",
+      "source": "Mangomindbd",
+      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
+    },
+    {
+      "title": "Introducing Claude Opus 4.5 - Anthropic",
+      "description": "Nov 24, 2025 · Our newest model, Claude Opus 4.5, is available today. It's intelligent, efficient, and the best model in the world for coding, agents, ...",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "source": "Anthropic",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Anduril Raises $5B, Doubles Valuation to $61 Billion",
-      "description": "Defense tech company Anduril closed a $5 billion Series H round at a $61 billion valuation, more than doubling its valuation from a year ago. Thrive Capital and Andreessen Horowitz led the round, reflecting surging investor appetite for defense technology as global military modernization accelerates. The company now ranks among the most valuable private tech companies in the world.",
-      "url": "https://www.cnbc.com/2026/05/15/anduril-raises-5-billion-valuation-61-billion.html",
-      "source": "CNBC",
+      "title": "AI Startup Funding Report 2026: What the Numbers Actually Say",
+      "description": "This report compiles and analyzes publicly available AI startup funding data from industry-leading databases, published investor reports, regulatory filings, and verified media coverage.",
+      "url": "https://aimojo.io/ai-startup-funding-report/",
+      "source": "Aimojo",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "Wirestock Raises $23M to Supply Creative Multimodal Data to AI Labs",
-      "description": "Wirestock closed a $23 million Series A to expand its creator-powered AI data platform, which supplies high-quality multimodal training data to major AI labs. The platform connects a global network of content creators with AI companies needing diverse, licensed visual and audio data for training next-generation generative models.",
-      "url": "https://techcrunch.com/2026/05/15/wirestock-raises-23m-to-supply-creative-multimodal-data-to-ai-labs/",
-      "source": "TechCrunch",
+      "title": "Top Startup Funding Deals of Q1 2026: Record $297 Billion ...",
+      "description": "Apr 14, 2026 · According to Intellizence startup funding data, AI companies captured over $188 billion in Q1 alone, with nearly two-thirds of all global venture capital flowing to just four companies: OpenAI, Anthropic, xAI, and Waymo. The largest private funding round in history.",
+      "url": "https://intellizence.com/insights/startup-funding/top-startup-funding-deals-of-q1-2026-record-297-billion-raised-with-ai-dominating/",
+      "source": "Intellizence",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "HCLTech to Lead Sarvam AI's $300 Million Funding Round",
-      "description": "Indian IT giant HCLTech is leading a $300 million investment round in Sarvam AI, the homegrown Indian AI startup building foundational models for Indic languages. The round represents one of the largest AI investments in India, signaling the country's ambition to establish itself as a major AI player alongside the US and China.",
-      "url": "https://www.linkedin.com/pulse/mctech3-hcltech-lead-sarvam-ai-300-million-round",
-      "source": "LinkedIn / Moneycontrol",
+      "title": "AI Funding Tracker | AI Startup Investment Roundups 2026",
+      "description": "Apr 30, 2026 · Track the latest AI startup funding rounds and venture capital investments. Weekly updates on AI company valuations, Series rounds, news.",
+      "url": "https://aifundingtracker.com/",
+      "source": "Aifundingtracker",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "Billion-Dollar AI Rounds Push April to Third-Highest Startup Funding Month",
-      "description": "Crunchbase reported that April 2026 became the third-highest startup funding month in a year, driven by billion-dollar AI mega-rounds. At least 17 US-based AI companies have raised $100 million or more in 2026, with total AI startup funding on track to surpass $120 billion for the year — a 60% increase over 2025.",
-      "url": "https://news.crunchbase.com/ai/billion-dollar-ai-rounds-april-2026/",
-      "source": "Crunchbase News",
+      "title": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes ...",
+      "description": "Apr 1, 2026 · The first quarter of 2026 was unlike any other for venture investment, driven by unprecedented spending on AI compute and frontier labs. Crunchbase data shows investors poured $300 billion into 6,000 startups globally in the quarter, up over 150% quarter over quarter and year over year.",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "source": "News",
+      "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
+    },
+    {
+      "title": "AI Startup Funding Q1 2026: $300B Analysis for Developers ...",
+      "description": "Apr 29, 2026 · This analysis breaks down what the Q1 2026 funding numbers actually mean: where the money is going, what it signals about the market, how it affects developer salaries and hiring, and what you should be building right now to ride the wave.",
+      "url": "https://lushbinary.com/blog/ai-startup-funding-landscape-q1-2026-analysis/",
+      "source": "Lushbinary",
+      "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
+    },
+    {
+      "title": "Q1 2026 Venture Capital Hits $297B: AI Captures 81% of Record ...",
+      "description": "Apr 19, 2026 · Q1 2026 venture capital hit $297 billion, with AI startups capturing 81% of all funding. OpenAI raised $122B, Anthropic $30B, xAI $20B in record mega-rounds.",
+      "url": "https://tech-insider.org/q1-2026-venture-capital-297-billion-ai-startup-funding-record/",
+      "source": "Tech-Insider",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Microsoft Releases .NET 10 and Visual Studio 2026",
-      "description": "Microsoft launched .NET 10 alongside Visual Studio 2026, introducing native AI integration throughout the development stack. .NET 10 includes built-in ML pipeline tooling, improved AOT compilation performance, and enhanced cloud-native development features. Visual Studio 2026 adds AI-powered code review agents and real-time collaborative debugging.",
-      "url": "https://devblogs.microsoft.com/dotnet/2026/05/13/announcing-dotnet-10/",
-      "source": "Microsoft",
+      "title": "Releases · NVIDIA/NeMo-Framework-Launcher",
+      "description": "- Releases · NVIDIA/NeMo-Framework-Launcher.Provides end-to-end model development pipelines for LLMs and Multimodal models that can be launched on-prem or cloud-native.",
+      "url": "https://github.com/NVIDIA/NeMo-Framework-Launcher/releases",
+      "source": "GitHub",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "TanStack Releases Framework-Agnostic AI Toolkit",
-      "description": "TanStack, the team behind widely-used open-source libraries like React Query and TanStack Table, released a new framework-agnostic AI toolkit that works across React, Vue, Solid, and Svelte. The toolkit provides hooks for AI-powered features including streaming responses, RAG integration, and model-agnostic chat interfaces, abstracting away the complexity of direct AI API integration.",
-      "url": "https://www.infoq.com/news/2026/05/tanstack-ai-toolkit/",
-      "source": "InfoQ",
+      "title": "Android Releases | Platform | Android Developers",
+      "description": "Android Developer Verification. Extend by device. Build apps that give your users seamless experiences from phones to tablets, watches, headsets, and more.About app compatibility. Compatibility framework tools.",
+      "url": "https://developer.android.com/about/versions",
+      "source": "Developer",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Oracle Releases Java 26 with AI Capabilities",
-      "description": "Oracle released Java 26, marking a milestone release that introduces native AI capabilities including a Vector API for high-performance machine learning operations and integrated GPU acceleration. The release also includes Project Lilliput for reduced object headers, structured concurrency improvements, and the Java Verified Portfolio for enterprise AI deployment.",
-      "url": "https://www.oracle.com/news/announcement/oracle-releases-java-26-2026-05-15/",
-      "source": "Oracle",
+      "title": "WWDC26 - Apple Developer",
+      "description": "June 8–12, 2026. Be there for the reveal of the latest Apple tools, frameworks, and features. Learn to elevate your apps and games through video sessions hosted by Apple engineers and designers. Engage with Apple experts in labs and connect with the worldwide developer community.",
+      "url": "https://developer.apple.com/wwdc26/",
+      "source": "Developer",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Google Announces Natively Adaptive Interfaces Framework for AI Accessibility",
-      "description": "Google introduced Natively Adaptive Interfaces (NAI), a new development framework that automatically adjusts UI components based on user context, abilities, and preferences using on-device AI. The framework aims to make accessibility a first-class concern by dynamically adapting layouts, contrast, font sizes, input methods, and interaction patterns without developer intervention.",
-      "url": "https://blog.google/technology/ai/natively-adaptive-interfaces-2026/",
-      "source": "Google Blog",
+      "title": "Node.js Latest Version - Release History, LTS & EOL",
+      "description": "Latest release Released 31 Mar 2026 (1 month ago). Software. Node.js logo Node.js. Introduction. Node.js is an open-source, JavaScript runtime environment that allows you to run JavaScript on the server-side, build backend services, etc. Developer. OpenJS Foundation. Type.",
+      "url": "https://versionlog.com/nodejs/",
+      "source": "Versionlog",
+      "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
+    },
+    {
+      "title": "MIAPI | Open Launch",
+      "description": "Mobile App Development Tools & Frameworks. Open Source Software & Projects. Product Launch & Discovery Platforms. Testing & Quality Assurance Tools.",
+      "url": "https://openlaunch.ai/projects/miapi",
+      "source": "Openlaunch",
+      "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
+    },
+    {
+      "title": "Android developer at TradingView",
+      "description": "Development. Relocation. May 16, 2026. Experience contributing to or building internal frameworks or developer tooling. Familiarity with agent frameworks, agentic patterns, or LLM tool-calling workflows. Strong intuition for UI/UX quality in interact...",
+      "url": "https://www.remocate.app/jobs/android-developer-tradingview",
+      "source": "Remocate",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "White House Considers Vetting AI Models Before Public Release",
-      "description": "The White House is exploring a regulatory framework that would require government review of advanced AI models before they are released to the public, according to NYT. The proposed pre-release vetting system would apply to frontier models with specific capability thresholds, marking a significant escalation in US AI oversight that has drawn both industry praise and criticism over innovation concerns.",
-      "url": "https://www.nytimes.com/2026/05/04/us/politics/white-house-ai-model-vetting.html",
-      "source": "The New York Times",
+      "title": "AI Regulation in 2026: Enforcement and Division",
+      "description": "Safety Integration: Must integrate AI Act compliance with sector-specific safety laws (e.g., machinery regulation).",
+      "url": "https://www.exin.com/article/ai-regulation-in-2026-enforcement-and-division/",
+      "source": "Exin",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "EU Countries and Lawmakers Fail to Reach Deal on Watered-Down AI Rules",
-      "description": "European Union member states and lawmakers failed to reach agreement on revisions to the EU AI Act, with negotiations collapsing over the proposed tier of 'systemic risk' obligations for foundation models. The deadlock threatens the August 2026 compliance deadline, with US companies facing legal uncertainty as they prepare for one of the world's most comprehensive AI regulatory frameworks.",
-      "url": "https://www.reuters.com/technology/eu-countries-lawmakers-fail-reach-deal-watered-down-ai-rules-2026-05-15/",
-      "source": "Reuters",
+      "title": "AI regulation is coming to your state - FREOPP",
+      "description": "... AI litigation task force to challenge state AI laws deemed inconsistent with federal policy, including for unconstitutional regulation of interstate ...",
+      "url": "https://freopp.org/oppblog/ai-regulation-is-coming-to-your-state/",
+      "source": "Freopp",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "Meta to Receive $3.3B in Tax Breaks for $10B Louisiana Data Center",
-      "description": "Meta is set to receive $3.3 billion in tax breaks from Louisiana for its planned $10 billion Hyperion data center, the largest economic development project in state history. The facility, designed to power Meta's AI infrastructure, has brought both economic promise and community disruption to rural Louisiana, where construction has faced local opposition over environmental and infrastructure concerns.",
-      "url": "https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/",
-      "source": "Fortune",
+      "title": "US laws regulating AI prove elusive, but there may be hope |",
+      "description": "Indeed, Anthropic last week warned of AI catastrophe if governments don ’ t implement regulation in the next 18 months.",
+      "url": "https://techcrunch.com/2024/11/04/u-s-laws-regulating-ai-prove-elusive-but-there-may-be-hope/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "California Bill Would Require Patches or Refunds When Online Games Shut Down",
-      "description": "A California bill that would require game publishers to either patch online-only games to function offline or issue refunds when servers shut down has cleared a key legislative hurdle. The bill responds to growing consumer frustration with games becoming unplayable after publisher shutdowns, and could set a precedent for digital preservation and consumer rights in the gaming industry.",
-      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "source": "Ars Technica",
+      "title": "State AI Laws Advance as Federal Policy Remains Limited - The",
+      "description": "Generative AI Measures : Utah’s Artificial Intelligence Policy Act requires disclosure when generative AI is used for advice or sensitive personal ...",
+      "url": "https://nationalcioreview.com/articles-insights/extra-bytes/state-ai-laws-advance-as-federal-policy-remains-limited/",
+      "source": "Nationalcioreview",
+      "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
+    },
+    {
+      "title": "2026 New Laws Explained: AI Regulations, Paid Leave, Obamacare",
+      "description": "2026 New Laws Explained: AI Regulations, Paid Leave, Obamacare Premiums, and Voting Rights (2026) ... laws aim to prevent AI misuse in elections and ...",
+      "url": "https://lyondemere.org/article/2026-new-laws-explained-ai-regulations-paid-leave-obamacare-premiums-and-voting-rights",
+      "source": "Lyondemere",
+      "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
+    },
+    {
+      "title": "AI regulation bill aims to prevent harm from AI: Rep. Lieu",
+      "description": "... Best gifts for sister-in-law ... FAFSA 2026-27 ... 2026 All rights reserved.",
+      "url": "https://finance.yahoo.com/video/ai-regulation-bill-aims-prevent-174143999.html",
+      "source": "Finance",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Anthropic Launches Project Glasswing to Secure Critical Open Source Software",
-      "description": "Anthropic announced Project Glasswing, a major initiative to use AI to secure critical open source software dependencies. The project deploys Claude to automatically audit, patch, and harden widely-used open source libraries against vulnerabilities, starting with the top 1,000 most depended-upon packages in the npm and PyPI ecosystems.",
-      "url": "https://www.anthropic.com/news/project-glasswing",
-      "source": "Anthropic",
+      "title": "The Best Open-Source LLMs in 2026 - BentoML",
+      "description": "Apr 26, 2026 ... For many AI teams, closed-source options like GPT-5.5 and Opus-4.6 are convenient. With just a simple API call, you can prototype an AI product ...",
+      "url": "https://www.bentoml.com/blog/navigating-the-world-of-open-source-large-language-models",
+      "source": "Bentoml",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "Linux Foundation Announces $12.5M in Grants for Open Source Security",
-      "description": "The Linux Foundation announced $12.5 million in new grant funding from leading technology organizations to advance open source security. The funding will support critical infrastructure projects, security auditing tools, and developer education programs aimed at addressing the growing threat landscape facing open source software, which now faces a 73% year-over-year rise in malicious package attacks.",
-      "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-12-5-million-grant-funding-open-source-security",
-      "source": "Linux Foundation",
+      "title": "April 2026 AI Models: Every Major Release Reviewed - Medium",
+      "description": "Apr 17, 2026 ... Every major AI model released between April 1 and April 17, 2026 — with context window, SWE-Bench score, price, and open-source status at a ...",
+      "url": "https://medium.com/@sanjeevpatel3007/april-2026-ai-models-every-major-release-reviewed-6ea03d7bc0b7",
+      "source": "Medium",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "NVIDIA Donates GPU Dynamic Resource Allocation Driver to Kubernetes Community",
-      "description": "NVIDIA donated its Dynamic Resource Allocation (DRA) driver for GPUs to the Kubernetes community, enabling more efficient GPU resource sharing in containerized environments. The driver allows Kubernetes to dynamically allocate GPU resources at a finer granularity than full GPU assignment, improving utilization rates in AI training and inference clusters.",
-      "url": "https://developer.nvidia.com/blog/advancing-open-source-ai-nvidia-donates-dynamic-resource-allocation-driver-for-gpus-to-kubernetes-community/",
-      "source": "NVIDIA Blog",
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "description": "Mar 17, 2026 ... In 2025, China's AI ecosystem steered heavily into open source, following the viral release of DeepSeek's R1 model in January. The number of ...",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "HuggingFace",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "Mistral Releases Leanstral: Open-Source Foundation for Trustworthy Vibe Coding",
-      "description": "Mistral AI released Leanstral, an open-source model and toolchain designed specifically for 'vibe coding' — using natural language prompts to generate production code. Leanstral emphasizes verifiability and safety, producing auditable code with built-in test generation and security linting, addressing concerns about AI-generated code quality in production environments.",
-      "url": "https://mistral.ai/news/leanstral-open-source-vibe-coding/",
-      "source": "Mistral AI",
+      "title": "12+ AI Models in March 2026: The Week That Changed AI",
+      "description": "Mar 16, 2026 ... The release list, catalogued by AI Search (@aisearchio) on March 8, included: GPT-5.4, LTX 2.3, FireRed Edit 1.1, Kiwi Edit, HY WU, Qwen 3.5 ...",
+      "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
+      "source": "Buildfastwithai",
+      "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
+    },
+    {
+      "title": "The state of open source AI models in 2025 | Red Hat Developer",
+      "description": "Jan 7, 2026 ... Because OpenAI is the de facto brand name for AI, its release of an open model a surprise. ... After a bit of a rough launch (due to a ...",
+      "url": "https://developers.redhat.com/articles/2026/01/07/state-open-source-ai-models-2025",
+      "source": "Developers",
+      "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
+    },
+    {
+      "title": "History of LLMs: Complete Timeline & Evolution (1950-2026)",
+      "description": "Feb 19, 2026 ... The release of ChatGPT in November 2022 marked a watershed moment. Built on GPT-3.5 and refined with RLHF, ChatGPT made advanced AI accessible ...",
+      "url": "https://toloka.ai/blog/history-of-llms/",
+      "source": "Toloka",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     }
   ]

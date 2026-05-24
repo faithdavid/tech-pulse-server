@@ -9,13 +9,16 @@ Usage:
   python3 generate-pulse.py --type video --file data.json
   python3 generate-pulse.py --type tech --file data.json --data '{"key":...}'  # quick override
 """
-import json, sys, os, re, glob
+import json, sys, os, re, glob, shutil
 from datetime import datetime, timezone, timedelta
 import subprocess
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SURGE_DOMAIN = "tech-pulse-trillion.surge.sh"
-SURGE_PATH = "/home/linuxbrew/.linuxbrew/bin/surge"
+SURGE_PATH = os.environ.get("SURGE_PATH") or os.path.expanduser("~/.npm-global/bin/surge")
+_SURGE = shutil.which("surge")
+if _SURGE:
+    SURGE_PATH = _SURGE
 
 PULSE_CONFIGS = {
     "tech": {
