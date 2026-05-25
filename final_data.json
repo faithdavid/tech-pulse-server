@@ -20,6 +20,13 @@
       "url": "https://arstechnica.com/ai/2025/05/runway-rolls-out-gen-4-5-ai-video-model/",
       "source": "Ars Technica",
       "image_url": "https://images.unsplash.com/photo-1485846234645-9a916b5b8b8f?w=600&q=60"
+    },
+    {
+      "title": "Test Article",
+      "url": "https://example.com/test",
+      "description": "Test description",
+      "source": "Test Source",
+      "image_url": ""
     }
   ],
   "tools": [
