@@ -1,82 +1,27 @@
 {
   "ai": [
-    {
-      "title": "Google Gemma 4 Launch",
-      "description": "Google released Gemma 4, a new series of open models optimized specifically for advanced reasoning and agentic workflows.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "Light-Matter AI Breakthrough",
-      "description": "Researchers at Penn developed a hybrid light-matter particle that could dramatically accelerate AI computing while reducing energy consumption.",
-      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-      "source": "ScienceDaily",
-      "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&q=60"
-    }
+    {"title": "Gemini 3.1 Pro Released", "description": "Google unveils upgraded Gemini 3.1 Pro with major intelligence gains rolling out to products.", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/", "source": "Google Blog", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
+    {"title": "World Models 2026 Breakthrough", "description": "Google, NVIDIA & LeCun push physical world AI understanding with billions invested.", "url": "https://www.ai.cc/blogs/world-models-2026-google-nvidia-physical-ai-breakthroughs/", "source": "AI.cc", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
+    {"title": "Anthropic Mythos Model Prep", "description": "Anthropic prepares strongest model Mythos for public launch with enhanced guardrails.", "url": "https://news.aibase.com/news/28322", "source": "AI Base", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
   ],
   "funding": [
-    {
-      "title": "Record-Breaking Q1 2026 Funding",
-      "description": "Global venture investment hit an all-time record of $300B in Q1 2026, with AI accounting for 80% ($242B) of total funding.",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "source": "Crunchbase",
-      "image_url": "https://images.unsplash.com/photo-1591696206503-298a36e927c3?w=600&q=60"
-    },
-    {
-      "title": "Consolidation Trend Accelerates",
-      "description": "The AI sector is seeing rapid consolidation, with four major labs and four acquisitions reported in just five days, totaling $35.3 billion in weekly funding.",
-      "url": "https://www.startuphub.ai/ai-news/ai-news/2026/four-labs-four-acquisitions-ai-consolidation-may-2026",
-      "source": "StartupHub.ai",
-      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
-    }
+    {"title": "$189B Record Funding Month", "description": "February 2026 sees record $189B global startup funding driven by AI deals.", "url": "https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/", "source": "Crunchbase", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"},
+    {"title": "OpenAI $852B Valuation", "description": "OpenAI hits $852B valuation after $122B funding round closed March 2026.", "url": "https://medium.com/jonathans-musings/ai-startups-you-should-know-48d69d1ddf61", "source": "Medium", "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"},
+    {"title": "AI IPO Wave Incoming", "description": "SpaceX, OpenAI, Anthropic IPOs set to test AI boom limits.", "url": "https://www.facebook.com/financialtimes/posts/spacex-openai-and-anthropic-ipos-set-to-test-limits-of-ai-boom/1392241239615916/", "source": "Financial Times", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "AI Agent Frameworks 2026",
-      "description": "New frameworks for autonomous agents are dominating the developer landscape, focusing on scalable, real-time decision-making architectures.",
-      "url": "https://www.analyticsinsight.net/artificial-intelligence/top-ai-agent-tools-and-frameworks-for-developers-in-2026",
-      "source": "Analytics Insight",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa9fe0c981b8?w=600&q=60"
-    },
-    {
-      "title": "AI-Assisted Coding Adoption",
-      "description": "Over 51% of all code committed to GitHub in early 2026 was generated or substantially assisted by AI coding tools.",
-      "url": "https://tech-insider.org/ai-coding-tools-2026-transforming-software-development/",
-      "source": "Tech Insider",
-      "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=600&q=60"
-    }
+    {"title": "AI Dev Tools Surge 2026", "description": "Cursor, Claude Code, LangGraph lead new wave of agentic developer tools.", "url": "https://theaiforest.com/top-ai-developer-tools-developers-need-in-2026/", "source": "The AI Forest", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
+    {"title": "GitHub Copilot Evolution", "description": "Top AI coding assistants include Copilot, Tabnine, and Claude for 2026 devs.", "url": "https://github.com/orgs/community/discussions/187143", "source": "GitHub", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
+    {"title": "Autonomous Execution Systems", "description": "April 2026 trends shift to AI-native testing and real-time doc tools.", "url": "https://medium.com/@visrow/the-biggest-ai-trends-and-tools-emerging-in-april-2026-8a491e6d546f", "source": "Medium", "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "Pope Urges AI Regulation",
-      "description": "The Vatican has issued calls for stricter AI regulation, warning that certain autonomous weapon systems are now beyond human control.",
-      "url": "https://www.reuters.com/technology/",
-      "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1523966211575-eb4a01e7dd51?w=600&q=60"
-    },
-    {
-      "title": "Big Tech Lobbying Strategy",
-      "description": "Tech giants are intensifying their lobbying efforts to navigate and influence emerging state-level AI regulations.",
-      "url": "https://www.politico.com/news/2025/05/12/how-big-tech-is-pitting-washington-against-california-00336484",
-      "source": "POLITICO",
-      "image_url": "https://images.unsplash.com/photo-1577412647305-991150c7d163?w=600&q=60"
-    }
+    {"title": "Global AI Regulation 2026", "description": "EU AI Act, US orders, China rules reshape compliance for Big Tech and startups.", "url": "https://claude5.com/news/ai-regulation-2026-navigating-the-global-compliance-maze", "source": "Claude5", "image_url": "https://images.unsplash.com/photo-1451187589759-c205ecc2a8f7?w=600&q=60"},
+    {"title": "Big Tech Infrastructure Push", "description": "May 2026 sees hyperscalers battle for AI power, chips and supply chains.", "url": "https://techstartups.com/2026/05/05/top-tech-news-today-may-5-2026/", "source": "Tech Startups", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"},
+    {"title": "AI Agents Replace Apps", "description": "Explosive May 2026 updates: AI agents displacing traditional apps amid regulation.", "url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/", "source": "IM Founder", "image_url": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&q=60"}
   ],
   "oss": [
-    {
-      "title": "Hugging Face Transformers Update",
-      "description": "The Transformers library received major updates, including a new /v1/completions endpoint, enhanced multimodal support, and improved tool-calling capabilities.",
-      "url": "https://github.com/huggingface/transformers/releases",
-      "source": "GitHub/Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "Rise of Domestic Chip-Optimized Models",
-      "description": "Chinese open models are increasingly released with explicit support for domestically developed inference chips, boosting local hardware ecosystems.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face Blog",
-      "image_url": "https://images.unsplash.com/photo-1591405351990-4726e3d1f1d5?w=600&q=60"
-    }
+    {"title": "HF State of Open Source Spring 2026", "description": "Hugging Face reports doubling of users, models and datasets in open source AI.", "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"},
+    {"title": "Top Open Source LLMs 2026", "description": "Leading open-weight models for coding, local and agentic AI reviewed on HF.", "url": "https://huggingface.co/blog/daya-shankar/open-source-llms", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=600&q=60"},
+    {"title": "Open Source LLM Leaderboard", "description": "Benchmarks show strong 2026 contenders like Llama variants dominating HF releases.", "url": "https://fireworks.ai/blog/best-open-source-llms", "source": "Fireworks AI", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
   ]
 }
