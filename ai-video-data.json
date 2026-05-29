@@ -1,133 +1,31 @@
 {
   "filmschool": [
-    {
-      "title": "Best AI Filmmaking Tools in 2026",
-      "description": "A comprehensive comparison of 18 powerful platforms for scripting, editing, and visuals, highlighting how tools have evolved from prompt-and-pray to professional production.",
-      "url": "https://frameo.ai/blog/ai-filmmaking-tool-overview-features/",
-      "source": "Frameo AI",
-      "image_url": "https://images.unsplash.com/photo-1574943320219-5539213f9223?w=600&q=60"
-    },
-    {
-      "title": "Meet Flow: AI-powered filmmaking with Veo 3",
-      "description": "Google's new collaborative filmmaking tool designed to bridge the gap between creative vision and high-quality AI-generated video output.",
-      "url": "https://blog.google/innovation-and-ai/products/google-flow-veo-ai-filmmaking-tool/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
-    },
-    {
-      "title": "AI Expert Answers Filmmaking Questions",
-      "description": "A deep dive into the current state of AI video generation, focusing on practical applications for movie making in 2026.",
-      "url": "https://www.youtube.com/watch?v=7-OQUF61mhY",
-      "source": "YouTube",
-      "image_url": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=600&q=60"
-    }
+    {"title": "The 16 Best AI Video Generators in 2026", "description": "Comprehensive guide to top AI video tools for filmmakers.", "url": "https://www.synthesia.io/post/best-ai-video-generators", "source": "Synthesia", "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76bf?w=600&q=60"},
+    {"title": "How to make a film using AI tools in 2026", "description": "OpenAI and Disney partnered for Sora character use.", "url": "https://interestingengineering.com/ai-robotics/ai-tools-filmmaking-movies", "source": "Interesting Engineering", "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"},
+    {"title": "3 New AI Video Generators You Need to See", "description": "Crystal Upscaler and new tools for AI film.", "url": "https://curiousrefuge.com/blog/3-new-ai-video-generators-ai-film-news", "source": "Curious Refuge", "image_url": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "The Future of YouTube in 2026",
-      "description": "CEO insights on supercharging creativity with new AI transparency, protections, and tools for the creator economy.",
-      "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/",
-      "source": "YouTube Blog",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
-    },
-    {
-      "title": "AI Video Reshaping Small Business",
-      "description": "Analysis of how AI video production has become a necessity for small businesses in 2026, from product pages to social media ads.",
-      "url": "https://northpennnow.com/news/2026/apr/24/how-ai-video-is-reshaping-video-production-for-small-businesses-in-2026/",
-      "source": "North Penn Now",
-      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
-    },
-    {
-      "title": "UMG and Udio Deal",
-      "description": "A landmark deal for a new AI music service in 2026, allowing UMG artists to license works for remixing and AI-driven content.",
-      "url": "https://www.instagram.com/reel/DQcNa_NAWkV/",
-      "source": "Instagram",
-      "image_url": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=600&q=60"
-    }
+    {"title": "From the CEO: What's coming to YouTube in 2026", "description": "AI safeguards and TV reinvention.", "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/", "source": "YouTube Blog", "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"},
+    {"title": "The State of AI Video APIs in 2026", "description": "From text-to-video to cinematic directing.", "url": "https://www.atlascloud.ai/blog/case-studies/the-state-of-ai-video-apis-in-2026-from-text-to-video-to-cinematic-directing", "source": "Atlas Cloud", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"},
+    {"title": "AI and the Media Revolution: A Look Ahead to 2026", "description": "AI agents for video service operations.", "url": "https://evergent.com/articles/ai-and-the-media-revolution-a-look-ahead-to-2026/", "source": "Evergent", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "AI Video Stack 2026: Live Comparison",
-      "description": "Weekly updated rankings of top models like Veo 3.1, Kling 3.0, and Seedance 2.0 based on quality and pricing.",
-      "url": "https://rctv.com/posts/ai-video-stack-2026/",
-      "source": "RCTV",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "Runway vs Kling vs Pika: Best of 2026",
-      "description": "A breakdown of which AI video generator to choose based on specific production needs, from affordability to professional camera controls.",
-      "url": "https://www.techno-pulse.com/2026/05/best-ai-video-generators-in-2026-runway.html",
-      "source": "Techno Pulse",
-      "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&q=60"
-    },
-    {
-      "title": "26 Best AI Tools for Video Creation",
-      "description": "A curated list of tools helping creators produce lifelike videos at a fraction of the time and cost of traditional methods.",
-      "url": "https://officechai.com/learn/ai-tools-for-video-creation/",
-      "source": "Office Chai",
-      "image_url": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=600&q=60"
-    }
+    {"title": "The 17 best AI video generators in 2026", "description": "Zapier roundup of top tools.", "url": "https://zapier.com/blog/best-ai-video-generator/", "source": "Zapier", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
+    {"title": "Google Vids: AI-Powered Video Creator", "description": "New AI video tool from Google Workspace.", "url": "https://workspace.google.com/products/vids/", "source": "Google", "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=60"},
+    {"title": "Top 10 Best AI Video Generators of 2026", "description": "Tested and compared tools.", "url": "https://manus.im/blog/best-ai-video-generator", "source": "Manus", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"}
   ],
   "niches": [
-    {
-      "title": "Best Faceless AI YouTube Niches",
-      "description": "Strategies for launching and growing faceless YouTube channels in 2026 using AI-driven content generation.",
-      "url": "https://www.youtube.com/watch?v=3zCYO8e0Z9w",
-      "source": "YouTube",
-      "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=60"
-    },
-    {
-      "title": "Vertical AI Startup Opportunities",
-      "description": "How specialized AI startups are succeeding in 2026 by solving deep, industry-specific pain points better than general-purpose tools.",
-      "url": "https://wearepresta.com/vertical-ai-startup-ideas-2026-dominating-industry-specific-niches/",
-      "source": "Presta",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
-    },
-    {
-      "title": "Faceless Channel Monetization",
-      "description": "A guide on how to leverage stock footage and AI to build profitable, faceless channels in the current creator economy.",
-      "url": "https://davlinknight.medium.com/how-to-start-a-faceless-youtube-channel-in-2026-271f216bbc8f",
-      "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
-    }
+    {"title": "Best AI Tools for Instagram Reels 2026", "description": "Magic Hour for short-form content.", "url": "https://magichour.ai/blog/best-ai-tools-for-instagram-reels-2026", "source": "Magic Hour", "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"},
+    {"title": "Hailuo AI Video Generator", "description": "Text & image to video for niches.", "url": "https://hailuoai.video/", "source": "Hailuo AI", "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"},
+    {"title": "Best Free AI Video Generator 2026", "description": "Use case specific free tools.", "url": "https://wavespeed.ai/blog/posts/best-free-ai-video-generator-2026/", "source": "WaveSpeed", "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=60"}
   ],
   "offers": [
-    {
-      "title": "AI Video Generator Coupons May 2026",
-      "description": "Latest promo codes and discounts for professional AI video editing and generation software.",
-      "url": "https://hostingcouponspot.com/coupons/ai-video-software/page/2",
-      "source": "Hosting Coupon Spot",
-      "image_url": "https://images.unsplash.com/photo-1607082348824-0a96f5a4b9da?w=600&q=60"
-    },
-    {
-      "title": "Top AI Video Generators: User Reviews",
-      "description": "Real-time, up-to-date product reviews and pricing comparisons from verified users as of May 2026.",
-      "url": "https://www.g2.com/categories/ai-video-generators",
-      "source": "G2",
-      "image_url": "https://images.unsplash.com/photo-1556742049-0cf14f60a0d1?w=600&q=60"
-    }
+    {"title": "Top 10 Best AI Video Generators of 2026", "description": "Pro plans with promotional discounts.", "url": "https://manus.im/blog/best-ai-video-generator", "source": "Manus", "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"},
+    {"title": "10 Best AI Video Generators Free No Subscription", "description": "Free options in 2026.", "url": "https://www.atlascloud.ai/blog/guides/10-best-ai-video-generators-free-no-subscription-in-2026", "source": "Atlas Cloud", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
   ],
   "inspire": [
-    {
-      "title": "GOSIM Spotlight 2026",
-      "description": "An international open call for creative and experimental projects built with open-source artificial intelligence.",
-      "url": "https://www.kaggle.com/competitions/gosim-spotlight-2026-frontier-creators/overview",
-      "source": "Kaggle",
-      "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&q=60"
-    },
-    {
-      "title": "AI Film Festivals & Competitions",
-      "description": "Showcasing the latest AI-driven creativity across film, art, music, and gaming at festivals globally.",
-      "url": "https://melies.co/ai-film-festivals",
-      "source": "Melies",
-      "image_url": "https://images.unsplash.com/photo-1524721656987-94b37d8d21b3?w=600&q=60"
-    },
-    {
-      "title": "Creative Use of AI - The One Show",
-      "description": "Recognizing groundbreaking use and integration of AI in work for brands, agencies, and individuals in 2026.",
-      "url": "https://oneshow.org/categories/creative-use-of-ai/",
-      "source": "The One Show",
-      "image_url": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=600&q=60"
-    }
+    {"title": "AI Video Trends 2026", "description": "Creative production trends.", "url": "https://artlist.io/blog/artlist-creative-trend-report-2026/", "source": "Artlist", "image_url": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=600&q=60"},
+    {"title": "Best AI Art Showcases 2026", "description": "Top AI videos for art and design.", "url": "https://www.mootion.com/use-cases/en/collection/top-ai-videos-for-art-and-design-showcases", "source": "Mootion", "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"},
+    {"title": "10 Best AI-Generated Video Examples", "description": "Inspiring creative uses.", "url": "https://magichour.ai/blog/ai-video-examples", "source": "Magic Hour", "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76bf?w=600&q=60"}
   ]
 }
