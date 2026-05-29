@@ -1,27 +1,82 @@
 {
   "ai": [
-    {"title": "Claude Mythos Triggers New Federal AI Legislation", "description": "Anthropic’s Claude Mythos model capabilities spark historical milestone in AI safety legislation on May 4, 2026.", "url": "https://www.devflokers.com/blog/ai-news-may-2026-models-papers-open-source", "source": "devFlokers", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
-    {"title": "Emergent Misalignment Research Published", "description": "arXiv paper explores how narrow fine-tuning induces broadly misaligned behaviors in models.", "url": "https://www.devflokers.com/blog/ai-tech-breakthroughs-may-2026-developments", "source": "devFlokers", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
-    {"title": "Turbo Quant: KV Cache Optimization Breakthrough", "description": "Google unveils algorithm drastically reducing memory overhead for long-context models.", "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup", "source": "devFlokers", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"}
+    {
+      "title": "Google 2025 Research Breakthroughs: Gemini 3 & Gemma 3",
+      "description": "Significant advancements in reasoning, multimodality, and efficiency with new models leading to product features.",
+      "url": "https://blog.google/innovation-and-ai/products/2025-research-breakthroughs/",
+      "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "Xiaomi’s AI Breakthroughs at ICASSP 2026",
+      "description": "Multiple papers accepted showcasing audio, vision, and multimodal AI applications.",
+      "url": "https://www.besthub.dev/articles/xiaomi-s-ai-breakthroughs-earn-spot-at-icassp-2026-6845f251e76f",
+      "source": "BestHub",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    }
   ],
   "funding": [
-    {"title": "Cognition Raises $1B at $26B Valuation", "description": "AI coding startup’s revenue run rate hits $492M; aims for $1B ARR this year.", "url": "https://www.bloomberg.com/news/articles/2026-05-27/ai-coding-startup-cognition-raises-1-billion-at-26-billion-value", "source": "Bloomberg", "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"},
-    {"title": "Anthropic Nears $1T Valuation", "description": "Anthropic closes funding round led by Altimeter, Dragoneer, Greenoaks, Sequoia — overtaking OpenAI.", "url": "https://www.euronews.com/business/2026/05/29/worlds-most-valuable-ai-start-up-anthropic-nears-1tn-valuation-overtaking-openai", "source": "Euronews", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"},
-    {"title": "Polsia Raises $30M with Zero Employees", "description": "AI startup Polsia hits $250M valuation in latest round.", "url": "https://en.ain.ua/2026/05/25/ai-startup-polsia-with-no-employees-raised-30m-in-funding/", "source": "AIN", "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"}
+    {
+      "title": "Q1 2026 Shatters Venture Funding Records: $300B AI Boom",
+      "description": "Z.ai and MiniMax IPOs in Hong Kong, each over $6B valuation; strong M&A activity.",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "source": "Crunchbase",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "April 2026: Third-Highest Startup Funding Month at $56B",
+      "description": "Global venture funding up 100% YoY, driven by billion-dollar AI rounds.",
+      "url": "https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/",
+      "source": "Crunchbase",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "Superpowers: Agentic Skills Framework Launched", "description": "New GitHub project provides complete methodology and composable skills for coding agents.", "url": "https://github.com/obra/superpowers", "source": "GitHub", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
-    {"title": "Snowflake Summit 2026 Keynotes Announced", "description": "Anthropic Co-Founder Daniela Amodei to keynote; 500+ sessions on AI-powered experiences.", "url": "https://www.linkedin.com/pulse/all-data-ai-weekly-241-11-may-2026-tim-spann-mrkoe", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"},
-    {"title": "JetBrains 2026.1.2 IDE Updates", "description": "Major updates to IntelliJ IDEA and Kotlin tools for professional developers.", "url": "https://www.jetbrains.com/products/", "source": "JetBrains", "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"}
+    {
+      "title": "Top AI Coding Tools for 2026: Cursor, Windsurf & More",
+      "description": "Vibe coding tools like Emergent, Replit, Bolt, Cursor dominate AI-powered prototyping.",
+      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
+      "source": "Medium",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+    },
+    {
+      "title": "Best Developer Tools for 2026 Tech Stack",
+      "description": "GitHub Copilot, Vercel, Supabase, Playwright, and Linear lead the pack.",
+      "url": "https://www.buildmvpfast.com/blog/best-developer-tools-2026-tech-stack",
+      "source": "BuildMVPFast",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "Anthropic Becomes World's Most Valuable AI Startup", "description": "Pushing toward $1T valuation and potential Wall Street debut amid AI race.", "url": "https://www.euronews.com/business/2026/05/29/worlds-most-valuable-ai-start-up-anthropic-nears-1tn-valuation-overtaking-openai", "source": "Euronews", "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=60"},
-    {"title": "OpenAI Faces Defining 2026 Execution Year", "description": "Market maturing as focus shifts from breakthroughs to execution and adoption.", "url": "https://www.linkedin.com/pulse/openai-approaching-its-most-defining-year-yet-what-2026-mano-jay-iy7nc", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"},
-    {"title": "AI Regulation Race Intensifies", "description": "Speed of innovation outpacing governments; new federal legislation emerging.", "url": "https://www.ibtimes.co.uk/silicon-valleys-ai-race-power-beyond-innovation-1798902", "source": "IBTimes", "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"}
+    {
+      "title": "The AI Race: Latest Big Tech & Regulation Updates",
+      "description": "Ongoing coverage of AI developments, ethics, and industry shifts from major players.",
+      "url": "https://www.bloomberg.com/latest/the-ai-race",
+      "source": "Bloomberg",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+    },
+    {
+      "title": "AI News: Enterprise & Emerging Tech Worldwide",
+      "description": "Latest updates in machine learning, deep learning, and enterprise AI applications.",
+      "url": "https://www.artificialintelligence-news.com/",
+      "source": "AI News",
+      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
+    }
   ],
   "oss": [
-    {"title": "State of Open Source AI on Hugging Face Spring 2026", "description": "Report examines shifts in competition, geography, and technical trends across open source AI.", "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
-    {"title": "Llama 4 Open-Weight Release", "description": "Meta launches Llama 4 with scalability, efficiency, and multimodal capabilities.", "url": "https://www.instaclustr.com/education/open-source-ai/top-7-open-source-llms-for-2026/", "source": "Instaclustr", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"},
-    {"title": "New Open-Source AI Projects Roundup May 2026", "description": "Fresh Hugging Face and GitHub releases including Turbo Quant optimizations.", "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup", "source": "devFlokers", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"}
+    {
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "description": "South Korean models trending; Reflection AI data center partnership announced.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "New Open Source AI Projects on Hugging Face & GitHub April 2026",
+      "description": "EXAONE 4.5 vision-language model and other frontier open-weight releases.",
+      "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026",
+      "source": "Fazm Blog",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    }
   ]
 }
