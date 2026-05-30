@@ -1,140 +1,32 @@
 {
   "filmschool": [
-    {
-      "title": "Introducing Flow: Google’s AI filmmaking tool",
-      "description": "New end-to-end AI filmmaking tool built for Veo models with native audio and scene building.",
-      "url": "https://blog.google/innovation-and-ai/products/google-flow-veo-ai-filmmaking-tool/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
-    },
-    {
-      "title": "AI Films in 2026: A Beginner’s Guide to AI Filmmaking",
-      "description": "How AI video generation, scriptwriting, and editing are transforming film school and indie production.",
-      "url": "https://two99.org/blog/ai-films-in-2026-a-beginners-guide-to-ai-filmmaking/",
-      "source": "Two99",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
-    },
-    {
-      "title": "Google Flow and Veo 3: Future of Natural-Language-Driven Production",
-      "description": "Deep dive into Flow as the first custom AI filmmaking app integrating Veo 3 for video + audio.",
-      "url": "https://www.linkedin.com/pulse/google-flow-veo-3-video-future-production-david-cronshaw-xcpcf",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a3a5b69?w=600&q=60"
-    }
+    {"title": "Introducing Flow: Google’s AI filmmaking tool", "description": "Google launches Flow, custom AI filmmaking tool for Veo models enabling end-to-end video creation.", "url": "https://blog.google/innovation-and-ai/products/google-flow-veo-ai-filmmaking-tool/", "source": "Google Blog", "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"},
+    {"title": "AI Films in 2026: Beginner’s Guide", "description": "Comprehensive guide to best AI tools for scriptwriting, editing, VFX and voice in filmmaking.", "url": "https://two99.org/blog/ai-films-in-2026-a-beginners-guide-to-ai-filmmaking/", "source": "Two99", "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"},
+    {"title": "Google Flow and Veo 3 Video", "description": "Deep dive into natural-language-driven AI production with Veo 3 integration.", "url": "https://www.linkedin.com/pulse/google-flow-veo-3-video-future-production-david-cronshaw-xcpcf", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "YouTube to Automatically Label AI-Generated Videos",
-      "description": "Platform rolling out automatic detection and prominent labels for photorealistic AI content.",
-      "url": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
-    },
-    {
-      "title": "New Gen AI Studio Promise Launches",
-      "description": "Peter Chernin-backed studio focused on Gen AI entertainment with Hollywood talent partnerships.",
-      "url": "https://www.hollywoodreporter.com/business/business-news/gen-ai-studio-promise-peter-chernin-a16z-1236065776/",
-      "source": "Hollywood Reporter",
-      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
-    },
-    {
-      "title": "Sora: OpenAI closes AI video app and cancels $1bn Disney deal",
-      "description": "OpenAI shuts down Sora app less than two years after launch amid shifting strategy.",
-      "url": "https://www.bbc.com/news/articles/c3w3e467ewqo",
-      "source": "BBC",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    }
+    {"title": "AI Video Production Trends 2026", "description": "Market expected to surge with 33% CAGR as AI editing and automated production dominate.", "url": "https://www.teamunitymedia.com/blogs/artificial-intelligence-video-production-trends-2026", "source": "Team Unity Media", "image_url": "https://images.unsplash.com/photo-1497032628192-86f99c8e1c1b?w=600&q=60"},
+    {"title": "AI Video Trends Predictions 2026", "description": "Analytics market to reach $133B by 2030 driven by AI video adoption.", "url": "https://ltx.studio/blog/ai-video-trends", "source": "LTX Studio", "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"},
+    {"title": "Changes in AI Video Generation 2026", "description": "Five biggest shifts in tools and capabilities for 2026 highlighted.", "url": "https://www.argil.ai/blog/whats-new-in-ai-video-generation-key-trends-and-tools-to-watch-in-2026", "source": "Argil AI", "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "The 17 best AI video generators in 2026",
-      "description": "Zapier’s comprehensive test of top AI video tools including Kling, Veo, and Runway alternatives.",
-      "url": "https://zapier.com/blog/best-ai-video-generator/",
-      "source": "Zapier",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
-    },
-    {
-      "title": "Google’s Veo 3 AI model can generate videos with sound",
-      "description": "Latest Veo 3 adds native audio generation; available to Google AI Pro/Ultra subscribers.",
-      "url": "https://www.engadget.com/ai/googles-veo-3-ai-model-can-generate-videos-with-sound-174541183.html",
-      "source": "Engadget",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
-    },
-    {
-      "title": "Best AI Video Generators In 2026 - Top 3 Tools Tested",
-      "description": "AlloyPress hands-on comparison of quality, speed, and pricing for leading 2026 generators.",
-      "url": "https://alloypress.com/blogs/best-ai-video-generators",
-      "source": "AlloyPress",
-      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f6b7?w=600&q=60"
-    }
+    {"title": "Free AI Animation Tools 2026", "description": "Top free animation tools delivering stunning results without cost barriers.", "url": "https://www.youtube.com/watch?v=29Toeq0oyM8", "source": "YouTube", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
+    {"title": "All-in-One AI Video Tools", "description": "LumeFlow and alternatives for text-to-video and image-to-video instantly.", "url": "https://www.lumeflow.ai/video-tools/", "source": "LumeFlow", "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"},
+    {"title": "Free Photo to Video Tools", "description": "Transform static photos into dynamic videos with AI animations and music.", "url": "https://videomaker.me/features/photo-to-video", "source": "VideoMaker", "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"}
   ],
   "niches": [
-    {
-      "title": "7 Best AI Video Generators for TikTok & Reels (2026)",
-      "description": "Specialized tools optimized for short-form vertical content with fast turnaround.",
-      "url": "https://reelbase.io/blog/best-ai-video-generators-for-tiktok-reels",
-      "source": "ReelBase",
-      "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
-    },
-    {
-      "title": "The State of AI Video Creation 2026",
-      "description": "Avatar-based video niche growing to 7.1% share for e-learning and marketing use cases.",
-      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
-      "source": "Vivideo",
-      "image_url": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=60"
-    },
-    {
-      "title": "Best AI Video Generators for YouTube Creators in 2026",
-      "description": "Tools with auto-captions, virality scoring, and multi-language support for long-form.",
-      "url": "https://domoai.app/blog/best-ai-video-tools-for-youtube-content-creators",
-      "source": "DomoAI",
-      "image_url": "https://images.unsplash.com/photo-1492725764893-90b379c2b6e7?w=600&q=60"
-    }
+    {"title": "AI Video Statistics 2026", "description": "Comprehensive stats on market size, adoption, and ROI for AI video.", "url": "https://www.ngram.com/blog/ai-video-statistics-2026", "source": "ngram", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"},
+    {"title": "Vertical AI In Entertainment", "description": "Specialized niche models for localization, post-production and scheduling.", "url": "https://vitrina.ai/blog/vertical-ai-entertainment-niche-models-general-ai-2026/", "source": "Vitrina", "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"},
+    {"title": "Disney AI Video Tool & Vertical Strategy", "description": "Disney unveils AI generation for advertisers and TikTok-style verticals.", "url": "https://almcorp.com/blog/disney-ai-video-generation-vertical-video-2026-guide/", "source": "ALM Corp", "image_url": "https://images.unsplash.com/photo-1517604931443-0f5f5e3a3c0c?w=600&q=60"}
   ],
   "offers": [
-    {
-      "title": "Vidnoz AI: Create FREE AI Videos 10X Faster",
-      "description": "Free daily generations, no login image-to-video, and avatar features.",
-      "url": "https://www.vidnoz.com/",
-      "source": "Vidnoz",
-      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
-    },
-    {
-      "title": "Vmake AI | Ultimate UGC Video Generator",
-      "description": "Free access and credits for product UGC video creation and optimization.",
-      "url": "https://vmake.ai/",
-      "source": "Vmake",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "Image to Video AI Free: No Login",
-      "description": "Vidnoz offers one free video generation per day with high-quality results.",
-      "url": "https://www.vidnoz.com/image-to-video-ai.html",
-      "source": "Vidnoz",
-      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
-    }
+    {"title": "AIVideo.com 20% Off Coupon", "description": "Exclusive 20% off all plans for AIVideo.com May 2026.", "url": "https://www.colormango.com/product/aivideocom_156119.html", "source": "ColorMango", "image_url": "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?w=600&q=60"},
+    {"title": "20% OFF Vidnoz AI", "description": "Valid Vidnoz AI coupon code for 20% discount in 2026.", "url": "https://wpdiscounts.io/ai-tools/vidnoz-ai-coupon/", "source": "WPdiscounts", "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"},
+    {"title": "30% Off VideoGen Plans", "description": "Flat 30% off yearly subscriptions on Pro, Scale and Business plans.", "url": "https://hostingcouponspot.com/coupons/ai-video-software/page/2", "source": "HostingCouponSpot", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
   ],
   "inspire": [
-    {
-      "title": "10 Best AI Video Examples for Inspiration in 2026",
-      "description": "Superside showcases exceptional AI-powered video projects and brand campaigns.",
-      "url": "https://www.superside.com/blog/ai-video-examples",
-      "source": "Superside",
-      "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"
-    },
-    {
-      "title": "11 Motion Design Trends for 2026: AI Workflows",
-      "description": "Envato highlights authenticity, craft, and AI integration in creative video projects.",
-      "url": "https://elements.envato.com/learn/motion-design-trends",
-      "source": "Envato",
-      "image_url": "https://images.unsplash.com/photo-1547153760-18fc86324498?w=600&q=60"
-    },
-    {
-      "title": "AI Video Trends: Predictions For 2026",
-      "description": "LTX Studio explores how AI transforms video marketing, workflows, and storytelling.",
-      "url": "https://ltx.studio/blog/ai-video-trends",
-      "source": "LTX Studio",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
-    }
+    {"title": "AIF 2026 | AI Festival", "description": "RunwayML celebrates art and artists using emerging AI tools for creative work.", "url": "https://aif.runwayml.com/", "source": "RunwayML", "image_url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&q=60"},
+    {"title": "Creative Use of AI at One Show 2026", "description": "Groundbreaking AI integration recognized in brand and agency work.", "url": "https://oneshow.org/categories/creative-use-of-ai/", "source": "The One Show", "image_url": "https://images.unsplash.com/photo-1505238680356-667803448854?w=600&q=60"},
+    {"title": "Video Showcase Projects on Behance", "description": "Discover creative video showcase work from global designers.", "url": "https://www.behance.net/search/projects/video+showcase", "source": "Behance", "image_url": "https://images.unsplash.com/photo-1497032628192-86f99c8e1c1b?w=600&q=60"}
   ]
 }
