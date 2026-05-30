@@ -1,140 +1,30 @@
 {
   "filmschool": [
-    {
-      "title": "AI film school trains next generation of Hollywood moviemakers",
-      "description": "Curious Refuge's AI film academy has become a training ground for Hollywood workers racing to adapt as generative AI transforms the industry.",
-      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
-      "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "The AI Arms Race Hits Film School",
-      "description": "Top film schools are rapidly embracing generative AI, from deepfake scene partners to AI-powered filmmaking labs.",
-      "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
-      "source": "No Film School",
-      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=60"
-    },
-    {
-      "title": "Rethinking Filmmaking Education Through Generative AI",
-      "description": "As generative AI integrates into film and documentary media, critical evaluation skills become essential.",
-      "url": "https://blog.siggraph.org/2026/04/ai-and-filmmaking.html/",
-      "source": "SIGGRAPH",
-      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
-    }
+    {"title": "Makefilm - Ultimate AI Video Platform", "description": "New all-in-one AI video platform rivaling Luma and Pika, with voiceover features.", "url": "https://makefilm.ai/", "source": "Makefilm", "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"},
+    {"title": "EaseMate AI Video Generator", "description": "Free text-to-video tool for quick clips, no skills required.", "url": "https://www.easemate.ai/ai-video-generator", "source": "EaseMate", "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"},
+    {"title": "MindVideo Sora 2 Generator", "description": "Advanced Sora 2 based generator for marketing and filmmaking.", "url": "https://www.mindvideo.ai/sora-2/", "source": "MindVideo", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "YouTube to Automatically Label AI-Generated Videos",
-      "description": "YouTube will start automatically applying labels for significant photorealistic AI use in videos.",
-      "url": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
-    },
-    {
-      "title": "New Gen AI Studio Promise Launches",
-      "description": "Peter Chernin’s North Road and a16z back new Gen AI-focused entertainment studio Promise.",
-      "url": "https://www.hollywoodreporter.com/business/business-news/gen-ai-studio-promise-peter-chernin-a16z-1236065776/",
-      "source": "Hollywood Reporter",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2a0f7c?w=600&q=60"
-    },
-    {
-      "title": "Google Marketing Live 2026 AI Announcements",
-      "description": "Google unveils new AI ad formats and tools at Marketing Live 2026.",
-      "url": "https://ppc.land/google-marketing-live-2026-every-announcement-that-actually-matters/",
-      "source": "PPC Land",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    }
+    {"title": "YouTube Auto AI Video Labels", "description": "YouTube to automatically detect and label photorealistic AI videos.", "url": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/", "source": "Variety", "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"},
+    {"title": "Promise Gen AI Studio Launch", "description": "New studio backed by Peter Chernin and a16z for Gen AI films.", "url": "https://www.hollywoodreporter.com/business/business-news/gen-ai-studio-promise-peter-chernin-a16z-1236065776/", "source": "Hollywood Reporter", "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"},
+    {"title": "Prime Video GenAI Animation Orders", "description": "Amazon orders 3 animated projects via GenAI Creators Fund.", "url": "https://deadline.com/2026/05/prime-video-animation-amazon-mgm-studios-aws-genai-creators-fund-1236927561/", "source": "Deadline", "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "AI Video Tools in 2026: Complete Creator’s Guide",
-      "description": "Text-to-video quality jumps with models like Google Veo and Runway Gen-4.5 now production-ready.",
-      "url": "https://pixflow.net/blog/ai-video-tools-in-2026/",
-      "source": "Pixflow",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
-    },
-    {
-      "title": "AI Video Stack 2026: Live Comparison & Rankings",
-      "description": "Updated weekly comparison of Veo 3.1, Kling 3.0, Runway, Luma and more.",
-      "url": "https://rctv.com/posts/ai-video-stack-2026/",
-      "source": "RCTV",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    },
-    {
-      "title": "8 Best AI Video Editing Tools in 2026",
-      "description": "Rigorous testing of leading platforms for 4K editing, neural engines, and automation.",
-      "url": "https://www.aiarty.com/edit-video/ai-video-editing-tools.htm",
-      "source": "AIarty",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
-    }
+    {"title": "AI Video Tools 2026 Guide", "description": "Comprehensive overview of Veo, Runway Gen-4.5 and production shifts.", "url": "https://pixflow.net/blog/ai-video-tools-in-2026/", "source": "Pixflow", "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"},
+    {"title": "AI Video Stack 2026 Rankings", "description": "Live comparison of Veo 3.1, Kling 3.0, Runway, Luma and more.", "url": "https://rctv.com/posts/ai-video-stack-2026/", "source": "RCTV", "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f812?w=600&q=60"},
+    {"title": "Best AI Video Editing Tools 2026", "description": "Ranked editors tested with 4K footage and creative scripts.", "url": "https://www.aiarty.com/edit-video/ai-video-editing-tools.htm", "source": "AIarty", "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"}
   ],
   "niches": [
-    {
-      "title": "Faceless YouTube Shorts with AI: 10 Niches That Still Work",
-      "description": "10 faceless niches powered by Text2Shorts, Veo3, and AI thumbnails for 2026 success.",
-      "url": "https://miraflow.ai/blog/faceless-youtube-shorts-ai-niches-2026",
-      "source": "Miraflow",
-      "image_url": "https://images.unsplash.com/photo-1611162616305-c0b1d3e0a1f0?w=600&q=60"
-    },
-    {
-      "title": "Best Faceless YouTube Niches & Channel Ideas in 2026",
-      "description": "100 proven faceless channel ideas with CPM data and AI tool recommendations.",
-      "url": "https://outlierkit.com/resources/faceless-youtube-channels/",
-      "source": "OutlierKit",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "Emerging YouTube Niches 2026",
-      "description": "10 emerging categories with low competition and rising monetization potential.",
-      "url": "https://fluxnote.io/guides/emerging-youtube-niches-2026",
-      "source": "Fluxnote",
-      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=60"
-    }
+    {"title": "Vertical AI in Entertainment", "description": "Specialized models for localization, post-production, metadata.", "url": "https://vitrina.ai/blog/vertical-ai-entertainment-niche-models-general-ai-2026/", "source": "Vitrina", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"},
+    {"title": "Vertical AI Startup Ideas 2026", "description": "Industry-specific AI opportunities beyond generic tools.", "url": "https://wearepresta.com/vertical-ai-startup-ideas-2026-dominating-industry-specific-niches/", "source": "Presta", "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"}
   ],
   "offers": [
-    {
-      "title": "InVideo AI Discounts 2026",
-      "description": "Up to 40% off with promo codes like GURU40 and 50 free AI minutes for first month.",
-      "url": "https://costbench.com/software/ai-video-generators/invideo-ai/discounts/",
-      "source": "Costbench",
-      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"
-    },
-    {
-      "title": "9 Best AI Video Generator Lifetime Deals",
-      "description": "AppSumo deals offering lifetime access to top AI video tools for one-time payments.",
-      "url": "https://rytbee.com/ai-video-generator-lifetime-deals/",
-      "source": "Rytbee",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
-    },
-    {
-      "title": "InVideo Coupon - 50 Free AI Minutes",
-      "description": "May 2026 deal: 50 free AI minutes plus up to 20% off annual plans.",
-      "url": "https://www.usatoday.com/deals/invideo",
-      "source": "USA Today",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    }
+    {"title": "Gemini Student Discount 2026", "description": "1-month free Google AI Pro trial for advanced features.", "url": "https://opentherank.com/ai-pricing/gemini/student-discount/", "source": "OpenTheRank", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
+    {"title": "Vidnoz Image to Video Free", "description": "One free video generation per day, no login required.", "url": "https://www.vidnoz.com/image-to-video-ai.html", "source": "Vidnoz", "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"}
   ],
   "inspire": [
-    {
-      "title": "Best AI Art Showcases in 2026",
-      "description": "Top-tier cinematic AI videos and professional storytelling from Mootion 4.0.",
-      "url": "https://www.mootion.com/use-cases/en/collection/top-ai-videos-for-art-and-design-showcases",
-      "source": "Mootion",
-      "image_url": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=600&q=60"
-    },
-    {
-      "title": "15 Viral AI Videos of 2026",
-      "description": "Mind-blowing examples with step-by-step breakdowns of how they were made.",
-      "url": "https://www.is4.ai/blog/our-blog-1/viral-ai-videos-2026-how-they-were-made-413",
-      "source": "is4.ai",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
-    },
-    {
-      "title": "10 Creative AI Video Ideas for Businesses",
-      "description": "Innovative uses for product launches, personalized ads, and engagement in 2026.",
-      "url": "https://spintadigital.com/blog/ai-video-ideas-for-businesses-2026/",
-      "source": "Spinta Digital",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    }
+    {"title": "AI Video Trends 2026", "description": "Top creative trends shaping AI-driven video production.", "url": "https://artlist.io/blog/artlist-creative-trend-report-2026/", "source": "Artlist", "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"},
+    {"title": "Best AI Art Showcases 2026", "description": "Top cinematic AI videos and professional storytelling.", "url": "https://www.mootion.com/use-cases/en/collection/top-ai-videos-for-art-and-design-showcases", "source": "Mootion", "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"},
+    {"title": "Creative AI Video Ideas for Business", "description": "10 ideas for product launches and personalized ads.", "url": "https://spintadigital.com/blog/ai-video-ideas-for-businesses-2026/", "source": "Spinta", "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"}
   ]
 }
