@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "OpenAI's GPT-5.5 Instant Release",
-      "description": "New model with voice capabilities and instant responses, major leap in multimodal AI.",
-      "url": "https://fazm.ai/t/openai-new-model-release-may-2026",
-      "source": "FAZM",
+      "title": "Gemini 3.1 Pro: Google's Latest AI Model",
+      "description": "Gemini 3.1 Pro introduces smarter capabilities for complex tasks, rolling out to developers and enterprises.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "source": "Google Blog",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "MiniMax M2.5 Rivals Claude",
-      "description": "Chinese model matches Claude Opus 4.6 performance at 1/10th cost.",
+      "title": "MiniMax M2.5 Rivals Claude Opus at Fraction of Cost",
+      "description": "China's MiniMax M2.5 matches top performance at 1/10th the cost.",
       "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
       "source": "Devflokers",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "AI Research Shifts in 2026",
-      "description": "Major breakthroughs reshaping practical AI applications and benchmarks.",
-      "url": "https://unitymedianews.com/latest-ai-breakthroughs-in-2026/",
-      "source": "Unity Media",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "AI Mass-Producing Indistinguishable Finance Papers",
+      "description": "Anthropic's Claude used to generate academic papers from data mining.",
+      "url": "https://phys.org/news/2026-05-ai-mass-papers-indistinguishable-human.html",
+      "source": "Phys.org",
+      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Cognition AI $1B Round at $26B Val",
-      "description": "Devin AI agent drives revenue from $37M to $492M run rate.",
-      "url": "https://www.linkedin.com/news/story/cognition-ai-hits-26b-valuation-with-1b-funding-round-7302444/",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
+      "title": "Embodied AI Fuels Record Robotics Funding in China",
+      "description": "Asia startup funding hits $27.4B in Q1, China takes 60%.",
+      "url": "https://news.crunchbase.com/robotics/embodied-ai-fuels-record-funding-china-ipo-momentum-builds/",
+      "source": "Crunchbase",
+      "image_url": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&q=60"
     },
     {
-      "title": "Composio Raises $24M Series A",
-      "description": "Agentic AI startup funded by Lightspeed, Elevation, Together.",
-      "url": "https://www.moneycontrol.com/news/business/startup/agentic-ai-startup-composio-raises-24-million-in-series-a-round-from-lightspeed-elevation-and-together-12982215.html",
-      "source": "Moneycontrol",
+      "title": "OpenAI Secures $122B in New Funding",
+      "description": "April 2026 sees massive AI startup investment surge.",
+      "url": "https://autothinkai.net/blog/ai-startups-funding-investment-2026-records-ipo",
+      "source": "AutoThinkAI",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "Polsia $30M Funding at $250M Val",
-      "description": "Zero-employee AI startup raises massive round.",
-      "url": "https://en.ain.ua/2026/05/25/ai-startup-polsia-with-no-employees-raised-30m-in-funding/",
-      "source": "AIN",
+      "title": "AI Startup Funding Tracker Updates",
+      "description": "Daily venture capital deals and rounds in AI.",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "source": "AIFundingTracker",
       "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "New JetBrains AI Tools",
-      "description": "Enhanced frameworks for async apps and AI dev productivity.",
-      "url": "https://www.jetbrains.com/products/",
-      "source": "JetBrains",
-      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
+      "title": "Cursor IDE: AI-Powered VSCode Fork",
+      "description": "Next-gen coding with AI that feels like telepathy.",
+      "url": "https://www.pragmaticcoders.com/resources/ai-developer-tools",
+      "source": "Pragmatic Coders",
+      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
     },
     {
-      "title": "Agentic AI Workflow Tools",
-      "description": "Autonomous workflows for planning and system iteration.",
-      "url": "https://techtooljudge.com/category/developer-tools-frameworks/",
-      "source": "TechTool Judge",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "Ponicode Automates Unit Testing",
+      "description": "AI generates test cases for multiple frameworks.",
+      "url": "https://logixbuilt.com/blogs/top-10-ai-tools-for-developers-to-boost-productivity",
+      "source": "Logixbuilt",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Open-Source AI Frameworks Update",
-      "description": "TensorFlow, Torch and new additions for enterprise use.",
-      "url": "https://dzone.com/articles/10-opensource-toolsframeworks-for-artificial-intel",
-      "source": "DZone",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "New AI Coding Tools: Windsurf, Cline Emerge",
+      "description": "VS Code AI features and competitors heat up 2026 landscape.",
+      "url": "https://www.aubergine.co/insights/top-ai-coding-design-tools-in-2026",
+      "source": "Aubergine",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "New US Tech Laws 2026",
-      "description": "AI regulations on companion chatbots and privacy effective Jan 1.",
-      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
-      "source": "The Verge",
-      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
-    },
-    {
-      "title": "Colorado AI Act June 2026",
-      "description": "High-risk AI systems in credit/housing face new obligations.",
-      "url": "https://www.techlyfeed.com/2025/12/big-tech-regulations-coming-in-2026-how.html?m=1",
-      "source": "Techlyfeed",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
-    },
-    {
-      "title": "2026 AI Regulatory Outlook",
-      "description": "State laws impose risk assessments and governance on AI.",
-      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
-      "source": "Gunderson Dettmer",
+      "title": "US Shifts to Aggressive AI Regulation",
+      "description": "From hands-off to FDA-style pre-release vetting in 2026.",
+      "url": "https://medium.com/@macplanet2012/it-took-one-ai-model-one-week-to-reverse-the-most-hands-off-tech-policy-in-the-world-5cbf92fdd503",
+      "source": "Medium",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    },
+    {
+      "title": "Africa AI Regulation Map 2026",
+      "description": "Nigeria leads with new binding legislation push.",
+      "url": "https://techmoonshot.com/2026/05/26/africa-ai-regulation-2026-a-country-by-country-map-of-whos-ahead-and-whos-stalling/",
+      "source": "Techmoonshot",
+      "image_url": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=600&q=60"
+    },
+    {
+      "title": "Big Tech Antitrust Updates",
+      "description": "Ongoing lawsuits and cloud competition in AI era.",
+      "url": "https://www.tycoonstory.com/antitrust-tech-news-today/",
+      "source": "Tycoonstory",
+      "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Spring 2026 Report",
-      "description": "State of open-source AI: model uploads and community trends.",
-      "url": "https://deepbrief.co/ai-industry/hugging-face-spring-2026-report",
-      "source": "Deepbrief",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "DeepSeek R1 Reasoning Model on Hugging Face",
+      "description": "685B parameter model released open-weight.",
+      "url": "https://techcrunch.com/2025/05/28/deepseek-updates-its-r1-reasoning-ai-model-releases-it-on-hugging-face/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1555949963-1f0e2f2f0e0e?w=600&q=60"
     },
     {
-      "title": "OpenClaw & Subquadratic Models",
-      "description": "Viral open-source releases in May 2026 roundup.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup",
-      "source": "Devflokers",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "GLM-5 Tops Open-Source SWE-Bench",
+      "description": "Z.ai's GLM-5 leads coding benchmarks at 77.8%.",
+      "url": "https://www.buildfastwithai.com/blogs/best-ai-models-april-2026",
+      "source": "BuildFastWithAI",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "HF Model Release Tracker",
-      "description": "Latest from OpenAI, Meta, DeepSeek on Hugging Face.",
-      "url": "https://lmmarketcap.com/tools/model-release-tracker",
-      "source": "LM Market Cap",
-      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
+      "title": "LangChain + Hugging Face Integration",
+      "description": "New partner package for generative AI workflows.",
+      "url": "https://www.youtube.com/watch?v=bFB4zqkcatU",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ]
 }
