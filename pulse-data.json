@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Gemini 3.1 Pro Released",
-      "description": "Google releases upgraded Gemini 3.1 Pro model with enhanced intelligence for consumer and developer products.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "title": "Google 2025 Recap: Research Breakthroughs",
+      "description": "Gemini 3 and Gemma 3 advance reasoning, multimodality, and efficiency across Google's portfolio.",
+      "url": "https://blog.google/innovation-and-ai/products/2025-research-breakthroughs/",
       "source": "Google Blog",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "AI Mass-Producing Finance Papers",
-      "description": "New study shows AI can generate academic finance papers nearly indistinguishable from human work.",
+      "title": "AI Mass-Producing Finance Research Papers",
+      "description": "LLMs now generate academic finance papers nearly indistinguishable from human work, per Journal of Economic Literature.",
       "url": "https://phys.org/news/2026-05-ai-mass-papers-indistinguishable-human.html",
       "source": "Phys.org",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "May 2026 AI Breakthroughs",
-      "description": "Convergence of frontier models, agentic AI, and robotics reshaping industries.",
-      "url": "https://www.machinelearn.com/2026/05/machinelearncom-may-2026-ai.html",
-      "source": "MachineLearn.com",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "Stanford 2026 AI Index Report Released",
+      "description": "U.S. leads but Anthropic's model closes gap to just 2.7% ahead of competitors.",
+      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+      "source": "Stanford HAI",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "AI VC Deals Surge in 2026",
-      "description": "Multiple massive venture capital rounds in AI startups globally this year.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo.ai",
+      "title": "AI Startups Dominate $56B Global Funding",
+      "description": "Two AI companies alone took nearly half of April's venture capital as funding concentrates.",
+      "url": "https://www.linkedin.com/posts/natashahansonallen_ai-venturecapital-artificialintelligence-activity-7462173911745449984-gwRp",
+      "source": "LinkedIn",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "AI Funding Tracker Updates",
-      "description": "Weekly updates on AI company valuations and Series rounds through April 2026.",
-      "url": "https://aifundingtracker.com/",
-      "source": "AIFundingTracker",
+      "title": "Polsia Raises $30M With Zero Employees",
+      "description": "Controversial AI startup claims $10M ARR using fully autonomous sales systems.",
+      "url": "https://en.ain.ua/2026/05/25/ai-startup-polsia-with-no-employees-raised-30m-in-funding/",
+      "source": "AIN",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "TechCrunch AI Funding Roundup",
-      "description": "Latest funding news across AI startups and unicorns.",
-      "url": "https://techcrunch.com/tag/funding/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+      "title": "Phot.AI Secures $2.7M Seed Round",
+      "description": "Visual content platform for e-commerce raises funding led by Info Edge Ventures.",
+      "url": "https://economictimes.indiatimes.com/tech/funding/visual-content-startup-phot-ai-raises-2-7-from-info-edge-ventures-others/articleshow/118752333.cms",
+      "source": "Economic Times",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "JetBrains Developer Tools Update",
-      "description": "New professional tools for productive development including frameworks for async apps.",
-      "url": "https://www.jetbrains.com/products/",
-      "source": "JetBrains",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Google I/O 2026: Antigravity & Gemini API Updates",
+      "description": "New mobile AI Studio and Antigravity coding agent integrations announced for developers.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/",
+      "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Apple Developer Frameworks",
-      "description": "Powerful new APIs and frameworks for visionOS and AI-enhanced apps.",
-      "url": "https://developer.apple.com/technologies/",
-      "source": "Apple Developer",
-      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
+      "title": "Vercel Reports Security Breach",
+      "description": "Internal systems accessed by unauthorized actors on April 19, 2026.",
+      "url": "https://en.wikipedia.org/wiki/Vercel",
+      "source": "Wikipedia",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     },
     {
-      "title": "Microsoft Azure AI Tools",
-      "description": "New resources for building AI solutions on Azure with improved interoperability.",
-      "url": "https://developer.microsoft.com/",
-      "source": "Microsoft",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "Qwen3.7-Max Nears GPT-5.5 Performance",
+      "description": "New frontier model lands close to top closed models, ideal daily driver for devs.",
+      "url": "https://agentnativedev.medium.com/qwen3-7-max-lands-near-opus-4-7-and-gpt-5-5-new-daily-driver-for-devs-50b99945ecb7",
+      "source": "Medium",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Trump AI Executive Order",
-      "description": "Big Tech influences new order blocking state AI regulations.",
-      "url": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
-      "source": "The Guardian",
+      "title": "Trump Cancels AI Executive Order",
+      "description": "President halts order over fears it would weaken U.S. tech edge after Big Tech lobbying.",
+      "url": "https://apnews.com/article/trump-ai-executive-order-ee318f35acc8a2c43e47f3ebf26cb459",
+      "source": "AP News",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "EU Targets Cloud & AI Services",
-      "description": "Landmark rules now focus on curbing Big Tech power in cloud and AI.",
+      "title": "EU Targets Cloud & AI Under Big Tech Rules",
+      "description": "Regulators expand DMA scope to cloud services and AI to promote fair competition.",
       "url": "https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/",
       "source": "Reuters",
       "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
     },
     {
-      "title": "Public Distrust in AI",
-      "description": "Polls show continued public distrust of AI and demand for stronger regulation.",
-      "url": "https://www.citizen.org/article/big-tech-keeps-selling-ai-the-public-still-isnt-buying-it/",
-      "source": "Public Citizen",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "California AI Safety Law Takes Effect",
+      "description": "New rules require safety frameworks and whistleblower protections starting Jan 2026.",
+      "url": "https://calmatters.org/economy/technology/2025/12/new-ai-regulation/",
+      "source": "CalMatters",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "State of Open Source on Hugging Face",
-      "description": "Spring 2026 report highlights Kernel Hub and Chinese open models support.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "title": "MiniCPM5-1B & LocateAnything-3B Drop on HF",
+      "description": "New 1B text and 3B vision-language models released to Hugging Face in recent days.",
+      "url": "https://huggingface.co/models",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1555949963-0e2a8f8e7e7f?w=600&q=60"
     },
     {
-      "title": "New Open Source AI Projects April 2026",
-      "description": "Notable releases on GitHub and Hugging Face with high star counts and downloads.",
-      "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026",
-      "source": "Fazm Blog",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "Hugging Face Community Growth",
-      "description": "Unlimited public models, datasets with enhanced open source stack.",
-      "url": "https://huggingface.co/",
-      "source": "Hugging Face",
+      "title": "AgentDoG 1.5 Alignment Framework",
+      "description": "Lightweight open-source safety and security framework for AI agents published.",
+      "url": "https://huggingface.co/papers",
+      "source": "Hugging Face Papers",
       "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
+    },
+    {
+      "title": "OpenAI Releases Open-Weight Reasoning Models",
+      "description": "Advanced open models now available for download on Hugging Face and GitHub.",
+      "url": "https://openai.com/open-models/",
+      "source": "OpenAI",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ]
 }
