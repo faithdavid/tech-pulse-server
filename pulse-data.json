@@ -1,27 +1,117 @@
 {
   "ai": [
-    {"title": "Google 2025 Research Breakthroughs with Gemini 3", "description": "Google unveiled major AI research advances in reasoning and multimodality with Gemini 3 and Gemma 3 models.", "url": "https://blog.google/innovation-and-ai/products/2025-research-breakthroughs/", "source": "Google Blog", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
-    {"title": "OpenAI Defining Year Ahead in 2026", "description": "OpenAI focuses on enterprise AI execution with security, privacy, and integrations.", "url": "https://www.linkedin.com/pulse/openai-approaching-its-most-defining-year-yet-what-2026-mano-jay-iy7nc", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
-    {"title": "New AI Model Releases March 2026: GPT-5.4 & Olmo Hybrid", "description": "Viral OpenClaw project and major model updates released in March 2026.", "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026", "source": "Devflokers", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
+    {
+      "title": "OpenAI's GPT-5.5 Instant Release",
+      "description": "New model with voice capabilities and instant responses, major leap in multimodal AI.",
+      "url": "https://fazm.ai/t/openai-new-model-release-may-2026",
+      "source": "FAZM",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "MiniMax M2.5 Rivals Claude",
+      "description": "Chinese model matches Claude Opus 4.6 performance at 1/10th cost.",
+      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
+      "source": "Devflokers",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "AI Research Shifts in 2026",
+      "description": "Major breakthroughs reshaping practical AI applications and benchmarks.",
+      "url": "https://unitymedianews.com/latest-ai-breakthroughs-in-2026/",
+      "source": "Unity Media",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    }
   ],
   "funding": [
-    {"title": "Record $297B Q1 2026 Startup Funding Led by AI", "description": "OpenAI's $122B round shatters records as AI dominates venture investment.", "url": "https://intellizence.com/insights/startup-funding/top-startup-funding-deals-of-q1-2026-record-297-billion-raised-with-ai-dominating/", "source": "Intellizence", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"},
-    {"title": "2026 IPO Watchlist: OpenAI, SpaceX Targeting Trillions", "description": "SpaceX files for $1.75T valuation IPO; OpenAI at $1T potential listing.", "url": "https://builtin.com/articles/top-tech-ipos-2026", "source": "BuiltIn", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"},
-    {"title": "Q1 2026 Shatters Venture Records with $300B AI Boom", "description": "Global startup funding hits $300B, up 150% YoY driven by frontier AI labs.", "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/", "source": "Crunchbase", "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"}
+    {
+      "title": "Cognition AI $1B Round at $26B Val",
+      "description": "Devin AI agent drives revenue from $37M to $492M run rate.",
+      "url": "https://www.linkedin.com/news/story/cognition-ai-hits-26b-valuation-with-1b-funding-round-7302444/",
+      "source": "LinkedIn",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
+    },
+    {
+      "title": "Composio Raises $24M Series A",
+      "description": "Agentic AI startup funded by Lightspeed, Elevation, Together.",
+      "url": "https://www.moneycontrol.com/news/business/startup/agentic-ai-startup-composio-raises-24-million-in-series-a-round-from-lightspeed-elevation-and-together-12982215.html",
+      "source": "Moneycontrol",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Polsia $30M Funding at $250M Val",
+      "description": "Zero-employee AI startup raises massive round.",
+      "url": "https://en.ain.ua/2026/05/25/ai-startup-polsia-with-no-employees-raised-30m-in-funding/",
+      "source": "AIN",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "AI Tools Updates April 2026: Claude & GPT-5 Releases", "description": "Major AI agent tools and framework launches including Claude Code updates.", "url": "https://www.howdoiuseai.com/blog/2026-04-16-newest-ai-tools-2026", "source": "HowDoIUseAI", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
-    {"title": "Top AI Agent Frameworks for Developers 2026", "description": "New autonomous AI agent tools and protocols like MCP/A2A go mainstream.", "url": "https://www.analyticsinsight.net/artificial-intelligence/top-ai-agent-tools-and-frameworks-for-developers-in-2026", "source": "Analytics Insight", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
-    {"title": "Awesome AI Agents 2026 Curated List on GitHub", "description": "Comprehensive resource for AI models, agent frameworks, and coding agents.", "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026", "source": "GitHub", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"}
+    {
+      "title": "New JetBrains AI Tools",
+      "description": "Enhanced frameworks for async apps and AI dev productivity.",
+      "url": "https://www.jetbrains.com/products/",
+      "source": "JetBrains",
+      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
+    },
+    {
+      "title": "Agentic AI Workflow Tools",
+      "description": "Autonomous workflows for planning and system iteration.",
+      "url": "https://techtooljudge.com/category/developer-tools-frameworks/",
+      "source": "TechTool Judge",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+    },
+    {
+      "title": "Open-Source AI Frameworks Update",
+      "description": "TensorFlow, Torch and new additions for enterprise use.",
+      "url": "https://dzone.com/articles/10-opensource-toolsframeworks-for-artificial-intel",
+      "source": "DZone",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "New Tech Laws of 2026: AI Privacy & Companion Chatbot Rules", "description": "California and Colorado enact major AI regulations effective 2026.", "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair", "source": "The Verge", "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"},
-    {"title": "2026 AI Regulatory Developments to Watch", "description": "New state AI acts impose risk assessments and governance for high-impact systems.", "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html", "source": "Wilson Sonsini", "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"},
-    {"title": "Big Tech Faces New AI Laws in Colorado & Beyond", "description": "June 2026 Colorado AI Act targets high-risk decisions in credit and insurance.", "url": "https://www.techlyfeed.com/2025/12/big-tech-regulations-coming-in-2026-how.html?m=1", "source": "Techlyfeed", "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"}
+    {
+      "title": "New US Tech Laws 2026",
+      "description": "AI regulations on companion chatbots and privacy effective Jan 1.",
+      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
+      "source": "The Verge",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+    },
+    {
+      "title": "Colorado AI Act June 2026",
+      "description": "High-risk AI systems in credit/housing face new obligations.",
+      "url": "https://www.techlyfeed.com/2025/12/big-tech-regulations-coming-in-2026-how.html?m=1",
+      "source": "Techlyfeed",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
+    },
+    {
+      "title": "2026 AI Regulatory Outlook",
+      "description": "State laws impose risk assessments and governance on AI.",
+      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
+      "source": "Gunderson Dettmer",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    }
   ],
   "oss": [
-    {"title": "GLM-5 Leads Open-Source Benchmarks April 2026", "description": "GLM-5 tops SWE-bench at 77.8% and Chatbot Arena Elo at 1451.", "url": "https://www.buildfastwithai.com/blogs/best-ai-models-april-2026", "source": "BuildFastWithAI", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"},
-    {"title": "Llama 4 Scout & DeepSeek V3.2 Top Open-Source Models", "description": "Llama 4 Scout with 10M context; DeepSeek V3.2 excels in reasoning.", "url": "https://www.edenai.co/post/top-free-generative-ai-apis-and-open-source-models", "source": "EdenAI", "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"},
-    {"title": "Agentic AI Papers & World-Model Planning on arXiv", "description": "New open-source releases and research papers on LLM-based agents.", "url": "https://www.linkedin.com/pulse/top-3-ai-model-releases-open-source-projects-papers-from-ricky-sppcc", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"}
+    {
+      "title": "Hugging Face Spring 2026 Report",
+      "description": "State of open-source AI: model uploads and community trends.",
+      "url": "https://deepbrief.co/ai-industry/hugging-face-spring-2026-report",
+      "source": "Deepbrief",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "OpenClaw & Subquadratic Models",
+      "description": "Viral open-source releases in May 2026 roundup.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup",
+      "source": "Devflokers",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "HF Model Release Tracker",
+      "description": "Latest from OpenAI, Meta, DeepSeek on Hugging Face.",
+      "url": "https://lmmarketcap.com/tools/model-release-tracker",
+      "source": "LM Market Cap",
+      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
+    }
   ]
 }
