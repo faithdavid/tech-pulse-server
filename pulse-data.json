@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Google 2025 Research Breakthroughs",
-      "description": "Gemini 3 and Gemma 3 advance reasoning, multimodality, and efficiency across products.",
-      "url": "https://blog.google/innovation-and-ai/products/2025-research-breakthroughs/",
+      "title": "Gemini 3.1 Pro Released",
+      "description": "Google releases upgraded Gemini 3.1 Pro model with enhanced intelligence for consumer and developer products.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
       "source": "Google Blog",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "OpenAI's Defining 2026 Execution Year",
-      "description": "Focus shifts to enterprise AI with security, privacy, and predictable pricing.",
-      "url": "https://www.linkedin.com/pulse/openai-approaching-its-most-defining-year-yet-what-2026-mano-jay-iy7nc",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+      "title": "AI Mass-Producing Finance Papers",
+      "description": "New study shows AI can generate academic finance papers nearly indistinguishable from human work.",
+      "url": "https://phys.org/news/2026-05-ai-mass-papers-indistinguishable-human.html",
+      "source": "Phys.org",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "New AI Models: GPT-5.4 & Olmo Hybrid",
-      "description": "March 2026 releases including viral OpenClaw project.",
-      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
-      "source": "Devflokers",
+      "title": "May 2026 AI Breakthroughs",
+      "description": "Convergence of frontier models, agentic AI, and robotics reshaping industries.",
+      "url": "https://www.machinelearn.com/2026/05/machinelearncom-may-2026-ai.html",
+      "source": "MachineLearn.com",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Q1 2026 Shatters Venture Records",
-      "description": "$300B poured into 6,000 startups globally, up 150% QoQ.",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "source": "Crunchbase",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "NVIDIA $1B Across 50 AI Rounds",
-      "description": "Major investments and acquisitions consolidating AI players.",
-      "url": "https://www.facebook.com/SFBusinessTimes/posts/a-flurry-of-ai-startup-acquisitions-were-announced-this-week-by-major-bay-area-t/1642313424566827/",
-      "source": "SF Business Times",
+      "title": "AI VC Deals Surge in 2026",
+      "description": "Multiple massive venture capital rounds in AI startups globally this year.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo.ai",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "Daily AI Startup Funding Tracker",
-      "description": "Latest VC deals and investor moves in artificial intelligence.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
-      "source": "AI Funding Tracker",
+      "title": "AI Funding Tracker Updates",
+      "description": "Weekly updates on AI company valuations and Series rounds through April 2026.",
+      "url": "https://aifundingtracker.com/",
+      "source": "AIFundingTracker",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "TechCrunch AI Funding Roundup",
+      "description": "Latest funding news across AI startups and unicorns.",
+      "url": "https://techcrunch.com/tag/funding/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "LangChain & LangChain4j Updates",
-      "description": "Popular frameworks for LLM apps, now with JVM support for enterprises.",
-      "url": "https://www.port.io/blog/best-ai-tools-developers",
-      "source": "Port.io",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "Arm Kleidi & PyTorch Integration",
-      "description": "Seamless quantized model integration for developers.",
-      "url": "https://developer.arm.com/ai",
-      "source": "Arm Developer",
+      "title": "JetBrains Developer Tools Update",
+      "description": "New professional tools for productive development including frameworks for async apps.",
+      "url": "https://www.jetbrains.com/products/",
+      "source": "JetBrains",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "ONNX Runtime Web & LiteRT.js",
-      "description": "High-performance AI inferencing in web apps via WebNN.",
-      "url": "https://www.intel.com/content/www/us/en/developer/topic-technology/ai-pc/overview.html",
-      "source": "Intel",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "Apple Developer Frameworks",
+      "description": "Powerful new APIs and frameworks for visionOS and AI-enhanced apps.",
+      "url": "https://developer.apple.com/technologies/",
+      "source": "Apple Developer",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
+    },
+    {
+      "title": "Microsoft Azure AI Tools",
+      "description": "New resources for building AI solutions on Azure with improved interoperability.",
+      "url": "https://developer.microsoft.com/",
+      "source": "Microsoft",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "7 Explosive AI Updates May 2026",
-      "description": "Government regulation, Anthropic rise, AI agents replacing apps.",
-      "url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/",
-      "source": "IM Founder",
-      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
-    },
-    {
-      "title": "Global AI Regulation 2026 Update",
-      "description": "EU AI Act, China labeling rules, US state laws progress.",
-      "url": "https://cubbbix.com/blog/ai-regulation-news-2026-global-update/",
-      "source": "Cubbbix",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
-    },
-    {
-      "title": "US AI Regulation Landscape",
-      "description": "New state/federal laws and NIST guidance for 2026.",
-      "url": "https://iabrief.com/en/us-ai-regulation-2026/",
-      "source": "IABrief",
+      "title": "Trump AI Executive Order",
+      "description": "Big Tech influences new order blocking state AI regulations.",
+      "url": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
+      "source": "The Guardian",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    },
+    {
+      "title": "EU Targets Cloud & AI Services",
+      "description": "Landmark rules now focus on curbing Big Tech power in cloud and AI.",
+      "url": "https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
+    },
+    {
+      "title": "Public Distrust in AI",
+      "description": "Polls show continued public distrust of AI and demand for stronger regulation.",
+      "url": "https://www.citizen.org/article/big-tech-keeps-selling-ai-the-public-still-isnt-buying-it/",
+      "source": "Public Citizen",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "State of Open Source on HF Spring 2026",
-      "description": "Chinese open models, efficiency gains 10x-1000x, local inference focus.",
+      "title": "State of Open Source on Hugging Face",
+      "description": "Spring 2026 report highlights Kernel Hub and Chinese open models support.",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
       "title": "New Open Source AI Projects April 2026",
-      "description": "GitHub & HF releases with star counts and use cases.",
+      "description": "Notable releases on GitHub and Hugging Face with high star counts and downloads.",
       "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026",
       "source": "Fazm Blog",
-      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "OpenAI Models on Hugging Face",
-      "description": "Open-weight 120B/22B reasoning and agentic models released.",
-      "url": "https://huggingface.co/openai",
+      "title": "Hugging Face Community Growth",
+      "description": "Unlimited public models, datasets with enhanced open source stack.",
+      "url": "https://huggingface.co/",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
     }
   ]
 }
