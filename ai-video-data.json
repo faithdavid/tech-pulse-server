@@ -1,140 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "AI Video Generation 2026: Techniques, Capabilities, and ...",
-      "description": "AI video generation went from a novelty to a production tool in record time. In 2026, creators, marketers, filmmakers, and businesses use AI to produce video content that would have required a full production crew just two years ago.",
-      "url": "https://zsky.ai/blog/ultimate-guide-ai-video-2026",
-      "source": "Zsky.ai",
+      "title": "Introducing Flow: Google’s AI filmmaking tool",
+      "description": "New end-to-end AI filmmaking tool built for Veo models with native audio and scene building.",
+      "url": "https://blog.google/innovation-and-ai/products/google-flow-veo-ai-filmmaking-tool/",
+      "source": "Google Blog",
       "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     },
     {
-      "title": "AI Making Movies in 2026: What's Actually Possible",
-      "description": "Realistic look at AI filmmaking in 2026. Current capabilities, limitations, and how creators actually use AI video tools for production.",
-      "url": "https://apatero.com/blog/ai-filmmaking-movies-2026-state-of-industry",
-      "source": "Apatero",
+      "title": "AI Films in 2026: A Beginner’s Guide to AI Filmmaking",
+      "description": "How AI video generation, scriptwriting, and editing are transforming film school and indie production.",
+      "url": "https://two99.org/blog/ai-films-in-2026-a-beginners-guide-to-ai-filmmaking/",
+      "source": "Two99",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "AI Video Tools in 2026: The Complete Creator’s Guide",
-      "description": "Text-to-video quality jumped dramatically, with models like Google Veo and Runway Gen-4.5 producing footage that holds up in real deliverables.",
-      "url": "https://pixflow.net/blog/ai-video-tools-in-2026/",
-      "source": "Pixflow",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99c9a0d1e?w=600&q=60"
+      "title": "Google Flow and Veo 3: Future of Natural-Language-Driven Production",
+      "description": "Deep dive into Flow as the first custom AI filmmaking app integrating Veo 3 for video + audio.",
+      "url": "https://www.linkedin.com/pulse/google-flow-veo-3-video-future-production-david-cronshaw-xcpcf",
+      "source": "LinkedIn",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a3a5b69?w=600&q=60"
     }
   ],
   "industry": [
     {
       "title": "YouTube to Automatically Label AI-Generated Videos",
-      "description": "YouTube is making AI-generated content labels more prominent, and it's going to start automatically applying the labels if it detects that a video includes 'significant photorealistic AI use.'",
+      "description": "Platform rolling out automatic detection and prominent labels for photorealistic AI content.",
       "url": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/",
       "source": "Variety",
       "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     },
     {
-      "title": "New Gen AI Studio Promise Launches, Backed by Peter Chernin",
-      "description": "Peter Chernin’s North Road, Andreessen Horowitz Backing New Gen AI-Focused Entertainment Studio. Promise, led by former Fullscreen CEO George Strompolos.",
+      "title": "New Gen AI Studio Promise Launches",
+      "description": "Peter Chernin-backed studio focused on Gen AI entertainment with Hollywood talent partnerships.",
       "url": "https://www.hollywoodreporter.com/business/business-news/gen-ai-studio-promise-peter-chernin-a16z-1236065776/",
       "source": "Hollywood Reporter",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
     },
     {
-      "title": "Google Marketing Live 2026: AI Max Updates",
-      "description": "Google has confirmed that Dynamic Search Ads will automatically upgrade to AI Max in September 2026.",
-      "url": "https://ppc.land/google-marketing-live-2026-every-announcement-that-actually-matters/",
-      "source": "PPC Land",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Sora: OpenAI closes AI video app and cancels $1bn Disney deal",
+      "description": "OpenAI shuts down Sora app less than two years after launch amid shifting strategy.",
+      "url": "https://www.bbc.com/news/articles/c3w3e467ewqo",
+      "source": "BBC",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "tools": [
     {
       "title": "The 17 best AI video generators in 2026",
-      "description": "We tested dozens of AI video generators, and these are the best tools to create, edit, and enhance videos using AI.",
+      "description": "Zapier’s comprehensive test of top AI video tools including Kling, Veo, and Runway alternatives.",
       "url": "https://zapier.com/blog/best-ai-video-generator/",
       "source": "Zapier",
       "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     },
     {
-      "title": "10 Best AI Video Generators We Tested for 2026",
-      "description": "Discover the best AI video generators of 2026. We tested 10 top AI video creation tools - find the right platform for ads, training.",
-      "url": "https://creatify.ai/blog/best-ai-video-generators",
-      "source": "Creatify AI",
-      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f6b1?w=600&q=60"
+      "title": "Google’s Veo 3 AI model can generate videos with sound",
+      "description": "Latest Veo 3 adds native audio generation; available to Google AI Pro/Ultra subscribers.",
+      "url": "https://www.engadget.com/ai/googles-veo-3-ai-model-can-generate-videos-with-sound-174541183.html",
+      "source": "Engadget",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "Best AI Video Editing Tools 2026: Top 10 Compared",
-      "description": "The best AI video editing tools in 2026 compared by workflow stage and use case: Selects, Premiere Assistant, Descript, and more.",
-      "url": "https://cutback.video/blog/ai-video-editing-in-2026-best-tools-workflows-automation-explained",
-      "source": "Cutback",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
+      "title": "Best AI Video Generators In 2026 - Top 3 Tools Tested",
+      "description": "AlloyPress hands-on comparison of quality, speed, and pricing for leading 2026 generators.",
+      "url": "https://alloypress.com/blogs/best-ai-video-generators",
+      "source": "AlloyPress",
+      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f6b7?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Best AI Tools for Instagram Reels (2026)",
-      "description": "Magic Hour is the best overall AI tool for Instagram Reels in 2026 if you want an all-in-one workflow for AI video creation.",
-      "url": "https://magichour.ai/blog/best-ai-tools-for-instagram-reels-2026",
-      "source": "Magic Hour",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "7 Best AI Video Generators for TikTok & Reels (2026)",
+      "description": "Specialized tools optimized for short-form vertical content with fast turnaround.",
+      "url": "https://reelbase.io/blog/best-ai-video-generators-for-tiktok-reels",
+      "source": "ReelBase",
+      "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
     },
     {
-      "title": "Shifty.Life | Microdramas for Microshifts",
-      "description": "Use AI vertical microdramas—30–90s episodic videos—to train night-shift workers in safety, compliance and soft skills.",
-      "url": "https://shifty.life/microdramas-for-microshifts-using-vertical-ai-video-to-train",
-      "source": "Shifty.Life",
-      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
+      "title": "The State of AI Video Creation 2026",
+      "description": "Avatar-based video niche growing to 7.1% share for e-learning and marketing use cases.",
+      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
+      "source": "Vivideo",
+      "image_url": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=60"
     },
     {
-      "title": "AI Video Prompt Examples: Kling vs Luma",
-      "description": "Best AI Video Prompts by Use Case. Tested for product demos, cinematic landscapes, and SNS short-form content.",
-      "url": "https://k-antenna.com/ai-video-prompt-examples/",
-      "source": "K-Antenna",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99c9a0d1e?w=600&q=60"
+      "title": "Best AI Video Generators for YouTube Creators in 2026",
+      "description": "Tools with auto-captions, virality scoring, and multi-language support for long-form.",
+      "url": "https://domoai.app/blog/best-ai-video-tools-for-youtube-content-creators",
+      "source": "DomoAI",
+      "image_url": "https://images.unsplash.com/photo-1492725764893-90b379c2b6e7?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Best AI & Tech Deals 2026",
-      "description": "Want the best AI & Tech deals 2026? We test and verify top AI productivity tools to bring you exclusive AI software discounts.",
-      "url": "https://digioffly.com/ai-tech-offers/",
-      "source": "Digioffly",
-      "image_url": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=600&q=60"
+      "title": "Vidnoz AI: Create FREE AI Videos 10X Faster",
+      "description": "Free daily generations, no login image-to-video, and avatar features.",
+      "url": "https://www.vidnoz.com/",
+      "source": "Vidnoz",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "AI Video Discount | Best AI Video Tools & Software Reviews 2026",
-      "description": "Save 60% on premium AI video tools like Topview, Invideo, and HeyGen. Expert reviews, direct discount links.",
-      "url": "https://aivideodiscount.com/",
-      "source": "AI Video Discount",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
-    },
-    {
-      "title": "9 Best AI Video Generator Lifetime Deals (2026)",
-      "description": "In this article, we are going to share with you the 9 best AI video generator lifetime deals along with the features and pricing.",
-      "url": "https://rytbee.com/ai-video-generator-lifetime-deals/",
-      "source": "Rytbee",
+      "title": "Vmake AI | Ultimate UGC Video Generator",
+      "description": "Free access and credits for product UGC video creation and optimization.",
+      "url": "https://vmake.ai/",
+      "source": "Vmake",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Image to Video AI Free: No Login",
+      "description": "Vidnoz offers one free video generation per day with high-quality results.",
+      "url": "https://www.vidnoz.com/image-to-video-ai.html",
+      "source": "Vidnoz",
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Best AI Art Showcases (Top 5) in 2026",
-      "description": "Explore the world's best AI art showcases created with Mootion 4.0. Discover top-tier cinematic videos, professional storytelling.",
-      "url": "https://www.mootion.com/use-cases/en/collection/top-ai-videos-for-art-and-design-showcases",
-      "source": "Mootion",
-      "image_url": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=600&q=60"
-    },
-    {
-      "title": "AIF 2026 | AI Festival",
-      "description": "AIF is a celebration of the art and artists embracing new and emerging AI tools for creative work. Works showcased offer a glimpse at a new creative era.",
-      "url": "https://aif.runwayml.com/",
-      "source": "Runway ML",
-      "image_url": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=60"
+      "title": "10 Best AI Video Examples for Inspiration in 2026",
+      "description": "Superside showcases exceptional AI-powered video projects and brand campaigns.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"
     },
     {
       "title": "11 Motion Design Trends for 2026: AI Workflows",
-      "description": "Explore the top motion design trends for 2026, from AI workflows to authentic storytelling and craft-led visuals shaping the future of video.",
+      "description": "Envato highlights authenticity, craft, and AI integration in creative video projects.",
       "url": "https://elements.envato.com/learn/motion-design-trends",
       "source": "Envato",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1547153760-18fc86324498?w=600&q=60"
+    },
+    {
+      "title": "AI Video Trends: Predictions For 2026",
+      "description": "LTX Studio explores how AI transforms video marketing, workflows, and storytelling.",
+      "url": "https://ltx.studio/blog/ai-video-trends",
+      "source": "LTX Studio",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ]
 }
