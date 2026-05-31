@@ -1,117 +1,27 @@
 {
   "ai": [
-    {
-      "title": "Google Unveils TurboQuant at ICLR 2026",
-      "description": "New algorithm dramatically reduces KV cache memory overhead for large AI models.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "Claude Opus 4.8 Launched by Anthropic",
-      "description": "Improved benchmarks and honesty features; Mythos-class model in development.",
-      "url": "https://aiflashreport.com/topics/new-ai-model-releases.html",
-      "source": "AI Flash Report",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "Stanford AI Index 2026 Report Released",
-      "description": "AI models achieve breakthroughs in science but raise environmental concerns.",
-      "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
-      "source": "Stanford HAI",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
-    }
+    {"title": "New AI Research Papers & Breakthroughs (April 2026)", "description": "Deep dive into latest AI breakthroughs featuring 10-trillion parameter models and neuro-symbolic robotics.", "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026", "source": "devFlokers", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
+    {"title": "LLM News Today (May 2026) – AI Model Releases", "description": "arXiv announcements on large language models advancing NLP research and industry.", "url": "https://llm-stats.com/ai-news", "source": "LLM Stats", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
+    {"title": "New AI Model Releases - Latest AI Models", "description": "Track new AI model launches from OpenAI, Anthropic, Google, Meta and more.", "url": "https://aiflashreport.com/topics/new-ai-model-releases.html", "source": "AI Flash Report", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
   ],
   "funding": [
-    {
-      "title": "Composio Raises $24M Series A",
-      "description": "Agentic AI startup secures funding from Lightspeed, Elevation Capital.",
-      "url": "https://www.moneycontrol.com/news/business/startup/agentic-ai-startup-composio-raises-24-million-in-series-a-round-from-lightspeed-elevation-and-together-12982215.html",
-      "source": "Moneycontrol",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
-    },
-    {
-      "title": "Polsia Raises $30M with Zero Employees",
-      "description": "Valuation hits $250M for the innovative AI startup.",
-      "url": "https://en.ain.ua/2026/05/25/ai-startup-polsia-with-no-employees-raised-30m-in-funding/",
-      "source": "AIN",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "Cognition Raises $1B at $25B Valuation",
-      "description": "AI coding startup achieves massive valuation with enterprise clients.",
-      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    }
+    {"title": "Latest AI Startup Funding News and VC Deals", "description": "Significant venture capital investment deals in AI startups globally in 2026.", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo", "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"},
+    {"title": "AI Funding Tracker | AI Startup Investment Roundups", "description": "Weekly updates on AI company valuations, Series rounds and news.", "url": "https://aifundingtracker.com/", "source": "AI Funding Tracker", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"},
+    {"title": "AI Funding Tracker — Fundraises, Acquisitions & Deals", "description": "Track AI funding rounds, acquisitions, IPOs and major deals daily.", "url": "https://pricepertoken.com/news/funding", "source": "PricePerToken", "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "Superpowers Agentic Skills Framework",
-      "description": "New composable skills methodology for AI coding agents on GitHub.",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "Eclipse IDE 2026-03 Release",
-      "description": "Latest Eclipse packages with improved JRE support for developers.",
-      "url": "https://www.eclipse.org/downloads/packages/",
-      "source": "Eclipse",
-      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
-    },
-    {
-      "title": "JetBrains Expands AI Developer Tools",
-      "description": "New frameworks for async server and client-side applications.",
-      "url": "https://www.jetbrains.com/products/",
-      "source": "JetBrains",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    }
+    {"title": "Best Artificial Intelligence Software: User Reviews", "description": "Explore latest AI software solutions with real user reviews on G2.", "url": "https://www.g2.com/categories/artificial-intelligence", "source": "G2", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
+    {"title": "All Developer Tools and Products by JetBrains", "description": "Professional tools for productive development including frameworks.", "url": "https://www.jetbrains.com/products/", "source": "JetBrains", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
+    {"title": "Microsoft Developer - Azure AI Resources", "description": "New developer resources for Azure AI development journey.", "url": "https://developer.microsoft.com/", "source": "Microsoft", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "Microsoft Reports AI Cost Challenges",
-      "description": "High token and agent costs emerge as major adoption bottleneck in 2026.",
-      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-      "source": "Fortune",
-      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
-    },
-    {
-      "title": "Amazon Plans 30K Corporate Layoffs",
-      "description": "AI-driven job cuts continue into 2026 across Big Tech.",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/tech-layoffs-2026-role-of-ai-job-cuts-10493537/",
-      "source": "Indian Express",
-      "image_url": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&q=60"
-    },
-    {
-      "title": "Africa AI Regulation Map 2026",
-      "description": "Country-by-country progress on AI legislation and national strategies.",
-      "url": "https://techmoonshot.com/2026/05/26/africa-ai-regulation-2026-a-country-by-country-map-of-whos-ahead-and-whos-stalling/",
-      "source": "Techmoonshot",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    }
+    {"title": "Energy Industry and AI Boom", "description": "Electric power sector capitalizing on AI rise with massive investments.", "url": "https://www.politico.com/news/magazine/2025/08/05/energy-industry-ai-boom-debra-kahn-column-00492879", "source": "POLITICO", "image_url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=60"},
+    {"title": "Big Tech’s Threat to Water and Climate from AI", "description": "Big Tech and oil giants expanding infrastructure for AI power needs.", "url": "https://www.foodandwaterwatch.org/2025/04/09/artificial-intelligence-water-climate/", "source": "Food & Water Watch", "image_url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=60"},
+    {"title": "AI Regulation and Big Tech Impact", "description": "UK government stance on US Big Tech and AI regulation debates.", "url": "https://diginomica.com/something-weekend-would-regulation-make-ai-world-safer-place-consider", "source": "Diginomica", "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"}
   ],
   "oss": [
-    {
-      "title": "ggml.ai Joins Hugging Face",
-      "description": "Founders of llama.cpp integrate for long-term open local AI support.",
-      "url": "https://sesamedisk.com/ggml-hugging-face-local-ai/",
-      "source": "Sesame Disk",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
-    },
-    {
-      "title": "Hugging Face LeRobot Humanoid",
-      "description": "$2.5k 3D-printed robotics with sim-to-real workflows released.",
-      "url": "https://interestingengineering.com/ai-robotics/us-hugging-face-3d-printed-lerobot",
-      "source": "Interesting Engineering",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
-    },
-    {
-      "title": "Kimi K2.5 Open Source Release",
-      "description": "1T param multimodal model on Hugging Face with Apache license.",
-      "url": "https://www.linkedin.com/pulse/top-3-ai-model-releases-open-source-projects-papers-from-ricky-sppcc",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    }
+    {"title": "Hugging Face Models Hub", "description": "Explore thousands of machine learning models on the Hugging Face Hub.", "url": "https://huggingface.co/models", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
+    {"title": "Transformers Library Updates", "description": "Latest on the popular Transformers library for NLP, vision and audio tasks.", "url": "https://github.com/huggingface/transformers", "source": "GitHub", "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"},
+    {"title": "Open-Source AI Projects May 2026 Roundup", "description": "Viral projects like OpenClaw and subquadratic models on HuggingFace.", "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup", "source": "devFlokers", "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"}
   ]
 }
