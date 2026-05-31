@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Gemini 3.1 Pro Released",
-      "description": "Google announces Gemini 3.1 Pro, a smarter model for complex tasks rolling out to developers and enterprises.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "source": "Google Blog",
+      "title": "MiniMax M2.5 Rivals Claude at 1/10th Cost",
+      "description": "China's MiniMax releases M2.5 model matching Claude Opus 4.6 performance at fraction of the cost.",
+      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
+      "source": "Devflokers",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "AI Mass-Producing Research Papers",
-      "description": "Anthropic's Claude Opus 4.1 used to generate academic papers indistinguishable from human work.",
+      "title": "AI Mass-Producing Indistinguishable Finance Papers",
+      "description": "Anthropic's Claude Opus 4.1 used to generate academic papers from data mining templates.",
       "url": "https://phys.org/news/2026-05-ai-mass-papers-indistinguishable-human.html",
       "source": "Phys.org",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "May 2026 AI Breakthroughs Roundup",
-      "description": "Convergence of frontier models, agentic AI, and robotics reshaping industries.",
-      "url": "https://www.machinelearn.com/2026/05/machinelearncom-may-2026-ai.html",
-      "source": "MachineLearn.com",
+      "title": "Google DeepMind 2025 Research Recap",
+      "description": "Gemini 3 and Gemma 3 drive major gains in reasoning, multimodality, and efficiency.",
+      "url": "https://blog.google/innovation-and-ai/products/2025-research-breakthroughs/",
+      "source": "Google Blog",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Q1 2026 VC Funding Hits $300B Record",
-      "description": "AI boom drives unprecedented $300B in startup investment for Q1 2026.",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "source": "Crunchbase",
+      "title": "Cloneable.ai Raises $4.6M Seed",
+      "description": "Startup turns human expertise into AI agents for energy, construction, and other sectors.",
+      "url": "https://www.linkedin.com/posts/ai-funding-news_ai-artificialintelligence-ainews-activity-7459542842886008832-tjJN",
+      "source": "LinkedIn",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "xAI Merges Interests with SpaceX",
-      "description": "SpaceX IPO mid-2026 to provide public access to xAI models.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo.ai",
-      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
+      "title": "Polsia Raises $30M with Zero Employees",
+      "description": "AI startup Polsia hits $250M valuation with fully autonomous operations.",
+      "url": "https://en.ain.ua/2026/05/25/ai-startup-polsia-with-no-employees-raised-30m-in-funding/",
+      "source": "AIN",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "OpenAI and SpaceX IPO Watchlist 2026",
-      "description": "OpenAI and SpaceX among top tech giants preparing for IPOs in 2026.",
-      "url": "https://builtin.com/articles/top-tech-ipos-2026",
-      "source": "Built In",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Netflix Acquires Affleck AI Startup",
+      "description": "Netflix moves into AI content and personalization with strategic acquisition.",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oxeS1paEVSSHVQNU5aQlBtY0ppZ0FQAQ",
+      "source": "Google News",
+      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Top AI Developer Tools 2026",
-      "description": "New AI coding assistants, agentic tools, and security guardrails for developers.",
-      "url": "https://checkmarx.com/learn/ai-security/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality/",
-      "source": "Checkmarx",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "Agentic AI Frameworks Roundup",
-      "description": "Top frameworks: CrewAI, LangGraph, AutoGen, LlamaIndex dominate 2026.",
-      "url": "https://www.instaclustr.com/education/agentic-ai/agentic-ai-frameworks-top-10-options-in-2026/",
-      "source": "Instaclustr",
+      "title": "Arm Kleidi & PyTorch Quantized Models",
+      "description": "Seamless integration of quantized models for developers without extra optimization.",
+      "url": "https://developer.arm.com/ai",
+      "source": "Arm Developer",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "Best AI Coding Tools Comparison",
-      "description": "Real-world comparison of AI coding platforms for 2026 product lifecycle.",
-      "url": "https://www.aubergine.co/insights/top-ai-coding-design-tools-in-2026",
-      "source": "Aubergine",
-      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=60"
+      "title": "LangChain & LangChain4j Updates",
+      "description": "Enhanced LLM chaining and JVM enterprise AI application development.",
+      "url": "https://www.port.io/blog/best-ai-tools-developers",
+      "source": "Port.io",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    },
+    {
+      "title": "MetaGPT for Multi-Agent Software Engineering",
+      "description": "Collaborative AI agents manage complex development workflows effectively.",
+      "url": "https://www.pragmaticcoders.com/resources/ai-developer-tools",
+      "source": "Pragmatic Coders",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Illinois Passes Landmark AI Law",
-      "description": "Illinois leads nation in holding Big Tech accountable with new AI regulation.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-      "source": "Ars Technica",
+      "title": "EU AI Act Full Effect August 2026",
+      "description": "Major compliance deadlines hit for high-risk AI systems across Europe.",
+      "url": "https://www.hungyichen.com/en/insights/ai-governance-regulatory-landscape-2026",
+      "source": "Hungyi Chen",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "Trump AI Executive Order Favors Big Tech",
-      "description": "Silicon Valley influences Trump’s AI order to prioritize rapid advancement.",
-      "url": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
-      "source": "The Guardian",
-      "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
+      "title": "Global AI Regulation Updates 2026",
+      "description": "EU, US state rules, China content labeling, and enforcement ramps up.",
+      "url": "https://cubbbix.com/blog/ai-regulation-news-2026-global-update/",
+      "source": "Cubbbix",
+      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
     },
     {
-      "title": "May 2026 AI Regulatory Updates",
-      "description": "US government tests AI models before release; Microsoft and xAI cooperate.",
-      "url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/",
-      "source": "IMFounder",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "NIST AI RMF Becomes US Standard",
+      "description": "US adopts risk management framework as key compliance benchmark.",
+      "url": "https://techresearchonline.com/blog/global-ai-regulations-enforcement-guide/",
+      "source": "Tech Research Online",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "New Open-Source AI Models May 2026",
-      "description": "VRAM-efficient models and low-latency tech released on Hugging Face.",
-      "url": "https://stormap.ai/post/new-open-source-ai-projects-and-model-releases-may-2026-roundup",
-      "source": "Stormap.ai",
-      "image_url": "https://images.unsplash.com/photo-1515878918825-0d4e4f2a1e8e?w=600&q=60"
+      "title": "Hugging Face Releases Small Model Beating Qwen & Llama",
+      "description": "New open model outperforms larger competitors on most benchmarks.",
+      "url": "https://the-decoder.com/hugging-face-releases-small-language-model-that-beats-qwen-and-llama-most-of-the-time/",
+      "source": "The Decoder",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     },
     {
-      "title": "State of Open Source on Hugging Face Spring 2026",
-      "description": "Open source AI landscape shifts with new communities and technical trends.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "title": "Diffusers 0.38.0 Released",
+      "description": "New image/audio pipelines, keyframe animation, and video extension features.",
+      "url": "https://github.com/huggingface/diffusers/releases",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "Best Open-Source LLMs 2026",
-      "description": "Ranked open-source and open-weight LLMs for local running.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llm-models-to-run-locally",
-      "source": "Hugging Face Blog",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "GLM-5 Tops Open-Source SWE-bench at 77.8%",
+      "description": "Leading open-source coding model on SWE-bench and related benchmarks.",
+      "url": "https://www.buildfastwithai.com/blogs/best-ai-models-april-2026",
+      "source": "Build Fast With AI",
+      "image_url": "https://images.unsplash.com/photo-1555949963-47e8a2b1c5a3?w=600&q=60"
     }
   ]
 }
