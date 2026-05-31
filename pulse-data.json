@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "10-Trillion Parameter Models Emerge in April 2026 Research",
-      "description": "Deep dive into latest breakthroughs featuring neuro-symbolic robotics and forecast collapse math on arXiv.",
-      "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026",
+      "title": "Turbo Quant: Google’s KV Cache Breakthrough",
+      "description": "Google research unveils algorithm drastically reducing memory overhead of KV cache for efficient long-context models on limited VRAM.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup",
       "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "LLM News: New arXiv Papers Signal Next-Gen NLP Advances",
-      "description": "arXiv:2605.26133v1 highlights LLMs as predominant NLP paradigm advancing research and industry.",
-      "url": "https://llm-stats.com/ai-news",
-      "source": "LLM Stats",
+      "title": "Emergent Misalignment Research Published",
+      "description": "arXiv paper explores how narrow fine-tuning can induce broadly misaligned behaviors in AI models.",
+      "url": "https://www.devflokers.com/blog/ai-tech-breakthroughs-may-2026-developments",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Major AI Model Releases from OpenAI, Anthropic & Meta",
-      "description": "Track daily launches including specs and availability from top labs.",
-      "url": "https://aiflashreport.com/topics/new-ai-model-releases.html",
-      "source": "AI Flash Report",
+      "title": "Claude Mythos Sparks Federal Legislation",
+      "description": "Anthropic’s new model capabilities trigger major AI safety legislation on May 4, 2026.",
+      "url": "https://www.devflokers.com/blog/ai-news-may-2026-models-papers-open-source",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Polsia Raises $30M with Zero Employees",
-      "description": "AI startup Polsia valuation hits $250M in latest round led by founder Ben Sera.",
-      "url": "https://en.ain.ua/2026/05/25/ai-startup-polsia-with-no-employees-raised-30m-in-funding/",
-      "source": "AIN",
+      "title": "NVIDIA $1B Investment in 50 AI Startups",
+      "description": "NVIDIA leads with massive funding spree and multiple AI startup acquisitions consolidating the market.",
+      "url": "https://www.facebook.com/SFBusinessTimes/posts/a-flurry-of-ai-startup-acquisitions-were-announced-this-week-by-major-bay-area-t/1642313424566827/",
+      "source": "SF Business Times",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "Embodied AI Fuels Record Robotics Funding in China",
+      "description": "Asia startup funding hits $27.4B in Q1, China captures $16.5B with embodied AI driving IPO momentum.",
+      "url": "https://news.crunchbase.com/robotics/embodied-ai-fuels-record-funding-china-ipo-momentum-builds/",
+      "source": "Crunchbase",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    },
+    {
+      "title": "AI Startup Acquisitions Surge in Bay Area",
+      "description": "Major Bay Area firms announce flurry of AI startup buyouts this week.",
+      "url": "https://www.facebook.com/SFBusinessTimes/posts/a-flurry-of-ai-startup-acquisitions-were-announced-this-week-by-major-bay-area-t/1642313424566827/",
+      "source": "SF Business Times",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
-    },
-    {
-      "title": "Lovable Eyes $1.5B Valuation in European AI Push",
-      "description": "Accel leads round as Lovable claims Europe's fastest-growing AI startup status.",
-      "url": "https://www.businessinsider.com/accel-to-lead-funding-round-for-lovable-2025-6",
-      "source": "Business Insider",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "Netflix Acquires Affleck AI Startup",
-      "description": "Major acquisition signals Big Tech consolidation in AI entertainment space.",
-      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oxeS1paEVSSHVQNU5aQlBtY0ppZ0FQAQ",
-      "source": "Google News",
-      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "JetBrains Unveils New Async Framework for Server Apps",
-      "description": "Professional tools pack for productive development with ease in building client/server apps.",
-      "url": "https://www.jetbrains.com/products/",
-      "source": "JetBrains",
+      "title": "Awesome AI Agents 2026 Curated List Released",
+      "description": "Definitive GitHub list of AI models, agent frameworks, tools and protocols for the year agents went mainstream.",
+      "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026",
+      "source": "GitHub",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "Top AI Agent Tools & Frameworks for 2026",
+      "description": "New analytics report highlights leading frameworks for building autonomous AI applications.",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/top-ai-agent-tools-and-frameworks-for-developers-in-2026",
+      "source": "Analytics Insight",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Apple Expands Swift Frameworks for VisionOS & AI Dev",
-      "description": "New APIs and frameworks for iOS, macOS, visionOS enabling cross-platform AI apps.",
-      "url": "https://developer.apple.com/technologies/",
-      "source": "Apple Developer",
-      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
-    },
-    {
-      "title": "Microsoft Azure AI Dev Resources Launch",
-      "description": "New developer resources for Azure AI solutions, M365 interoperability.",
-      "url": "https://developer.microsoft.com/",
-      "source": "Microsoft",
+      "title": "Major AI Tools Launches & Pricing Updates",
+      "description": "Comprehensive tracking of 2026 AI tool announcements, model releases and acquisitions.",
+      "url": "https://toolchase.com/blog/ai-tools-news-2026/",
+      "source": "ToolChase",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "7 Explosive AI Updates in May 2026",
-      "description": "Government regulation shifts, Anthropic rise, AI agents replacing apps — must-know for founders.",
-      "url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/",
-      "source": "IM Founder",
-      "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=60"
+      "title": "Big Tech Antitrust & AI Regulation Updates",
+      "description": "Ongoing lawsuits and global regulation developments shaping AI competition in 2026.",
+      "url": "https://www.tycoonstory.com/antitrust-tech-news-today/",
+      "source": "Tycoon Story",
+      "image_url": "https://images.unsplash.com/photo-1451187589759-c2058c1a0c12?w=600&q=60"
     },
     {
-      "title": "Global AI Regulations Guide 2026",
-      "description": "Complete comparison of EU, US, UK, China rules with compliance steps.",
-      "url": "https://gdprlocal.com/ai-regulations-around-the-world/",
-      "source": "GDPR Local",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
+      "title": "Energy Sector Booms from AI Power Demand",
+      "description": "Electric power industry sees massive growth as AI data centers drive unprecedented electricity needs.",
+      "url": "https://www.politico.com/news/magazine/2025/08/05/energy-industry-ai-boom-debra-kahn-column-00492879",
+      "source": "POLITICO",
+      "image_url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=60"
     },
     {
-      "title": "Big Tech AI Moves & Regulation Trends",
-      "description": "Latest on OpenAI, Anthropic, Google DeepMind and open-source ecosystem shifts.",
-      "url": "https://www.buildfastwithai.com/blogs/collection/ai-industry-news-trends",
-      "source": "Build Fast With AI",
-      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
+      "title": "Global Big Tech Regulation Intensifies",
+      "description": "Governments worldwide advance new rules targeting AI and cloud dominance.",
+      "url": "https://economictimes.indiatimes.com/topic/big-tech-regulation",
+      "source": "Economic Times",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "ggml.ai Joins Hugging Face for Local AI Future",
-      "description": "llama.cpp creators join HF to secure long-term open local AI development.",
-      "url": "https://sesamedisk.com/ggml-hugging-face-local-ai/",
-      "source": "Sesame Disk",
+      "title": "Hugging Face Releases Open Source Deep Research Agent",
+      "description": "24-hour hackathon produces agent nearly matching OpenAI’s Deep Research capabilities.",
+      "url": "https://arstechnica.com/ai/2025/02/after-24-hour-hackathon-hugging-faces-ai-research-agent-nearly-matches-openais-solution/",
+      "source": "Ars Technica",
       "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Hugging Face Expands 2M+ Models Repository",
-      "description": "Browse and deploy open-source models across text, image, video, audio modalities.",
-      "url": "https://huggingface.co/",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "New Open-Source AI Projects Roundup May 2026",
+      "description": "Fresh model releases and open source tools highlighted in latest community roundup.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "Top Open-Source AI Projects & Model Releases",
-      "description": "Key stories on model releases, open-source tools and acquisitions from X and sources.",
-      "url": "https://www.linkedin.com/pulse/breaking-ai-model-releases-open-source-projects-tech-top-ricky-2k0ic",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
+      "title": "LangChain + Hugging Face Partner Package Launched",
+      "description": "New Python package brings powerful Hugging Face integration to LangChain ecosystem.",
+      "url": "https://www.youtube.com/watch?v=bFB4zqkcatU",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ]
 }
