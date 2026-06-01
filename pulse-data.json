@@ -1,117 +1,27 @@
 {
   "ai": [
-    {
-      "title": "Gemini 3.1 Pro Released by Google",
-      "description": "Google unveils Gemini 3.1 Pro with major intelligence upgrades rolling out across products.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "CVPR 2026 Receives 16,000+ Paper Submissions",
-      "description": "Record submissions highlight advances in agentic AI and technical breakthroughs.",
-      "url": "https://cvpr.thecvf.com/Conferences/2026/News/Technical_Program",
-      "source": "CVPR",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "GPT-5.5 Launch by OpenAI",
-      "description": "OpenAI releases its smartest and most intuitive model yet in May 2026.",
-      "url": "https://blog.mean.ceo/new-ai-model-releases-news-may-2026/",
-      "source": "Mean CEO",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
-    }
+    {"title": "Claude Opus 4.8 Released by Anthropic", "description": "Anthropic unveils Claude Opus 4.8 with major reasoning improvements and 2M context window.", "url": "https://aireleasetracker.com/latest", "source": "AI Release Tracker", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
+    {"title": "2026 Breakthrough in Reliable AI World Models", "description": "NextBigFuture reports 2026 as breakthrough year for world models and continual learning.", "url": "https://www.nextbigfuture.com/2026/04/2026-is-breakthrough-year-for-reliable-ai-world-models-and-continual-learning-prototypes.html", "source": "NextBigFuture", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
+    {"title": "New AI Models 2026 - Latest Releases", "description": "Track frontier models from OpenAI, Google DeepMind, xAI and more in 2026.", "url": "https://lmmarketcap.com/new-ai-models", "source": "LM Market Cap", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
   ],
   "funding": [
-    {
-      "title": "Anthropic Nears $1 Trillion Valuation",
-      "description": "Anthropic tops OpenAI as most valuable AI startup after latest massive round.",
-      "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
-      "source": "CNBC",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
-    },
-    {
-      "title": "Q1 2026 AI Funding Hits $300B Record",
-      "description": "Venture funding shatters records as AI boom drives global startup investment.",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "source": "Crunchbase",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "Shield AI Raises $1.5B Series G",
-      "description": "Defense AI company secures major funding led by Advent and JPMorgan.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    }
+    {"title": "Shield AI Secures $1.5B Series G", "description": "Shield AI raises $1.5 billion led by Advent International and JPMorgan Chase.", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"},
+    {"title": "Q1 2026 AI Funding Hits Record $300B", "description": "Venture funding shatters records as AI boom pushes startup investment to $300B globally.", "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/", "source": "Crunchbase", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"},
+    {"title": "April 2026: Third-Highest Funding Month", "description": "Global venture funding reaches $56B in April, up 100% YoY.", "url": "https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/", "source": "Crunchbase", "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "Stitch AI: Google's New UI Generator",
-      "description": "Free AI tool from Google creates stunning mobile and web UIs instantly.",
-      "url": "https://www.youtube.com/watch?v=xX15HwJWtDU",
-      "source": "Google",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
-    },
-    {
-      "title": "MediaPipe Framework Updates",
-      "description": "Google enhances AI Edge tools for on-device ML development.",
-      "url": "https://ai.google.dev/edge/mediapipe/framework",
-      "source": "Google AI",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
-    },
-    {
-      "title": "Stack Overflow Survey: AI Coding Tools Adoption",
-      "description": "Developers use AI tools more but trust them less according to latest survey.",
-      "url": "https://www.theregister.com/software/2025/07/29/coders-using-ai-tools-more-trusting-less-stackoverflow/500701",
-      "source": "The Register",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    }
+    {"title": "JetBrains Expands AI Developer Suite", "description": "New tools for productive development including async frameworks and AI integrations.", "url": "https://www.jetbrains.com/products/", "source": "JetBrains", "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"},
+    {"title": "Microsoft Build 2026: AI Workflows Focus", "description": "Deep dives into real code, systems, and scaling AI at Microsoft Build.", "url": "https://developer.microsoft.com/", "source": "Microsoft", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
+    {"title": "AI Demands More Developers, Not Fewer", "description": "InfoWorld: AI tools explode coding demand, requiring more skilled developers.", "url": "https://www.infoworld.com/article/3955073/ai-will-require-more-software-developers-not-fewer.html", "source": "InfoWorld", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "Trump AI Executive Order Favors Big Tech",
-      "description": "President reverses safety review calls, giving tech companies green light.",
-      "url": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
-      "source": "The Guardian",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    },
-    {
-      "title": "Global AI Regulation Updates",
-      "description": "Big Tech pushes forward amid evolving EU and US regulatory landscapes.",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/",
-      "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
-    },
-    {
-      "title": "Anthropic Tops Valuations",
-      "description": "AI race intensifies with record valuations and IPO preparations.",
-      "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
-      "source": "CNBC",
-      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
-    }
+    {"title": "US Shifts to Aggressive AI Regulation", "description": "From hands-off to FDA-style pre-release vetting proposed in May 2026.", "url": "https://medium.com/@macplanet2012/it-took-one-ai-model-one-week-to-reverse-the-most-hands-off-tech-policy-in-the-world-5cbf92fdd503", "source": "Medium", "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"},
+    {"title": "Africa AI Regulation Map 2026", "description": "Nigeria leads among Big Four with binding AI legislation trajectory.", "url": "https://techmoonshot.com/2026/05/26/africa-ai-regulation-2026-a-country-by-country-map-of-whos-ahead-and-whos-stalling/", "source": "Techmoonshot", "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"},
+    {"title": "Tech Layoffs: 80K in Q1 2026, Half AI-Driven", "description": "Nearly 50% of cuts attributed to AI automation per Tom's Hardware.", "url": "https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai", "source": "Tom's Hardware", "image_url": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&q=60"}
   ],
   "oss": [
-    {
-      "title": "Hugging Face Releases Small Language Model",
-      "description": "New 1.7B model beats Qwen and Llama in most benchmarks; smaller variants too.",
-      "url": "https://the-decoder.com/hugging-face-releases-small-language-model-that-beats-qwen-and-llama-most-of-the-time/",
-      "source": "The Decoder",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    },
-    {
-      "title": "ByteDance MegaTTS3 on Hugging Face",
-      "description": "Breakthrough text-to-speech model released openly on the platform.",
-      "url": "https://www.aibase.com/news/16821",
-      "source": "AI Base",
-      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d2f0d0c?w=600&q=60"
-    },
-    {
-      "title": "IBM & NASA Open-Source Heliophysics Model",
-      "description": "Groundbreaking solar weather prediction model released on Hugging Face.",
-      "url": "https://newsroom.ibm.com/2025-08-20-ibm-and-nasa-release-groundbreaking-open-source-ai-model-on-hugging-face-to-predict-solar-weather-and-help-protect-critical-technology",
-      "source": "IBM Newsroom",
-      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
-    }
+    {"title": "DeepSeek-V4-Pro on Hugging Face", "description": "862B parameter text generation model updated 26 days ago.", "url": "https://huggingface.co/models", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"},
+    {"title": "State of Open Source AI Spring 2026", "description": "Chinese orgs invest heavily in open source infrastructure and domestic chips.", "url": "https://www.libertify.com/interactive-library/state-open-source-ai-hugging-face-spring-2026/", "source": "Libertify", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"},
+    {"title": "Mind-Blowing Hugging Face AI Projects", "description": "7 projects set to change development workflows in 2026.", "url": "https://www.youtube.com/watch?v=kl9ieJGYWnA", "source": "YouTube", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"}
   ]
 }
