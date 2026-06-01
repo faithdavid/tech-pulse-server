@@ -1,110 +1,27 @@
 {
   "ai": [
-    {
-      "title": "Claude Opus 4.8 Released by Anthropic",
-      "description": "Anthropic launches Claude Opus 4.8 with major reasoning upgrades and 2M context window.",
-      "url": "https://aireleasetracker.com/latest",
-      "source": "AI Release Tracker",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "Gemini 3.5 Flash and Qwen 3.7 Max Drop",
-      "description": "Google and Alibaba release new frontier models with improved speed and multilingual capabilities.",
-      "url": "https://codersera.com/blog/ai-model-releases-may-2026-roundup/",
-      "source": "Codersera",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "GPT-5.5 and Gemma 4 Launch Roundup",
-      "description": "OpenAI and Google push new models with subquadratic scaling breakthroughs.",
-      "url": "https://aitoolsrecap.com/blog/ai-model-releases-may-2026-what-to-expect",
-      "source": "AIToolsRecap",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
-    }
+    {"title": "MiniMax M2.5 Rivals Claude Opus", "description": "Chinese model matches top performance at 1/10th cost", "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026", "source": "Devflokers", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
+    {"title": "Google Gemini 3 & Gemma 3 Breakthroughs", "description": "Major advances in reasoning and multimodality", "url": "https://blog.google/innovation-and-ai/products/2025-research-breakthroughs/", "source": "Google Blog", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
+    {"title": "OpenAI 2026 Defining Year Ahead", "description": "Shift in generative AI landscape expected", "url": "https://www.linkedin.com/pulse/openai-approaching-its-most-defining-year-yet-what-2026-mano-jay-iy7nc", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
   ],
   "funding": [
-    {
-      "title": "Cognition AI Raises $1B at $26B Valuation",
-      "description": "Coding AI startup hits unicorn status with massive round to fund model enhancements and acquisitions.",
-      "url": "https://www.linkedin.com/news/story/cognition-ai-hits-26b-valuation-with-1b-funding-round-7302444/",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "Polsia Secures $30M with Zero Employees",
-      "description": "AI startup Polsia raises $30M at $250M valuation, fully autonomous operations.",
-      "url": "https://en.ain.ua/2026/05/25/ai-startup-polsia-with-no-employees-raised-30m-in-funding/",
-      "source": "AIN",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
-    },
-    {
-      "title": "Netflix Acquires Affleck AI Startup",
-      "description": "Netflix moves into AI content generation with strategic acquisition.",
-      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oxeS1paEVSSHVQNU5aQlBtY0ppZ0FQAQ",
-      "source": "Google News",
-      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
-    }
+    {"title": "AI Funding Hits $212B in 2025", "description": "85% YoY surge, surpassing all prior years", "url": "https://news.crunchbase.com/sections/ai/", "source": "Crunchbase", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"},
+    {"title": "Massive 2026 AI VC Deals Surge", "description": "Global investments accelerate for AI startups", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"},
+    {"title": "AI Startups Rake in Huge Rounds", "description": "2025 funding boom continues into 2026", "url": "https://techannouncer.com/latest-ai-startup-news-funding-innovations-and-acquisitions-in-2025/", "source": "TechAnnouncer", "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "OpenAI Launches Codex Cloud Agent",
-      "description": "New software engineering agent Codex-1 handles parallel tasks for Pro users.",
-      "url": "https://openai.com/index/introducing-codex/",
-      "source": "OpenAI",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "JetBrains & Microsoft AI Dev Tools Update",
-      "description": "Major updates to developer suites integrating advanced AI coding assistance.",
-      "url": "https://www.jetbrains.com/products/",
-      "source": "JetBrains",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
-    }
+    {"title": "Claude Code & Cursor Agent Features", "description": "New terminal-first and agentic coding tools", "url": "https://pecollective.com/blog/ai-tools-for-developers-2026/", "source": "Pecollective", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
+    {"title": "Top AI Dev Tools 2026 Ranked", "description": "Copilot, Tabnine, LangChain lead productivity", "url": "https://theaiforest.com/top-ai-developer-tools-developers-need-in-2026/", "source": "AI Forest", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
+    {"title": "Autonomous Execution Systems Emerge", "description": "April 2026 trends beyond copilots", "url": "https://medium.com/@visrow/the-biggest-ai-trends-and-tools-emerging-in-april-2026-8a491e6d546f", "source": "Medium", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "AI Regulation Wave Hits 2026 Globally",
-      "description": "EU AI Act enforcement and US state laws ramp up with 145 new bills enacted.",
-      "url": "https://www.onetrust.com/blog/where-ai-regulation-is-heading-in-2026-a-global-outlook/",
-      "source": "OneTrust",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
-    },
-    {
-      "title": "Big Tech Braces for Federal AI Rules",
-      "description": "Congress pressure mounts for comprehensive AI legislation after record state activity.",
-      "url": "https://www.pymnts.com/news/regulation/2026/busy-year-in-big-tech-regulation-may-have-been-a-warm-up-for-2026/",
-      "source": "PYMNTS",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    },
-    {
-      "title": "SB 53 Transparency Law Takes Effect",
-      "description": "California mandates safety reporting for major AI companies starting 2026.",
-      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
-      "source": "The Verge",
-      "image_url": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&q=60"
-    }
+    {"title": "May 2026 AI Regulation Updates", "description": "US state laws, EU AI Act compliance push", "url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/", "source": "IMFounder", "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"},
+    {"title": "Trump EO & Colorado AI Frameworks", "description": "Key 2026 regulatory guidance released", "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance", "source": "Gunder", "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"},
+    {"title": "Big Tech AI Agent Replacements", "description": "Anthropic rise and app-disrupting agents", "url": "https://iabrief.com/en/us-ai-regulation-2026/", "source": "IABrief", "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"}
   ],
   "oss": [
-    {
-      "title": "ggml.ai Joins Hugging Face for Local AI",
-      "description": "Major milestone for open local inference with full Hugging Face integration.",
-      "url": "https://sesamedisk.com/ggml-hugging-face-local-ai/",
-      "source": "Sesame Disk",
-      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
-    },
-    {
-      "title": "Open-R1 Project Launches on Hugging Face",
-      "description": "Researchers open-source DeepSeek R1 reasoning model with full training data.",
-      "url": "https://techcrunch.com/2025/01/28/hugging-face-researchers-are-trying-to-build-a-more-open-version-of-deepseeks-ai-reasoning-model/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "Hugging Face Hosts 255 New Models in Q1 2026",
-      "description": "Explosive growth in open-source releases closing gap with proprietary models.",
-      "url": "https://www.buildfastwithai.com/blogs/best-ai-models-april-2026",
-      "source": "BuildFastWithAI",
-      "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=60"
-    }
+    {"title": "DeepSeek-V4-Pro on Hugging Face", "description": "862B parameter open model released", "url": "https://huggingface.co/models", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
+    {"title": "China Hits 10B OSS Model Downloads", "description": "41% global share led by Qwen ecosystem", "url": "https://www.linkedin.com/posts/simone-cheli_state-of-open-source-on-hugging-face-spring-activity-7454777546363056128-JvvH", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b01?w=600&q=60"},
+    {"title": "LangChain + Hugging Face Partnership", "description": "New langchain_huggingface package launched", "url": "https://www.youtube.com/watch?v=bFB4zqkcatU", "source": "YouTube", "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"}
   ]
 }
