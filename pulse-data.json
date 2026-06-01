@@ -1,27 +1,117 @@
 {
   "ai": [
-    {"title": "MiniMax M2.5 Rivals Claude Opus", "description": "Chinese model matches top performance at 1/10th cost", "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026", "source": "Devflokers", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
-    {"title": "Google Gemini 3 & Gemma 3 Breakthroughs", "description": "Major advances in reasoning and multimodality", "url": "https://blog.google/innovation-and-ai/products/2025-research-breakthroughs/", "source": "Google Blog", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
-    {"title": "OpenAI 2026 Defining Year Ahead", "description": "Shift in generative AI landscape expected", "url": "https://www.linkedin.com/pulse/openai-approaching-its-most-defining-year-yet-what-2026-mano-jay-iy7nc", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
+    {
+      "title": "MiniMax M2.5 Challenges Claude Opus",
+      "description": "China's MiniMax releases M2.5 rivaling top models at 1/10th cost.",
+      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
+      "source": "Devflokers",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "IBM NASA Solar Weather AI Model",
+      "description": "Open-source foundation model for solar activity prediction on Hugging Face.",
+      "url": "https://newsroom.ibm.com/2025-08-20-ibm-and-nasa-release-groundbreaking-open-source-ai-model-on-hugging-face-to-predict-solar-weather-and-help-protect-critical-technology",
+      "source": "IBM Newsroom",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+    },
+    {
+      "title": "Top AI Papers & Breakthroughs 2026",
+      "description": "Latest research highlights from Towards AI newsletter.",
+      "url": "https://pub.towardsai.net/your-guide-to-ai-breakthroughs-and-insights-2025-e68038974e25",
+      "source": "Towards AI",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    }
   ],
   "funding": [
-    {"title": "AI Funding Hits $212B in 2025", "description": "85% YoY surge, surpassing all prior years", "url": "https://news.crunchbase.com/sections/ai/", "source": "Crunchbase", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"},
-    {"title": "Massive 2026 AI VC Deals Surge", "description": "Global investments accelerate for AI startups", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"},
-    {"title": "AI Startups Rake in Huge Rounds", "description": "2025 funding boom continues into 2026", "url": "https://techannouncer.com/latest-ai-startup-news-funding-innovations-and-acquisitions-in-2025/", "source": "TechAnnouncer", "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"}
+    {
+      "title": "Q1 2026 AI Funding Hits $300B Record",
+      "description": "Venture funding shatters records as AI boom continues.",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "source": "Crunchbase",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "Eclipse Raises $1.3B for Physical AI",
+      "description": "New fund targets manufacturing and defense applications.",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+    },
+    {
+      "title": "April Funding Reaches $56B",
+      "description": "Third-highest month with big AI rounds from Anthropic, xAI.",
+      "url": "https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/",
+      "source": "Crunchbase",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "Claude Code & Cursor Agent Features", "description": "New terminal-first and agentic coding tools", "url": "https://pecollective.com/blog/ai-tools-for-developers-2026/", "source": "Pecollective", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
-    {"title": "Top AI Dev Tools 2026 Ranked", "description": "Copilot, Tabnine, LangChain lead productivity", "url": "https://theaiforest.com/top-ai-developer-tools-developers-need-in-2026/", "source": "AI Forest", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
-    {"title": "Autonomous Execution Systems Emerge", "description": "April 2026 trends beyond copilots", "url": "https://medium.com/@visrow/the-biggest-ai-trends-and-tools-emerging-in-april-2026-8a491e6d546f", "source": "Medium", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"}
+    {
+      "title": "Best AI Agents Frameworks 2026",
+      "description": "DataCamp compares top agentic automation platforms.",
+      "url": "https://www.datacamp.com/blog/best-ai-agents",
+      "source": "DataCamp",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "Top Dev Tools for 2026",
+      "description": "New code editors, IDEs and AI-powered developer suites.",
+      "url": "https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7414714231758962688-IMRX",
+      "source": "LinkedIn",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=60"
+    },
+    {
+      "title": "AI Tools for Developers Roundup",
+      "description": "15 free and paid picks for smarter app building.",
+      "url": "https://www.openxcell.com/blog/ai-tools-for-developers/",
+      "source": "Openxcell",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "May 2026 AI Regulation Updates", "description": "US state laws, EU AI Act compliance push", "url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/", "source": "IMFounder", "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"},
-    {"title": "Trump EO & Colorado AI Frameworks", "description": "Key 2026 regulatory guidance released", "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance", "source": "Gunder", "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"},
-    {"title": "Big Tech AI Agent Replacements", "description": "Anthropic rise and app-disrupting agents", "url": "https://iabrief.com/en/us-ai-regulation-2026/", "source": "IABrief", "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"}
+    {
+      "title": "Big Tech Pushes Back on EU AI Rules",
+      "description": "US tech giants ask Trump admin to counter EU regulations.",
+      "url": "https://www.euractiv.com/news/big-tech-is-asking-trump-to-fight-eu-ai-regulation/",
+      "source": "Euractiv",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    },
+    {
+      "title": "Antitrust Scrutiny on AI Giants",
+      "description": "Ongoing investigations into Big Tech market control.",
+      "url": "https://www.tycoonstory.com/antitrust-tech-news-today/",
+      "source": "Tycoon Story",
+      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=60"
+    },
+    {
+      "title": "Chinese AI Workers Train Digital Doubles",
+      "description": "Emerging trends in AI workforce automation.",
+      "url": "https://www.technologyreview.com/",
+      "source": "MIT Tech Review",
+      "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=60"
+    }
   ],
   "oss": [
-    {"title": "DeepSeek-V4-Pro on Hugging Face", "description": "862B parameter open model released", "url": "https://huggingface.co/models", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
-    {"title": "China Hits 10B OSS Model Downloads", "description": "41% global share led by Qwen ecosystem", "url": "https://www.linkedin.com/posts/simone-cheli_state-of-open-source-on-hugging-face-spring-activity-7454777546363056128-JvvH", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b01?w=600&q=60"},
-    {"title": "LangChain + Hugging Face Partnership", "description": "New langchain_huggingface package launched", "url": "https://www.youtube.com/watch?v=bFB4zqkcatU", "source": "YouTube", "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"}
+    {
+      "title": "State of Open Source AI Spring 2026",
+      "description": "Hugging Face report on massive growth in open models.",
+      "url": "https://www.libertify.com/interactive-library/state-open-source-ai-hugging-face-spring-2026/",
+      "source": "Libertify",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    },
+    {
+      "title": "Hugging Face Model Surge",
+      "description": "Over 2.9M models hosted with Chinese infrastructure push.",
+      "url": "https://huggingface.co/models",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
+    },
+    {
+      "title": "Top Open Source AI Projects",
+      "description": "Breaking releases and standout projects on HF.",
+      "url": "https://www.linkedin.com/pulse/breaking-ai-model-releases-open-source-projects-tech-top-ricky-2k0ic",
+      "source": "LinkedIn",
+      "image_url": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=600&q=60"
+    }
   ]
 }
