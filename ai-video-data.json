@@ -1,98 +1,105 @@
 {
   "filmschool": [
     {
-      "title": "AI Films in 2026: A Beginner’s Guide",
-      "description": "Explore how AI films are transforming filmmaking in 2026 with AI video generation, scriptwriting, editing tools.",
-      "url": "https://two99.org/blog/ai-films-in-2026-a-beginners-guide-to-ai-filmmaking/",
-      "source": "Two99",
+      "title": "How to make a film using AI tools in 2026",
+      "description": "From concept art to sound design, a growing set of AI tools is being tested by filmmakers.",
+      "url": "https://interestingengineering.com/ai-robotics/ai-tools-filmmaking-movies",
+      "source": "Interesting Engineering",
       "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     },
     {
-      "title": "Introducing Flow: Google’s AI filmmaking tool",
-      "description": "Google introduces Flow, new AI filmmaking tool built for Veo, Imagen and Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/google-flow-veo-ai-filmmaking-tool/",
-      "source": "Google Blog",
+      "title": "Confluence of Generative AI and the Art of Filmmaking",
+      "description": "How generative AI is transforming independent filmmaking as a new visualization tool.",
+      "url": "https://dac.siggraph.org/sparks/2026-04-24_confluence-of-generative-ai-and-the-art-of-filmmaking/",
+      "source": "SIGGRAPH",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "AI Video Trends 2026: 10 Predictions",
-      "description": "Industry experts share 10 predictions for AI video trends in 2026.",
-      "url": "https://www.pixelmotion.io/blog/ai-video-trends-2026-predictions",
-      "source": "PixelMotion",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "YouTube CEO Neal Mohan’s 2026 Letter",
+      "description": "Latest company news, AI safeguards, and parental controls at YouTube.",
+      "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/",
+      "source": "YouTube Blog",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     },
     {
-      "title": "AI Startups Raised $364 Billion in May 2026",
-      "description": "AI startups raised $364 billion across 347 VC deals in May 2026.",
-      "url": "https://af.net/realtime/ai-startups-raised-364-billion-in-may-2026-vc-funding-breakdown/",
-      "source": "AF.net",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Nvidia and Microsoft tease new era of PC",
+      "description": "AI potential in upcoming Windows on Arm systems ahead of Computex 2026.",
+      "url": "https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems",
+      "source": "Tom's Hardware",
+      "image_url": "https://images.unsplash.com/photo-1593062096033-9a26b09da705?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Try Veo 3 Free – Google’s Veo 3 AI Video Generator",
-      "description": "Google's Veo 3 AI video generator now available free via Videomaker.me.",
-      "url": "https://videomaker.me/",
-      "source": "Videomaker",
-      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f6d6?w=600&q=60"
+      "title": "Photo and Image to Video Generator - Veo AI Free",
+      "description": "100% free, no-login AI video platform built on Google’s VEO 3.1.",
+      "url": "https://veoaifree.com/photo-and-image-to-video-generator/",
+      "source": "Veo AI Free",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
     },
     {
-      "title": "Pollo AI: Ultimate AI Video & Image Platform",
-      "description": "Pollo AI launches all-in-one platform for text-to-video and image-to-video.",
-      "url": "https://pollo.ai/",
-      "source": "Pollo AI",
+      "title": "MiniMax Video-01 Revolutionizing AI Video Generation",
+      "description": "Latest AI video generator offering high-quality text-to-video creation.",
+      "url": "https://writingmate.ai/blog/access-minimax-video-01-ai",
+      "source": "Writingmate",
       "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+    },
+    {
+      "title": "All-in-One AI Video Tools",
+      "description": "Complete hub of AI video creators covering text-to-video and more.",
+      "url": "https://www.lumeflow.ai/video-tools/",
+      "source": "Lumeflow",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "AI Motion Graphics Use Cases | Hera",
-      "description": "AI motion graphics for product launches, workflow explanations, and charts.",
-      "url": "https://hera.video/use-cases",
-      "source": "Hera",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "Hailuo AI Video Generator",
+      "description": "Create videos of kids performing hand dances from photos.",
+      "url": "https://hailuoai.video/",
+      "source": "Hailuo AI",
+      "image_url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=600&q=60"
     },
     {
-      "title": "AI Reaction Video Generator",
-      "description": "New AI tool for creating viral reaction videos for creators.",
-      "url": "https://www.hooked.so/tools/ai-reaction-video-generator",
-      "source": "Hooked",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "Viral GUGUGAGA AI Videos",
+      "description": "Creating viral AI video trends with specific styles.",
+      "url": "https://www.youtube.com/watch?v=I37u89XS4OM",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1492725764893-90b379c2b6e7?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "AI Student Discounts 2026",
-      "description": "Verified list of AI tool discounts for students including video tools.",
-      "url": "https://krater.ai/blog/ai-student-discounts-2026",
-      "source": "Krater",
-      "image_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&q=60"
+      "title": "Vidnoz Image to Video AI Free",
+      "description": "One free video generation per day, no login required.",
+      "url": "https://www.vidnoz.com/image-to-video-ai.html",
+      "source": "Vidnoz",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "Best Free AI Tools in 2026",
-      "description": "DataCamp highlights top free AI video generation tools.",
-      "url": "https://www.datacamp.com/blog/free-ai-tools",
-      "source": "DataCamp",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "LockedIn AI 10% Off Coupon",
+      "description": "AI-assisted discount available in May 2026.",
+      "url": "https://www.colormango.com/product/lockedin-ai_156061.html",
+      "source": "ColorMango",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Best AI Art Showcases 2026",
-      "description": "Top cinematic AI videos for art and design showcases using Mootion 4.0.",
-      "url": "https://www.mootion.com/use-cases/en/collection/top-ai-videos-for-art-and-design-showcases",
-      "source": "Mootion",
-      "image_url": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=600&q=60"
+      "title": "The 16 Best AI Video Generators in 2026",
+      "description": "Tested and reviewed best AI video models for creative projects.",
+      "url": "https://www.synthesia.io/post/best-ai-video-generators",
+      "source": "Synthesia",
+      "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"
     },
     {
-      "title": "AI-Generated Promotional Videos Showcase",
-      "description": "Creative portfolio examples of fully AI-generated promotional videos.",
-      "url": "https://contra.com/community/4p7Hk022-ai-generated-promotional-videos-for-portfolio-showcase",
-      "source": "Contra",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99b4d5d0d?w=600&q=60"
+      "title": "Top Dhurandhar AI Video Prompts",
+      "description": "Unique AI video prompts inspired by viral movie trends.",
+      "url": "https://pixpretty.tenorshare.ai/ai-insights/dhurandhar-ai-video-prompts.html",
+      "source": "Tenorshare",
+      "image_url": "https://images.unsplash.com/photo-1517604931443-8f8c8f8f8f8f?w=600&q=60"
     }
   ]
 }
