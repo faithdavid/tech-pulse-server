@@ -1,32 +1,119 @@
 {
   "filmschool": [
-    {"title": "How to make a film using AI tools in 2026", "description": "From concept art to sound design, a growing set of AI tools is being tested by filmmakers.", "url": "https://interestingengineering.com/ai-robotics/ai-tools-filmmaking-movies", "source": "Interesting Engineering", "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"},
-    {"title": "Rethinking Filmmaking Education Through Generative AI", "description": "Educators are rethinking filmmaking education through generative AI at SIGGRAPH.", "url": "https://blog.siggraph.org/2026/04/ai-and-filmmaking.html/", "source": "SIGGRAPH", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"},
-    {"title": "The 16 Best AI Video Generators in 2026", "description": "Tested 16 AI video generators for realistic, controllable video for creators.", "url": "https://www.synthesia.io/post/best-ai-video-generators", "source": "Synthesia", "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"}
+    {
+      "title": "AI Films in 2026: A Beginner’s Guide to AI Filmmaking",
+      "description": "AI films are transforming filmmaking through AI video generation, scriptwriting, editing, and visual effects automation. AI filmmaking tools are making movie production faster, cheaper, and more accessible for beginner creators.",
+      "url": "https://two99.org/blog/ai-films-in-2026-a-beginners-guide-to-ai-filmmaking/",
+      "source": "Two99",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+    },
+    {
+      "title": "Unlimited AI Image to Video, Free Image to Video & AI Video...",
+      "description": "Like the Luma AI video generator or Kling AI video generator, we offer high-quality results to convert image to video online free.",
+      "url": "https://aiimagetovideo.pro/",
+      "source": "AI Image to Video",
+      "image_url": "https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?w=600&q=60"
+    },
+    {
+      "title": "Photo and Image to Video Generator - Veo AI Free",
+      "description": "VEO AI FREE The Ultimate Free AI Video & Image Generator. Tools like this democratize filmmaking.",
+      "url": "https://veoaifree.com/photo-and-image-to-video-generator/",
+      "source": "Veo AI",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "Google AI Updates April 2026", "description": "New tools like Google Vids for free video creation and Deep Research Max.", "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/", "source": "Google Blog", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"},
-    {"title": "YouTube 2026 Vision", "description": "Neal Mohan's letter on AI safeguards, parental controls, and reinventing TV.", "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/", "source": "YouTube Blog", "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"},
-    {"title": "AI Transforming China's Entertainment Industry", "description": "AI-generated microdramas taking off with celebrity likeness concerns.", "url": "https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html", "source": "NYTimes", "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"}
+    {
+      "title": "YouTube secretly used AI to edit people's videos",
+      "description": "In recent months, YouTube has secretly used artificial intelligence (AI) to tweak people's videos without letting them know or asking permission.",
+      "url": "https://www.bbc.com/future/article/20250822-youtube-is-using-ai-to-edit-videos-without-permission",
+      "source": "BBC",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+    },
+    {
+      "title": "The latest AI news we announced in April 2026 - Google Blog",
+      "description": "You can now create professional videos for free using the new Google Vids suite.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "Seedance 2.0 Video Generator", "description": "Democratizing filmmaking with AI video from single creative sentence.", "url": "https://veoaifree.com/seedance-2-0-video-generator-free/", "source": "Veo AI Free", "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"},
-    {"title": "Video GPT by VEED", "description": "Automatic video creator from text prompts with stock footage and subtitles.", "url": "https://www.veed.io/tools/video-gpt", "source": "VEED", "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"},
-    {"title": "LumeFlow All-in-One AI Video Tools", "description": "Text & Image to Video for social posts, promos, and storytelling.", "url": "https://www.lumeflow.ai/video-tools/", "source": "LumeFlow", "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"}
+    {
+      "title": "The 17 best AI video generators in 2026 - Zapier",
+      "description": "We tested dozens of AI video generators, and these are the best tools to create, edit, and enhance videos using AI.",
+      "url": "https://zapier.com/blog/best-ai-video-generator/",
+      "source": "Zapier",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+    },
+    {
+      "title": "List of New AI Tools & Latest Software Products | 2026",
+      "description": "New tools like VmakeAI for UGC videos and more AI releases.",
+      "url": "https://www.aixploria.com/en/last-ai/",
+      "source": "AIxploria",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    },
+    {
+      "title": "I Tried Every 2026 AI Video Generator (These Win)",
+      "description": "Real side-by-side results using the same prompts to compare tools.",
+      "url": "https://www.youtube.com/watch?v=_m7rI6RZkSc",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1533750349088-cd0c1ee759b7?w=600&q=60"
+    }
   ],
   "niches": [
-    {"title": "Photo to Video Generator", "description": "Instant videos from photos with free Image to Video Generator.", "url": "https://veoaifree.com/photo-and-image-to-video-generator/", "source": "Veo AI Free", "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"},
-    {"title": "Viral GUGUGAGA AI Videos", "description": "Creating viral AI video content trends.", "url": "https://www.youtube.com/watch?v=I37u89XS4OM", "source": "YouTube", "image_url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?w=600&q=60"},
-    {"title": "YouTube Niches for High Growth 2026", "description": "54 profitable YouTube niches with high growth potential.", "url": "https://vidiq.com/blog/post/best-youtube-niches/", "source": "vidIQ", "image_url": "https://images.unsplash.com/photo-1611162616305-c0d07c6f1f1a?w=600&q=60"}
+    {
+      "title": "Faceless YouTube Shorts with AI: 10 Niches That Still Work in 2026",
+      "description": "This guide breaks down 10 faceless niches that still work and how to power them with Text2Shorts, Veo3, and AI thumbnails.",
+      "url": "https://miraflow.ai/blog/faceless-youtube-shorts-ai-niches-2026",
+      "source": "Miraflow",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+    },
+    {
+      "title": "Best Faceless YouTube Niches & Channel Ideas in 2026",
+      "description": "This guide covers 100 proven faceless channel ideas organized by niche, CPM data, AI tool recommendations.",
+      "url": "https://outlierkit.com/resources/faceless-youtube-channels/",
+      "source": "OutlierKit",
+      "image_url": "https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?w=600&q=60"
+    }
   ],
   "offers": [
-    {"title": "AI Student Discounts 2026", "description": "Verified discounts for ChatGPT, Claude, Gemini, Adobe and more.", "url": "https://krater.ai/blog/ai-student-discounts-2026", "source": "Krater", "image_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&q=60"},
-    {"title": "Runway AI Pricing from $12/month", "description": "Flexible plans for AI video generation with credits.", "url": "https://runwayml.com/pricing", "source": "Runway", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"},
-    {"title": "Invideo AI Pricing", "description": "Access 200+ models including Seedance 2.0, Veo 3.1, Kling 3.0.", "url": "https://invideo.io/pricing/", "source": "Invideo", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
+    {
+      "title": "Gemini Student Discount 2026: Get Google AI Pro for Free",
+      "description": "Google's year-long free Gemini offer for students ended in January 2026, but there's still a 1-month free trial of Google AI Pro available right now.",
+      "url": "https://opentherank.com/ai-pricing/gemini/student-discount/",
+      "source": "OpenTheRank",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "Image to Video AI Free: AI Photo to Video Free No Login",
+      "description": "Vidnoz Gen Image to Video offers one free video generation per day.",
+      "url": "https://www.vidnoz.com/image-to-video-ai.html",
+      "source": "Vidnoz",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+    }
   ],
   "inspire": [
-    {"title": "AIF 2026 AI Festival", "description": "Celebration of art and artists embracing AI tools for creative work.", "url": "https://aif.runwayml.com/", "source": "Runway AIF", "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"},
-    {"title": "Creative Use of AI at One Show 2026", "description": "Groundbreaking AI integration in work for brands and agencies.", "url": "https://oneshow.org/categories/creative-use-of-ai/", "source": "The One Show", "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"},
-    {"title": "LTX Studio AI Video Production", "description": "All-in-one generative AI platform for high-quality professional videos.", "url": "https://ltx.studio/", "source": "LTX Studio", "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"}
+    {
+      "title": "Мой СОН AI COVER | Cinematic Music Video | BMAI-ART 2026",
+      "description": "Official AI-generated music video showcasing creative AI video art.",
+      "url": "https://www.youtube.com/watch?v=bVrYHyX9L5w",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "TapNow | Your Agentic Creative Canvas",
+      "description": "TapNow is the next-generation AI visual creation engine for businesses and creators. From e-commerce ads to cinematic short films and experimental art.",
+      "url": "https://app.tapnow.ai/",
+      "source": "TapNow",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+    },
+    {
+      "title": "AI Video Generator – Create Videos from Images or Text",
+      "description": "Generate motion, animate stills, and build short sequences with precision and control.",
+      "url": "https://leonardo.ai/ai-video-generator",
+      "source": "Leonardo.AI",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+    }
   ]
 }
