@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "MiniMax M2.5 Challenges Claude Opus",
-      "description": "China's MiniMax releases M2.5 rivaling top models at 1/10th cost.",
-      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
-      "source": "Devflokers",
+      "title": "Gemini 3.1 Pro Released by Google",
+      "description": "Google unveils Gemini 3.1 Pro with major intelligence upgrades rolling out across products.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "source": "Google Blog",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "IBM NASA Solar Weather AI Model",
-      "description": "Open-source foundation model for solar activity prediction on Hugging Face.",
-      "url": "https://newsroom.ibm.com/2025-08-20-ibm-and-nasa-release-groundbreaking-open-source-ai-model-on-hugging-face-to-predict-solar-weather-and-help-protect-critical-technology",
-      "source": "IBM Newsroom",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "CVPR 2026 Receives 16,000+ Paper Submissions",
+      "description": "Record submissions highlight advances in agentic AI and technical breakthroughs.",
+      "url": "https://cvpr.thecvf.com/Conferences/2026/News/Technical_Program",
+      "source": "CVPR",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Top AI Papers & Breakthroughs 2026",
-      "description": "Latest research highlights from Towards AI newsletter.",
-      "url": "https://pub.towardsai.net/your-guide-to-ai-breakthroughs-and-insights-2025-e68038974e25",
-      "source": "Towards AI",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+      "title": "GPT-5.5 Launch by OpenAI",
+      "description": "OpenAI releases its smartest and most intuitive model yet in May 2026.",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-may-2026/",
+      "source": "Mean CEO",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
+      "title": "Anthropic Nears $1 Trillion Valuation",
+      "description": "Anthropic tops OpenAI as most valuable AI startup after latest massive round.",
+      "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
+      "source": "CNBC",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+    },
+    {
       "title": "Q1 2026 AI Funding Hits $300B Record",
-      "description": "Venture funding shatters records as AI boom continues.",
+      "description": "Venture funding shatters records as AI boom drives global startup investment.",
       "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
       "source": "Crunchbase",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "Eclipse Raises $1.3B for Physical AI",
-      "description": "New fund targets manufacturing and defense applications.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
-    },
-    {
-      "title": "April Funding Reaches $56B",
-      "description": "Third-highest month with big AI rounds from Anthropic, xAI.",
-      "url": "https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/",
-      "source": "Crunchbase",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Shield AI Raises $1.5B Series G",
+      "description": "Defense AI company secures major funding led by Advent and JPMorgan.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Best AI Agents Frameworks 2026",
-      "description": "DataCamp compares top agentic automation platforms.",
-      "url": "https://www.datacamp.com/blog/best-ai-agents",
-      "source": "DataCamp",
+      "title": "Stitch AI: Google's New UI Generator",
+      "description": "Free AI tool from Google creates stunning mobile and web UIs instantly.",
+      "url": "https://www.youtube.com/watch?v=xX15HwJWtDU",
+      "source": "Google",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+    },
+    {
+      "title": "MediaPipe Framework Updates",
+      "description": "Google enhances AI Edge tools for on-device ML development.",
+      "url": "https://ai.google.dev/edge/mediapipe/framework",
+      "source": "Google AI",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "Top Dev Tools for 2026",
-      "description": "New code editors, IDEs and AI-powered developer suites.",
-      "url": "https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7414714231758962688-IMRX",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=60"
-    },
-    {
-      "title": "AI Tools for Developers Roundup",
-      "description": "15 free and paid picks for smarter app building.",
-      "url": "https://www.openxcell.com/blog/ai-tools-for-developers/",
-      "source": "Openxcell",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "Stack Overflow Survey: AI Coding Tools Adoption",
+      "description": "Developers use AI tools more but trust them less according to latest survey.",
+      "url": "https://www.theregister.com/software/2025/07/29/coders-using-ai-tools-more-trusting-less-stackoverflow/500701",
+      "source": "The Register",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Big Tech Pushes Back on EU AI Rules",
-      "description": "US tech giants ask Trump admin to counter EU regulations.",
-      "url": "https://www.euractiv.com/news/big-tech-is-asking-trump-to-fight-eu-ai-regulation/",
-      "source": "Euractiv",
+      "title": "Trump AI Executive Order Favors Big Tech",
+      "description": "President reverses safety review calls, giving tech companies green light.",
+      "url": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
+      "source": "The Guardian",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "Antitrust Scrutiny on AI Giants",
-      "description": "Ongoing investigations into Big Tech market control.",
-      "url": "https://www.tycoonstory.com/antitrust-tech-news-today/",
-      "source": "Tycoon Story",
-      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=60"
+      "title": "Global AI Regulation Updates",
+      "description": "Big Tech pushes forward amid evolving EU and US regulatory landscapes.",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "Chinese AI Workers Train Digital Doubles",
-      "description": "Emerging trends in AI workforce automation.",
-      "url": "https://www.technologyreview.com/",
-      "source": "MIT Tech Review",
-      "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=60"
+      "title": "Anthropic Tops Valuations",
+      "description": "AI race intensifies with record valuations and IPO preparations.",
+      "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
+      "source": "CNBC",
+      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "State of Open Source AI Spring 2026",
-      "description": "Hugging Face report on massive growth in open models.",
-      "url": "https://www.libertify.com/interactive-library/state-open-source-ai-hugging-face-spring-2026/",
-      "source": "Libertify",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "title": "Hugging Face Releases Small Language Model",
+      "description": "New 1.7B model beats Qwen and Llama in most benchmarks; smaller variants too.",
+      "url": "https://the-decoder.com/hugging-face-releases-small-language-model-that-beats-qwen-and-llama-most-of-the-time/",
+      "source": "The Decoder",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Hugging Face Model Surge",
-      "description": "Over 2.9M models hosted with Chinese infrastructure push.",
-      "url": "https://huggingface.co/models",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
+      "title": "ByteDance MegaTTS3 on Hugging Face",
+      "description": "Breakthrough text-to-speech model released openly on the platform.",
+      "url": "https://www.aibase.com/news/16821",
+      "source": "AI Base",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d2f0d0c?w=600&q=60"
     },
     {
-      "title": "Top Open Source AI Projects",
-      "description": "Breaking releases and standout projects on HF.",
-      "url": "https://www.linkedin.com/pulse/breaking-ai-model-releases-open-source-projects-tech-top-ricky-2k0ic",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=600&q=60"
+      "title": "IBM & NASA Open-Source Heliophysics Model",
+      "description": "Groundbreaking solar weather prediction model released on Hugging Face.",
+      "url": "https://newsroom.ibm.com/2025-08-20-ibm-and-nasa-release-groundbreaking-open-source-ai-model-on-hugging-face-to-predict-solar-weather-and-help-protect-critical-technology",
+      "source": "IBM Newsroom",
+      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
     }
   ]
 }
