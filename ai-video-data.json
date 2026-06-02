@@ -5,107 +5,135 @@
       "description": "AI films are transforming filmmaking through AI video generation, scriptwriting, editing, and visual effects automation.",
       "url": "https://two99.org/blog/ai-films-in-2026-a-beginners-guide-to-ai-filmmaking/",
       "source": "Two99",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
-    },
-    {
-      "title": "School of AI Films",
-      "description": "Creative learning hub dedicated to exploring the future of storytelling through AI tools for image, video and sound generation.",
-      "url": "https://schoolofaifilms.in/",
-      "source": "School of AI Films",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "Google Flow and Veo 3 Video",
-      "description": "Flow is the first AI filmmaking tool custom-designed by Google DeepMind for end-to-end video creation.",
-      "url": "https://www.linkedin.com/pulse/google-flow-veo-3-video-future-production-david-cronshaw-xcpcf",
-      "source": "LinkedIn",
+      "title": "Google Flow + Veo Guide 2026",
+      "description": "Google's AI filmmaking stack with Veo 3 for end-to-end video creation.",
+      "url": "https://aividpipeline.com/blog/google-flow-veo-3-1-guide-2026",
+      "source": "AI Vid Pipeline",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+    },
+    {
+      "title": "AI Fest 2026 Spotlight on Digital Filmmaking",
+      "description": "5-day course on AI-driven filmmaking workflows including story-to-video generation.",
+      "url": "https://www.facebook.com/chandigarhuniversitygharuan/posts/ai-fest-2026-spotlight-ronnie-screwvala-launches-future-ready-bsc-digital-filmma/1348416357322628/",
+      "source": "Chandigarh University",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "industry": [
     {
       "title": "New Gen AI Studio Promise Launches",
-      "description": "Peter Chernin’s North Road, Andreessen Horowitz backing new Gen AI-focused entertainment studio.",
+      "description": "Peter Chernin’s North Road and a16z back new Gen AI entertainment studio for films and series.",
       "url": "https://www.hollywoodreporter.com/business/business-news/gen-ai-studio-promise-peter-chernin-a16z-1236065776/",
       "source": "Hollywood Reporter",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2a7c3a?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
     },
     {
-      "title": "Nvidia and Microsoft tease new era of PC",
-      "description": "Nvidia-powered Arm PC running Windows could inspire new local AI experiences ahead of Computex 2026.",
-      "url": "https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems",
-      "source": "Tom's Hardware",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Pioneers in AI Video Production & Generative Film Studio",
+      "description": "The Dor Brothers create AI Music Videos, Commercials, and Films using advanced AI tech.",
+      "url": "https://www.thedorbrothers.com/",
+      "source": "Dor Brothers",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a3d1e31?w=600&q=60"
+    },
+    {
+      "title": "Big Ideas 2026: AI Shifts to Connectivity",
+      "description": "a16z on how AI products move from productivity to building stronger relationships in 2026.",
+      "url": "https://a16z.com/newsletter/big-ideas-2026-part-2/",
+      "source": "Andreessen Horowitz",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "The 17 best AI video generators in 2026",
-      "description": "Zapier tested dozens of AI video generators for creating, editing, and enhancing videos.",
+      "title": "AI Video Tools in 2026: Complete Creator’s Guide",
+      "description": "Text-to-video quality jumps with Google Veo and Runway Gen-4.5 becoming production infrastructure.",
+      "url": "https://pixflow.net/blog/ai-video-tools-in-2026/",
+      "source": "Pixflow",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+    },
+    {
+      "title": "New AI Video Generation Models 2026 Trends",
+      "description": "Photorealistic tools, text-to-video breakthroughs from Veo 3.1, Kling 3.0, Runway.",
+      "url": "https://resource.digen.ai/new-ai-video-generation-models-2026/",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1533750349088-cd0c1ee71958?w=600&q=60"
+    },
+    {
+      "title": "The 17 Best AI Video Generators in 2026",
+      "description": "Zapier tested dozens of tools for creating, editing and enhancing videos with AI.",
       "url": "https://zapier.com/blog/best-ai-video-generator/",
       "source": "Zapier",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd2c0a4?w=600&q=60"
-    },
-    {
-      "title": "8 Best AI Video Tools for YouTube Creators",
-      "description": "Features include automatic speaker detection, subtitle insertion, virality scoring in 2026.",
-      "url": "https://domoai.app/blog/best-ai-video-tools-for-youtube-content-creators",
-      "source": "DomoAI",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
-    },
-    {
-      "title": "Best AI Video Editors in 2026",
-      "description": "Modern AI video editors automatically cut footage, remove objects, enhance colors, generate subtitles.",
-      "url": "https://wavespeed.ai/blog/posts/best-ai-video-editors-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Top Niches for YouTube Automation 2026",
-      "description": "Definitive guide featuring 50+ sub-niches that work with AI tools while staying compliant.",
-      "url": "https://outlierkit.com/blog/youtube-automation-niches",
-      "source": "OutlierKit",
-      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
+      "title": "Faceless YouTube Shorts with AI: 10 Niches That Work in 2026",
+      "description": "10 faceless niches powered by Text2Shorts, Veo3, and AI thumbnails for YouTube growth.",
+      "url": "https://miraflow.ai/blog/faceless-youtube-shorts-ai-niches-2026",
+      "source": "Miraflow",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     },
     {
-      "title": "7 Must-Use AI Tools for Starting YouTube Channel",
-      "description": "List of AI tools top channels actually use in 2026 for high-quality video creation.",
-      "url": "https://medium.com/no-time/7-must-use-ai-tools-if-you-are-starting-a-youtube-channel-in-2026-6d99eed5c8d1",
-      "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1611162616305-c0d07c6f6b0e?w=600&q=60"
+      "title": "Emerging YouTube Niches 2026 with Low Competition",
+      "description": "10 emerging categories with rising trends and monetization potential using AI video.",
+      "url": "https://fluxnote.io/guides/emerging-youtube-niches-2026",
+      "source": "Fluxnote",
+      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
+    },
+    {
+      "title": "The State of AI Video Creation 2026",
+      "description": "Avatar-based video at 7.1% for business communication, e-learning, and marketing niches.",
+      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
+      "source": "Vivideo",
+      "image_url": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "AI Exclusive Deals: Save Big on AI Tools in 2026",
-      "description": "Leverage curated directories, lifetime deals, and explore variety of AI tools for significant savings.",
-      "url": "https://poweredbyai.app/blog/ai-exclusive-deals-save-big-on-ai-tools-in-2026",
-      "source": "PoweredByAI",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+      "title": "Gemini Student Discount 2026",
+      "description": "1-month free trial of Google AI Pro still available for AI video and creative tools.",
+      "url": "https://opentherank.com/ai-pricing/gemini/student-discount/",
+      "source": "OpenTheRank",
+      "image_url": "https://images.unsplash.com/photo-1516321497677-de7c9258c1d7?w=600&q=60"
     },
     {
-      "title": "Best Lifetime deals, discounts and sales on AI tools",
-      "description": "Discover the best AI tools deals in 2026 with exclusive lifetime deals and limited-time discounts.",
-      "url": "https://topai.tools/deals",
-      "source": "TopAI.Tools",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Vidnoz Image to Video AI Free",
+      "description": "One free video generation per day with no login required for high-quality AI conversions.",
+      "url": "https://www.vidnoz.com/image-to-video-ai.html",
+      "source": "Vidnoz",
+      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
+    },
+    {
+      "title": "Pollo AI Ultimate Platform",
+      "description": "Free all-in-one AI image & video generator with high resolution and quality outputs.",
+      "url": "https://pollo.ai/",
+      "source": "Pollo AI",
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "LTX Studio: The Creative Studio for AI Video Production",
-      "description": "All-in-one generative AI platform that turns creative ideas into high-quality, professional videos.",
-      "url": "https://ltx.studio/",
-      "source": "LTX Studio",
-      "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"
+      "title": "Мой СОН AI COVER Cinematic Music Video",
+      "description": "BMAI-ART 2026 delivers stunning AI-generated cinematic music video covers.",
+      "url": "https://www.youtube.com/watch?v=bVrYHyX9L5w",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
     },
     {
-      "title": "Create with the Best AI Video Generator Tool - Luma AI",
-      "description": "Luma AI transforms text, images, or footage into stunning ultra-realistic, cinematic videos.",
-      "url": "https://lumalabs.ai/create",
-      "source": "Luma AI",
+      "title": "Creative AI Interpretation of Contemporary Art",
+      "description": "Projection mapping uses AI to reinterpret art in fresh ways for Art Basel Hong Kong 2026.",
+      "url": "https://www.tiktok.com/@projection_mapping/video/7623198615300738320",
+      "source": "TikTok",
+      "image_url": "https://images.unsplash.com/photo-1547891654-c66b7a6f3e6f?w=600&q=60"
+    },
+    {
+      "title": "TapNow Agentic Creative Canvas",
+      "description": "Next-gen AI engine for e-commerce ads, cinematic shorts, and experimental art projects.",
+      "url": "https://app.tapnow.ai/",
+      "source": "TapNow",
       "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
     }
   ]
