@@ -1,26 +1,117 @@
 {
   "ai": [
-    {"title": "AI Index 2026 Report Highlights Breakthroughs", "description": "Stanford's AI Index shows models excelling in science and reasoning with environmental concerns noted.", "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report", "source": "Stanford HAI", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
-    {"title": "NVIDIA Showcases Physical AI at Robotics Week", "description": "Breakthroughs in bringing AI to physical world for agriculture and manufacturing.", "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/", "source": "NVIDIA Blog", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"},
-    {"title": "LLM Research Updates June 2026", "description": "Latest from academic papers on inference optimization and model development.", "url": "https://llm-stats.com/ai-news", "source": "LLM Stats", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"}
+    {
+      "title": "Gemini 3.1 Pro: Google's Latest AI Model Release",
+      "description": "Google announces Gemini 3.1 Pro, a smarter model for complex tasks, rolling out to developers and enterprises.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "LLM Leaderboard 2026 Ranks 237 AI Models",
+      "description": "BenchLM.ai releases updated leaderboard comparing 237 large language models across 222 benchmarks.",
+      "url": "https://benchlm.ai/",
+      "source": "BenchLM.ai",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "IBM & NASA Open-Source Solar Weather AI Model",
+      "description": "New foundation model on Hugging Face predicts solar activity impacting Earth and space tech.",
+      "url": "https://newsroom.ibm.com/2025-08-20-ibm-and-nasa-release-groundbreaking-open-source-ai-model-on-hugging-face-to-predict-solar-weather-and-help-protect-critical-technology",
+      "source": "IBM Newsroom",
+      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
+    }
   ],
   "funding": [
-    {"title": "ClickHouse Triples Revenue to $250M Pre-IPO", "description": "Charting path toward IPO with strong growth in data analytics.", "url": "https://techcrunch.com/", "source": "TechCrunch", "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"},
-    {"title": "Y Combinator AI Startups Fastest Growing Ever", "description": "AI driving record growth in YC fund history.", "url": "https://www.cnbc.com/2025/03/15/y-combinator-startups-are-fastest-growing-in-fund-history-because-of-ai.html", "source": "CNBC", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
+    {
+      "title": "AI Startup Funding Surges in 2026",
+      "description": "Major VC deals continue with billions flowing into AI startups globally.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo.ai",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
+    },
+    {
+      "title": "Tech Funding News Tracks Daily AI Deals",
+      "description": "Record rounds in Gen-AI startups reported across multiple sectors.",
+      "url": "https://techfundingnews.com/category/ai/",
+      "source": "Tech Funding News",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "AI Funding Tracker Reports New Rounds",
+      "description": "Daily updates on latest venture capital investments in artificial intelligence.",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "NVIDIA Releases New Physical AI Developer Tools", "description": "Updated tools and skills for repeatable AI development processes at GTC Taipei.", "url": "https://www.therobotreport.com/nvidia-releases-new-updated-tools-physical-ai-gtc-taipei-computex/", "source": "The Robot Report", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
-    {"title": "Vercel Launches AI SDK Updates", "description": "New developer tools and frameworks for building AI-powered websites.", "url": "https://en.wikipedia.org/wiki/Vercel", "source": "Vercel", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
-    {"title": "JetBrains Releases New Async Framework", "description": "Framework for building asynchronous server and client apps with ease.", "url": "https://www.jetbrains.com/products/", "source": "JetBrains", "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"}
+    {
+      "title": "New AI Tools Boost Software Engineer Productivity",
+      "description": "ChatGPT, GitHub Copilot and emerging tools like Stenography.dev transform dev workflows.",
+      "url": "https://www.facebook.com/programmingHero/posts/12-effective-ai-tools-for-software-engineers/1428893695951886/",
+      "source": "Programming Hero",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+    },
+    {
+      "title": "Arm Developer Tools for AI Workloads",
+      "description": "Build, accelerate and deploy energy-efficient AI across Arm ecosystem.",
+      "url": "https://developer.arm.com/AI",
+      "source": "Arm Developer",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "Roadmap for Developer Tooling in Software 3.0",
+      "description": "Natural language becomes primary interface for AI-driven development.",
+      "url": "https://www.bvp.com/atlas/roadmap-developer-tooling-for-software-3-0",
+      "source": "Bessemer Venture Partners",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "Trump Unveils AI Action Plan to Reduce Regulations", "description": "Aims to keep US dominant in AI with less oversight for Big Tech.", "url": "https://www.bbc.com/news/articles/c4g8nxrk207o", "source": "BBC", "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"},
-    {"title": "AI Bubble Propping Up US Economy", "description": "Nine $1T+ tech companies fueled by AI boom, Apple over $3T.", "url": "https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping", "source": "Blood in the Machine", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"},
-    {"title": "MIT Tech Review on Drone AI Regulations", "description": "Tech-friendly regs and autonomous weapons signal rapid drone evolution.", "url": "https://www.technologyreview.com/", "source": "MIT Technology Review", "image_url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=600&q=60"}
+    {
+      "title": "Trump Unveils Pro-AI Action Plan",
+      "description": "New plan aims to reduce regulations and maintain US dominance in AI.",
+      "url": "https://www.bbc.com/news/articles/c4g8nxrk207o",
+      "source": "BBC",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    },
+    {
+      "title": "AI Bubble Propping Up US Economy",
+      "description": "Nine $1T+ tech companies powered by AI boom, with valuations soaring.",
+      "url": "https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping",
+      "source": "Blood in the Machine",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "Big Tech Spends $100M on Pro-AI PACs",
+      "description": "OpenAI, Andreessen and others push to strip AI regulations via Congress.",
+      "url": "https://gizmodo.com/ai-pac-congress-openai-andreessen-silicon-valley-2000647826",
+      "source": "Gizmodo",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    }
   ],
   "oss": [
-    {"title": "State of Open Source on Hugging Face Spring 2026", "description": "South Korea models trending, new data center partnerships for open weights.", "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
-    {"title": "EXAONE 4.5 Vision Language Model Released", "description": "LG AI Research's first open-weight VLM with dedicated visual encoder.", "url": "https://github.com/huggingface/transformers/releases", "source": "Hugging Face Transformers", "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"},
-    {"title": "New Open Source AI Projects April 2026", "description": "Notable releases on GitHub and HF with star counts and use cases.", "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026", "source": "Fazm Blog", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
+    {
+      "title": "State of Open Source on Hugging Face Spring 2026",
+      "description": "Report shows shifts in competition, geography and emerging communities.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "Awesome Open Source AI List Updated",
+      "description": "Curated GitHub list of open-source AI projects gains traction.",
+      "url": "https://github.com/alvinreal/awesome-opensource-ai",
+      "source": "GitHub",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+    },
+    {
+      "title": "New Open Source AI Models on HF & GitHub",
+      "description": "April 2026 releases include practical models with high download counts.",
+      "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026",
+      "source": "Fazm.ai",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    }
   ]
 }
