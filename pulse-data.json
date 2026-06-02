@@ -1,15 +1,15 @@
 {
   "ai": [
     {
-      "title": "Gemini 3.1 Pro Released",
-      "description": "Google announces Gemini 3.1 Pro with major intelligence upgrades rolling out to products.",
+      "title": "Gemini 3.1 Pro: Google's Latest AI Model",
+      "description": "Gemini 3.1 Pro introduces advanced capabilities for complex tasks, rolling out to developers and enterprises.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
       "source": "Google Blog",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "GPT-5.4 and Olmo Hybrid Launch",
-      "description": "New model releases including GPT-5.4 and Olmo Hybrid in March 2026 updates.",
+      "title": "MiniMax M2.5 Rivals Claude at Fraction of Cost",
+      "description": "China's MiniMax M2.5 matches Claude Opus 4.6 performance at 1/10th the cost.",
       "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
       "source": "Devflokers",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
@@ -17,66 +17,66 @@
   ],
   "funding": [
     {
-      "title": "Q1 2026 AI Funding Hits $300B Record",
-      "description": "Venture funding shatters records as AI boom pushes investment to $300B.",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "source": "Crunchbase",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+      "title": "Anthropic $65B Funding Round Values Company at $965B",
+      "description": "Anthropic becomes most valuable AI startup after massive Series H round.",
+      "url": "https://www.rttnews.com/3656646/anthropic-becomes-most-valuable-ai-startup-after-65-bln-funding-round.aspx?type=corp",
+      "source": "RTTNews",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "Anthropic Files for IPO at $965B Valuation",
-      "description": "Anthropic files IPO after raising $65B, racing trillion-dollar startups to public markets.",
-      "url": "https://www.nbcnews.com/business/corporations/anthropic-files-ipo-openai-rcna347897",
-      "source": "NBC News",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Anthropic IPO Plans for October 2026",
+      "description": "Bloomberg reports Anthropic considering IPO as early as October amid AI race.",
+      "url": "https://soarlabs.org/anthropic-ipo/",
+      "source": "Soar Labs",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Arm Kleidi and PyTorch Integration",
-      "description": "Arm and PyTorch Foundation enable seamless quantized model integration for developers.",
-      "url": "https://developer.arm.com/ai",
-      "source": "Arm Developer",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Complete Guide to AI Coding Tools 2026",
+      "description": "Comprehensive overview of AI coding tools with benchmarks and workflows.",
+      "url": "https://www.the-ai-corner.com/p/ai-coding-tools-complete-guide-2026",
+      "source": "The AI Corner",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "LangChain Framework Updates",
-      "description": "LangChain and LangChain4j advance LLM application development for Python and Java.",
-      "url": "https://www.port.io/blog/best-ai-tools-developers",
-      "source": "Port.io",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "Awesome AI Agents 2026 GitHub List",
+      "description": "Curated resources for AI agent frameworks and platforms.",
+      "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026",
+      "source": "GitHub",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "2026 AI Regulatory Developments",
-      "description": "New US and EU AI regulations focus on child protection, privacy, and automated decision-making.",
+      "title": "EU AI Act Finalization Expected June 2026",
+      "description": "Draft published Dec 2025, final rules due mid-2026 with national regulators appointed.",
       "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
       "source": "Wilson Sonsini",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "CNN Sues Perplexity in AI Regulation Battle",
-      "description": "AI regulation opens fronts as CNN sues Perplexity and OpenAI aligns with EU rules.",
-      "url": "https://www.techtimes.com/articles/317461/20260531/ai-regulation-2026-opens-three-fronts-cnn-sues-perplexity-openai-aligns-eu-rules.htm",
-      "source": "TechTimes",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+      "title": "Colorado AI Act Enforcement June 30 2026",
+      "description": "New responsibilities for AI developers and deployers under state law.",
+      "url": "https://www.wsgrdataadvisor.com/2026/01/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for/",
+      "source": "Wilson Sonsini Data Advisor",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "IBM NASA Open-Source Solar Weather Model",
-      "description": "Groundbreaking open-source AI model released on Hugging Face for solar weather prediction.",
+      "title": "Hugging Face Spring 2026 Open Source Report",
+      "description": "Tracking 2M+ models with 80% downloads from top 50 entities.",
+      "url": "https://deepbrief.co/ai-industry/hugging-face-spring-2026-report",
+      "source": "Deepbrief",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+    },
+    {
+      "title": "IBM NASA Open-Source Solar Weather AI Model",
+      "description": "New foundation model on Hugging Face for solar activity prediction.",
       "url": "https://newsroom.ibm.com/2025-08-20-ibm-and-nasa-release-groundbreaking-open-source-ai-model-on-hugging-face-to-predict-solar-weather-and-help-protect-critical-technology",
       "source": "IBM Newsroom",
       "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
-    },
-    {
-      "title": "GLM-5 Tops Open-Source Benchmarks",
-      "description": "Z.ai's GLM-5 leads SWE-bench with 77.8% score as top open-weight model.",
-      "url": "https://www.buildfastwithai.com/blogs/best-ai-models-april-2026",
-      "source": "BuildFastWithAI",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ]
 }
