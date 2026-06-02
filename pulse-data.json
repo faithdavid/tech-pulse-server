@@ -1,116 +1,81 @@
 {
   "ai": [
     {
-      "title": "ArXiv Releases 7,700+ AI/ML Papers for 2025-2026",
-      "description": "Massive dataset of peer-reviewed papers on LLMs, multimodal systems, and robotics-AI convergence.",
-      "url": "https://www.kaggle.com/datasets/shree0910/arxiv-aiml-research-papers-20252026",
-      "source": "Kaggle",
+      "title": "Gemini 3.1 Pro Released",
+      "description": "Google announces Gemini 3.1 Pro with major intelligence upgrades rolling out to products.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "source": "Google Blog",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "LLM News: Major Model Releases in June 2026",
-      "description": "Tracking latest breakthroughs in LLM infrastructure and inference optimization.",
-      "url": "https://llm-stats.com/ai-news",
-      "source": "LLM Stats",
+      "title": "GPT-5.4 and Olmo Hybrid Launch",
+      "description": "New model releases including GPT-5.4 and Olmo Hybrid in March 2026 updates.",
+      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
+      "source": "Devflokers",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "AI Model Release Timeline Updated with GPT-5 & Claude 4",
-      "description": "Comprehensive timeline of every major LLM launch through 2026.",
-      "url": "https://aiflashreport.com/model-releases.html",
-      "source": "AI Flash Report",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Q1 2026 Shatters Venture Funding Records",
-      "description": "$300B poured into 6,000 startups globally, up 150% QoQ driven by AI boom.",
+      "title": "Q1 2026 AI Funding Hits $300B Record",
+      "description": "Venture funding shatters records as AI boom pushes investment to $300B.",
       "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
       "source": "Crunchbase",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "AI Startups Raise $104B in First Half of 2025",
-      "description": "Nearly matching all of 2024 funding with focus on AI applications.",
-      "url": "https://www.cnbc.com/2025/07/22/ai-startups-raised-104-billion-in-first-half-exits-different-story.html",
-      "source": "CNBC",
+      "title": "Anthropic Files for IPO at $965B Valuation",
+      "description": "Anthropic files IPO after raising $65B, racing trillion-dollar startups to public markets.",
+      "url": "https://www.nbcnews.com/business/corporations/anthropic-files-ipo-openai-rcna347897",
+      "source": "NBC News",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "North American AI Funding Hits Record $24B in Q4 2025",
-      "description": "AI accounts for 30% of all investments in largest quarter yet.",
-      "url": "https://www.facebook.com/crunchbase/posts/north-american-startup-funding-soared-in-2025-️investors-poured-280b-into-us-and/1326255582868931/",
-      "source": "Crunchbase",
-      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Google Releases AI Programming Assistant Jules in Open Beta",
-      "description": "Jules can work on multiple coding tasks simultaneously worldwide.",
-      "url": "https://dev.ua/en/news/google-jules-vyishov-v-publichnii-beti-1747925085",
-      "source": "dev.ua",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "WordPress Launches Native AI & Phase 3 Gutenberg",
-      "description": "Major update includes reimagined admin dashboard and dozens of new developer tools.",
-      "url": "https://www.linkedin.com/posts/webyant_wordpress-70armstrong-everything-you-activity-7464936132150054914-ol9l",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=60"
-    },
-    {
-      "title": "JetBrains & Microsoft Roll Out New AI-Enhanced Dev Tools",
-      "description": "Professional tools for productive development with deep AI integration at Microsoft Build.",
-      "url": "https://www.jetbrains.com/products/",
-      "source": "JetBrains",
+      "title": "Arm Kleidi and PyTorch Integration",
+      "description": "Arm and PyTorch Foundation enable seamless quantized model integration for developers.",
+      "url": "https://developer.arm.com/ai",
+      "source": "Arm Developer",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "LangChain Framework Updates",
+      "description": "LangChain and LangChain4j advance LLM application development for Python and Java.",
+      "url": "https://www.port.io/blog/best-ai-tools-developers",
+      "source": "Port.io",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "7 Explosive AI Updates in May 2026",
-      "description": "Government regulation shifts, Anthropic’s rise, and AI agents replacing apps.",
-      "url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/",
-      "source": "IM Founder",
-      "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=60"
+      "title": "2026 AI Regulatory Developments",
+      "description": "New US and EU AI regulations focus on child protection, privacy, and automated decision-making.",
+      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
+      "source": "Wilson Sonsini",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     },
     {
-      "title": "2026 AI Laws Update: Key Regulations Released",
-      "description": "Trump’s Dec 2025 EO, Colorado & California frameworks, EU AI Act compliance guidance.",
-      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
-      "source": "Gunderson Dettmer",
-      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
-    },
-    {
-      "title": "US AI Regulation in 2026: New State & Federal Laws",
-      "description": "NIST guidance and implications for global companies.",
-      "url": "https://iabrief.com/en/us-ai-regulation-2026/",
-      "source": "IA Brief",
+      "title": "CNN Sues Perplexity in AI Regulation Battle",
+      "description": "AI regulation opens fronts as CNN sues Perplexity and OpenAI aligns with EU rules.",
+      "url": "https://www.techtimes.com/articles/317461/20260531/ai-regulation-2026-opens-three-fronts-cnn-sues-perplexity-openai-aligns-eu-rules.htm",
+      "source": "TechTimes",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Hosts 2.9M+ Models with Major New Releases",
-      "description": "Platform sees explosive growth in open-source AI models and integrations.",
-      "url": "https://huggingface.co/models",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "IBM NASA Open-Source Solar Weather Model",
+      "description": "Groundbreaking open-source AI model released on Hugging Face for solar weather prediction.",
+      "url": "https://newsroom.ibm.com/2025-08-20-ibm-and-nasa-release-groundbreaking-open-source-ai-model-on-hugging-face-to-predict-solar-weather-and-help-protect-critical-technology",
+      "source": "IBM Newsroom",
+      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
     },
     {
-      "title": "MiniMax-M2.1 Open-Source MoE Model Released",
-      "description": "10B active parameter Mixture-of-Experts model with Hugging Face integrations.",
-      "url": "https://www.linkedin.com/pulse/breaking-ai-model-releases-open-source-projects-tech-top-ricky-2k0ic",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "LangChain + Hugging Face Partner Package Launched",
-      "description": "New Python package brings powerful generative AI capabilities to developers.",
-      "url": "https://www.youtube.com/watch?v=bFB4zqkcatU",
-      "source": "YouTube",
+      "title": "GLM-5 Tops Open-Source Benchmarks",
+      "description": "Z.ai's GLM-5 leads SWE-bench with 77.8% score as top open-weight model.",
+      "url": "https://www.buildfastwithai.com/blogs/best-ai-models-april-2026",
+      "source": "BuildFastWithAI",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ]
