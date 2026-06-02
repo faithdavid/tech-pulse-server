@@ -1,82 +1,26 @@
 {
   "ai": [
-    {
-      "title": "Gemini 3.1 Pro: Google's Latest AI Model",
-      "description": "Gemini 3.1 Pro introduces advanced capabilities for complex tasks, rolling out to developers and enterprises.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "MiniMax M2.5 Rivals Claude at Fraction of Cost",
-      "description": "China's MiniMax M2.5 matches Claude Opus 4.6 performance at 1/10th the cost.",
-      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
-      "source": "Devflokers",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    }
+    {"title": "AI Index 2026 Report Highlights Breakthroughs", "description": "Stanford's AI Index shows models excelling in science and reasoning with environmental concerns noted.", "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report", "source": "Stanford HAI", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
+    {"title": "NVIDIA Showcases Physical AI at Robotics Week", "description": "Breakthroughs in bringing AI to physical world for agriculture and manufacturing.", "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/", "source": "NVIDIA Blog", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"},
+    {"title": "LLM Research Updates June 2026", "description": "Latest from academic papers on inference optimization and model development.", "url": "https://llm-stats.com/ai-news", "source": "LLM Stats", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"}
   ],
   "funding": [
-    {
-      "title": "Anthropic $65B Funding Round Values Company at $965B",
-      "description": "Anthropic becomes most valuable AI startup after massive Series H round.",
-      "url": "https://www.rttnews.com/3656646/anthropic-becomes-most-valuable-ai-startup-after-65-bln-funding-round.aspx?type=corp",
-      "source": "RTTNews",
-      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
-    },
-    {
-      "title": "Anthropic IPO Plans for October 2026",
-      "description": "Bloomberg reports Anthropic considering IPO as early as October amid AI race.",
-      "url": "https://soarlabs.org/anthropic-ipo/",
-      "source": "Soar Labs",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    }
+    {"title": "ClickHouse Triples Revenue to $250M Pre-IPO", "description": "Charting path toward IPO with strong growth in data analytics.", "url": "https://techcrunch.com/", "source": "TechCrunch", "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"},
+    {"title": "Y Combinator AI Startups Fastest Growing Ever", "description": "AI driving record growth in YC fund history.", "url": "https://www.cnbc.com/2025/03/15/y-combinator-startups-are-fastest-growing-in-fund-history-because-of-ai.html", "source": "CNBC", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "Complete Guide to AI Coding Tools 2026",
-      "description": "Comprehensive overview of AI coding tools with benchmarks and workflows.",
-      "url": "https://www.the-ai-corner.com/p/ai-coding-tools-complete-guide-2026",
-      "source": "The AI Corner",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "Awesome AI Agents 2026 GitHub List",
-      "description": "Curated resources for AI agent frameworks and platforms.",
-      "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026",
-      "source": "GitHub",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
-    }
+    {"title": "NVIDIA Releases New Physical AI Developer Tools", "description": "Updated tools and skills for repeatable AI development processes at GTC Taipei.", "url": "https://www.therobotreport.com/nvidia-releases-new-updated-tools-physical-ai-gtc-taipei-computex/", "source": "The Robot Report", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
+    {"title": "Vercel Launches AI SDK Updates", "description": "New developer tools and frameworks for building AI-powered websites.", "url": "https://en.wikipedia.org/wiki/Vercel", "source": "Vercel", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
+    {"title": "JetBrains Releases New Async Framework", "description": "Framework for building asynchronous server and client apps with ease.", "url": "https://www.jetbrains.com/products/", "source": "JetBrains", "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "EU AI Act Finalization Expected June 2026",
-      "description": "Draft published Dec 2025, final rules due mid-2026 with national regulators appointed.",
-      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
-      "source": "Wilson Sonsini",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
-    },
-    {
-      "title": "Colorado AI Act Enforcement June 30 2026",
-      "description": "New responsibilities for AI developers and deployers under state law.",
-      "url": "https://www.wsgrdataadvisor.com/2026/01/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for/",
-      "source": "Wilson Sonsini Data Advisor",
-      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
-    }
+    {"title": "Trump Unveils AI Action Plan to Reduce Regulations", "description": "Aims to keep US dominant in AI with less oversight for Big Tech.", "url": "https://www.bbc.com/news/articles/c4g8nxrk207o", "source": "BBC", "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"},
+    {"title": "AI Bubble Propping Up US Economy", "description": "Nine $1T+ tech companies fueled by AI boom, Apple over $3T.", "url": "https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping", "source": "Blood in the Machine", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"},
+    {"title": "MIT Tech Review on Drone AI Regulations", "description": "Tech-friendly regs and autonomous weapons signal rapid drone evolution.", "url": "https://www.technologyreview.com/", "source": "MIT Technology Review", "image_url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=600&q=60"}
   ],
   "oss": [
-    {
-      "title": "Hugging Face Spring 2026 Open Source Report",
-      "description": "Tracking 2M+ models with 80% downloads from top 50 entities.",
-      "url": "https://deepbrief.co/ai-industry/hugging-face-spring-2026-report",
-      "source": "Deepbrief",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    },
-    {
-      "title": "IBM NASA Open-Source Solar Weather AI Model",
-      "description": "New foundation model on Hugging Face for solar activity prediction.",
-      "url": "https://newsroom.ibm.com/2025-08-20-ibm-and-nasa-release-groundbreaking-open-source-ai-model-on-hugging-face-to-predict-solar-weather-and-help-protect-critical-technology",
-      "source": "IBM Newsroom",
-      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
-    }
+    {"title": "State of Open Source on Hugging Face Spring 2026", "description": "South Korea models trending, new data center partnerships for open weights.", "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
+    {"title": "EXAONE 4.5 Vision Language Model Released", "description": "LG AI Research's first open-weight VLM with dedicated visual encoder.", "url": "https://github.com/huggingface/transformers/releases", "source": "Hugging Face Transformers", "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"},
+    {"title": "New Open Source AI Projects April 2026", "description": "Notable releases on GitHub and HF with star counts and use cases.", "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026", "source": "Fazm Blog", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
   ]
 }
