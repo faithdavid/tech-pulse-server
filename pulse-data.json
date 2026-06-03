@@ -1,82 +1,117 @@
 {
   "ai": [
     {
-      "title": "NVIDIA Cosmos 3 + Isaac GR00T Robot",
-      "description": "NVIDIA releases Cosmos 3, advancing physical AI and robotics with new model infrastructure.",
-      "url": "https://www.buildfastwithai.com/blogs/nvidia-cosmos-3-isaac-groot-physical-ai-2026",
-      "source": "BuildFastWithAI",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "Claude Opus 4.8 Released by Anthropic",
+      "description": "Anthropic unveils Claude Opus 4.8 with major reasoning gains and 2M context window.",
+      "url": "https://aireleasetracker.com/latest",
+      "source": "AI Release Tracker",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "Google Gemini 3 Research Breakthroughs",
-      "description": "Google unveils major advancements in Gemini 3 for reasoning and multimodality.",
-      "url": "https://blog.google/innovation-and-ai/products/2025-research-breakthroughs/",
+      "title": "Google Gemini 3.1 Deep Research Max",
+      "description": "Google launches Gemini 3.1 with autonomous research agents and real-time web grounding.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
       "source": "Google Blog",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "AI Scientist Automates Research End-to-End",
+      "description": "Nature paper shows foundation models performing full research cycles autonomously.",
+      "url": "https://www.nature.com/articles/s41586-026-10265-5",
+      "source": "Nature",
+      "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Composio Raises $24M Series A",
-      "description": "Agentic AI startup Composio secures $24 million from Lightspeed and Elevation Capital.",
-      "url": "https://www.moneycontrol.com/news/business/startup/agentic-ai-startup-composio-raises-24-million-in-series-a-round-from-lightspeed-elevation-and-together-12982215.html",
-      "source": "Moneycontrol",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+      "title": "OpenAI Raises Record $122B in Q1 2026",
+      "description": "OpenAI hits $852B valuation after landmark funding round dominating VC markets.",
+      "url": "https://intellizence.com/insights/startup-funding/top-startup-funding-deals-of-q1-2026-record-297-billion-raised-with-ai-dominating/",
+      "source": "Intellizence",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Altan Secures $2.5M for Agentic AI",
-      "description": "Spanish startup Altan raises $2.5M to build teams of autonomous AI agents.",
-      "url": "https://www.businessinsider.com/altan-funding-pitch-deck-agentic-ai-startup-2025-9",
-      "source": "Business Insider",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "SpaceX Files for $1.75T IPO",
+      "description": "SpaceX confidential S-1 targets largest IPO ever with AI infrastructure focus.",
+      "url": "https://aifundingtracker.com/ai-ipo-tracker/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1517976487492-5750f3195933?w=600&q=60"
+    },
+    {
+      "title": "Anthropic Valuation Hits $965B",
+      "description": "Anthropic in talks for massive raise amid surging demand for frontier models.",
+      "url": "https://kersai.com/june-2026-ai-news-anthropic-spacex-google-business-impact/",
+      "source": "Kersai",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Cursor IDE Leads AI Coding Tools 2026",
-      "description": "Cursor and new competitors like Windsurf dominate AI-assisted development landscape.",
-      "url": "https://www.aubergine.co/insights/top-ai-coding-design-tools-in-2026",
-      "source": "Aubergine",
-      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
+      "title": "Cursor Secures $60B Strategic Deal",
+      "description": "Popular AI coding IDE lands massive partnership boosting enterprise adoption.",
+      "url": "https://kersai.com/june-2026-ai-news-anthropic-spacex-google-business-impact/",
+      "source": "Kersai",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Ponicode Automates Testing with AI",
-      "description": "New AI tool generates unit tests across multiple frameworks for developers.",
-      "url": "https://logixbuilt.com/blogs/top-10-ai-tools-for-developers-to-boost-productivity",
-      "source": "Logixbuilt",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "JetBrains 2026.1 IDEs with AI Agents",
+      "description": "New IntelliJ and PyCharm releases integrate side-by-side AI agent capabilities.",
+      "url": "https://www.jetbrains.com/products/",
+      "source": "JetBrains",
+      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
+    },
+    {
+      "title": "Awesome AI Agents 2026 List Updated",
+      "description": "Comprehensive GitHub repo tracks 2026's top agent frameworks and tools.",
+      "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+      "source": "GitHub",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "AI Regulation 2026: CNN Sues Perplexity",
-      "description": "CNN files copyright lawsuit against Perplexity; Trump issues new AI executive order.",
-      "url": "https://www.techtimes.com/articles/317461/20260531/ai-regulation-2026-opens-three-fronts-cnn-sues-perplexity-openai-aligns-eu-rules.htm",
-      "source": "TechTimes",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "Trump AI Executive Order Faces Big Tech Pushback",
+      "description": "Proposed regulations scaled back after pressure from Musk, Zuckerberg and others.",
+      "url": "https://www.forbes.com/sites/saradorn/2026/05/22/billionaires-including-musk-and-zuckerberg-stopped-trumps-big-ai-announcement-heres-why/",
+      "source": "Forbes",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "COMPUTEX 2026 Highlights AI Transformation",
-      "description": "Taiwan's pivotal role in global AI industry showcased at Asia's biggest tech show.",
-      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kzc3UyZ0VSRmtIdXNMUXkyMzBDZ0FQAQ?hl=en-US&gl=US&ceid=US:en",
-      "source": "Google News",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "EU AI Act Compliance Deadlines Paused",
+      "description": "High-risk AI system deadlines extended to 2027-2028 for standards finalization.",
+      "url": "https://atomicmail.io/blog/ai-regulation-news-global-changes-and-watchlist",
+      "source": "Atomic Mail",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
+    },
+    {
+      "title": "SB 53 Transparency Law Takes Effect",
+      "description": "California requires major AI firms to publish safety details and protect whistleblowers.",
+      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
+      "source": "The Verge",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "New Open-Source AI Projects May 2026",
-      "description": "OpenClaw and subquadratic models lead open-source AI releases on Hugging Face.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup",
-      "source": "Devflokers",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "Hugging Face Hits 2M+ Models Milestone",
+      "description": "Open-weight ecosystem explodes with 2.2B downloads; 80% from top 50 entities.",
+      "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
+      "source": "Programming Helper",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "Hugging Face Models Update",
-      "description": "Latest models and frameworks trending on Hugging Face for NLP and agents.",
-      "url": "https://huggingface.co/models",
-      "source": "Hugging Face",
+      "title": "Qwen Models Expand Open-Source Leadership",
+      "description": "Alibaba releases new Qwen variants under Apache 2.0 boosting multilingual OSS AI.",
+      "url": "https://en.wikipedia.org/wiki/Qwen",
+      "source": "Wikipedia",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "OpenClaw and Subquadratic Models Trend on HF",
+      "description": "May 2026 sees viral open-source agent frameworks and efficiency breakthroughs.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup",
+      "source": "DevFlokers",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     }
   ]
 }
