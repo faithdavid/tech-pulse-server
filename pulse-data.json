@@ -1,117 +1,82 @@
 {
   "ai": [
     {
-      "title": "April 2026 Model Wars: OpenAI, Anthropic, DeepMind Launch Frontier Models",
-      "description": "Three frontier labs released major new models in weeks, marking densest release window in history.",
-      "url": "https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/",
-      "source": "Kersai",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "New AI Research Papers Surge on ArXiv in April 2026",
-      "description": "Transformative acceleration with frontier models and papers challenging model assumptions.",
-      "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026",
-      "source": "Devflokers",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "New AI Models 2026 Track Latest Releases",
-      "description": "Track LLMs, coding models, and image generators with source-backed evidence.",
-      "url": "https://lmmarketcap.com/new-ai-models",
-      "source": "LM Market Cap",
+      "title": "NVIDIA Cosmos 3 + Isaac GR00T Robot",
+      "description": "NVIDIA releases Cosmos 3, advancing physical AI and robotics with new model infrastructure.",
+      "url": "https://www.buildfastwithai.com/blogs/nvidia-cosmos-3-isaac-groot-physical-ai-2026",
+      "source": "BuildFastWithAI",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    },
+    {
+      "title": "Google Gemini 3 Research Breakthroughs",
+      "description": "Google unveils major advancements in Gemini 3 for reasoning and multimodality.",
+      "url": "https://blog.google/innovation-and-ai/products/2025-research-breakthroughs/",
+      "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Anthropic Reaches $965B Valuation, Surpasses OpenAI",
-      "description": "Anthropic becomes world's most valuable AI startup in massive private funding round.",
-      "url": "https://www.livemint.com/companies/news/how-anthropic-became-worlds-most-valuable-ai-startup-surpassing-openai-with-965-billion-valuation-11780010648713.html",
-      "source": "LiveMint",
+      "title": "Composio Raises $24M Series A",
+      "description": "Agentic AI startup Composio secures $24 million from Lightspeed and Elevation Capital.",
+      "url": "https://www.moneycontrol.com/news/business/startup/agentic-ai-startup-composio-raises-24-million-in-series-a-round-from-lightspeed-elevation-and-together-12982215.html",
+      "source": "Moneycontrol",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "Y Combinator AI Startups Fastest Growing in Fund History",
-      "description": "YC startups show record growth and profitability driven by AI innovations.",
-      "url": "https://www.cnbc.com/2025/03/15/y-combinator-startups-are-fastest-growing-in-fund-history-because-of-ai.html",
-      "source": "CNBC",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
-    },
-    {
-      "title": "IPOs and M&A Activity Rising in AI Sector",
-      "description": "Secondaries become go-to exit strategy as IPOs and acquisitions gain steam.",
-      "url": "https://www.linkedin.com/posts/ivannikkhoo_bigger-outcomes-as-startup-exits-gain-steam-activity-7365800574832816128-xsi4",
-      "source": "LinkedIn",
+      "title": "Altan Secures $2.5M for Agentic AI",
+      "description": "Spanish startup Altan raises $2.5M to build teams of autonomous AI agents.",
+      "url": "https://www.businessinsider.com/altan-funding-pitch-deck-agentic-ai-startup-2025-9",
+      "source": "Business Insider",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "7 Best AI Frameworks and Tools for 2026",
-      "description": "Popular AI frameworks used by developers worldwide for building intelligent solutions.",
-      "url": "https://www.spaceotechnologies.com/blog/top-ai-frameworks-tools/",
-      "source": "Spaceo Technologies",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Cursor IDE Leads AI Coding Tools 2026",
+      "description": "Cursor and new competitors like Windsurf dominate AI-assisted development landscape.",
+      "url": "https://www.aubergine.co/insights/top-ai-coding-design-tools-in-2026",
+      "source": "Aubergine",
+      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
     },
     {
-      "title": "Microsoft Build Focuses on Real AI Workflows",
-      "description": "Developers dive deep into AI systems and scalable workflows at Microsoft Build.",
-      "url": "https://developer.microsoft.com/",
-      "source": "Microsoft",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    },
-    {
-      "title": "JetBrains Expands Professional Developer Tools",
-      "description": "New suite of tools for productive AI-enhanced development.",
-      "url": "https://www.jetbrains.com/products/",
-      "source": "JetBrains",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "Ponicode Automates Testing with AI",
+      "description": "New AI tool generates unit tests across multiple frameworks for developers.",
+      "url": "https://logixbuilt.com/blogs/top-10-ai-tools-for-developers-to-boost-productivity",
+      "source": "Logixbuilt",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "AI Data Center Bans Multiply Across US — 69 Jurisdictions",
-      "description": "Rapid spread of bans on new AI data center builds in rural areas.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-data-center-bans-are-rapidly-multiplying-across-the-us-69-jurisdictions-block-new-builds-with-four-moves-noted-as-permanent",
-      "source": "Tom's Hardware",
-      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+      "title": "AI Regulation 2026: CNN Sues Perplexity",
+      "description": "CNN files copyright lawsuit against Perplexity; Trump issues new AI executive order.",
+      "url": "https://www.techtimes.com/articles/317461/20260531/ai-regulation-2026-opens-three-fronts-cnn-sues-perplexity-openai-aligns-eu-rules.htm",
+      "source": "TechTimes",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "Trump Signs Executive Order for Voluntary AI Model Vetting",
-      "description": "New EO allows federal vetting of top AI models for national security.",
-      "url": "https://www.pbs.org/newshour/nation/trump-signs-executive-order-that-allows-voluntary-federal-vetting-of-top-ai-models-for-national-security-risks",
-      "source": "PBS News",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    },
-    {
-      "title": "Illinois Passes Landmark AI Regulation Law",
-      "description": "New law holds Big Tech accountable as states lead on AI oversight.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-      "source": "Ars Technica",
-      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+      "title": "COMPUTEX 2026 Highlights AI Transformation",
+      "description": "Taiwan's pivotal role in global AI industry showcased at Asia's biggest tech show.",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kzc3UyZ0VSRmtIdXNMUXkyMzBDZ0FQAQ?hl=en-US&gl=US&ceid=US:en",
+      "source": "Google News",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "IBM and NASA Release Open-Source Solar Weather AI Model",
-      "description": "Groundbreaking model on Hugging Face to predict solar weather and protect tech.",
-      "url": "https://newsroom.ibm.com/2025-08-20-ibm-and-nasa-release-groundbreaking-open-source-ai-model-on-hugging-face-to-predict-solar-weather-and-help-protect-critical-technology",
-      "source": "IBM Newsroom",
-      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
+      "title": "New Open-Source AI Projects May 2026",
+      "description": "OpenClaw and subquadratic models lead open-source AI releases on Hugging Face.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup",
+      "source": "Devflokers",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "GLM-5 Tops Open-Source SWE-bench at 77.8%",
-      "description": "Z.ai's latest open-weight model leads coding benchmarks on Hugging Face.",
-      "url": "https://www.buildfastwithai.com/blogs/best-ai-models-april-2026",
-      "source": "BuildFastWithAI",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    },
-    {
-      "title": "Hugging Face Hosts 2.9M+ Models in Open Ecosystem",
-      "description": "Explosive growth in open-source AI models and community contributions.",
+      "title": "Hugging Face Models Update",
+      "description": "Latest models and frameworks trending on Hugging Face for NLP and agents.",
       "url": "https://huggingface.co/models",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ]
 }
