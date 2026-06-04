@@ -2,21 +2,21 @@
   "ai": [
     {
       "title": "New AI Research Papers & Breakthroughs (April 2026)",
-      "description": "Frontier AI Research and Technical Breakthroughs: Comprehensive Analysis of ArXiv Papers and Model Architectures.",
+      "description": "Frontier AI Research and Technical Breakthroughs: Comprehensive Analysis of ArXiv Papers and Model Architectures",
       "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026",
       "source": "devFlokers",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "Google's TurboQuant at ICLR 2026",
-      "description": "Google unveils TurboQuant algorithm that significantly reduces memory overhead from KV cache in large AI models.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
+      "title": "Google's TurboQuant at ICLR 2026",
+      "description": "Google research team unveiled TurboQuant, reducing KV cache memory overhead for large AI models",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
       "title": "AI Index 2026 Report Takeaways",
-      "description": "Stanford's AI Index shows breakthrough results in science and reasoning, but with environmental concerns.",
+      "description": "Stanford AI Index shows models achieving breakthrough results in science but with environmental toll",
       "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
       "source": "Stanford HAI",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
@@ -24,65 +24,93 @@
   ],
   "funding": [
     {
-      "title": "Q1 2026 Shatters Venture Funding Records",
-      "description": "Investors poured $300 billion into 6,000 startups globally, up over 150% QoQ driven by AI boom.",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "source": "Crunchbase",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+      "title": "AI Startup Funding News Today",
+      "description": "Daily AI startup funding news tracking VC deals and investor moves",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "Benchmark Raises $2B Growth Fund",
-      "description": "Benchmark raises its first-ever growth fund as part of massive capital raise amid AI surge.",
-      "url": "https://techcrunch.com/",
-      "source": "TechCrunch",
+      "title": "Latest AI Startup VC Investment Deals 2026",
+      "description": "Massive VC deals in AI startups globally in 2026",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "AI Startup Acquisitions & Funding Rounds",
+      "description": "Coverage of seed rounds, Series A-D, acquisitions and IPO filings",
+      "url": "https://www.siliconreport.com/ai-startup-news",
+      "source": "Silicon Report",
       "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "NVIDIA Releases Physical AI Developer Tools",
-      "description": "NVIDIA unveils open-source physical AI skills and tools for robotics, AV, and industrial digital twins at GTC Taipei.",
-      "url": "https://www.therobotreport.com/nvidia-releases-new-updated-tools-physical-ai-gtc-taipei-computex/",
-      "source": "The Robot Report",
+      "title": "Open-Source AI June 2026: New Models & Agents",
+      "description": "Frameworks like OpenClaw, smolagents, LangGraph with open-weight models",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "NVIDIA Releases Open Source Agent Tools for Physical AI",
+      "description": "NVIDIA Agent Toolkit for robots, AVs, factories with simulation and training pipelines",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-releases-major-collection-of-open-source-agent-tools-and-skills-for-physical-ai",
+      "source": "NVIDIA",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "Microsoft Build AI Developer Sessions",
-      "description": "Hands-on sessions at Microsoft Build for building and scaling AI with real code and workflows.",
-      "url": "https://developer.microsoft.com/",
-      "source": "Microsoft",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Best AI Developer Tools in 2026",
+      "description": "Copilot, Cursor, Claude Code, LangChain, LangGraph for production-grade AI",
+      "url": "https://theaiforest.com/top-ai-developer-tools-developers-need-in-2026/",
+      "source": "The AI Forest",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Key AI Regulations to Watch in 2026",
-      "description": "SB 942 expanded regulations operative January 2027 for social platforms and AI companies.",
-      "url": "https://www.eliassen.com/blog/key-ai-regulations-to-watch-in-2026",
-      "source": "Eliassen Group",
+      "title": "Big Tech AI Regulation Blocked by Lobbying",
+      "description": "$100M+ lobbying stopped US AI regulation in 2025, creating fragmented oversight",
+      "url": "https://digital.nemko.com/insights/how-big-tech-lobbying-stopped-us-ai-regulation-in-2025",
+      "source": "Nemko Digital",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    },
+    {
+      "title": "Tech Giants Challenge State AI Regulations",
+      "description": "OpenAI, Meta, Google preparing to block US state AI rules",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-21/tech-industry-girds-for-new-battle-to-block-state-ai-rules",
+      "source": "Bloomberg",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "May 2026 US Tech Policy Roundup",
-      "description": "New bills for generative AI content disclosure and technical standards introduced in Congress.",
-      "url": "https://www.techpolicy.press/may-2026-us-tech-policy-roundup/",
-      "source": "TechPolicy.Press",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+      "title": "Global AI Regulations Update 2026",
+      "description": "New regulations on AI model security, data protection, and minors' information",
+      "url": "https://www.cio.com/article/4143748/top-global-and-us-ai-regulations-to-look-out-for.html",
+      "source": "CIO",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "DeepSeek Open Source LLMs V3 and R1",
-      "description": "DeepSeek releases V3 and R1 open-source LLMs with weights on Hugging Face, runnable via Ollama.",
-      "url": "https://jstechlog.com/en/posts/deepseek-opensource-llm/",
-      "source": "JS Tech Log",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "New Open-Source AI Projects May 2026 Roundup",
+      "description": "OpenClaw viral success, subquadratic models, enterprise agentic revolution",
+      "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Hugging Face Open Deep Research Agent",
-      "description": "Hugging Face's Open Deep Research reaches 55% accuracy on GAIA benchmark after 24-hour hackathon.",
-      "url": "https://arstechnica.com/ai/2025/02/after-24-hour-hackathon-hugging-faces-ai-research-agent-nearly-matches-openais-solution/",
-      "source": "Ars Technica",
+      "title": "Hugging Face Spring 2026 State of Open Source Report",
+      "description": "Tracking model uploads, datasets, community trends in open-source AI",
+      "url": "https://deepbrief.co/ai-industry/hugging-face-spring-2026-report",
+      "source": "DeepBrief",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+    },
+    {
+      "title": "HuggingFace Paper Explorer & Latest Innovations",
+      "description": "Top AI research papers and LangChain trending on GitHub",
+      "url": "https://huggingface-paper-explorer.vercel.app/",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ]
