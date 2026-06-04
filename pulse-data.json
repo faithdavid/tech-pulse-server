@@ -1,117 +1,27 @@
 {
   "ai": [
-    {
-      "title": "The Latest AI News and Breakthroughs That Matter Most",
-      "description": "May 22, 2026 — Major model launches, record funding rounds, and breakthroughs shaping business and tech.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo.ai",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "The latest AI news we announced in April 2026 - Google Blog",
-      "description": "May 4, 2026 — Recap of biggest AI updates including Gemma 4, Deep Research Max from Cloud Next '26.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "Trending Papers - Hugging Face",
-      "description": "Stable-worldmodel provides modular framework for developing and evaluating world models.",
-      "url": "https://huggingface.co/papers/trending",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    }
+    {"title": "MiniMax M2.5 Rivals Claude at 1/10th Cost", "description": "Chinese model MiniMax M2.5 matches Claude Opus 4.6 performance at fraction of the cost.", "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026", "source": "Devflokers", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
+    {"title": "Google 2025 Research Breakthroughs", "description": "Gemini 3 and Gemma 3 advance reasoning, multimodality, and efficiency.", "url": "https://blog.google/innovation-and-ai/products/2025-research-breakthroughs/", "source": "Google Blog", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
+    {"title": "Latest AI Papers & Models Roundup", "description": "Top breakthroughs in model releases and research papers from the last 24 hours.", "url": "https://www.linkedin.com/pulse/latest-ai-breakthroughs-top-model-releases-papers-projects-ricky-zc1ic", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
   ],
   "funding": [
-    {
-      "title": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B",
-      "description": "April 1, 2026 — AI accounting for $242B or 80% of record $300B global venture investment.",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "source": "Crunchbase",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "2026 IPO Watchlist: OpenAI, SpaceX and Other Tech Giants",
-      "description": "OpenAI in talks for IPO as early as spring 2026 amid thawing stock market.",
-      "url": "https://builtin.com/articles/top-tech-ipos-2026",
-      "source": "Built In",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "Latest AI Startup Funding News and VC Investment Deals - 2026",
-      "description": "xAI merger interests with SpaceX; SpaceX IPO mid-to-late 2026.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo.ai",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
-    }
+    {"title": "AI Startups Drive $56B Global Funding", "description": "Massive AI rounds dominate venture capital with two companies taking nearly half.", "url": "https://www.linkedin.com/posts/natashahansonallen_ai-venturecapital-artificialintelligence-activity-7462173911745449984-gwRp", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"},
+    {"title": "Y Combinator AI Startups Fastest Growing", "description": "YC portfolio sees record growth fueled by AI innovations.", "url": "https://www.cnbc.com/2025/03/15/y-combinator-startups-are-fastest-growing-in-fund-history-because-of-ai.html", "source": "CNBC", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"},
+    {"title": "Altan Raises $2.5M for Agentic AI", "description": "Spanish startup Altan secures funding for autonomous AI software agents.", "url": "https://www.businessinsider.com/altan-funding-pitch-deck-agentic-ai-startup-2025-9", "source": "Business Insider", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "Open-Source AI June 2026: New Models, Agents & Papers",
-      "description": "6 hours ago — MiniMax M3, NVIDIA Cosmos 3, OpenClaw updates and new research papers.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "devFlokers",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
-    },
-    {
-      "title": "Developer Tools News June 2026: What's New This Month",
-      "description": "3 days ago — Biggest developer tool updates, AI coding advancements, framework releases.",
-      "url": "https://developersmatrix.com/blog/developer-tools-news-june-2026",
-      "source": "Developers Matrix",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "Developer Tools Startups funded by Y Combinator (YC) 2026",
-      "description": "GitLab and other dev tools providing unmatched visibility and efficiency.",
-      "url": "https://www.ycombinator.com/companies/industry/developer-tools",
-      "source": "Y Combinator",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
-    }
+    {"title": "Awesome AI Tools Curated List", "description": "Comprehensive GitHub list of top AI developer tools and platforms.", "url": "https://github.com/openbestof/awesome-ai", "source": "GitHub", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
+    {"title": "JetBrains AI-Enhanced Developer Suite", "description": "New professional tools for productive AI-assisted development.", "url": "https://www.jetbrains.com/products/", "source": "JetBrains", "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"},
+    {"title": "Microsoft Build AI Workflows", "description": "Deep dives into real AI code and scalable systems at Microsoft Build.", "url": "https://developer.microsoft.com/", "source": "Microsoft", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "2026 Year in Preview: AI Regulatory Developments",
-      "description": "January 13, 2026 — EU AI Act expected finalized by June 2026; national regulators appointed.",
-      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
-      "source": "Wilson Sonsini",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
-    },
-    {
-      "title": "How big tech got its way on Trump’s AI executive order",
-      "description": "2 weeks ago — US government vows not to slow down the AI race despite security concerns.",
-      "url": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
-      "source": "The Guardian",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    },
-    {
-      "title": "Key AI Regulations to Watch in 2026",
-      "description": "California’s automated decision-making regulations enforcement pushed to June 2026.",
-      "url": "https://www.eliassen.com/blog/key-ai-regulations-to-watch-in-2026",
-      "source": "Eliassen Group",
-      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
-    }
+    {"title": "Key AI Regulations to Watch in 2026", "description": "SB 942 and new transparency laws expand oversight on AI companies.", "url": "https://www.eliassen.com/blog/key-ai-regulations-to-watch-in-2026", "source": "Eliassen", "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"},
+    {"title": "Trump’s AI Order Sparks Debate", "description": "New voluntary vetting framework raises stakes for AI model releases.", "url": "https://www.politico.com/news/2026/06/02/trump-ai-order-tech-winners-losers-00947285", "source": "Politico", "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"},
+    {"title": "2026 AI Regulatory Developments Preview", "description": "Wilson Sonsini outlines major AI policy shifts companies must prepare for.", "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html", "source": "Wilson Sonsini", "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"}
   ],
   "oss": [
-    {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "description": "March 19, 2026 — South Korea models trending; data center partnerships and frontier open weight models.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    },
-    {
-      "title": "Best Open-Source LLM Models in 2026",
-      "description": "Kimi K2.6 one of strongest open-weight models — 1.1T parameters, Modified MIT license.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face Blog",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "Hugging Face Releases ml-intern: Open-Source AI Agent",
-      "description": "April 22, 2026 — Automates the LLM Post-Training Workflow.",
-      "url": "https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/",
-      "source": "MarkTechPost",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
-    }
+    {"title": "MiniMax M2.5 Open Source Impact", "description": "Powerful open model challenging top closed models at low cost.", "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026", "source": "Devflokers", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
+    {"title": "May 2026 Open Source AI Roundup", "description": "OpenClaw viral success and subquadratic models lead Hugging Face releases.", "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup", "source": "Devflokers", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
+    {"title": "Top Downloaded Models on Hugging Face", "description": "Analytics of 2025's most influential open-source models.", "url": "https://www.analyticsvidhya.com/blog/2025/11/top-open-source-models-on-huggingface/", "source": "Analytics Vidhya", "image_url": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&q=60"}
   ]
 }
