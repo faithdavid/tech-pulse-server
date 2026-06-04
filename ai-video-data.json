@@ -1,105 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "10 Best AI Video Tools for Filmmakers in 2026",
-      "description": "New Chinese AI models close the uncanny valley with hyper-realistic physics and expressions.",
-      "url": "https://resource.digen.ai/best-ai-video-tools-for-filmmakers-2026/",
-      "source": "Digen AI",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
-    },
-    {
-      "title": "10 Best Free AI Video Generators to Use in 2026",
-      "description": "Competition stronger than ever for creators, marketers and startups.",
-      "url": "https://ventureburn.com/best-free-ai-generators/",
-      "source": "Ventureburn",
+      "title": "AI film school trains next generation of Hollywood moviemakers",
+      "description": "Curious Refuge's academy has become a training ground for Hollywood workers racing to adapt as AI reshapes production.",
+      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
+      "source": "Reuters",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "The 18 Best AI Video Generators in 2026",
-      "description": "Veo 3 most realistic with strong audio integration.",
-      "url": "https://www.synthesia.io/post/best-ai-video-generators",
-      "source": "Synthesia",
-      "image_url": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&q=60"
+      "title": "AI Video School: Fundamentals of AI Filmmaking Course",
+      "description": "Learn AI filmmaking from story to screen: prompting, visual storytelling, consistent characters, camera motion.",
+      "url": "https://courses.aivideoschool.xyz/products/courses/fundamentals-ai-filmmaking",
+      "source": "AI Video School",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+    },
+    {
+      "title": "New AI Filmmaking Course at UW-Stout Launches Summer 2026",
+      "description": "A new Artificial Intelligence (AI) Assisted Film and Video Production course will launch at UW-Stout.",
+      "url": "https://www.uwstout.edu/about-us/news-center/vanguard-artificial-intelligence-filmmaking-course-emerges-uw-stout",
+      "source": "UW-Stout",
+      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "New Gen AI Studio Promise Launches",
-      "description": "Backed by Peter Chernin and a16z, working with Gen AI artists for films and series.",
-      "url": "https://www.hollywoodreporter.com/business/business-news/gen-ai-studio-promise-peter-chernin-a16z-1236065776/",
-      "source": "Hollywood Reporter",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "title": "Adobe and Runway Partner to Deliver Next-Gen AI Video",
+      "description": "Adobe announces multi-year strategic partnership with Runway for AI video tools for creators and studios.",
+      "url": "https://news.adobe.com/news/2025/12/adobe-and-runway-partner",
+      "source": "Adobe",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     },
     {
-      "title": "Google Flow AI Creative Studio",
-      "description": "Transform ideas into cinematic video using advanced generative models.",
-      "url": "https://labs.google/fx/tools/flow/",
-      "source": "Google",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Amazon MGM Studios Greenlights Three AI Series",
+      "description": "Amazon unveils GenAI Creators’ Fund providing funding and AI production tools on AWS.",
+      "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
+      "source": "Variety",
+      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
+    },
+    {
+      "title": "Hollywood Studios Spending on AI to Control Future of Film",
+      "description": "Studios investing heavily in proprietary AI models trained on licensed data.",
+      "url": "https://www.forbes.com/sites/maureenkerr/2026/06/01/hollywood-studios-are-spending-on-ai-to-control-the-future-of-film/",
+      "source": "Forbes",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "DaVinci Resolve 21 Officially Released",
-      "description": "New AI tools expand creative possibilities with photo editing and automation.",
-      "url": "https://petapixel.com/2026/06/03/davinci-resolve-21-officially-released-with-new-photo-editing-ai-tools-and-much-more/",
-      "source": "PetaPixel",
+      "title": "Adobe Firefly Improves AI Video with New Tools",
+      "description": "New precision Prompt to Edit, camera-motion controls, unlimited generations.",
+      "url": "https://blog.adobe.com/en/publish/2025/12/16/adobe-firefly-improves-ai-video-creation-tools-new-models-unlimited-generations",
+      "source": "Adobe",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+    },
+    {
+      "title": "PowerDirector AI Video Editor Updates",
+      "description": "Generative AI tools, motion effects, and one-click enhancements for pro-quality content.",
+      "url": "https://www.cyberlink.com/products/powerdirector-video-editing-software/overview_en_US.html",
+      "source": "CyberLink",
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Google debuts AI-powered video tool Flow",
-      "description": "Features camera control, scene builder and asset management.",
-      "url": "https://techcrunch.com/2025/05/20/google-debuts-an-ai-powered-video-tool-called-flow/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+      "title": "Google Flow AI Creative Studio for Video",
+      "description": "Transform ideas into cinematic video using Google’s advanced generative models.",
+      "url": "https://labs.google/fx/tools/flow/",
+      "source": "Google",
+      "image_url": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Microdramas for Microshifts",
-      "description": "Vertical AI video for training night-shift workers in safety and compliance.",
-      "url": "https://shifty.life/microdramas-for-microshifts-using-vertical-ai-video-to-train",
-      "source": "Shifty.Life",
-      "image_url": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&q=60"
+      "title": "Hailuo AI for Viral Hand Dance Videos",
+      "description": "AI video generator creating viral kid performing hand dance content from photos.",
+      "url": "https://hailuoai.video/",
+      "source": "Hailuo AI",
+      "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
     },
     {
-      "title": "Viral GUGUGAGA AI Videos",
-      "description": "Trending creative vertical short-form AI video content.",
-      "url": "https://www.youtube.com/watch?v=I37u89XS4OM",
-      "source": "YouTube",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "Leonardo.Ai for Dynamic Video Storytelling",
+      "description": "Turn static ideas into dynamic video content with AI-driven animation for social and product.",
+      "url": "https://leonardo.ai/",
+      "source": "Leonardo.Ai",
+      "image_url": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=600&q=60"
+    },
+    {
+      "title": "Vidnoz Image to Video AI Free Daily",
+      "description": "Free daily AI image to video generation with no login required.",
+      "url": "https://www.vidnoz.com/image-to-video-ai.html",
+      "source": "Vidnoz",
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "InVideo AI Discounts 2026",
-      "description": "Promo codes up to 50% off on UGC Ads and AI video plans.",
-      "url": "https://costbench.com/software/ai-video-generators/invideo-ai/discounts/",
-      "source": "Costbench",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+      "title": "Adobe Creative Cloud 40% Off Pro Suite",
+      "description": "40% discount on Creative Cloud Pro suite including AI video tools.",
+      "url": "https://www.tomsguide.com/ai/deals",
+      "source": "Tom's Guide",
+      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"
     },
     {
-      "title": "9 Best AI Video Generator Lifetime Deals",
-      "description": "AppSumo deals from $5-$50/month equivalents.",
-      "url": "https://rytbee.com/ai-video-generator-lifetime-deals/",
-      "source": "Rytbee",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Vidnoz Free Daily Video Generations",
+      "description": "One free video generation per day with Image to Video AI.",
+      "url": "https://www.vidnoz.com/image-to-video-ai.html",
+      "source": "Vidnoz",
+      "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=60"
+    },
+    {
+      "title": "AI Deals Hub for Video Tools",
+      "description": "Curated list of discounts on AI video subscriptions and services.",
+      "url": "https://vibecentral.ai/ai-deals-discounts/",
+      "source": "VibeCentral",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Мой СОН AI COVER Cinematic Music Video",
-      "description": "BMAI-ART 2026 creative AI music video interpretation.",
-      "url": "https://www.youtube.com/watch?v=bVrYHyX9L5w",
-      "source": "YouTube",
-      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
+      "title": "Gen Art Studios AI Video Portfolio",
+      "description": "Showcase of AI-generated commercials, kids content and creative videos.",
+      "url": "https://genartstudios.com/portfolio",
+      "source": "Gen Art Studios",
+      "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"
     },
     {
-      "title": "AI Video Generator from Leonardo.ai",
-      "description": "Animate stills and build short sequences with creative control.",
-      "url": "https://leonardo.ai/ai-video-generator",
-      "source": "Leonardo.ai",
-      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
+      "title": "Runway AI Festival 2026 Showcase",
+      "description": "Celebration of artists embracing AI tools for creative work.",
+      "url": "https://aif.runwayml.com/",
+      "source": "Runway",
+      "image_url": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?w=600&q=60"
+    },
+    {
+      "title": "Creative Use of AI at The One Show 2026",
+      "description": "Groundbreaking integration of AI in brand and agency work showcased.",
+      "url": "https://oneshow.org/categories/creative-use-of-ai/",
+      "source": "The One Show",
+      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
     }
   ]
 }
