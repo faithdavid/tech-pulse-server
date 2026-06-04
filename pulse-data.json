@@ -1,117 +1,24 @@
 {
   "ai": [
-    {
-      "title": "Gemini 3.1 Pro Released",
-      "description": "Google's upgraded AI model for complex tasks rolling out to developers and enterprises.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "MiniMax M2.5 Rivals Claude at 1/10th Cost",
-      "description": "Chinese model M2.5 matches Claude Opus 4.6 performance at fraction of price.",
-      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
-      "source": "DevFlokers",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "DeepMind AI Breakthroughs June 2026",
-      "description": "Latest updates from Google DeepMind lab on AI research and agents.",
-      "url": "https://deepmind.google/research/",
-      "source": "DeepMind",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
-    }
+    {"title": "LLM research updates 2026", "description": "Harness over models focus in latest LLM updates.", "url": "https://fazm.ai/t/llm-research-updates-2026", "source": "Fazm.ai", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
+    {"title": "Latest AI Breakthroughs", "description": "Top model releases and papers closing 2025 into 2026.", "url": "https://www.linkedin.com/pulse/latest-ai-breakthroughs-top-model-releases-papers-projects-ricky-zc1ic", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
+    {"title": "MiniMax M2.5 Model Release", "description": "Chinese model rivals Claude at 1/10th cost.", "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026", "source": "Devflokers", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
   ],
   "funding": [
-    {
-      "title": "Anthropic $65B Series H at $965B Valuation",
-      "description": "Anthropic overtakes OpenAI in private valuation with massive round.",
-      "url": "https://aifundingtracker.com/top-50-ai-startups/",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
-    },
-    {
-      "title": "Cerebras IPO at $95B Market Cap",
-      "description": "Cerebras goes public May 14 with strong AI chip demand.",
-      "url": "https://aifundingtracker.com/top-50-ai-startups/",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "Shield AI Raises for $540M+ 2026 Revenue",
-      "description": "Defense AI startup funds X-BAT drone acquisition and growth.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=60"
-    }
+    {"title": "Q1 2026 VC Records Shattered", "description": "$300B poured into AI startups globally.", "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/", "source": "Crunchbase", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"},
+    {"title": "AI IPO Plans Heat Up", "description": "Blockbuster IPOs and $1B raises at $5B valuation.", "url": "https://www.facebook.com/WPSDLocal6/posts/ai-companies-plans-for-blockbuster-initial-public-offerings-ipos-are-captivating/1438611414968711/", "source": "WPSD", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "iOS 26.6 Beta Released",
-      "description": "Apple pushes new iOS beta with developer updates May 26, 2026.",
-      "url": "https://developer.apple.com/news/releases/",
-      "source": "Apple Developer",
-      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
-    },
-    {
-      "title": "JetBrains 2026.1.2 IDE Updates",
-      "description": "Major updates to professional Java/Kotlin IDEs for developers.",
-      "url": "https://www.jetbrains.com/products/",
-      "source": "JetBrains",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "Eclipse IDE 2026-03 R Packages",
-      "description": "New Eclipse Installer with JRE support for macOS, Windows, Linux.",
-      "url": "https://www.eclipse.org/downloads/packages/",
-      "source": "Eclipse",
-      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
-    }
+    {"title": "AI Tools for Software Engineers", "description": "ChatGPT, Copilot leading developer productivity.", "url": "https://www.facebook.com/programmingHero/posts/12-effective-ai-tools-for-software-engineers/1428893695951886/", "source": "Programming Hero", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
+    {"title": "Roadmap for Developer Tooling 3.0", "description": "Natural language as primary interface in Software 3.0.", "url": "https://www.bvp.com/atlas/roadmap-developer-tooling-for-software-3-0", "source": "BVP", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "Tech Wins in California Primary Election",
-      "description": "Silicon Valley gains leverage against AI regulation and taxes.",
-      "url": "https://www.theguardian.com/us-news/2026/jun/03/silicon-valley-california-primary-election-tech-industry",
-      "source": "The Guardian",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    },
-    {
-      "title": "Big Tech Terrified of AI Agents Killing Ad Revenue",
-      "description": "Billions Network CEO says firms scrambling as agents disrupt ads.",
-      "url": "https://www.coindesk.com/business/2026/06/03/big-tech-is-terrified-of-ai-agents-wiping-out-ad-revenue-says-billions-network-ceo",
-      "source": "CoinDesk",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    },
-    {
-      "title": "WWDC 2026: AI Siri Finally Arrives",
-      "description": "Apple's long-delayed AI-powered Siri debuts June 8 after 2-year wait.",
-      "url": "https://logicity.in/en/blog/wwdc-2026-preview-ai-siri-finally-arrives-after-two-year-delay",
-      "source": "Logicity",
-      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
-    }
+    {"title": "Computex 2026 AI Highlights", "description": "Agentic AI, Nvidia RTX Spark showcased.", "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kzc3UyZ0VSRmtIdXNMUXkyMzBDZ0FQAQ?hl=en-US&gl=US&ceid=US:en", "source": "Google News", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"},
+    {"title": "Big Tech vs EU AI Regulation", "description": "US urged to fight detrimental AI policies.", "url": "https://www.euractiv.com/news/big-tech-is-asking-trump-to-fight-eu-ai-regulation/", "source": "Euractiv", "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"}
   ],
   "oss": [
-    {
-      "title": "State of Open Source on Hugging Face Spring 2026",
-      "description": "HF report on shifting open source AI landscape, competition and trends.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
-    },
-    {
-      "title": "MiniMax M3 and NVIDIA Cosmos 3 Released",
-      "description": "New open-source models and agents drop in June 2026 roundup.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "DevFlokers",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
-    },
-    {
-      "title": "Best Open-Source Coding Models 2026",
-      "description": "GLM-5.1, MiniMax M3, DeepSeek V4-Pro lead the pack.",
-      "url": "https://kilo.ai/open-source-models",
-      "source": "Kilo Code",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    }
+    {"title": "State of Open Source on HF Spring 2026", "description": "South Korean models trending on Hugging Face.", "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
+    {"title": "New OSS AI Projects April 2026", "description": "GitHub and HF releases with high stars.", "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026", "source": "Fazm", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"},
+    {"title": "Transformers Library Updates", "description": "EXAONE 4.5 vision-language model release.", "url": "https://github.com/huggingface/transformers/releases", "source": "GitHub", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"}
   ]
 }
