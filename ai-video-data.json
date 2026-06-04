@@ -1,140 +1,105 @@
 {
   "filmschool": [
     {
-      "title": "Generative AI for Film Creation: A Survey",
-      "description": "Generative AI (GenAI) is transforming filmmaking with text-to-image and image-to-video diffusion models.",
-      "url": "https://arxiv.org/html/2504.08296v1",
-      "source": "arXiv",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+      "title": "10 Best AI Video Tools for Filmmakers in 2026",
+      "description": "New Chinese AI models close the uncanny valley with hyper-realistic physics and expressions.",
+      "url": "https://resource.digen.ai/best-ai-video-tools-for-filmmakers-2026/",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
     },
     {
-      "title": "The Best AI Tools for Filmmaking",
-      "description": "Expert-reviewed collection of AI video tools for filmmaking, advertising, and animation.",
-      "url": "https://curiousrefuge.com/best-ai-tools",
-      "source": "Curious Refuge",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "title": "10 Best Free AI Video Generators to Use in 2026",
+      "description": "Competition stronger than ever for creators, marketers and startups.",
+      "url": "https://ventureburn.com/best-free-ai-generators/",
+      "source": "Ventureburn",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "Trends in AI Filmmaking",
-      "description": "AI filmmaking blends traditional techniques allowing faster, cheaper ambitious projects.",
-      "url": "https://www.linkedin.com/top-content/innovation/ai-trends-and-innovations/trends-in-ai-filmmaking/",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
+      "title": "The 18 Best AI Video Generators in 2026",
+      "description": "Veo 3 most realistic with strong audio integration.",
+      "url": "https://www.synthesia.io/post/best-ai-video-generators",
+      "source": "Synthesia",
+      "image_url": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Why AI Video Startups Are Taking Over Media",
-      "description": "AI video generation market projected to surpass $3.4 billion by 2033.",
-      "url": "https://startupwired.com/2026/05/06/why-ai-video-startups-are-taking-over-media/",
-      "source": "Startup Wired",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "New Gen AI Studio Promise Launches",
+      "description": "Backed by Peter Chernin and a16z, working with Gen AI artists for films and series.",
+      "url": "https://www.hollywoodreporter.com/business/business-news/gen-ai-studio-promise-peter-chernin-a16z-1236065776/",
+      "source": "Hollywood Reporter",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "AI’s impact on future of the film and TV industry",
-      "description": "McKinsey report on AI deployment in film and TV production.",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/what-ai-could-mean-for-film-and-tv-production-and-the-industrys-future",
-      "source": "McKinsey",
-      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
-    },
-    {
-      "title": "AI Video Model News: Latest Updates 2026",
-      "description": "Breakthroughs and trends in AI video models shaping 2026 workflows.",
-      "url": "https://frameo.ai/blog/ai-video-model-updates/",
-      "source": "Frameo",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a3a4d5e?w=600&q=60"
+      "title": "Google Flow AI Creative Studio",
+      "description": "Transform ideas into cinematic video using advanced generative models.",
+      "url": "https://labs.google/fx/tools/flow/",
+      "source": "Google",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Google Flow AI Creative Studio",
-      "description": "Google’s advanced generative models for cinematic video and images.",
-      "url": "https://labs.google/fx/tools/flow/unsupported-country",
-      "source": "Google",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "DaVinci Resolve 21 Officially Released",
+      "description": "New AI tools expand creative possibilities with photo editing and automation.",
+      "url": "https://petapixel.com/2026/06/03/davinci-resolve-21-officially-released-with-new-photo-editing-ai-tools-and-much-more/",
+      "source": "PetaPixel",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "PowerDirector AI Video Editor",
-      "description": "AI video editing with generative tools and one-click enhancements.",
-      "url": "https://www.cyberlink.com/products/powerdirector-video-editing-software/overview_en_US.html",
-      "source": "CyberLink",
+      "title": "Google debuts AI-powered video tool Flow",
+      "description": "Features camera control, scene builder and asset management.",
+      "url": "https://techcrunch.com/2025/05/20/google-debuts-an-ai-powered-video-tool-called-flow/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
-    },
-    {
-      "title": "Pixelbin Free AI Video Generator",
-      "description": "Free text-to-video AI tool, no login required.",
-      "url": "https://www.pixelbin.io/ai-tools/video-generator",
-      "source": "Pixelbin",
-      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Hailuo AI Video Generator",
-      "description": "Specialized AI for text & image to video, including niche animations.",
-      "url": "https://hailuoai.video/",
-      "source": "Hailuo AI",
-      "image_url": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&q=60"
+      "title": "Microdramas for Microshifts",
+      "description": "Vertical AI video for training night-shift workers in safety and compliance.",
+      "url": "https://shifty.life/microdramas-for-microshifts-using-vertical-ai-video-to-train",
+      "source": "Shifty.Life",
+      "image_url": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&q=60"
     },
     {
-      "title": "TubeLab YouTube Niche Finder",
-      "description": "AI-powered tool for profitable YouTube niches and viral formats.",
-      "url": "https://tubelab.net/",
-      "source": "TubeLab",
+      "title": "Viral GUGUGAGA AI Videos",
+      "description": "Trending creative vertical short-form AI video content.",
+      "url": "https://www.youtube.com/watch?v=I37u89XS4OM",
+      "source": "YouTube",
       "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
-    },
-    {
-      "title": "Agentic AI Video Applications",
-      "description": "Agentic AI examples for multi-step video workflows in verticals.",
-      "url": "https://www.warmly.ai/p/blog/agentic-ai-examples",
-      "source": "Warmly",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "AI Deals & Discounts 2025",
-      "description": "Curated discounts on AI video tools and subscriptions.",
-      "url": "https://vibecentral.ai/ai-deals-discounts/",
-      "source": "Vibe Central",
-      "image_url": "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?w=600&q=60"
-    },
-    {
-      "title": "Best AI Tools For Video Creation Deals",
-      "description": "2026 guide with free tiers and scaling options for video AI.",
-      "url": "https://officechai.com/learn/ai-tools-for-video-creation/",
-      "source": "Office Chai",
+      "title": "InVideo AI Discounts 2026",
+      "description": "Promo codes up to 50% off on UGC Ads and AI video plans.",
+      "url": "https://costbench.com/software/ai-video-generators/invideo-ai/discounts/",
+      "source": "Costbench",
       "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "AI Software Lifetime Deals",
-      "description": "Best lifetime deals on AI video software in 2025.",
-      "url": "https://saaspirate.com/ai/",
-      "source": "SaaSpirate",
+      "title": "9 Best AI Video Generator Lifetime Deals",
+      "description": "AppSumo deals from $5-$50/month equivalents.",
+      "url": "https://rytbee.com/ai-video-generator-lifetime-deals/",
+      "source": "Rytbee",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Best AI Video Generators 2026",
-      "description": "Tested platforms for creative and business AI video use cases.",
-      "url": "https://www.synthesia.io/post/best-ai-video-generators",
-      "source": "Synthesia",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a3a4d5e?w=600&q=60"
+      "title": "Мой СОН AI COVER Cinematic Music Video",
+      "description": "BMAI-ART 2026 creative AI music video interpretation.",
+      "url": "https://www.youtube.com/watch?v=bVrYHyX9L5w",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
     },
     {
-      "title": "Leonardo AI Video Generator",
-      "description": "Creative image-to-video and product spin showcases.",
+      "title": "AI Video Generator from Leonardo.ai",
+      "description": "Animate stills and build short sequences with creative control.",
       "url": "https://leonardo.ai/ai-video-generator",
-      "source": "Leonardo",
-      "image_url": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=600&q=60"
-    },
-    {
-      "title": "NightCafe AI Art Video Showcases",
-      "description": "Explore best AI generated artworks and animated projects.",
-      "url": "https://creator.nightcafe.studio/explore",
-      "source": "NightCafe",
-      "image_url": "https://images.unsplash.com/photo-1547891654-2732a4a1a3f5?w=600&q=60"
+      "source": "Leonardo.ai",
+      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
     }
   ]
 }
