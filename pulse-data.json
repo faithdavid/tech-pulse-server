@@ -1,82 +1,117 @@
 {
   "ai": [
     {
-      "title": "AI in April 2026: Biggest Breakthroughs",
-      "description": "April 2026 has become the densest AI model release window in history with OpenAI, Anthropic, and Google DeepMind launching major new models.",
-      "url": "https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/",
-      "source": "Kersai",
+      "title": "AXIOM: Trust-First Neuro-Symbolic Architecture for Verifiable Reasoning",
+      "description": "New architecture for verifiable mathematical reasoning in LLM agents, accepted at ICML 2026.",
+      "url": "https://arxiv.org/list/cs.AI/current",
+      "source": "arXiv",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "2026 Breakthrough Year for Reliable AI World Models",
-      "description": "Research accelerating in dynamic, memory-augmented, self-modifying, and world-simulating systems beyond static transformers.",
-      "url": "https://www.nextbigfuture.com/2026/04/2026-is-breakthrough-year-for-reliable-ai-world-models-and-continual-learning-prototypes.html",
-      "source": "NextBigFuture",
+      "title": "TurboQuant Reduces KV Cache Memory Overhead at ICLR 2026",
+      "description": "Google's new algorithm dramatically cuts memory use in large AI models.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "Stanford AI Index 2026: Science Breakthroughs & Environmental Costs",
+      "description": "AI models achieve major science results but raise environmental concerns.",
+      "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+      "source": "Stanford HAI",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "50 Top AI Funded Startups (June 2026)",
-      "description": "AV investment hit $23.26B in first four months of 2026 — more than double all of 2025. Humanoid robotics projected to draw $20B+.",
+      "title": "Anthropic Hits $965B Valuation in Record $122B Round",
+      "description": "Anthropic closes massive Series H, becoming most valuable AI startup.",
       "url": "https://aifundingtracker.com/top-50-ai-startups/",
       "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "Q1 2026 Shatters Venture Funding Records",
-      "description": "AI boom pushes startup investment to $300B. Two Chinese foundation labs debuted on Hong Kong Stock Exchange valued at >$6B each.",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "source": "Crunchbase",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+      "title": "OpenAI IPO Watchlist Tops 2026 Tech Giants",
+      "description": "OpenAI, Anthropic, SpaceX edging closer to record public offerings.",
+      "url": "https://builtin.com/articles/top-tech-ipos-2026",
+      "source": "Built In",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Q1 2026: Record $297B Startup Funding, AI Dominates",
+      "description": "AI companies capture over $188B in record quarter.",
+      "url": "https://intellizence.com/insights/startup-funding/top-startup-funding-deals-of-q1-2026-record-297-billion-raised-with-ai-dominating/",
+      "source": "Intellizence",
+      "image_url": "https://images.unsplash.com/photo-1579532537598-459ecdaf45c8?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "27 AI Tools for Developers in 2026",
-      "description": "Tested and ranked AI developer tools covering coding assistants, frameworks for building AI applications.",
-      "url": "https://pecollective.com/blog/ai-tools-for-developers-2026/",
-      "source": "PE Collective",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "Microsoft Build 2026: Agent-First Era & New MAI Models",
+      "description": "Microsoft unveils seven self-developed models and agentic tools at Build.",
+      "url": "https://www.panewslab.com/en/articles/019e8b42-434b-75bc-b75a-e84e401eae43",
+      "source": "PANews",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "2026 AI Agent Framework Showdown",
-      "description": "Benchmark comparison of LangGraph, CrewAI, AG2, Claude Agent SDK, Strands Agents, and OpenAI Agents SDK.",
-      "url": "https://qubittool.com/blog/ai-agent-framework-comparison-2026",
-      "source": "Qubit Tool",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "NVIDIA Releases Open Source Agent Toolkit for Physical AI",
+      "description": "Major collection of open source agent tools and skills for robots and AVs.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-releases-major-collection-of-open-source-agent-tools-and-skills-for-physical-ai",
+      "source": "NVIDIA Newsroom",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    },
+    {
+      "title": "WWDC26 to Expand Apple Intelligence APIs",
+      "description": "New developer APIs for embedded AI across system apps.",
+      "url": "https://applemagazine.com/wwdc26/",
+      "source": "AppleMagazine",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Google Search's I/O 2026 updates",
-      "description": "Bringing advanced model capabilities to Search with new AI features enabling agents just by asking a question.",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "Trump Signs Executive Order for AI Model Oversight",
+      "description": "30-day voluntary review window for new powerful AI models before public release.",
+      "url": "https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html",
+      "source": "NYTimes",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "EU proposals to simplify tech laws",
-      "description": "Proposals for sweeping changes to AI Act and GDPR rolling back rights.",
-      "url": "https://www.amnesty.org/en/latest/campaigns/2026/04/eu-simplification-laws/",
-      "source": "Amnesty International",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+      "title": "Big Tech Alarmed by AI Agents Impact on Ad Revenue",
+      "description": "AI agents threaten display advertising model as they ignore visual ads.",
+      "url": "https://www.coindesk.com/business/2026/06/03/big-tech-is-terrified-of-ai-agents-wiping-out-ad-revenue-says-billions-network-ceo",
+      "source": "CoinDesk",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+    },
+    {
+      "title": "Microsoft Build 2026 Showcases AI-Driven Devices & Cloud",
+      "description": "Major announcements on autonomous assistants, Nvidia PCs, and reasoning models.",
+      "url": "https://www.cnet.com/news-live/microsoft-build-2026-news-ai-copilot/",
+      "source": "CNET",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Open-Source AI June 2026 Roundup",
-      "description": "Rapid migration toward architectural diversification and localized execution networks with new models and agents.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "Devflokers",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "NVIDIA Cosmos 3 Open Sourced on Hugging Face",
+      "description": "Frontier physical AI model released with weights under OpenMDW license.",
+      "url": "https://www.buildfastwithai.com/blogs/nvidia-cosmos-3-isaac-groot-physical-ai-2026",
+      "source": "BuildFastWithAI",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "MiniMax-M2.1 Open-Source Model Release",
-      "description": "Advanced AI Agent Framework: 10B active parameters MoE model released with Hugging Face integrations.",
-      "url": "https://www.linkedin.com/pulse/breaking-ai-model-releases-open-source-projects-tech-top-ricky-2k0ic",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "Gemma 4: Google's Most Capable Open Models Yet",
+      "description": "New open models available on Hugging Face, Kaggle, and Ollama.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+      "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "Open-Source AI Roundup: MiniMax M3, smolagents & LangGraph",
+      "description": "New frameworks and models for secure, context-aware agent deployment.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ]
 }
