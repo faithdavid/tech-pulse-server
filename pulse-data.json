@@ -1,117 +1,27 @@
 {
   "ai": [
-    {
-      "title": "Gemini 3.1 Pro: Announcing our latest Gemini AI model",
-      "description": "Google releases Gemini 3.1 Pro with upgraded core intelligence for everyday applications.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "New AI Model Releases & Open Source AI Projects (March 13, 2026)",
-      "description": "GPT-5.4, Olmo Hybrid, and the viral OpenClaw project released.",
-      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
-      "source": "Devflokers",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "Latest AI Breakthroughs: Top Model Releases, Papers",
-      "description": "Top AI developments in reasoning, agentic systems, and efficiency.",
-      "url": "https://www.linkedin.com/pulse/latest-ai-breakthroughs-top-model-releases-papers-projects-ricky-zc1ic",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
-    }
+    {"title": "Open-Source AI June 2026 Roundup", "description": "New models, agents & papers including MiniMax M3 and NVIDIA Cosmos 3.", "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026", "source": "Devflokers", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
+    {"title": "AI Breakthroughs April 2026", "description": "Unprecedented release window with OpenAI, Anthropic, Google DeepMind models.", "url": "https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/", "source": "Kersai", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
+    {"title": "arXiv AI Papers June 2026", "description": "Latest artificial intelligence research papers on arXiv.", "url": "https://arxiv.org/list/cs.AI/current", "source": "arXiv", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
   ],
   "funding": [
-    {
-      "title": "AI Funding Tracker — Rounds, IPOs & Acquisitions",
-      "description": "Live tracker of AI funding rounds, IPOs, and acquisitions.",
-      "url": "https://gentic.news/funding",
-      "source": "gentic.news",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
-    },
-    {
-      "title": "Mistral's co-founders back €6M funding in AI simulation startup",
-      "description": "Backing for AI-native physics simulators targeting $30B market.",
-      "url": "https://techfundingnews.com/why-did-mistrals-co-founders-back-a-e6m-funding-round-in-ai-simulation-startup-days-after-acquiring-its-competitor/",
-      "source": "TechFundingNews",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "IPOs and M&A activity on the rise in AI",
-      "description": "41% of investors prefer secondary deals for liquidity.",
-      "url": "https://www.linkedin.com/posts/ivannikkhoo_bigger-outcomes-as-startup-exits-gain-steam-activity-7365800574832816128-xsi4",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    }
+    {"title": "AI Startup Funding News Today", "description": "Daily VC deals and funding rounds in AI sector.", "url": "https://aifundingtracker.com/ai-startup-funding-news-today/", "source": "AI Funding Tracker", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"},
+    {"title": "Latest VC Investment Deals in AI Startups", "description": "Massive VC deals in AI startups globally in 2026.", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo", "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"},
+    {"title": "TechCrunch Funding News", "description": "Latest funding rounds across tech and AI ecosystem.", "url": "https://techcrunch.com/tag/funding/", "source": "TechCrunch", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "Build Personal AI Agents on Windows PCs with New Tools",
-      "description": "NVIDIA and Microsoft release tools for GPU-accelerated AI on Windows.",
-      "url": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia/",
-      "source": "NVIDIA Developer Blog",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
-    },
-    {
-      "title": "FPT Software AI Center Introduces HyperAgent",
-      "description": "Generalist multi-agent system for software engineering tasks.",
-      "url": "https://www.marktechpost.com/2024/09/11/fpt-software-ai-center-introduces-hyperagent-a-groundbreaking-generalist-agent-system-to-resolve-various-software-engineering-tasks-at-scale-achieving-sota-performance-on-swe-bench-and-defects4j/",
-      "source": "MarkTechPost",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "All Developer Tools and Products by JetBrains",
-      "description": "Professional tools for productive development including AI frameworks.",
-      "url": "https://www.jetbrains.com/products/",
-      "source": "JetBrains",
-      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
-    }
+    {"title": "Best AI Coding Tools 2026", "description": "Ranked AI coding tools transforming software development.", "url": "https://tech-insider.org/ai-coding-tools-2026-transforming-software-development/", "source": "Tech Insider", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
+    {"title": "Awesome AI Agents 2026", "description": "Comprehensive list of AI agents, frameworks, and tools.", "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026", "source": "GitHub", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
+    {"title": "Top AI Agent Tools 2026", "description": "Frameworks for autonomous and intelligent applications.", "url": "https://www.analyticsinsight.net/artificial-intelligence/top-ai-agent-tools-and-frameworks-for-developers-in-2026", "source": "Analytics Insight", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "White House AI Regulation Plan 2026",
-      "description": "New federal policy, state roles, and compliance challenges outlined.",
-      "url": "https://aicomparison.ai/us-ai-regulation-2026-framework/",
-      "source": "AIComparison",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    },
-    {
-      "title": "2026 AI Laws Update: Key Regulations",
-      "description": "Trump's EO, Colorado & California frameworks, EU AI Act compliance.",
-      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
-      "source": "Gunder",
-      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
-    },
-    {
-      "title": "7 Explosive AI Updates in May 2026",
-      "description": "Government regulation, Anthropic's rise, AI agents replacing apps.",
-      "url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/",
-      "source": "IMFounder",
-      "image_url": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&q=60"
-    }
+    {"title": "Reuters AI News", "description": "Latest AI breakthroughs, trends, regulation and business impact.", "url": "https://www.reuters.com/technology/artificial-intelligence/", "source": "Reuters", "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168e1c?w=600&q=60"},
+    {"title": "TechCrunch AI News", "description": "Machine learning tech, companies, and ethical issues.", "url": "https://techcrunch.com/category/artificial-intelligence/", "source": "TechCrunch", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"},
+    {"title": "Bloomberg AI Race", "description": "Trending news and analysis on the AI race.", "url": "https://www.bloomberg.com/latest/the-ai-race", "source": "Bloomberg", "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"}
   ],
   "oss": [
-    {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "description": "South Korea models trending, Reflection AI data center partnership.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
-    },
-    {
-      "title": "New Open Source AI Projects on GitHub and Hugging Face",
-      "description": "Notable releases with star counts and model downloads in April 2026.",
-      "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026",
-      "source": "Fazm Blog",
-      "image_url": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=600&q=60"
-    },
-    {
-      "title": "EXAONE 4.5 Vision Language Model Release",
-      "description": "LG AI Research releases first open-weight vision language model.",
-      "url": "https://github.com/huggingface/transformers/releases",
-      "source": "Hugging Face Transformers",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    }
+    {"title": "Open-Source AI June 2026", "description": "New models, agents & papers from HuggingFace ecosystem.", "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026", "source": "Devflokers", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
+    {"title": "HuggingFace Open Source Projects", "description": "Top open source projects and model releases.", "url": "https://awesomeopensource.com/projects/huggingface", "source": "Awesome Open Source", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"},
+    {"title": "Best AI Models April 2026", "description": "Ranked by benchmarks including Claude and GPT variants.", "url": "https://www.buildfastwithai.com/blogs/best-ai-models-april-2026", "source": "BuildFastWithAI", "image_url": "https://images.unsplash.com/photo-1676299081847-5c53d8a0dc72?w=600&q=60"}
   ]
 }
