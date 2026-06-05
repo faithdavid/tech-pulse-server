@@ -1,24 +1,117 @@
 {
   "ai": [
-    {"title": "LLM research updates 2026", "description": "Harness over models focus in latest LLM updates.", "url": "https://fazm.ai/t/llm-research-updates-2026", "source": "Fazm.ai", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
-    {"title": "Latest AI Breakthroughs", "description": "Top model releases and papers closing 2025 into 2026.", "url": "https://www.linkedin.com/pulse/latest-ai-breakthroughs-top-model-releases-papers-projects-ricky-zc1ic", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
-    {"title": "MiniMax M2.5 Model Release", "description": "Chinese model rivals Claude at 1/10th cost.", "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026", "source": "Devflokers", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
+    {
+      "title": "NVIDIA Cosmos 3 + Isaac GR00T Robot",
+      "description": "NVIDIA released Cosmos 3 on May 31, 2026 — the most significant Physical AI release of 2026.",
+      "url": "https://www.buildfastwithai.com/blogs/nvidia-cosmos-3-isaac-groot-physical-ai-2026",
+      "source": "BuildFastWithAI",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "Google DeepMind Gemini for Science",
+      "description": "Latest AI breakthroughs and updates from the lab with Gemini for Science experiments.",
+      "url": "https://deepmind.google/research/",
+      "source": "Google DeepMind",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "New AI Model Releases & Open Source Projects",
+      "description": "GPT-5.4, Olmo Hybrid, and viral OpenClaw project released in March 2026 updates.",
+      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    }
   ],
   "funding": [
-    {"title": "Q1 2026 VC Records Shattered", "description": "$300B poured into AI startups globally.", "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/", "source": "Crunchbase", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"},
-    {"title": "AI IPO Plans Heat Up", "description": "Blockbuster IPOs and $1B raises at $5B valuation.", "url": "https://www.facebook.com/WPSDLocal6/posts/ai-companies-plans-for-blockbuster-initial-public-offerings-ipos-are-captivating/1438611414968711/", "source": "WPSD", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
+    {
+      "title": "AI IPOs 2026: Anthropic vs OpenAI",
+      "description": "Preliminary prospectus for Anthropic IPO filed, S-1/A updates in June 2026.",
+      "url": "https://decodethefuture.org/en/ai-ipos-2026-anthropic-openai-spacex/",
+      "source": "DecodeTheFuture",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "AI Startup Funding Falls 10%",
+      "description": "AI startup funding falls 10% to $725 million in Jan-May as investors shift to early-stage bets.",
+      "url": "https://www.moneycontrol.com/news/business/funding/ai-startup-funding-falls-10-to-725-million-in-jan-may-as-investors-shift-to-smaller-early-stage-bets-13939218.html",
+      "source": "Moneycontrol",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Anthropic IPO Updates",
+      "description": "Latest on Anthropic’s path to public offering with expected valuation and stock price outlook.",
+      "url": "https://soarlabs.org/anthropic-ipo/",
+      "source": "SoarLabs",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "AI Tools for Software Engineers", "description": "ChatGPT, Copilot leading developer productivity.", "url": "https://www.facebook.com/programmingHero/posts/12-effective-ai-tools-for-software-engineers/1428893695951886/", "source": "Programming Hero", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
-    {"title": "Roadmap for Developer Tooling 3.0", "description": "Natural language as primary interface in Software 3.0.", "url": "https://www.bvp.com/atlas/roadmap-developer-tooling-for-software-3-0", "source": "BVP", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"}
+    {
+      "title": "NVIDIA Open Source Agent Tools for Physical AI",
+      "description": "NVIDIA releases major collection of open source agent tools and skills for robots and AVs.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-releases-major-collection-of-open-source-agent-tools-and-skills-for-physical-ai",
+      "source": "NVIDIA Newsroom",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "Microsoft Build 2026 AI Initiatives",
+      "description": "Microsoft announces sweeping AI initiatives including autonomous assistants and new reasoning model.",
+      "url": "https://www.reuters.com/world/china/microsoft-expected-showcase-new-pc-cloud-ai-tools-developer-conference-2026-06-02/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+    },
+    {
+      "title": "Open-Source AI June 2026 Roundup",
+      "description": "New models, agents & papers using OpenClaw, smolagents, and LangGraph.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "Computex 2026 AI Highlights", "description": "Agentic AI, Nvidia RTX Spark showcased.", "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kzc3UyZ0VSRmtIdXNMUXkyMzBDZ0FQAQ?hl=en-US&gl=US&ceid=US:en", "source": "Google News", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"},
-    {"title": "Big Tech vs EU AI Regulation", "description": "US urged to fight detrimental AI policies.", "url": "https://www.euractiv.com/news/big-tech-is-asking-trump-to-fight-eu-ai-regulation/", "source": "Euractiv", "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"}
+    {
+      "title": "Tech Wins in California Primary",
+      "description": "Silicon Valley benefits from political leverage against regulation and taxes on AI.",
+      "url": "https://www.theguardian.com/us-news/2026/jun/03/silicon-valley-california-primary-election-tech-industry",
+      "source": "The Guardian",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    },
+    {
+      "title": "Big Tech Terrified of AI Agents",
+      "description": "Big Tech firms seek new ways to profit from advertising as AI agents threaten ad revenue.",
+      "url": "https://www.coindesk.com/business/2026/06/03/big-tech-is-terrified-of-ai-agents-wiping-out-ad-revenue-says-billions-network-ceo",
+      "source": "CoinDesk",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+    },
+    {
+      "title": "Computex 2026 AI Showcase",
+      "description": "Computex highlights Agentic AI, Nvidia RTX Spark, and Taiwan's role in AI hardware.",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kzc3UyZ0VSRmtIdXNMUXkyMzBDZ0FQAQ?hl=en-US&gl=US&ceid=US:en",
+      "source": "Google News",
+      "image_url": "https://images.unsplash.com/photo-1531297482815-38f5f2f1e7a1?w=600&q=60"
+    }
   ],
   "oss": [
-    {"title": "State of Open Source on HF Spring 2026", "description": "South Korean models trending on Hugging Face.", "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
-    {"title": "New OSS AI Projects April 2026", "description": "GitHub and HF releases with high stars.", "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026", "source": "Fazm", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"},
-    {"title": "Transformers Library Updates", "description": "EXAONE 4.5 vision-language model release.", "url": "https://github.com/huggingface/transformers/releases", "source": "GitHub", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"}
+    {
+      "title": "NVIDIA Cosmos 3 on Hugging Face",
+      "description": "Cosmos 3 is NVIDIA's first fully open Physical AI omnimodel — 16B Nano and 64B Super released on HF.",
+      "url": "https://www.buildfastwithai.com/blogs/nvidia-cosmos-3-isaac-groot-physical-ai-2026",
+      "source": "NVIDIA / HF",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "DeepSeek-V4-Pro on Hugging Face",
+      "description": "New 862B parameter model from deepseek-ai updated recently on the platform.",
+      "url": "https://huggingface.co/models",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    },
+    {
+      "title": "Open Source AI Roundup June 2026",
+      "description": "Top open-source projects including MiniMax M3 and Cosmos 3 for secure, grounded systems.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    }
   ]
 }
