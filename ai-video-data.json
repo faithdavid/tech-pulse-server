@@ -1,98 +1,32 @@
 {
   "filmschool": [
-    {
-      "title": "Best AI Filmmaking Tools in 2026",
-      "description": "From script to final cut, comprehensive guide to top AI tools for filmmakers.",
-      "url": "https://crepal.ai/blog/aivideo/aivideo-ai-filmmaking-tools-2026/",
-      "source": "CrePal",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
-    },
-    {
-      "title": "AI Film Innovations 2026: Trends & Developments",
-      "description": "AI transitions from novelty to cornerstone of film production with scene generation and virtual directors.",
-      "url": "https://www.academicjobs.com/global-news/ai-film-innovations-2026-latest-developments-and-trends-796",
-      "source": "AcademicJobs",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
-    }
+    {"title": "10 Best AI Video Tools for Filmmakers in 2026", "description": "New Chinese AI models have officially \"closed the uncanny valley,\" providing hyper-realistic human physics and facial expressions.", "url": "https://resource.digen.ai/best-ai-video-tools-for-filmmakers-2026/", "source": "Digen AI", "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"},
+    {"title": "7 Best AI Tools for Filmmakers: The Ultimate 2026 Guide", "description": "These AI-powered pre-production tools lay a solid, creatively rich foundation for production.", "url": "https://second-act.app/blog/best-ai-tools-filmmakers-ultimate-guide-2026", "source": "Second Act Blog", "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"},
+    {"title": "AI FILMMAKING TOOLS — 2026 Meh VS Wow", "description": "Welcome to the year of full stream of Video Gen AI, your new required skill is noise reduction.", "url": "https://medium.com/@anixlynch/ai-filmmaking-tools-2026-meh-vs-wow-0409fd691de0", "source": "Medium", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "The State of AI Video Generation in 2026",
-      "description": "5 defining trends, competitive landscape, and capability assessment in AI video.",
-      "url": "https://seedance-2ai.org/blog/ai-video-generation-trends-2026",
-      "source": "Seedance",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "AI Startup Funding Roundup 2026",
-      "description": "Record-breaking funding rounds driving innovation in AI video solutions.",
-      "url": "https://af.net/realtime/ai-startup-funding-a-complete-roundup-for-2026/",
-      "source": "AF.net",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
-    }
+    {"title": "Bring any idea to life: Google AI Studio at I/O 2026", "description": "Introducing native Android vibe coding support, Google Workspace integrations, an AI Studio mobile app and more.", "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/", "source": "Google Blog", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"},
+    {"title": "From the CEO: What's coming to YouTube in 2026", "description": "Neal Mohan's 2026 letter for the latest company news, AI safeguards, and parental controls.", "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/", "source": "YouTube Blog", "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"},
+    {"title": "Synthesia: #1 AI Video Platform for Business", "description": "Create studio-quality videos with AI avatars and voiceovers in 160+ languages.", "url": "https://www.synthesia.io/", "source": "Synthesia", "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "Best 6 AI Video Editors in 2026",
-      "description": "Compare leading AI video editing tools, features, pricing, and limitations.",
-      "url": "https://airmore.ai/best-ai-video-editors.html",
-      "source": "Airmore",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
-    },
-    {
-      "title": "Blackmagic Design releases DaVinci Resolve 21.0",
-      "description": "New AI features, stereoscopic 3D tools, and collaboration in DaVinci Resolve 21.",
-      "url": "https://www.cgchannel.com/2026/06/blackmagic-design-releases-davinci-resolve-21-0/",
-      "source": "CG Channel",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
-    }
+    {"title": "YouTube launches interactive search and AI video remixing", "description": "Conversational search and Gemini Omni AI tools help you find videos and remix Shorts with ease.", "url": "https://blog.youtube/news-and-events/youtube-news-google-io-2026/", "source": "YouTube Blog", "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"},
+    {"title": "100 things we announced at I/O 2026", "description": "New models, agents and tools to help you build, search, create, discover at Google I/O 2026.", "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/", "source": "Google Blog", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
+    {"title": "Generative AI | Run Image, Video, 3D and Audio Models | fal.ai", "description": "The world's best generative image, video, and audio models, all in one place.", "url": "https://fal.ai/", "source": "fal.ai", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"}
   ],
   "niches": [
-    {
-      "title": "Faceless YouTube Shorts with AI: 10 Niches That Still Work in 2026",
-      "description": "10 faceless niches powered by Text2Shorts, Veo3, and AI thumbnails.",
-      "url": "https://miraflow.ai/blog/faceless-youtube-shorts-ai-niches-2026",
-      "source": "Miraflow",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
-    },
-    {
-      "title": "Top Niches for YouTube Automation 2026",
-      "description": "50+ profitable sub-niches for AI-powered YouTube automation.",
-      "url": "https://outlierkit.com/blog/youtube-automation-niches",
-      "source": "OutlierKit",
-      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
-    }
+    {"title": "Netflix plans to add a vertical video feed, use AI for recommendations", "description": "Netflix launching TikTok-like vertical video feed and plans to use AI broadly for content creation.", "url": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/", "source": "TechCrunch", "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"},
+    {"title": "Future of AI Video Generation 2026: The Next Evolution", "description": "Vertical models optimized for specific physics providing more reliable results.", "url": "https://resource.digen.ai/future-of-ai-video-generation-2026/", "source": "Digen AI", "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"},
+    {"title": "The State of AI Video Creation 2026 | Vivideo", "description": "Vertical video is the format of the future at 43.7% and climbing.", "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026", "source": "Vivideo", "image_url": "https://images.unsplash.com/photo-1497032628192-86f99e3b462d?w=600&q=60"}
   ],
   "offers": [
-    {
-      "title": "InVideo AI Discounts 2026",
-      "description": "Promo codes and plan savings for InVideo AI, up to 50% off.",
-      "url": "https://costbench.com/software/ai-video-generators/invideo-ai/discounts/",
-      "source": "Costbench",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
-    },
-    {
-      "title": "AI Video Discount Hub 2026",
-      "description": "Save 60% on premium AI video tools like Topview, Invideo, and HeyGen.",
-      "url": "https://aivideodiscount.com/",
-      "source": "AI Video Discount",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    }
+    {"title": "4 student discounts for AI services in 2026", "description": "Perplexity's AI-powered search tool offers a dedicated student tier at $10 a month — half price.", "url": "https://mashable.com/article/best-student-discounts-ai-tools", "source": "Mashable", "image_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&q=60"},
+    {"title": "85 Verified AI Assistant Coupons - 35% Off | May 2026", "description": "Enhance your creative workflow with a 70% discount on Steve AI's video generation.", "url": "https://aiassistant.vectortemplates.com/", "source": "Vector Templates", "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"},
+    {"title": "Vidnoz AI Coupon Code & Discount – February 2026", "description": "Save 20% with this Vidnoz AI coupon code, valid in February 2026!", "url": "https://wpdiscounts.io/ai-tools/vidnoz-ai-coupon/", "source": "WPdiscounts", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
   ],
   "inspire": [
-    {
-      "title": "Мой СОН AI COVER | Cinematic Music Video",
-      "description": "AI-generated cinematic music video showcase for 2026.",
-      "url": "https://www.youtube.com/watch?v=bVrYHyX9L5w",
-      "source": "YouTube",
-      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d66a5b4?w=600&q=60"
-    },
-    {
-      "title": "Leonardo AI Video Generator for Creators",
-      "description": "Generate motion from text or images with precision and creative control.",
-      "url": "https://leonardo.ai/ai-video-generator",
-      "source": "Leonardo",
-      "image_url": "https://images.unsplash.com/photo-1505238680356-b1a1b3e1e3e3?w=600&q=60"
-    }
+    {"title": "AI VIDEO CHALLENGE IS HERE!", "description": "Turn creative ideas about the future, nature and tech into an AI-powered video.", "url": "https://www.facebook.com/techdomepenang/posts/-ai-video-challenge-is-here-got-creative-ideas-about-the-future-nature-and-techn/987906120654994/", "source": "Facebook", "image_url": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=600&q=60"},
+    {"title": "Call For Creative AI 2026", "description": "Inviting submissions in all areas of creativity including visual art, music, film, design.", "url": "https://neurips.cc/Conferences/2026/CallForCreativeAI", "source": "NeurIPS", "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600&q=60"},
+    {"title": "Portfolio — AI Video Showcase | Gen Art Studios", "description": "Watch AI-generated videos, commercials, kids content, and creative showcases.", "url": "https://genartstudios.com/portfolio", "source": "Gen Art Studios", "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"}
   ]
 }
