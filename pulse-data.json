@@ -1,117 +1,82 @@
 {
   "ai": [
     {
-      "title": "Claude Opus 4.8 Released by Anthropic",
-      "description": "Anthropic releases Claude Opus 4.8 on May 28, 2026, pushing frontier model capabilities further.",
-      "url": "https://aireleasetracker.com/latest",
-      "source": "AI Release Tracker",
+      "title": "AI in April 2026: Biggest Breakthroughs",
+      "description": "April 2026 has become the densest AI model release window in history with OpenAI, Anthropic, and Google DeepMind launching major new models.",
+      "url": "https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/",
+      "source": "Kersai",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "New AI Papers Week of Jun 01-07 2026",
-      "description": "Arxiv releases latest AI research papers from the first week of June 2026.",
-      "url": "https://arxiv.deeppaper.ai/papers/weekly",
-      "source": "Arxiv",
+      "title": "2026 Breakthrough Year for Reliable AI World Models",
+      "description": "Research accelerating in dynamic, memory-augmented, self-modifying, and world-simulating systems beyond static transformers.",
+      "url": "https://www.nextbigfuture.com/2026/04/2026-is-breakthrough-year-for-reliable-ai-world-models-and-continual-learning-prototypes.html",
+      "source": "NextBigFuture",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "LLM News Daily Roundup June 2026",
-      "description": "Comprehensive daily updates on model releases and benchmarks from leading labs.",
-      "url": "https://llm-stats.com/ai-news",
-      "source": "LLM Stats",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "AI Funding Tracker Updates 2026",
-      "description": "Live tracking of AI startup fundraises, acquisitions and IPO activity.",
-      "url": "https://pricepertoken.com/news/funding",
-      "source": "PricePerToken",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "Major VC Deals in AI Startups",
-      "description": "Significant venture capital rounds in AI companies reported in early 2026.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "title": "50 Top AI Funded Startups (June 2026)",
+      "description": "AV investment hit $23.26B in first four months of 2026 — more than double all of 2025. Humanoid robotics projected to draw $20B+.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
       "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "Live AI Funding Rounds Tracker",
-      "description": "Real-time data on Series A to IPO funding for AI startups.",
-      "url": "https://awaira.com/funding-rounds",
-      "source": "Awaira",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+      "title": "Q1 2026 Shatters Venture Funding Records",
+      "description": "AI boom pushes startup investment to $300B. Two Chinese foundation labs debuted on Hong Kong Stock Exchange valued at >$6B each.",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "source": "Crunchbase",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Top AI Coding Tools 2026",
-      "description": "Cursor, Windsurf, Cline and VS Code AI features lead the developer tools space.",
-      "url": "https://www.aubergine.co/insights/top-ai-coding-design-tools-in-2026",
-      "source": "Aubergine",
-      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
-    },
-    {
-      "title": "Best AI Tools for Developers",
-      "description": "Ponicode and other AI-powered testing and development frameworks highlighted.",
-      "url": "https://logixbuilt.com/blogs/top-10-ai-tools-for-developers-to-boost-productivity",
-      "source": "Logixbuilt",
+      "title": "27 AI Tools for Developers in 2026",
+      "description": "Tested and ranked AI developer tools covering coding assistants, frameworks for building AI applications.",
+      "url": "https://pecollective.com/blog/ai-tools-for-developers-2026/",
+      "source": "PE Collective",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "AI App Development Frameworks Guide",
-      "description": "TensorFlow, PyTorch, LangChain, Hugging Face Transformers top the 2026 list.",
-      "url": "https://www.nimbleappgenie.com/blogs/ai-app-development-frameworks-and-tools/",
-      "source": "Nimble AppGenie",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "2026 AI Agent Framework Showdown",
+      "description": "Benchmark comparison of LangGraph, CrewAI, AG2, Claude Agent SDK, Strands Agents, and OpenAI Agents SDK.",
+      "url": "https://qubittool.com/blog/ai-agent-framework-comparison-2026",
+      "source": "Qubit Tool",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Trump AI Executive Order Shaped by Big Tech",
-      "description": "Big Tech lobbying influences White House AI policy and regulation approach.",
-      "url": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
-      "source": "The Guardian",
+      "title": "Google Search's I/O 2026 updates",
+      "description": "Bringing advanced model capabilities to Search with new AI features enabling agents just by asking a question.",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+    },
+    {
+      "title": "EU proposals to simplify tech laws",
+      "description": "Proposals for sweeping changes to AI Act and GDPR rolling back rights.",
+      "url": "https://www.amnesty.org/en/latest/campaigns/2026/04/eu-simplification-laws/",
+      "source": "Amnesty International",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    },
-    {
-      "title": "Big Tech AI Regulation Blocked",
-      "description": "Lobbying efforts halt major US AI oversight legislation in 2025-2026.",
-      "url": "https://digital.nemko.com/insights/how-big-tech-lobbying-stopped-us-ai-regulation-in-2025",
-      "source": "Nemko Digital",
-      "image_url": "https://images.unsplash.com/photo-1451187589759-c205ecc36288?w=600&q=60"
-    },
-    {
-      "title": "Tech Regulation Challenges",
-      "description": "Global scrutiny on AI market structure and business practices intensifies.",
-      "url": "https://www.insidetechlaw.com/tech-regulation",
-      "source": "Inside Tech Law",
-      "image_url": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Models Surge",
-      "description": "Over 2.9 million models hosted on Hugging Face platform.",
-      "url": "https://huggingface.co/models",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+      "title": "Open-Source AI June 2026 Roundup",
+      "description": "Rapid migration toward architectural diversification and localized execution networks with new models and agents.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "Devflokers",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "DeepSeek Open Source LLMs",
-      "description": "DeepSeek V3 and R1 open-source models released with full weights on Hugging Face.",
-      "url": "https://jstechlog.com/en/posts/deepseek-opensource-llm/",
-      "source": "JSTechLog",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "Steerling-8B Open Sourced",
-      "description": "Guide Labs releases Steerling-8B interpretable LLM as open source.",
-      "url": "https://www.linkedin.com/pulse/top-3-ai-model-releases-open-source-projects-from-past-ricky-pno8c",
+      "title": "MiniMax-M2.1 Open-Source Model Release",
+      "description": "Advanced AI Agent Framework: 10B active parameters MoE model released with Hugging Face integrations.",
+      "url": "https://www.linkedin.com/pulse/breaking-ai-model-releases-open-source-projects-tech-top-ricky-2k0ic",
       "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ]
 }
