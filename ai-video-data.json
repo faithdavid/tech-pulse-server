@@ -1,32 +1,98 @@
 {
   "filmschool": [
-    {"title": "10 Best AI Filmmaking Tools in 2026", "description": "Ranked by Production Stage covering script to export.", "url": "https://mstudio.ai/insights/best-ai-filmmaking-tools-2026", "source": "M Studio", "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"},
-    {"title": "Best AI Filmmaking Tools in 2026", "description": "From script to final cut, tool comparisons.", "url": "https://crepal.ai/blog/aivideo/aivideo-ai-filmmaking-tools-2026/", "source": "CrePal", "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"},
-    {"title": "Top AI Video Generators for Filmmakers 2026", "description": "Seedance 2.0, Sora Ultra, Runway Gen-4 highlighted.", "url": "https://resource.digen.ai/top-ai-video-generators-for-filmmakers-2026/", "source": "Digen", "image_url": "https://images.unsplash.com/photo-1516035069371-29a749e1b62d?w=600&q=60"}
+    {
+      "title": "Best AI Filmmaking Tools in 2026",
+      "description": "From script to final cut, comprehensive guide to top AI tools for filmmakers.",
+      "url": "https://crepal.ai/blog/aivideo/aivideo-ai-filmmaking-tools-2026/",
+      "source": "CrePal",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+    },
+    {
+      "title": "AI Film Innovations 2026: Trends & Developments",
+      "description": "AI transitions from novelty to cornerstone of film production with scene generation and virtual directors.",
+      "url": "https://www.academicjobs.com/global-news/ai-film-innovations-2026-latest-developments-and-trends-796",
+      "source": "AcademicJobs",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "AI Video Stack 2026: Live Comparison", "description": "Veo 3.1, Kling 3.0, Seedance 2.0 rankings.", "url": "https://rctv.com/posts/ai-video-stack-2026/", "source": "RCTV", "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"},
-    {"title": "How AI is rewriting video industry rules 2026", "description": "Production-ready tools like Veo 3.1 and Kling 3.0.", "url": "https://www.tectome.com/blogs/ai-video-production-2026", "source": "Tectome", "image_url": "https://images.unsplash.com/photo-1497032628192-86f99b3e8c5e?w=600&q=60"},
-    {"title": "AI Video Trends 2026", "description": "Creative production shifts from survey of 6,500+ creators.", "url": "https://artlist.io/blog/artlist-creative-trend-report-2026/", "source": "Artlist", "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=600&q=60"}
+    {
+      "title": "The State of AI Video Generation in 2026",
+      "description": "5 defining trends, competitive landscape, and capability assessment in AI video.",
+      "url": "https://seedance-2ai.org/blog/ai-video-generation-trends-2026",
+      "source": "Seedance",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "AI Startup Funding Roundup 2026",
+      "description": "Record-breaking funding rounds driving innovation in AI video solutions.",
+      "url": "https://af.net/realtime/ai-startup-funding-a-complete-roundup-for-2026/",
+      "source": "AF.net",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "Blackmagic Design releases DaVinci Resolve 21.0", "description": "New features in stable release April 2026.", "url": "https://www.cgchannel.com/2026/06/blackmagic-design-releases-davinci-resolve-21-0/", "source": "CG Channel", "image_url": "https://images.unsplash.com/photo-1574717024453-35456c3a6e2f?w=600&q=60"},
-    {"title": "Pollo AI: Ultimate AI Video & Image Platform", "description": "Free all-in-one AI image & video generator.", "url": "https://pollo.ai/", "source": "Pollo AI", "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"},
-    {"title": "Google debuts AI-powered video tool called Flow", "description": "Camera control, scene builder for cinematic video.", "url": "https://techcrunch.com/2025/05/20/google-debuts-an-ai-powered-video-tool-called-flow/", "source": "TechCrunch", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
+    {
+      "title": "Best 6 AI Video Editors in 2026",
+      "description": "Compare leading AI video editing tools, features, pricing, and limitations.",
+      "url": "https://airmore.ai/best-ai-video-editors.html",
+      "source": "Airmore",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
+    },
+    {
+      "title": "Blackmagic Design releases DaVinci Resolve 21.0",
+      "description": "New AI features, stereoscopic 3D tools, and collaboration in DaVinci Resolve 21.",
+      "url": "https://www.cgchannel.com/2026/06/blackmagic-design-releases-davinci-resolve-21-0/",
+      "source": "CG Channel",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
+    }
   ],
   "niches": [
-    {"title": "Best AI ASMR Video Generators 2026", "description": "Free tools guide and tutorials.", "url": "https://aiimagetovideo.pro/blog/ai-asmr-video-generator/", "source": "AI Image to Video", "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d2f0b6a?w=600&q=60"},
-    {"title": "Hailuo AI: Text & Image to Video", "description": "High quality AI video generator from text & image.", "url": "https://hailuoai.video/", "source": "Hailuo AI", "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"},
-    {"title": "Viral GUGUGAGA AI Videos", "description": "How to create viral AI content.", "url": "https://www.youtube.com/watch?v=I37u89XS4OM", "source": "YouTube", "image_url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=60"}
+    {
+      "title": "Faceless YouTube Shorts with AI: 10 Niches That Still Work in 2026",
+      "description": "10 faceless niches powered by Text2Shorts, Veo3, and AI thumbnails.",
+      "url": "https://miraflow.ai/blog/faceless-youtube-shorts-ai-niches-2026",
+      "source": "Miraflow",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+    },
+    {
+      "title": "Top Niches for YouTube Automation 2026",
+      "description": "50+ profitable sub-niches for AI-powered YouTube automation.",
+      "url": "https://outlierkit.com/blog/youtube-automation-niches",
+      "source": "OutlierKit",
+      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
+    }
   ],
   "offers": [
-    {"title": "AI Video Discount Deals 2026", "description": "Save 60% on premium tools like Topview, Invideo.", "url": "https://aivideodiscount.com/", "source": "AI Video Discount", "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"},
-    {"title": "Invideo Coupons - 80% off June 2026", "description": "WETHRIFT40 for 40% off and more codes.", "url": "https://www.wethrift.com/invideo", "source": "Wethrift", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"},
-    {"title": "9 Best AI Video Generator Lifetime Deals", "description": "AppSumo deals for 2026.", "url": "https://rytbee.com/ai-video-generator-lifetime-deals/", "source": "Rytbee", "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"}
+    {
+      "title": "InVideo AI Discounts 2026",
+      "description": "Promo codes and plan savings for InVideo AI, up to 50% off.",
+      "url": "https://costbench.com/software/ai-video-generators/invideo-ai/discounts/",
+      "source": "Costbench",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+    },
+    {
+      "title": "AI Video Discount Hub 2026",
+      "description": "Save 60% on premium AI video tools like Topview, Invideo, and HeyGen.",
+      "url": "https://aivideodiscount.com/",
+      "source": "AI Video Discount",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    }
   ],
   "inspire": [
-    {"title": "AI Video Trends 2026 Creative Production", "description": "Top creative trends shaping AI-driven content.", "url": "https://artlist.io/blog/artlist-creative-trend-report-2026/", "source": "Artlist", "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=60"},
-    {"title": "Best AI Art Showcases 2026", "description": "Top-tier cinematic videos and professional storytelling.", "url": "https://www.mootion.com/use-cases/en/collection/top-ai-videos-for-art-and-design-showcases", "source": "Mootion", "image_url": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=600&q=60"},
-    {"title": "10 Best AI-Generated Video Examples 2026", "description": "Creative inspiration for next projects.", "url": "https://magichour.ai/blog/ai-video-examples", "source": "Magic Hour", "image_url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600&q=60"}
+    {
+      "title": "Мой СОН AI COVER | Cinematic Music Video",
+      "description": "AI-generated cinematic music video showcase for 2026.",
+      "url": "https://www.youtube.com/watch?v=bVrYHyX9L5w",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d66a5b4?w=600&q=60"
+    },
+    {
+      "title": "Leonardo AI Video Generator for Creators",
+      "description": "Generate motion from text or images with precision and creative control.",
+      "url": "https://leonardo.ai/ai-video-generator",
+      "source": "Leonardo",
+      "image_url": "https://images.unsplash.com/photo-1505238680356-b1a1b3e1e3e3?w=600&q=60"
+    }
   ]
 }
