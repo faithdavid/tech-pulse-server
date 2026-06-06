@@ -1,69 +1,112 @@
 {
-  "filmschool": [
+  "filmeschool": [
     {
-      "title": "Confluence of Generative AI and the Art of Filmmaking",
-      "description": "Generative AI transforming independent filmmaking as visualization tool at SIGGRAPH 2026.",
-      "url": "https://dac.siggraph.org/sparks/2026-04-24_confluence-of-generative-ai-and-the-art-of-filmmaking/",
-      "source": "SIGGRAPH",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+      "title": "MIT AI Film Hack 2025 Results",
+      "description": "Hundreds of AI-generated films submitted; survey shows rapid adoption of GenAI tools in filmmaking education.",
+      "url": "https://arxiv.org/html/2504.08296v1",
+      "source": "arXiv",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76bf?w=600&q=60"
     },
     {
-      "title": "AI Film Festival Winners: What We Can Learn",
-      "description": "Matt Subieta wins best film at AI International Film Festival 2026 with PhD background.",
-      "url": "https://www.linkedin.com/posts/talazar_who-is-winning-ai-film-festivals-and-what-activity-7450528176000192512-cGX5",
-      "source": "LinkedIn",
+      "title": "FTII Launches AI in Film & Video Course",
+      "description": "5-day course in Goa on story-to-video generation and prompt-based creation for film students.",
+      "url": "https://www.facebook.com/FtiiOfficial/posts/ftii-announces-basic-course-in-ai-in-film-video-generation-in-goa-under-the-cent/1294174496083351/",
+      "source": "FTII",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "Curious Refuge AI Filmmaking Course",
+      "description": "World's first online course teaching full AI film production workflows.",
+      "url": "https://curiousrefuge.com/ai-filmmaking",
+      "source": "Curious Refuge",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "2026: The Year AI Filmmaking Goes Mainstream",
-      "description": "Disney's $1B OpenAI deal signals breakthrough year for AI in studios.",
-      "url": "https://studio.aifilms.ai/blog/2026-ai-filmmaking-goes-mainstream",
-      "source": "AI Films Studio",
-      "image_url": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=600&q=60"
+      "title": "AI Video Market to Hit $3.4B by 2033",
+      "description": "Explosive growth projected at 20%+ CAGR; startups reshaping media production.",
+      "url": "https://startupwired.com/2026/05/06/why-ai-video-startups-are-taking-over-media/",
+      "source": "Startup Wired",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "2026 Media & Entertainment Industry Predictions",
-      "description": "AlixPartners report highlights 6 trends including widespread AI adoption.",
-      "url": "https://www.alixpartners.com/newsroom/2026-media-entertainment-industry-predictions-report/",
-      "source": "AlixPartners",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2a7fca?w=600&q=60"
+      "title": "McKinsey: AI Impact on Film & TV",
+      "description": "Studios exploring AI across production pipeline; long-term disruption ahead.",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/what-ai-could-mean-for-film-and-tv-production-and-the-industrys-future",
+      "source": "McKinsey",
+      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
+    },
+    {
+      "title": "2026 AI Video Landscape Report",
+      "description": "Platforms consolidate around cinematic and enterprise use cases.",
+      "url": "https://kingy.ai/ai/the-2026-ai-video-landscape-a-marketers-complete-guide-to-the-platforms-reshaping-content-creation/",
+      "source": "Kingy AI",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Best 6 AI Video Editors in 2026",
-      "description": "Comprehensive comparison of leading AI video editing tools and features.",
-      "url": "https://airmore.ai/best-ai-video-editors.html",
-      "source": "Airmore",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
+      "title": "Zapier: 17 Best AI Video Generators 2026",
+      "description": "Comprehensive test of top tools including Sora, Veo, Kling, Runway for creators.",
+      "url": "https://zapier.com/blog/best-ai-video-generator/",
+      "source": "Zapier",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "DaVinci Resolve 21 Final Release",
-      "description": "New AI tools like IntelliSearch and CineFocus in latest version.",
-      "url": "https://www.newsshooter.com/2026/06/02/davinci-resolve-21-final-release/",
-      "source": "News Shooter",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
+      "title": "YouTube Integrates Veo 3 Fast",
+      "description": "New AI tools for Shorts background generation with sound.",
+      "url": "https://blog.youtube/news-and-events/made-on-youtube-2025/",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+    },
+    {
+      "title": "FILM CRUX Best AI Tools for Filmmakers 2026",
+      "description": "Updated list featuring Higgsfield and professional cinematic tools.",
+      "url": "https://www.filmcrux.com/blog/ai-tools",
+      "source": "Film Crux",
+      "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "AI Video for Education",
-      "description": "Niche applications in film education and AIGC for script to editing.",
-      "url": "https://dl.acm.org/doi/10.1145/3775073.3775111",
-      "source": "ACM",
-      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b1d7c1d9?w=600&q=60"
+      "title": "AI for Hyper-Personalized Advertising",
+      "description": "Real-time cinematic rendering driving vertical ad campaigns.",
+      "url": "https://resource.digen.ai/ai-video-creation-trends-2026/",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+    },
+    {
+      "title": "Native Audio in AI Video Production",
+      "description": "Emerging tools like Seedance add synchronized sound for niche creators.",
+      "url": "https://gisteo.com/blogs/ai-videos/ai-video-production-trends-2026/",
+      "source": "Gisteo",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "title": "Free AI Video Creator — CF Studio",
+      "description": "Start free with online AI video editor and generator.",
+      "url": "https://studio.creativefabrica.com/ai-video-generator",
+      "source": "Creative Fabrica",
+      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
+    }
+  ],
   "inspire": [
     {
-      "title": "VEED GPT Video Creator",
-      "description": "Text-to-video with stock, music, subtitles for creative projects.",
-      "url": "https://www.veed.io/tools/video-gpt",
-      "source": "VEED",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "SIGGRAPH: Generative AI in Independent Filmmaking",
+      "description": "Talk on visualization tools transforming indie productions.",
+      "url": "https://dac.siggraph.org/sparks/2026-04-24_confluence-of-generative-ai-and-the-art-of-filmmaking/",
+      "source": "SIGGRAPH",
+      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
+    },
+    {
+      "title": "AI Video School Substack Showcase",
+      "description": "Creators sharing prompt techniques and storytelling projects.",
+      "url": "https://aivideoschool.substack.com/",
+      "source": "AI Video School",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2d0a5d?w=600&q=60"
     }
   ]
 }
