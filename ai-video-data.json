@@ -1,98 +1,69 @@
 {
   "filmschool": [
     {
-      "title": "10 Best AI Video Tools for Filmmakers in 2026",
-      "description": "Adobe remains the industry standard, with 85% of Sundance filmmakers utilizing their AI-integrated Creative Cloud suite in 2026.",
-      "url": "https://resource.digen.ai/best-ai-video-tools-for-filmmakers-2026/",
-      "source": "Digen AI",
+      "title": "Confluence of Generative AI and the Art of Filmmaking",
+      "description": "Generative AI transforming independent filmmaking as visualization tool at SIGGRAPH 2026.",
+      "url": "https://dac.siggraph.org/sparks/2026-04-24_confluence-of-generative-ai-and-the-art-of-filmmaking/",
+      "source": "SIGGRAPH",
       "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     },
     {
-      "title": "Google’s New AI Tool is Finally Here",
-      "description": "Google introduces Gemini Omni for AI video generation with groundbreaking capabilities.",
-      "url": "https://curiousrefuge.com/blog/googles-new-ai-tool-is-finally-here",
-      "source": "Curious Refuge",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "AI Film Festival Winners: What We Can Learn",
+      "description": "Matt Subieta wins best film at AI International Film Festival 2026 with PhD background.",
+      "url": "https://www.linkedin.com/posts/talazar_who-is-winning-ai-film-festivals-and-what-activity-7450528176000192512-cGX5",
+      "source": "LinkedIn",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "AI Video Generation News: 2026 Latest Models",
-      "description": "Monthly roundup of new model releases, API availability changes, and pricing updates.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "Wavespeed",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+      "title": "2026: The Year AI Filmmaking Goes Mainstream",
+      "description": "Disney's $1B OpenAI deal signals breakthrough year for AI in studios.",
+      "url": "https://studio.aifilms.ai/blog/2026-ai-filmmaking-goes-mainstream",
+      "source": "AI Films Studio",
+      "image_url": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=600&q=60"
     },
     {
-      "title": "50+ AI Video Statistics for 2026",
-      "description": "The AI video market crossed $700 million in 2025. Over 124 million people now use AI video platforms every month.",
-      "url": "https://www.ngram.com/blog/ai-video-statistics-2026",
-      "source": "Ngram",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "2026 Media & Entertainment Industry Predictions",
+      "description": "AlixPartners report highlights 6 trends including widespread AI adoption.",
+      "url": "https://www.alixpartners.com/newsroom/2026-media-entertainment-industry-predictions-report/",
+      "source": "AlixPartners",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2a7fca?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "8 Best AI Video Editing Tools in 2026",
-      "description": "AI video editing tools now generate subtitles, remove noise, create short clips, and translate voices.",
-      "url": "https://www.aiarty.com/edit-video/ai-video-editing-tools.htm",
-      "source": "Aiarty",
-      "image_url": "https://images.unsplash.com/photo-1574717025058-2f264c8e1c7d?w=600&q=60"
+      "title": "Best 6 AI Video Editors in 2026",
+      "description": "Comprehensive comparison of leading AI video editing tools and features.",
+      "url": "https://airmore.ai/best-ai-video-editors.html",
+      "source": "Airmore",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "New AI-powered video editing tools in Premiere",
-      "description": "Adobe releases new AI-powered video editing tools in Premiere and motion design upgrades in After Effects.",
-      "url": "https://blog.adobe.com/en/publish/2026/01/20/new-ai-powered-video-editing-tools-premiere-major-motion-design-upgrades-after-effects",
-      "source": "Adobe Blog",
-      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
+      "title": "DaVinci Resolve 21 Final Release",
+      "description": "New AI tools like IntelliSearch and CineFocus in latest version.",
+      "url": "https://www.newsshooter.com/2026/06/02/davinci-resolve-21-final-release/",
+      "source": "News Shooter",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Faceless YouTube Shorts with AI: 10 Niches That Still Work",
-      "description": "10 faceless niches that work with Text2Shorts, Veo3, and AI thumbnails in 2026.",
-      "url": "https://miraflow.ai/blog/faceless-youtube-shorts-ai-niches-2026",
-      "source": "Miraflow",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
-    },
-    {
-      "title": "Top Niches for YouTube Automation 2026",
-      "description": "Definitive guide to 50+ profitable sub-niches for YouTube automation with AI tools.",
-      "url": "https://outlierkit.com/blog/youtube-automation-niches",
-      "source": "OutlierKit",
-      "image_url": "https://images.unsplash.com/photo-1611605698335-8b1569810433?w=600&q=60"
+      "title": "AI Video for Education",
+      "description": "Niche applications in film education and AIGC for script to editing.",
+      "url": "https://dl.acm.org/doi/10.1145/3775073.3775111",
+      "source": "ACM",
+      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b1d7c1d9?w=600&q=60"
     }
   ],
-  "offers": [
-    {
-      "title": "Vidnoz AI Coupon Code & Discount – February 2026",
-      "description": "Save 20% with this Vidnoz AI coupon code, valid in February 2026.",
-      "url": "https://wpdiscounts.io/ai-tools/vidnoz-ai-coupon/",
-      "source": "WPdiscounts",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
-    },
-    {
-      "title": "Invideo promo code: 30% off - 2026",
-      "description": "Exclusive invideo promo code giving 30% off annual studio plans or 50 free AI minutes.",
-      "url": "https://www.founderpass.com/partners/invideo",
-      "source": "FounderPass",
-      "image_url": "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?w=600&q=60"
-    }
-  ],
+  "offers": [],
   "inspire": [
     {
-      "title": "10 Best AI-Generated Video Examples To Inspire Your Next Project",
-      "description": "Discover AI video examples that highlight creativity and innovation in 2026.",
-      "url": "https://magichour.ai/blog/ai-video-examples",
-      "source": "MagicHour",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
-    },
-    {
-      "title": "Best AI Art Showcases in 2026",
-      "description": "Explore the world's best AI art showcases created with Mootion 4.0.",
-      "url": "https://www.mootion.com/use-cases/en/collection/top-ai-videos-for-art-and-design-showcases",
-      "source": "Mootion",
-      "image_url": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=600&q=60"
+      "title": "VEED GPT Video Creator",
+      "description": "Text-to-video with stock, music, subtitles for creative projects.",
+      "url": "https://www.veed.io/tools/video-gpt",
+      "source": "VEED",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ]
 }
