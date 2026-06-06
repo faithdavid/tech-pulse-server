@@ -1,110 +1,117 @@
 {
   "ai": [
     {
-      "title": "LLM News Today (June 2026) – AI Model Releases",
-      "description": "Latest LLM research updates from academic papers, AI labs including breakthroughs in LLM infrastructure and inference optimization.",
-      "url": "https://llm-stats.com/ai-news",
-      "source": "LLM Stats",
+      "title": "AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts",
+      "description": "April 2026 has become the densest AI model release window in the industry's history with OpenAI, Anthropic, and Google DeepMind launching major new models.",
+      "url": "https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/",
+      "source": "Kersai",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "AI Updates Today – Latest AI Model Releases",
-      "description": "Track recent AI model releases, API changes, pricing updates across major providers.",
-      "url": "https://llm-stats.com/llm-updates",
-      "source": "LLM Stats",
+      "title": "Artificial Intelligence Jun 2026 - arXiv.org",
+      "description": "Latest AI papers on arXiv including cs.AI category for June 2026.",
+      "url": "https://arxiv.org/list/cs.AI/current",
+      "source": "arXiv",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Latest AI breakthroughs News | June 2026",
-      "description": "June 2026 AI roundup: model and hardware breakthroughs, agentic platforms, cheaper training.",
-      "url": "https://blog.mean.ceo/latest-ai-breakthroughs-news-june-2026/",
-      "source": "Mean CEO Blog",
+      "title": "New AI Models 2026 - Latest Releases",
+      "description": "Track the latest LLMs, coding models, and image generators released in 2026.",
+      "url": "https://lmmarketcap.com/new-ai-models",
+      "source": "LM Market Cap",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Anthropic IPO: Latest News",
-      "description": "Anthropic confidentially files for its U.S. IPO, setting the stage for potential October 2026 public debut.",
-      "url": "https://soarlabs.org/anthropic-ipo/",
-      "source": "Soar Labs",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+      "title": "50 Top AI Funded Startups (June 2026)",
+      "description": "AV investment hit $23.26B in first four months of 2026 — more than double all of 2025.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "AI startup funding falls 10% to $725 million",
-      "description": "Early AI funding up 62%, growth-stage down 49% in Jan-May 2026.",
-      "url": "https://www.moneycontrol.com/news/business/funding/ai-startup-funding-falls-10-to-725-million-in-jan-may-as-investors-shift-to-smaller-early-stage-bets-13939218.html",
-      "source": "Moneycontrol",
+      "title": "Q1 2026 Shatters Venture Funding Records",
+      "description": "AI boom pushes startup investment to $300B in Q1 2026.",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "source": "Crunchbase",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "7 Pre-IPO Stocks Everyone's Watching in 2026",
-      "description": "Record $122 billion funding round at $852 billion valuation for a major AI player.",
-      "url": "https://www.apex.exchange/blog/detail/7-pre-IPO-stocks-2026",
-      "source": "ApeX Blog",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+      "title": "Eclipse Raises $1.3B Fund for Physical AI",
+      "description": "New fund targets physical AI, manufacturing, and defense.",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Electron Framework Latest Releases",
-      "description": "New major versions of the open-source software framework developed by OpenJS Foundation.",
-      "url": "https://en.wikipedia.org/wiki/Electron_(software_framework)",
-      "source": "Wikipedia",
+      "title": "10 Open-Source Tools/Frameworks for Artificial Intelligence",
+      "description": "List including TensorFlow, Apache SystemML, Caffe, Torch and more.",
+      "url": "https://dzone.com/articles/10-opensource-toolsframeworks-for-artificial-intel",
+      "source": "DZone",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "JetBrains 2026.1.2 Release",
-      "description": "Leading IDE for Professional Development in Java and Kotlin updated.",
+      "title": "JetBrains Developer Tools Update",
+      "description": "Professional tools for productive development with AI integrations.",
       "url": "https://www.jetbrains.com/products/",
       "source": "JetBrains",
       "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
+    },
+    {
+      "title": "Microsoft Developer Tools for AI",
+      "description": "Hands-on sessions at Microsoft Build on real code and AI workflows.",
+      "url": "https://developer.microsoft.com/",
+      "source": "Microsoft",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "EU Targets Chip, AI Supply Chains",
-      "description": "Europe unveils sweeping tech sovereignty plan requiring €120 billion investment by 2035.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-03/europe-unveils-sweeping-tech-sovereignty-plan-to-boost-chips-ai",
-      "source": "Bloomberg",
-      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
+      "title": "SpaceX Lands Google AI Compute Deal",
+      "description": "SpaceX secures AI compute deal after Anthropic pact ahead of IPO.",
+      "url": "https://www.reuters.com/technology/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1517976487492-87ac70d4f6bd?w=600&q=60"
     },
     {
-      "title": "Big tech 'terrified' of AI agents",
-      "description": "Big Tech firms seek new ways to profit from advertising as AI agents become reality.",
-      "url": "https://www.coindesk.com/business/2026/06/03/big-tech-is-terrified-of-ai-agents-wiping-out-ad-revenue-says-billions-network-ceo",
-      "source": "CoinDesk",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "AI Shifting Power from Governments to Tech Companies",
+      "description": "Governments hesitate to regulate AI, shifting control to companies.",
+      "url": "https://restofworld.org/2026/ai-government-regulation-tech-giants/",
+      "source": "Rest of World",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
     },
     {
-      "title": "Europe's best-performing AI stocks of 2026",
-      "description": "Beyond Nvidia: Europe's top AI stocks including GlobalFoundries silicon-photonics moves.",
-      "url": "https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026",
-      "source": "Euronews",
-      "image_url": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&q=60"
+      "title": "Google Search I/O 2026 Updates: AI Agents",
+      "description": "New AI features enabling agents just by asking a question.",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Open-Source AI June 2026 Roundup",
-      "description": "New models, agents & papers with rapid migration toward architectural diversification.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "Devflokers",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    },
-    {
-      "title": "Hugging Face 2026: 2M+ Models",
-      "description": "Hub hosts over 2.2 million models and 2.2 billion downloads.",
-      "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
-      "source": "Programming Helper",
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "description": "South Korean models trending on HF Hub; new data center partnerships.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "Hugging Face Release Notes June 2026",
-      "description": "Latest product news and updates from Hugging Face.",
-      "url": "https://releasebot.io/updates/huggingface",
-      "source": "Releasebot",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "New Open Source AI Projects on GitHub and Hugging Face",
+      "description": "Notable releases in April 2026 with star counts and downloads.",
+      "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026",
+      "source": "Fazm Blog",
+      "image_url": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=600&q=60"
+    },
+    {
+      "title": "EXAONE 4.5 Vision Language Model Release",
+      "description": "First open-weight VLM by LG AI Research on Hugging Face.",
+      "url": "https://github.com/huggingface/transformers/releases",
+      "source": "Hugging Face Transformers",
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
     }
   ]
 }
