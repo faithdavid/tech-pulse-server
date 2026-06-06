@@ -1,91 +1,98 @@
 {
   "filmschool": [
     {
-      "title": "Generative AI for Film Creation: A Survey of Recent Advances",
-      "description": "Generative AI transforming filmmaking with text-to-image and image-to-video tools.",
-      "url": "https://arxiv.org/html/2504.08296v1",
-      "source": "arXiv",
+      "title": "10 Best AI Video Tools for Filmmakers in 2026",
+      "description": "Adobe remains the industry standard, with 85% of Sundance filmmakers utilizing their AI-integrated Creative Cloud suite in 2026.",
+      "url": "https://resource.digen.ai/best-ai-video-tools-for-filmmakers-2026/",
+      "source": "Digen AI",
       "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     },
     {
-      "title": "The Best AI Tools for Filmmaking",
-      "description": "Curated list of AI tools for filmmaking and creative projects.",
-      "url": "https://curiousrefuge.com/best-ai-tools",
+      "title": "Google’s New AI Tool is Finally Here",
+      "description": "Google introduces Gemini Omni for AI video generation with groundbreaking capabilities.",
+      "url": "https://curiousrefuge.com/blog/googles-new-ai-tool-is-finally-here",
       "source": "Curious Refuge",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Beyond Nvidia: Europe's best-performing AI stocks of 2026",
-      "description": "AI demand driving European stock performance in 2026.",
-      "url": "https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026",
-      "source": "Euronews",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+      "title": "AI Video Generation News: 2026 Latest Models",
+      "description": "Monthly roundup of new model releases, API availability changes, and pricing updates.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "Wavespeed",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     },
     {
-      "title": "At Cannes, the ad industry contemplates its AI future",
-      "description": "Agencies announce AI plans at Cannes Lions.",
-      "url": "https://fortune.com/2024/06/18/cannes-lions-ai-ad-industry-fear-and-hope/",
-      "source": "Fortune",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2a7ffa?w=600&q=60"
+      "title": "50+ AI Video Statistics for 2026",
+      "description": "The AI video market crossed $700 million in 2025. Over 124 million people now use AI video platforms every month.",
+      "url": "https://www.ngram.com/blog/ai-video-statistics-2026",
+      "source": "Ngram",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Google debuts an AI-powered video tool called Flow",
-      "description": "New AI video tool for filmmaking announced at Google I/O 2025.",
-      "url": "https://techcrunch.com/2025/05/20/google-debuts-an-ai-powered-video-tool-called-flow/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+      "title": "8 Best AI Video Editing Tools in 2026",
+      "description": "AI video editing tools now generate subtitles, remove noise, create short clips, and translate voices.",
+      "url": "https://www.aiarty.com/edit-video/ai-video-editing-tools.htm",
+      "source": "Aiarty",
+      "image_url": "https://images.unsplash.com/photo-1574717025058-2f264c8e1c7d?w=600&q=60"
     },
     {
-      "title": "Video GPT - Create Videos with AI - VEED",
-      "description": "AI text-to-video tool from VEED.",
-      "url": "https://www.veed.io/tools/video-gpt",
-      "source": "VEED",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
+      "title": "New AI-powered video editing tools in Premiere",
+      "description": "Adobe releases new AI-powered video editing tools in Premiere and motion design upgrades in After Effects.",
+      "url": "https://blog.adobe.com/en/publish/2026/01/20/new-ai-powered-video-editing-tools-premiere-major-motion-design-upgrades-after-effects",
+      "source": "Adobe Blog",
+      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "AI Video & Image Creator | Hailuo AI",
-      "description": "Hailuo AI for niche video and image generation.",
-      "url": "https://hailuoai.video/create",
-      "source": "Hailuo AI",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "Faceless YouTube Shorts with AI: 10 Niches That Still Work",
+      "description": "10 faceless niches that work with Text2Shorts, Veo3, and AI thumbnails in 2026.",
+      "url": "https://miraflow.ai/blog/faceless-youtube-shorts-ai-niches-2026",
+      "source": "Miraflow",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     },
     {
-      "title": "Doubao AI App, Video AI Tech Impact",
-      "description": "Text-to-video AI apps in vertical markets.",
-      "url": "https://www.heygen.com/blog/doubao-ai-rise-impact-video-ai-tech",
-      "source": "HeyGen",
-      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
+      "title": "Top Niches for YouTube Automation 2026",
+      "description": "Definitive guide to 50+ profitable sub-niches for YouTube automation with AI tools.",
+      "url": "https://outlierkit.com/blog/youtube-automation-niches",
+      "source": "OutlierKit",
+      "image_url": "https://images.unsplash.com/photo-1611605698335-8b1569810433?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Best Deals on AI Tools",
-      "description": "Explore current promo codes and discounts for AI video tools.",
-      "url": "https://slickdeals.net/",
-      "source": "Slickdeals",
-      "image_url": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=600&q=60"
+      "title": "Vidnoz AI Coupon Code & Discount – February 2026",
+      "description": "Save 20% with this Vidnoz AI coupon code, valid in February 2026.",
+      "url": "https://wpdiscounts.io/ai-tools/vidnoz-ai-coupon/",
+      "source": "WPdiscounts",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+    },
+    {
+      "title": "Invideo promo code: 30% off - 2026",
+      "description": "Exclusive invideo promo code giving 30% off annual studio plans or 50 free AI minutes.",
+      "url": "https://www.founderpass.com/partners/invideo",
+      "source": "FounderPass",
+      "image_url": "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "The 16 Best AI Video Generators in 2026",
-      "description": "Creative showcases and top AI video generators.",
-      "url": "https://www.synthesia.io/post/best-ai-video-generators",
-      "source": "Synthesia",
-      "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"
+      "title": "10 Best AI-Generated Video Examples To Inspire Your Next Project",
+      "description": "Discover AI video examples that highlight creativity and innovation in 2026.",
+      "url": "https://magichour.ai/blog/ai-video-examples",
+      "source": "MagicHour",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "AI Video Generator – Leonardo.ai",
-      "description": "Creative AI video art and motion projects.",
-      "url": "https://leonardo.ai/ai-video-generator",
-      "source": "Leonardo.ai",
-      "image_url": "https://images.unsplash.com/photo-1547891654-1bb1b6e6a1df?w=600&q=60"
+      "title": "Best AI Art Showcases in 2026",
+      "description": "Explore the world's best AI art showcases created with Mootion 4.0.",
+      "url": "https://www.mootion.com/use-cases/en/collection/top-ai-videos-for-art-and-design-showcases",
+      "source": "Mootion",
+      "image_url": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=600&q=60"
     }
   ]
 }
