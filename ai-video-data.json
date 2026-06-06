@@ -1,126 +1,91 @@
 {
   "filmschool": [
     {
-      "title": "10 Best AI Video Tools for Filmmakers in 2026",
-      "description": "New Chinese AI models have closed the uncanny valley with hyper-realistic physics and expressions.",
-      "url": "https://resource.digen.ai/best-ai-video-tools-for-filmmakers-2026/",
-      "source": "Digen AI",
+      "title": "Generative AI for Film Creation: A Survey of Recent Advances",
+      "description": "Generative AI transforming filmmaking with text-to-image and image-to-video tools.",
+      "url": "https://arxiv.org/html/2504.08296v1",
+      "source": "arXiv",
       "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     },
     {
-      "title": "AI FILMMAKING TOOLS — 2026 Meh VS Wow",
-      "description": "Full stream of Video Gen AI requires mastering noise reduction and tool selection.",
-      "url": "https://medium.com/@anixlynch/ai-filmmaking-tools-2026-meh-vs-wow-0409fd691de0",
-      "source": "Medium",
+      "title": "The Best AI Tools for Filmmaking",
+      "description": "Curated list of AI tools for filmmaking and creative projects.",
+      "url": "https://curiousrefuge.com/best-ai-tools",
+      "source": "Curious Refuge",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
-    },
-    {
-      "title": "Best AI Director Tools for Filmmakers in 2026",
-      "description": "Real directorial control with cast definition and scene consistency.",
-      "url": "https://motion.verticalstudio.ai/blog/best-ai-director-tools-filmmakers-2026",
-      "source": "Vertical Motion",
-      "image_url": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "AI Startup Funding in May 2026: 37 Deals, $25B",
-      "description": "AI startups captured 45% of deals with mega-rounds exceeding $20B.",
-      "url": "https://inforcapital.com/blog/2026-05-09-ai-startup-funding-surges-in-may-37-deals-and-25-billion-as-investors-double-down-on-machine-learning/",
-      "source": "Infor Capital",
-      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
+      "title": "Beyond Nvidia: Europe's best-performing AI stocks of 2026",
+      "description": "AI demand driving European stock performance in 2026.",
+      "url": "https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026",
+      "source": "Euronews",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Hollywood's AI Studio Boom in 2026",
-      "description": "Seismic shift in film and television production fueled by AI.",
-      "url": "https://www.abrahamsanieoff.com/hollywood-s-ai-studio-boom-navigating-the-new-era-of-film-and-television-production-in-2026",
-      "source": "Abraham Sanieoff",
-      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
-    },
-    {
-      "title": "AI Video Trends 2026: 8 Shifts Creators Must Know",
-      "description": "Production costs dropped 91%, 78% of marketers use AI video.",
-      "url": "https://www.genmedialab.com/news/ai-video-trends-2026/",
-      "source": "Gen Media Lab",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99f48e7e0?w=600&q=60"
+      "title": "At Cannes, the ad industry contemplates its AI future",
+      "description": "Agencies announce AI plans at Cannes Lions.",
+      "url": "https://fortune.com/2024/06/18/cannes-lions-ai-ad-industry-fear-and-hope/",
+      "source": "Fortune",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2a7ffa?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "The 17 best AI video generators in 2026",
-      "description": "Zapier tested dozens of top AI video generators for creation and editing.",
-      "url": "https://zapier.com/blog/best-ai-video-generator/",
-      "source": "Zapier",
-      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=600&q=60"
+      "title": "Google debuts an AI-powered video tool called Flow",
+      "description": "New AI video tool for filmmaking announced at Google I/O 2025.",
+      "url": "https://techcrunch.com/2025/05/20/google-debuts-an-ai-powered-video-tool-called-flow/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     },
     {
-      "title": "Google Flow and Veo 3 Video",
-      "description": "Natural-language prompting with physics-aware generation and character persistence.",
-      "url": "https://www.linkedin.com/pulse/google-flow-veo-3-video-future-production-david-cronshaw-xcpcf",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "Gling - AI Video Editing Software for YouTube",
-      "description": "AI captions, automated zooms, and noise removal for creators.",
-      "url": "https://www.gling.ai/",
-      "source": "Gling",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "Video GPT - Create Videos with AI - VEED",
+      "description": "AI text-to-video tool from VEED.",
+      "url": "https://www.veed.io/tools/video-gpt",
+      "source": "VEED",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Create AI Videos Over 2 Minutes",
-      "description": "LongCat Video for extended content with automatic adjustments.",
-      "url": "https://videomakerai.app/long-video-generation",
-      "source": "Videomakerai",
-      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
-    },
-    {
-      "title": "Hailuo AI Video & Image Creator",
-      "description": "Text-to-video and image tools for fast professional generation.",
+      "title": "AI Video & Image Creator | Hailuo AI",
+      "description": "Hailuo AI for niche video and image generation.",
       "url": "https://hailuoai.video/create",
       "source": "Hailuo AI",
-      "image_url": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "Doubao AI App, Video AI Tech Impact",
+      "description": "Text-to-video AI apps in vertical markets.",
+      "url": "https://www.heygen.com/blog/doubao-ai-rise-impact-video-ai-tech",
+      "source": "HeyGen",
+      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Best AI Tools Cyber Monday Deals 2026",
-      "description": "Up to 86% off AI video editors and generators.",
-      "url": "https://cybernews.com/ai-tools/best-ai-tools-black-friday-deals/",
-      "source": "Cybernews",
-      "image_url": "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?w=600&q=60"
-    },
-    {
-      "title": "AI Video Discount Hub",
-      "description": "Save 60% on Topview, Invideo, HeyGen and more.",
-      "url": "https://aivideodiscount.com/",
-      "source": "AI Video Discount",
-      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"
+      "title": "Best Deals on AI Tools",
+      "description": "Explore current promo codes and discounts for AI video tools.",
+      "url": "https://slickdeals.net/",
+      "source": "Slickdeals",
+      "image_url": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "AIF 2026 | AI Festival by Runway",
-      "description": "Celebration of art and artists using emerging AI tools for creative work.",
-      "url": "https://aif.runwayml.com/",
-      "source": "Runway ML",
-      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
+      "title": "The 16 Best AI Video Generators in 2026",
+      "description": "Creative showcases and top AI video generators.",
+      "url": "https://www.synthesia.io/post/best-ai-video-generators",
+      "source": "Synthesia",
+      "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"
     },
     {
-      "title": "AI Film 3 Festival - Arizona 2026",
-      "description": "Showcase of AI Films, Art, Music, Fashion and Gaming.",
-      "url": "https://aifilm3.com/",
-      "source": "AI Film 3",
-      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
-    },
-    {
-      "title": "Call For Creative AI 2026 at NeurIPS",
-      "description": "Submissions in visual art, music, film, design and more.",
-      "url": "https://neurips.cc/Conferences/2026/CallForCreativeAI",
-      "source": "NeurIPS",
-      "image_url": "https://images.unsplash.com/photo-1509021436665-8f4c8f1c8f1c?w=600&q=60"
+      "title": "AI Video Generator – Leonardo.ai",
+      "description": "Creative AI video art and motion projects.",
+      "url": "https://leonardo.ai/ai-video-generator",
+      "source": "Leonardo.ai",
+      "image_url": "https://images.unsplash.com/photo-1547891654-1bb1b6e6a1df?w=600&q=60"
     }
   ]
 }
