@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Google DeepMind Breakthroughs",
-      "description": "Latest AI breakthroughs and updates from the lab including new model capabilities.",
-      "url": "https://deepmind.google/research/",
-      "source": "Google DeepMind",
+      "title": "Google Releases Gemma 4 E2B Architecture",
+      "description": "Enabling local AI on edge devices with breakthrough open model from Google DeepMind.",
+      "url": "https://news.aibase.com/news/28606",
+      "source": "AI Base",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "MiniMax M2.5 Model Release",
-      "description": "MiniMax’s M2.5 rivals Claude Opus 4.6 at one-tenth the cost.",
-      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
-      "source": "Devflokers",
+      "title": "Gemini for Science: New AI Experiments",
+      "description": "Google DeepMind unveils tools for a new era of scientific discovery.",
+      "url": "https://deepmind.google/research/",
+      "source": "Google DeepMind",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "New AI Model Breakthroughs June 2026",
-      "description": "Latest launches from Google, Anthropic, and OpenAI.",
-      "url": "https://healingpoint.in/new-ai-model-breakthroughs-10/",
-      "source": "Healing Point",
+      "title": "GPT-5.4 and Olmo Hybrid Releases",
+      "description": "Major model releases including GPT-5.4 and OpenClaw project in March 2026.",
+      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
+      "source": "Devflokers",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "AI Funding Tracker Updates",
-      "description": "Track AI funding rounds, acquisitions, IPOs with daily updates.",
-      "url": "https://pricepertoken.com/news/funding",
-      "source": "PricePerToken",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "2026 IPO Watchlist: OpenAI, SpaceX",
-      "description": "OpenAI, Anthropic and SpaceX edging closer to record-breaking IPOs.",
-      "url": "https://builtin.com/articles/top-tech-ipos-2026",
-      "source": "Built In",
+      "title": "Anthropic Submits Confidential IPO Filing",
+      "description": "Anthropic escalates race with $65B valuation in proposed IPO.",
+      "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-ai-anthropic-65b-dominates/",
+      "source": "Crunchbase",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "50 Top AI Funded Startups June 2026",
-      "description": "$65B Series H at $965B valuation for leading AI startup.",
-      "url": "https://aifundingtracker.com/top-50-ai-startups/",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+      "title": "AI Startup Funding Falls 10% to $725M",
+      "description": "Jan-May 2026 sees shift to early-stage bets, seed/Series A up 62%.",
+      "url": "https://www.moneycontrol.com/news/business/funding/ai-startup-funding-falls-10-to-725-million-in-jan-may-as-investors-shift-to-smaller-early-stage-bets-13939218.html",
+      "source": "Moneycontrol",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "xAI IPO Speculation Heats Up",
+      "description": "Musk's xAI acquisition impacts SpaceX IPO plans targeting $50B raise.",
+      "url": "https://stockanalysis.com/article/invest-in-xai-stock/",
+      "source": "Stock Analysis",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Microsoft Build Project Polaris",
-      "description": "Windows Agent Framework 1.0 ships, Azure Agent Mesh announced.",
-      "url": "https://aitoolsrecap.com/Blog/ai-news-june-2-2026",
-      "source": "AIToolsRecap",
+      "title": "Awesome AI Agents 2026 List Released",
+      "description": "Comprehensive GitHub list of AI agents, frameworks and tools.",
+      "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+      "source": "GitHub",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "NVIDIA Nemotron 3 Ultra",
-      "description": "550B parameter open-weights MoE model announced at Computex.",
-      "url": "https://aitoolsrecap.com/Blog/ai-news-june-2-2026",
-      "source": "AIToolsRecap",
-      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+      "title": "Claude Code & GPT-5 Tool Updates",
+      "description": "April 2026 brings major AI coding tool releases and agent updates.",
+      "url": "https://www.howdoiuseai.com/blog/2026-04-16-newest-ai-tools-2026",
+      "source": "HowDoIUseAI",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "LM Studio 0.4.15 Release",
-      "description": "New release with HuggingFace model browser and local server features.",
-      "url": "https://dev.to/jovan_chan_9500711396d4e6/llamafile-vs-ollama-vs-lm-studio-easiest-local-llm-2026-kan",
-      "source": "Dev.to",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "Best AI Coding Tools Ranked 2026",
+      "description": "AI now writes, refactors and deploys production code at scale.",
+      "url": "https://tech-insider.org/ai-coding-tools-2026-transforming-software-development/",
+      "source": "Tech Insider",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "AI Job Cuts Surge in 2026",
-      "description": "AI cited in 87,714 US layoffs, 22% of all 2026 cuts.",
-      "url": "https://beincrypto.com/ai-top-reason-us-layoffs-2026/",
-      "source": "BeInCrypto",
-      "image_url": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&q=60"
+      "title": "EU AI Act Takes Full Effect August 2026",
+      "description": "Global enforcement ramps up with NIST RMF and state-level rules.",
+      "url": "https://www.hungyichen.com/en/insights/ai-governance-regulatory-landscape-2026",
+      "source": "Hungyi Chen",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "Microsoft Build 2026 AI in Windows",
-      "description": "Biggest news from Microsoft annual developer conference on AI computing.",
-      "url": "https://www.cnet.com/news-live/microsoft-build-2026-news-ai-copilot/",
-      "source": "CNET",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "White House 2026 AI Regulation Framework",
+      "description": "New federal policy outlines state roles and compliance for AI firms.",
+      "url": "https://aicomparison.ai/us-ai-regulation-2026-framework/",
+      "source": "AI Comparison",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "Uber Caps Employee AI Spending",
-      "description": "Uber limits AI tool spending after budget blown in four months.",
-      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=60"
+      "title": "AI Laws Update: Trump EO & California Rules",
+      "description": "Key 2026 regulations for startups, VCs and enterprises.",
+      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
+      "source": "Gunder",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     }
   ],
   "oss": [
     {
+      "title": "State of Open Source on Hugging Face Spring 2026",
+      "description": "HF report shows central role in open-source AI health and benchmarks.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    },
+    {
       "title": "Open-Source AI June 2026 Roundup",
-      "description": "MiniMax M3, NVIDIA Cosmos 3, OpenClaw updates and new papers.",
+      "description": "New models, agents and papers highlight architectural diversification.",
       "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
       "source": "Devflokers",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "Awesome AI Agents 2026",
-      "description": "Comprehensive list of AI agents, frameworks, and tools.",
-      "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
-      "source": "GitHub",
-      "image_url": "https://images.unsplash.com/photo-1556075798-4ca0a4a0a4a4?w=600&q=60"
-    },
-    {
-      "title": "Hugging Face Models Surge",
-      "description": "Over 2.9M models hosted, 255 releases in Q1 2026 alone.",
-      "url": "https://huggingface.co/models",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1526374969328-25b79a493c2b?w=600&q=60"
+      "title": "Top Open Source Models: Gemma-4, Qwen3.5 MoE",
+      "description": "FLUX.2 and NVIDIA PersonaPlex trending on HuggingFace.",
+      "url": "https://www.essamamdani.com/blog/top-6-open-source-ai-models-april-2026",
+      "source": "Essam A. Mamdani",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ]
 }
