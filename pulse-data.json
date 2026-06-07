@@ -1,27 +1,117 @@
 {
   "ai": [
-    {"title": "New AI Research Papers & Breakthroughs (April 2026 Weekly)", "description": "Frontier AI Research acceleration in April 2026 with transformative model architectures on ArXiv.", "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026", "source": "devFlokers", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
-    {"title": "LLM News Today (June 2026) – AI Model Releases", "description": "Latest LLM research updates including breakthroughs in inference optimization.", "url": "https://llm-stats.com/ai-news", "source": "LLM Stats", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
-    {"title": "Grok 4.20 Scores Highest on Real-time News Benchmarks", "description": "Grok 4.20 scored highest among March frontier model releases on accuracy benchmarks.", "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
+    {
+      "title": "arXiv AI Papers June 2026 Roundup",
+      "description": "Latest AI research papers from arXiv covering new architectures and agents.",
+      "url": "https://arxiv.org/list/cs.AI/current",
+      "source": "arXiv",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "Open-Source AI June 2026 Roundup",
+      "description": "New models, agents and papers transforming the AI landscape.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "Devflokers",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "April 2026 Model Wars Breakthroughs",
+      "description": "OpenAI, Anthropic and Google DeepMind launch major new models.",
+      "url": "https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/",
+      "source": "Kersai",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    }
   ],
   "funding": [
-    {"title": "AI Startup Funding Surges In 2025", "description": "Record VC investments flowing into AI startups with massive funding rounds.", "url": "https://techannouncer.com/latest-ai-startup-news-funding-innovations-and-acquisitions-in-2025/", "source": "Tech Announcer", "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"},
-    {"title": "Latest AI Startup Funding News and VC Investment Deals - 2026", "description": "Significant venture capital deals in AI startups globally in 2026.", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"},
-    {"title": "AI Startup Funding Hits Record Levels", "description": "Venture capital at unprecedented heights in AI ecosystem.", "url": "https://aifundingtracker.com/ai-startup-funding-news-today/", "source": "AI Funding Tracker", "image_url": "https://images.unsplash.com/photo-1579532537598-459ecdaf45c8?w=600&q=60"}
+    {
+      "title": "Mistral Backs €6M AI Simulation Startup",
+      "description": "Mistral acquires Emmi AI competitor and invests in physics simulation.",
+      "url": "https://techfundingnews.com/why-did-mistrals-co-founders-back-a-e6m-funding-round-in-ai-simulation-startup-days-after-acquiring-its-competitor/",
+      "source": "Tech Funding News",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+    },
+    {
+      "title": "Imper.ai Raises $28M for AI Deepfake Protection",
+      "description": "Redpoint and Battery lead round for real-time AI impersonation defense.",
+      "url": "https://www.about-fraud.com/funding-investment-acquisitions-ipos-q4-2025/",
+      "source": "About Fraud",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Y Combinator AI Startups Fastest Growing",
+      "description": "YC AI companies show record growth and profitability in fund history.",
+      "url": "https://www.cnbc.com/2025/03/15/y-combinator-startups-are-fastest-growing-in-fund-history-because-of-ai.html",
+      "source": "CNBC",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "Top 20 Tools, Frameworks for Software Development", "description": "Explore diverse resources from React to Django to accelerate development.", "url": "https://insights.daffodilsw.com/blog/top-15-tools-frameworks-libraries-for-software-development", "source": "Daffodil SW", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
-    {"title": "The Go Ecosystem in 2025: Key Trends", "description": "Popularity of Go frameworks and routers continues to evolve.", "url": "https://blog.jetbrains.com/go/2025/11/10/go-language-trends-ecosystem-2025/", "source": "JetBrains", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
-    {"title": "Developer Roadmaps - roadmap.sh", "description": "Community roadmaps and guides for developers.", "url": "https://roadmap.sh/", "source": "roadmap.sh", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
+    {
+      "title": "Top AI Frameworks 2026",
+      "description": "Essential tools and platforms for AI development from prototype to production.",
+      "url": "https://www.secondtalent.com/resources/top-ai-frameworks-and-tools-to-master/",
+      "source": "Second Talent",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "Azure ML and MLOps Tools Guide",
+      "description": "Comprehensive platforms for building and scaling machine learning models.",
+      "url": "https://futurense.com/blog/machine-learning-tools",
+      "source": "Futurense",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    },
+    {
+      "title": "AI Tools for ML Development",
+      "description": "Frameworks, experiment trackers and MLOps for modern AI engineers.",
+      "url": "https://www.geeksforgeeks.org/software-engineering/ai-tools-for-ml-ai-development/",
+      "source": "GeeksforGeeks",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "EU targets Big Tech dependence with 'made-in-Europe' drive", "description": "European Commission proposes laws to boost domestic cloud, AI and semiconductor industries.", "url": "https://www.reuters.com/business/eu-targets-big-tech-dependence-with-made-in-europe-drive-2026-06-03/", "source": "Reuters", "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"},
-    {"title": "Big Tech AI Regulation Blocked in 2025", "description": "Big tech lobbying stopped US AI regulation with $100M+ spend.", "url": "https://digital.nemko.com/insights/how-big-tech-lobbying-stopped-us-ai-regulation-in-2025", "source": "Nemko Digital", "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"},
-    {"title": "Big Tech Influence in AI Policy Process", "description": "Big Tech reshaping policy landscape with technological monopoly.", "url": "https://academic.oup.com/policyandsociety/article/44/1/52/7636223", "source": "Oxford Academic", "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"}
+    {
+      "title": "EU Expands Big Tech Rules to AI and Cloud",
+      "description": "Regulators target cloud services and AI to promote fair competition.",
+      "url": "https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    },
+    {
+      "title": "Big Tech Pushes National AI Regulation",
+      "description": "Companies call for unified US framework to replace state patchwork laws.",
+      "url": "https://www.fisherphillips.com/en/news-insights/big-tech-calls-for-national-ai-regulation.html",
+      "source": "Fisher Phillips",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
+    },
+    {
+      "title": "2026 AI Laws Update Across States",
+      "description": "New bias audits and human review requirements for automated decision tools.",
+      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
+      "source": "Gunderson Dettmer",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+    }
   ],
   "oss": [
-    {"title": "State of Open Source on Hugging Face: Spring 2026", "description": "Open source AI landscape shifts across competition, geography and technical trends.", "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
-    {"title": "New Open Source AI Projects on GitHub and Hugging Face - April 2026", "description": "Notable new open source AI projects with star counts and model downloads.", "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026", "source": "Fazm AI", "image_url": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=600&q=60"},
-    {"title": "Latest Models on Hugging Face", "description": "New models including nvidia/LocateAnything-3B and google/gemma-4-12B-it.", "url": "https://huggingface.co/models", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"}
+    {
+      "title": "Hugging Face Open Deep Research Agent",
+      "description": "24-hour hackathon project nearly matches OpenAI on GAIA benchmark.",
+      "url": "https://arstechnica.com/ai/2025/02/after-24-hour-hackathon-hugging-faces-ai-research-agent-nearly-matches-openais-solution/",
+      "source": "Ars Technica",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "Meta Manus and Open Source Releases",
+      "description": "Major open source model releases and acquisitions in 2026.",
+      "url": "https://www.linkedin.com/pulse/breaking-ai-model-releases-open-source-projects-tech-top-ricky-2k0ic",
+      "source": "LinkedIn",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+    },
+    {
+      "title": "HuggingFace Chat-UI and MindsDB Updates",
+      "description": "Top open source projects powering AI apps and SQL-based AI building.",
+      "url": "https://awesomeopensource.com/projects/huggingface",
+      "source": "Awesome Open Source",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+    }
   ]
 }
