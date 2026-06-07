@@ -1,91 +1,91 @@
 {
   "ai": [
     {
-      "title": "AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts",
-      "description": "April 2026 has become the densest AI model release window in the industry's history with OpenAI, Anthropic, and Google DeepMind launching major new models.",
-      "url": "https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/",
-      "source": "Kersai",
+      "title": "Latest AI Model Releases: June 2026 Roundup",
+      "description": "IBM Research published insights on scalable enterprise AI adoption depending on agent logic.",
+      "url": "https://dev.to/vjswamy/latest-ai-model-releases-june-2026-roundup-49j5",
+      "source": "DEV Community",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "Artificial Intelligence Jun 2026 - arXiv.org",
-      "description": "Latest AI papers on arXiv including cs.AI category for June 2026.",
-      "url": "https://arxiv.org/list/cs.AI/current",
-      "source": "arXiv",
+      "title": "Open-Source AI June 2026: New Models & Papers",
+      "description": "Rapid migration toward architectural diversification and localized execution networks.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "Devflokers",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "New AI Models 2026 - Latest Releases",
-      "description": "Track the latest LLMs, coding models, and image generators released in 2026.",
-      "url": "https://lmmarketcap.com/new-ai-models",
-      "source": "LM Market Cap",
+      "title": "Top AI News for June 2026",
+      "description": "Model and hardware breakthroughs, agentic platforms, cheaper training.",
+      "url": "https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/",
+      "source": "AI Apps",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
       "title": "50 Top AI Funded Startups (June 2026)",
-      "description": "AV investment hit $23.26B in first four months of 2026 — more than double all of 2025.",
+      "description": "AV investment hit $23.26B in first four months of 2026.",
       "url": "https://aifundingtracker.com/top-50-ai-startups/",
       "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
       "title": "Q1 2026 Shatters Venture Funding Records",
-      "description": "AI boom pushes startup investment to $300B in Q1 2026.",
+      "description": "AI boom pushes startup investment to $300B.",
       "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
       "source": "Crunchbase",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
       "title": "Eclipse Raises $1.3B Fund for Physical AI",
-      "description": "New fund targets physical AI, manufacturing, and defense.",
+      "description": "Targeting physical AI, manufacturing, and defense.",
       "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
       "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "10 Open-Source Tools/Frameworks for Artificial Intelligence",
-      "description": "List including TensorFlow, Apache SystemML, Caffe, Torch and more.",
-      "url": "https://dzone.com/articles/10-opensource-toolsframeworks-for-artificial-intel",
-      "source": "DZone",
+      "title": "Top 12 Developer Tools for 2026",
+      "description": "Node.js and Python dominate AI engineering with new SDKs.",
+      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
+      "source": "Medium",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "JetBrains Developer Tools Update",
-      "description": "Professional tools for productive development with AI integrations.",
-      "url": "https://www.jetbrains.com/products/",
-      "source": "JetBrains",
+      "title": "Top 12 AI Developer Tools in 2026",
+      "description": "AI coding assistants, agentic tools, testing automation.",
+      "url": "https://checkmarx.com/learn/ai-security/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality/",
+      "source": "Checkmarx",
       "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
     },
     {
-      "title": "Microsoft Developer Tools for AI",
-      "description": "Hands-on sessions at Microsoft Build on real code and AI workflows.",
-      "url": "https://developer.microsoft.com/",
-      "source": "Microsoft",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "Awesome AI-Powered Developer Tools",
+      "description": "Curated list of AI tools for code completion and debugging.",
+      "url": "https://github.com/jamesmurdza/awesome-ai-devtools",
+      "source": "GitHub",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     }
   ],
   "industry": [
     {
       "title": "SpaceX Lands Google AI Compute Deal",
-      "description": "SpaceX secures AI compute deal after Anthropic pact ahead of IPO.",
+      "description": "After Anthropic pact ahead of IPO.",
       "url": "https://www.reuters.com/technology/",
       "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1517976487492-87ac70d4f6bd?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1517976487492-5750f3195933?w=600&q=60"
     },
     {
-      "title": "AI Shifting Power from Governments to Tech Companies",
-      "description": "Governments hesitate to regulate AI, shifting control to companies.",
+      "title": "AI Moving Power from Governments to Tech Companies",
+      "description": "Governments hesitate to regulate AI.",
       "url": "https://restofworld.org/2026/ai-government-regulation-tech-giants/",
       "source": "Rest of World",
-      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "Google Search I/O 2026 Updates: AI Agents",
-      "description": "New AI features enabling agents just by asking a question.",
+      "title": "Google Search I/O 2026 Updates",
+      "description": "New AI features and agents in Search.",
       "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
       "source": "Google Blog",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
@@ -93,25 +93,25 @@
   ],
   "oss": [
     {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "description": "South Korean models trending on HF Hub; new data center partnerships.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
+      "title": "Hugging Face 2026: 2M+ Models",
+      "description": "Over 2.2 million models hosted, 80% downloads from top 50.",
+      "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
+      "source": "Programming Helper",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "New Open Source AI Projects on GitHub and Hugging Face",
-      "description": "Notable releases in April 2026 with star counts and downloads.",
-      "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026",
-      "source": "Fazm Blog",
-      "image_url": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=600&q=60"
+      "title": "Open-Source AI June 2026 Roundup",
+      "description": "New models, agents & papers on Hugging Face.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "Devflokers",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "EXAONE 4.5 Vision Language Model Release",
-      "description": "First open-weight VLM by LG AI Research on Hugging Face.",
-      "url": "https://github.com/huggingface/transformers/releases",
-      "source": "Hugging Face Transformers",
-      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
+      "title": "10+ Best Open Source Projects using Hugging Face",
+      "description": "Curated collection of popular open source stacks.",
+      "url": "https://openalternative.co/stacks/huggingface",
+      "source": "OpenAlternative",
+      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
     }
   ]
 }
