@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "LLM Research Papers: The 2026 List",
-      "description": "A January-May 2026 list of notable LLM research papers, covering new models, training methods, agents, reasoning, and efficiency improvements.",
-      "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
-      "source": "Sebastian Raschka",
+      "title": "LLM Research News Today",
+      "description": "Latest LLM research updates from academic papers, AI labs including breakthroughs in inference optimization.",
+      "url": "https://llm-stats.com/ai-news",
+      "source": "LLM Stats",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "New AI Model Releases & Open Source AI Projects",
-      "description": "Discover the new ai model release march 2026 updates, including GPT-5.4, Olmo Hybrid, and the viral OpenClaw project.",
-      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
-      "source": "Devflokers",
+      "title": "AI Updates Today – Latest Model Releases",
+      "description": "Recent AI model releases, API changes, and feature launches across major providers.",
+      "url": "https://llm-stats.com/llm-updates",
+      "source": "LLM Stats",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "ChatGPT 5.6 Leaks and Microsoft Build 2026 AI",
-      "description": "Explore the latest June 2026 AI developments, including leaked GPT-5.6 benchmarks, Microsoft's new MAI Thinking One model.",
-      "url": "https://www.geeky-gadgets.com/gpt-5-6-leaks-microsoft-build-2026/",
-      "source": "Geeky Gadgets",
+      "title": "June 2026 AI Breakthroughs",
+      "description": "Model and hardware breakthroughs, agentic platforms, cheaper training, healthcare advances.",
+      "url": "https://blog.mean.ceo/latest-ai-breakthroughs-news-june-2026/",
+      "source": "Mean CEO",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Q1 2026 Shatters Venture Funding Records",
-      "description": "Four of the five largest venture rounds ever recorded were closed in Q1 2026, with frontier labs OpenAI ($122 billion), Anthropic ($30 billion).",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "source": "Crunchbase",
+      "title": "AI Startup Funding News Today",
+      "description": "Daily AI startup funding news and latest venture capital deals in artificial intelligence.",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "Forbes 2026 AI 50 List",
-      "description": "$10 billion-valued coding agent startup Cognition, which made its debut on the AI 50 list this year, acquired the rest of Windsurf.",
-      "url": "https://www.forbes.com/lists/ai50/",
-      "source": "Forbes",
+      "title": "Latest AI VC Investment Deals 2026",
+      "description": "Significant venture capital investment deals and funding globally in AI startups.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "Top 50 AI Funded Startups June 2026",
-      "description": "Top AI Funded Startups: Anthropic: $965B. OpenAI: $852B. xAI/SpaceX: $1.75T. Databricks: $134B. Waymo: $126B.",
-      "url": "https://aifundingtracker.com/top-50-ai-startups/",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1579532537598-459ecdaf45c8?w=600&q=60"
+      "title": "TechCrunch Funding Analysis",
+      "description": "Latest funding news across the tech ecosystem including AI startups and unicorns.",
+      "url": "https://techcrunch.com/tag/funding/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Apple supercharges its tools and technologies for developers",
-      "description": "The Foundation Models framework joins a suite of tools that allow developers to tap into on-device intelligence, and Xcode 26 leverages large models.",
-      "url": "https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/",
-      "source": "Apple",
-      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
+      "title": "Open-Source AI June 2026 Roundup",
+      "description": "New models, agents, papers including MiniMax M3, NVIDIA Cosmos 3, OpenClaw updates.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "Devflokers",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Visual Studio 2026 release notes",
-      "description": "The first Microsoft C++ (MSVC) Build Tools version 14.51 Preview is now available for C++ developers.",
-      "url": "https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes",
-      "source": "Microsoft",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "Top AI Agent Tools 2026",
+      "description": "Top AI agent tools and frameworks for developers to build autonomous applications.",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/top-ai-agent-tools-and-frameworks-for-developers-in-2026",
+      "source": "Analytics Insight",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "Developer Tools News June 2026",
-      "description": "Discover the biggest developer tool updates, AI coding advancements, framework releases, and productivity improvements announced in June 2026.",
-      "url": "https://developersmatrix.com/blog/developer-tools-news-june-2026",
-      "source": "Developers Matrix",
-      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
+      "title": "AI Tools News 2026 Launches",
+      "description": "Major AI tool announcements, new tools, pricing changes, model releases in 2026.",
+      "url": "https://toolchase.com/blog/ai-tools-news-2026/",
+      "source": "ToolChase",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "ChatGPT 5.6 Leaks and Microsoft Build 2026 AI",
-      "description": "At Microsoft Build 2026, the company unveiled seven new AI models targeting areas such as reasoning, coding, image generation and speech processing.",
-      "url": "https://www.geeky-gadgets.com/gpt-5-6-leaks-microsoft-build-2026/",
-      "source": "Geeky Gadgets",
+      "title": "Trump AI Action Plan",
+      "description": "AI Action Plan aims to clamp down regulations and keep America dominant in AI.",
+      "url": "https://www.bbc.com/news/articles/c4g8nxrk207o",
+      "source": "BBC",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    },
+    {
+      "title": "Tech Industry Developments",
+      "description": "Latest developments and trends in technology industry.",
+      "url": "https://www.cnbc.com/technology/",
+      "source": "CNBC",
+      "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=60"
+    },
+    {
+      "title": "Big Tech AI Moves",
+      "description": "TechCrunch covers startup and technology news with focus on Big Tech.",
+      "url": "https://techcrunch.com/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
-    },
-    {
-      "title": "Google rents SpaceX/AI supercomputers",
-      "description": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029.",
-      "url": "https://www.euronews.com/business/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo",
-      "source": "Euronews",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
-    },
-    {
-      "title": "The People’s Newsletter for June 4, 2026",
-      "description": "Highlights the struggle between good and evil, promoting grassroots activism and raising awareness about current issues like AI regulation.",
-      "url": "https://operationdisclosureofficial.com/2026/06/03/the-peoples-newsletter-for-june-4-2026-co-create-an-advanced-humanity/",
-      "source": "Operation Disclosure",
-      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "description": "This post examines how the open source AI landscape has shifted across competition, geography, technical trends, and emerging communities.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "title": "Hugging Face Models Hub",
+      "description": "Millions of models available, latest open source AI projects and releases.",
+      "url": "https://huggingface.co/models",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     },
     {
-      "title": "New LLM Releases April 2026",
-      "description": "Complete guide to every LLM that shipped in April 2026: GPT-5.5 (Spud), Claude Opus 4.7, Claude Mythos, Gemma 4, GLM-5.1, Qwen 3.6-Plus.",
-      "url": "https://fazm.ai/blog/new-llm-releases-april-2026",
-      "source": "Fazm.ai",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "MiniMax-M2.1 Open-Source Release",
+      "description": "Advanced AI Agent Framework released as open-source MoE model on Hugging Face.",
+      "url": "https://www.linkedin.com/pulse/breaking-ai-model-releases-open-source-projects-tech-top-ricky-2k0ic",
+      "source": "LinkedIn Pulse",
+      "image_url": "https://images.unsplash.com/photo-1639322537228-f41d9043c813?w=600&q=60"
     },
     {
-      "title": "Best Open-Source & Open-Weight Coding Models (2026)",
-      "description": "The best open-source coding models in 2026 are GLM-5.1, MiniMax M3 (just released, June 2026), Kimi K2.6, DeepSeek V4-Pro.",
-      "url": "https://kilo.ai/open-source-models",
-      "source": "Kilo Code",
-      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
+      "title": "awesome-ai-agents-2026",
+      "description": "Comprehensive list of AI agents, frameworks, and tools on GitHub.",
+      "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+      "source": "GitHub",
+      "image_url": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=600&q=60"
     }
   ]
 }
