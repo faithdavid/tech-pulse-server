@@ -1,140 +1,84 @@
 {
   "filmschool": [
     {
-      "title": "Revolutionize Your Filmmaking: Top AI Tools Every Filmmaker Must Know",
-      "description": "In recent years, the emergence of AI tools for filmmakers has revolutionized various aspects of the filmmaking process, from scriptwriting to post-production.",
-      "url": "https://theaifilmschool.ai/ai-tools-for-filmmakers/",
-      "source": "theaifilmschool.ai",
-      "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
+      "title": "FTII announces 'Basic Course in AI in Film & Video Generation'",
+      "description": "FTII launches new course in Goa under the Centenary Celebrations focusing on AI tools for filmmaking.",
+      "url": "https://www.facebook.com/FtiiOfficial/posts/ftii-announces-basic-course-in-ai-in-film-video-generation-in-goa-under-the-cent/1304910425009758/",
+      "source": "FTII Official",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "AI Filmmaking Tools and Trends Shaping the Future of Cinema in 2025",
-      "description": "This overview by Curious Refuge provides more insights into the latest advancements in AI filmmaking.",
-      "url": "https://www.geeky-gadgets.com/ai-filmmaking-tools/",
-      "source": "geeky-gadgets.com",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
-    },
-    {
-      "title": "How to make a film using AI tools in 2026",
-      "description": "Filmmakers are cautiously experimenting with AI tools for ideation, image and video generation, sound, and post-production.",
-      "url": "https://interestingengineering.com/ai-robotics/ai-tools-filmmaking-movies",
-      "source": "interestingengineering.com",
+      "title": "Curious Refuge AI Film School Trains Next Gen Hollywood",
+      "description": "AI film academy has become a training ground for Hollywood workers racing to adapt.",
+      "url": "https://cyprus-mail.com/2026/02/21/ai-film-school-trains-next-generation-of-hollywood-moviemakers",
+      "source": "Cyprus Mail",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Amazon MGM Studios Greenlights Three AI Series for Prime Video",
-      "description": "Amazon MGM Studios launches industry’s first purpose-built AI production platform under new GenAI Creators' Fund.",
-      "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
-      "source": "variety.com",
+      "title": "YouTube Worldwide Users Can Use AI To Insert Themselves Into Videos",
+      "description": "YouTube lets creators use AI to insert themselves into other people's videos.",
+      "url": "https://www.hollywoodreporter.com/business/digital/youtube-worldwide-number-users-use-ai-insert-into-videos-1236601256/",
+      "source": "Hollywood Reporter",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+    },
+    {
+      "title": "How A.I. Is Transforming China's Entertainment Industry",
+      "description": "A.I.-generated microdramas have taken off in China with legal and job impacts.",
+      "url": "https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html",
+      "source": "NYTimes",
       "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
-    },
-    {
-      "title": "Real-Time AI Video Startup Reactor Raises $59 Million",
-      "description": "Founded by Ex-Apple Engineers, backed by Jeffrey Katzenberg’s WndrCo, talks with major Hollywood studios.",
-      "url": "https://variety.com/2026/digital/news/reactor-real-time-ai-video-funding-jeffrey-katzenberg-1236755883/",
-      "source": "variety.com",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "AI Video Generation News: 2026 Latest Models & Updates",
-      "description": "Seedance 2.0 pricing and Sora 2 API updates reported.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "wavespeed.ai",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Pollo AI: The Ultimate AI Video & Image Creation Platform",
-      "description": "Create lifelike video avatars from a single photo. AI Video Editor with text prompts.",
-      "url": "https://pollo.ai/",
-      "source": "pollo.ai",
+      "title": "The 17 best AI video generators in 2026",
+      "description": "Zapier tested dozens of AI video generators; these are the best tools.",
+      "url": "https://zapier.com/blog/best-ai-video-generator/",
+      "source": "Zapier",
       "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Free Online Video Editor - VEED",
-      "description": "Create and edit videos online with AI — clean audio, auto-cut, dynamic captions.",
-      "url": "https://www.veed.io/tools/video-editor",
-      "source": "veed.io",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
-    },
-    {
-      "title": "Futurepedia.io - Best AI Tools Directory",
-      "description": "Find the best AI tools and software updated daily.",
-      "url": "https://www.futurepedia.io/",
-      "source": "futurepedia.io",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "LTX Studio: The Creative Studio for AI Video Production",
+      "description": "All-in-one generative AI platform that turns creative ideas into high-quality videos.",
+      "url": "https://ltx.io/studio",
+      "source": "LTX Studio",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-8c4f4c3d9c5e?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Faceless YouTube Shorts with AI: 10 Niches That Still Work in 2026",
-      "description": "10 faceless niches powered by Text2Shorts, Veo3, and AI thumbnails.",
-      "url": "https://miraflow.ai/blog/faceless-youtube-shorts-ai-niches-2026",
-      "source": "miraflow.ai",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
-    },
-    {
-      "title": "Best Faceless YouTube Niches to Make Money",
-      "description": "AI tools, finance, software tutorials, creator tools, business, tech niches.",
-      "url": "https://www.overseeros.com/blog/best-faceless-youtube-niches-to-make-money",
-      "source": "overseeros.com",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "Top Niches for YouTube Automation 2026",
-      "description": "50+ profitable sub-niches compliant with YouTube's latest policies.",
-      "url": "https://outlierkit.com/blog/youtube-automation-niches",
-      "source": "outlierkit.com",
-      "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
+      "title": "Vertical AI In Entertainment: Why Niche Models",
+      "description": "Specialized vertical AI for workflow-specific applications in entertainment.",
+      "url": "https://vitrina.ai/blog/vertical-ai-entertainment-niche-models-general-ai-2026/",
+      "source": "Vitrina",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99d9d1e6f?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "AI Video Discount | Best AI Video Tools & Software Reviews 2026",
-      "description": "Save 60% on premium AI video tools like Topview, Invideo, and HeyGen.",
-      "url": "https://aivideodiscount.com/",
-      "source": "aivideodiscount.com",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
-    },
-    {
-      "title": "AI Deals & Discounts – Save on Top AI Tools & Services",
-      "description": "Curated list of discounts on subscriptions, APIs, design tools, video editing.",
-      "url": "https://vibecentral.ai/ai-deals-discounts/",
-      "source": "vibecentral.ai",
-      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
-    },
-    {
-      "title": "AI Software Lifetime Deals & Discounts List (2025)",
-      "description": "Best AI software lifetime deals and discounts directory.",
-      "url": "https://saaspirate.com/ai/",
-      "source": "saaspirate.com",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Vidnoz Image to Video AI Free",
+      "description": "Vidnoz Gen offers one free video generation per day no login.",
+      "url": "https://www.vidnoz.com/image-to-video-ai.html",
+      "source": "Vidnoz",
+      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "10 Best AI-Generated Video Examples To Inspire Your Next Project in 2026",
-      "description": "9 AI video examples highlighting creativity, innovation, and practical uses.",
-      "url": "https://magichour.ai/blog/ai-video-examples",
-      "source": "magichour.ai",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
-    },
-    {
-      "title": "10 Best AI Video Examples for Inspiration in 2026",
-      "description": "Top AI video examples showing what's possible for brands.",
-      "url": "https://www.superside.com/blog/ai-video-examples",
-      "source": "superside.com",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
-    },
-    {
-      "title": "Best AI Art Showcases (Top 5) in 2026",
-      "description": "Top-tier cinematic videos and professional storytelling with Mootion 4.0.",
+      "title": "Best AI Art Showcases in 2026",
+      "description": "Top-tier cinematic videos and professional storytelling with AI.",
       "url": "https://www.mootion.com/use-cases/en/collection/top-ai-videos-for-art-and-design-showcases",
-      "source": "mootion.com",
-      "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
+      "source": "Mootion",
+      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f6b5?w=600&q=60"
+    },
+    {
+      "title": "15 Best AI Video Examples That Went Viral in 2026",
+      "description": "Viral AI-generated videos with breakdowns of ad creatives and brand stories.",
+      "url": "https://genra.ai/blog/best-ai-video-examples-viral-2026",
+      "source": "Genra",
+      "image_url": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&q=60"
     }
   ]
 }
