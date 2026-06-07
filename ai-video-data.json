@@ -1,84 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "FTII announces 'Basic Course in AI in Film & Video Generation'",
-      "description": "FTII launches new course in Goa under the Centenary Celebrations focusing on AI tools for filmmaking.",
-      "url": "https://www.facebook.com/FtiiOfficial/posts/ftii-announces-basic-course-in-ai-in-film-video-generation-in-goa-under-the-cent/1304910425009758/",
-      "source": "FTII Official",
+      "title": "10 Best AI Video Tools for Filmmakers in 2026",
+      "description": "How to Integrate the Best AI Video Tools for Filmmakers into Your Workflow.",
+      "url": "https://resource.digen.ai/best-ai-video-tools-for-filmmakers-2026/",
+      "source": "Digen.ai",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+    },
+    {
+      "title": "5 Free AI Tools for Filmmakers",
+      "description": "Ultimate guide to free AI filmmaking software for indie creators.",
+      "url": "https://second-act.app/blog/5-free-ai-tools-filmmakers-ultimate-guide",
+      "source": "Second Act Blog",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "Curious Refuge AI Film School Trains Next Gen Hollywood",
-      "description": "AI film academy has become a training ground for Hollywood workers racing to adapt.",
-      "url": "https://cyprus-mail.com/2026/02/21/ai-film-school-trains-next-generation-of-hollywood-moviemakers",
-      "source": "Cyprus Mail",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "title": "7 AI Filmmaking Tools to Create Films in Under 30 Minutes",
+      "description": "Specialized AI platforms for scripting, editing, and more.",
+      "url": "https://crayo.ai/blog/ai-filmmaking-tools",
+      "source": "Crayo",
+      "image_url": "https://images.unsplash.com/photo-1492691525229-6481631275ca?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "YouTube Worldwide Users Can Use AI To Insert Themselves Into Videos",
-      "description": "YouTube lets creators use AI to insert themselves into other people's videos.",
-      "url": "https://www.hollywoodreporter.com/business/digital/youtube-worldwide-number-users-use-ai-insert-into-videos-1236601256/",
-      "source": "Hollywood Reporter",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "AI Video Trends: Predictions For 2026",
+      "description": "AI video analytics market to grow to $133.34 billion by 2030.",
+      "url": "https://ltx.io/blog/ai-video-trends",
+      "source": "LTX Blog",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "How A.I. Is Transforming China's Entertainment Industry",
-      "description": "A.I.-generated microdramas have taken off in China with legal and job impacts.",
-      "url": "https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html",
-      "source": "NYTimes",
-      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
+      "title": "15 best AI video creation platforms for 2026",
+      "description": "Compare platforms to scale content production fast.",
+      "url": "https://monday.com/blog/ai-agents/ai-for-video-creation/",
+      "source": "monday.com",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Best AI Video Generators in 2026",
+      "description": "10 tools tested and compared for creators and businesses.",
+      "url": "https://www.hedra.com/blog/best-ai-video-generators",
+      "source": "Hedra",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "The 17 best AI video generators in 2026",
-      "description": "Zapier tested dozens of AI video generators; these are the best tools.",
-      "url": "https://zapier.com/blog/best-ai-video-generator/",
-      "source": "Zapier",
+      "title": "GOGUL — AI Video & Storyboard Generator",
+      "description": "Script to Video with character consistency and 7 visual styles.",
+      "url": "https://gogul.ai/",
+      "source": "Gogul",
       "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "LTX Studio: The Creative Studio for AI Video Production",
-      "description": "All-in-one generative AI platform that turns creative ideas into high-quality videos.",
-      "url": "https://ltx.io/studio",
-      "source": "LTX Studio",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-8c4f4c3d9c5e?w=600&q=60"
+      "title": "Google Flow AI Creative Studio",
+      "description": "Transform ideas into cinematic video and images.",
+      "url": "https://labs.google/fx/tools/flow/",
+      "source": "Google",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "Pixelbin Free AI Video Generator",
+      "description": "No login text-to-video tool for HD videos.",
+      "url": "https://www.pixelbin.io/ai-tools/video-generator",
+      "source": "Pixelbin",
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Vertical AI In Entertainment: Why Niche Models",
-      "description": "Specialized vertical AI for workflow-specific applications in entertainment.",
-      "url": "https://vitrina.ai/blog/vertical-ai-entertainment-niche-models-general-ai-2026/",
-      "source": "Vitrina",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99d9d1e6f?w=600&q=60"
+      "title": "Faceless YouTube Shorts with AI: 10 Niches That Still Work in 2026",
+      "description": "Power niches with Text2Shorts, Veo3, and AI thumbnails.",
+      "url": "https://miraflow.ai/blog/faceless-youtube-shorts-ai-niches-2026",
+      "source": "Miraflow",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+    },
+    {
+      "title": "Best Niches for Faceless Content Using AI Video Generators",
+      "description": "High-ROI topics to automate content creation.",
+      "url": "https://syllaby.io/blog/best-niches-faceless-content-ai-video-generators/",
+      "source": "Syllaby",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99c2a0a2e?w=600&q=60"
+    },
+    {
+      "title": "100 Niches That Will Dominate YouTube in 2026",
+      "description": "AI tools for turning one video into unlimited variations.",
+      "url": "https://www.facebook.com/groups/aifire.co/posts/1842895149649119/",
+      "source": "AI Fire",
+      "image_url": "https://images.unsplash.com/photo-1611605698335-8b1569810432?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Vidnoz Image to Video AI Free",
-      "description": "Vidnoz Gen offers one free video generation per day no login.",
-      "url": "https://www.vidnoz.com/image-to-video-ai.html",
-      "source": "Vidnoz",
-      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
+      "title": "Vidnoz AI Coupon Code & Discount – February 2026",
+      "description": "Save 20% with WPDiscounts20 on all plans.",
+      "url": "https://wpdiscounts.io/ai-tools/vidnoz-ai-coupon/",
+      "source": "WPDiscounts",
+      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
+    },
+    {
+      "title": "Exclusive Pictory AI Discount Code",
+      "description": "LockIn2026 promo gives 25% off annual plans.",
+      "url": "https://pictory.ai/es/editor-video-ia-14",
+      "source": "Pictory",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "AI Video Generator Coupon Guide",
+      "description": "Find legitimate coupons and maximize savings.",
+      "url": "https://otoslinks.com/ai-video-generator-coupon/",
+      "source": "Otoslinks",
+      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Best AI Art Showcases in 2026",
-      "description": "Top-tier cinematic videos and professional storytelling with AI.",
-      "url": "https://www.mootion.com/use-cases/en/collection/top-ai-videos-for-art-and-design-showcases",
-      "source": "Mootion",
-      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f6b5?w=600&q=60"
+      "title": "Мой СОН AI COVER | Cinematic Music Video",
+      "description": "AI-generated music video for BMAI-ART 2026.",
+      "url": "https://www.youtube.com/watch?v=bVrYHyX9L5w",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d2f0a5a?w=600&q=60"
     },
     {
-      "title": "15 Best AI Video Examples That Went Viral in 2026",
-      "description": "Viral AI-generated videos with breakdowns of ad creatives and brand stories.",
-      "url": "https://genra.ai/blog/best-ai-video-examples-viral-2026",
-      "source": "Genra",
-      "image_url": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&q=60"
+      "title": "Creative AI Interpretation of Contemporary Art",
+      "description": "AI video for Art Basel Hong Kong 2026.",
+      "url": "https://www.tiktok.com/@projection_mapping/video/7623198615300738320",
+      "source": "TikTok",
+      "image_url": "https://images.unsplash.com/photo-1547891654-273b8e0a3e5a?w=600&q=60"
+    },
+    {
+      "title": "LongCat Video for Creative Projects",
+      "description": "Generate extended AI videos over 2 minutes for portfolios.",
+      "url": "https://videomakerai.app/long-video-generation",
+      "source": "Videomakerai",
+      "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=60"
     }
   ]
 }
