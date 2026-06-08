@@ -1,117 +1,103 @@
 {
   "ai": [
     {
-      "title": "Open-Source AI June 2026 Roundup",
-      "description": "New models, agents & papers highlight architectural diversification and localized execution.",
+      "title": "Open-Source AI June 2026: New Models, Agents & Papers",
+      "description": "The global artificial intelligence landscape has entered a highly transformative phase, characterized by a rapid migration toward architectural diversification and localized execution networks.",
       "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "Devflokers",
+      "source": "devflokers.com",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "AI in April 2026: Biggest Breakthroughs",
-      "description": "Three frontier labs launched major new models in the densest release window in history.",
-      "url": "https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/",
-      "source": "Kersai",
+      "title": "Latest AI Model Releases — June 2026",
+      "description": "Most recent: Claude Opus 4.8 by Anthropic on May 28 2026. Track every new frontier model from OpenAI, Anthropic, Google DeepMind, Meta, xAI.",
+      "url": "https://aireleasetracker.com/latest",
+      "source": "aireleasetracker.com",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "New AI Models 2026 Releases",
-      "description": "Track the latest LLMs, coding models, and image generators launching in 2026.",
-      "url": "https://lmmarketcap.com/new-ai-models",
-      "source": "LM Market Cap",
+      "title": "Latest AI Model Releases: June 2026 Roundup",
+      "description": "The past week has seen an exciting flurry of new model releases and updates across major labs.",
+      "url": "https://dev.to/vjswamy/latest-ai-model-releases-june-2026-roundup-49j5",
+      "source": "dev.to",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Q1 2026 AI Funding Hits Record",
-      "description": "Venture funding shatters records as AI boom drives massive startup investment.",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "source": "Crunchbase",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "Monopoly in Slow Motion: $188B to Four Companies",
-      "description": "Fastest capital concentration in venture history in Q1 2026.",
-      "url": "https://medium.com/@aiappninja/this-isnt-a-funding-boom-it-s-a-monopoly-in-slow-motion-39a41b070dd6",
-      "source": "Medium",
+      "title": "50 Top AI Funded Startups (June 2026)",
+      "description": "Claude Code ARR is now estimated well above $5B. Eight of the Fortune 10 are Claude enterprise customers.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
+      "source": "aifundingtracker.com",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "Unicorn Startups Update March 2026",
-      "description": "Table of unicorn startups by country as of March 2026, including exits.",
-      "url": "https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies",
-      "source": "Wikipedia",
+      "title": "Recently Funded Startups Jun 2026",
+      "description": "Browse fresh funding rounds with amounts, stages, and lead investors — updated daily.",
+      "url": "https://fundup.ai/recently-funded-startups",
+      "source": "fundup.ai",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Defense Startup Funding Hits All-Time Record",
+      "description": "Along with Anduril, True Anomaly, Shield AI, Sierra Space and Chaos see record funding.",
+      "url": "https://news.crunchbase.com/defense-tech/startup-venture-funding-all-time-record-ai-anduril/",
+      "source": "crunchbase.com",
+      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "27 AI Tools for Developers in 2026",
-      "description": "Tested and ranked AI developer tools in production use for coding and frameworks.",
-      "url": "https://pecollective.com/blog/ai-tools-for-developers-2026/",
-      "source": "PE Collective",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
-    },
-    {
-      "title": "Best AI Agent Frameworks 2026",
-      "description": "Top AI agent tools and frameworks for autonomous, scalable applications.",
-      "url": "https://www.analyticsinsight.net/artificial-intelligence/top-ai-agent-tools-and-frameworks-for-developers-in-2026",
-      "source": "Analytics Insight",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
-    },
-    {
-      "title": "Open-Source AI June 2026 Tools",
-      "description": "Analyze latest June 2026 open-source AI developments including MiniMax M3 and NVIDIA Cosmos.",
+      "title": "Open-Source AI June 2026: New Models, Agents & Papers",
+      "description": "Explore MiniMax M3, NVIDIA Cosmos 3, OpenClaw updates, new research papers, and developer toolkits.",
       "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "Devflokers",
+      "source": "devflokers.com",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "awesome-ai-agents-2026",
+      "description": "The most comprehensive list of AI agents, frameworks, and tools in 2026 on GitHub.",
+      "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+      "source": "github.com",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "EU Rules Target Cloud and AI Services",
-      "description": "EU plans to focus landmark rules on cloud services and AI to promote fair competition.",
-      "url": "https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/",
-      "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "EU targets Big Tech dependence with 'made-in-Europe' drive",
+      "description": "European Commission proposed laws to boost domestic cloud, AI and semiconductor industries and cut reliance on U.S. Big Tech.",
+      "url": "https://www.reuters.com/business/eu-targets-big-tech-dependence-with-made-in-europe-drive-2026-06-03/",
+      "source": "reuters.com",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
     },
     {
-      "title": "Illinois Passes Landmark AI Law",
-      "description": "Illinois leads nation in holding Big Tech accountable with new AI regulation.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-      "source": "Ars Technica",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
-    },
-    {
-      "title": "Big Tech Calls for National AI Regulation",
-      "description": "Major tech companies push for national framework to prevent fragmented state laws.",
-      "url": "https://www.fisherphillips.com/en/news-insights/big-tech-calls-for-national-ai-regulation.html",
-      "source": "Fisher Phillips",
-      "image_url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&q=60"
+      "title": "AI Regulations around the World - 2026",
+      "description": "AI Act implementation delayed to June 2026 with further changes under consideration.",
+      "url": "https://www.mindfoundry.ai/blog/ai-regulations-around-the-world",
+      "source": "mindfoundry.ai",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Open-Source AI June 2026 Roundup",
-      "description": "Rapid migration toward architectural diversification and localized execution networks.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "Devflokers",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "Hugging Face Models Hub",
-      "description": "Explore latest machine learning models on Hugging Face.",
-      "url": "https://huggingface.co/models",
-      "source": "Hugging Face",
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "description": "Three models from South Korea trended simultaneously on Hugging Face Hub in February 2026. South Korea and U.S. startup Reflection AI announced a data center partnership.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "huggingface.co",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "State of Open Source AI Spring 2026",
-      "description": "Interactive breakdown of benchmarks and strategic implications on Hugging Face.",
-      "url": "https://www.libertify.com/interactive-library/state-open-source-ai-hugging-face-spring-2026/",
-      "source": "Libertify",
-      "image_url": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=600&q=60"
+      "title": "Open-Source AI June 2026 Roundup",
+      "description": "Hugging Face’s smolagents library exemplifies design shift toward code-first, minimal-abstraction runtimes.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devflokers.com",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "Best Open-Source LLM Models in 2026",
+      "description": "Kimi K2.6 is one of the strongest open-weight models for developers in 2026 with 1.1T parameters.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "huggingface.co",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     }
   ]
 }
