@@ -1,116 +1,116 @@
 {
   "ai": [
     {
-      "title": "Claude Opus 4.8 Released by Anthropic",
-      "description": "Anthropic launches Claude Opus 4.8, leading frontier models with top benchmarks.",
-      "url": "https://aireleasetracker.com/latest",
-      "source": "AI Release Tracker",
+      "title": "Open-Source AI June 2026 Roundup",
+      "description": "New models, agents & papers highlight architectural diversification and localized execution.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "Devflokers",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "Stanford AI Index 2026 Released",
-      "description": "DeepSeek-R1 briefly matched top U.S. models; Anthropic leads by 2.7%.",
-      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
-      "source": "Stanford HAI",
+      "title": "AI in April 2026: Biggest Breakthroughs",
+      "description": "Three frontier labs launched major new models in the densest release window in history.",
+      "url": "https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/",
+      "source": "Kersai",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "The AI Scientist: End-to-End Automation",
-      "description": "Nature paper introduces pipeline for full automation of AI research process.",
-      "url": "https://www.nature.com/articles/s41586-026-10265-5",
-      "source": "Nature",
+      "title": "New AI Models 2026 Releases",
+      "description": "Track the latest LLMs, coding models, and image generators launching in 2026.",
+      "url": "https://lmmarketcap.com/new-ai-models",
+      "source": "LM Market Cap",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Anthropic Files for IPO at $965B Valuation",
-      "description": "Anthropic raises $65B fresh funding ahead of OpenAI in trillion-dollar race.",
-      "url": "https://www.nbcnews.com/business/corporations/anthropic-files-ipo-openai-rcna347897",
-      "source": "NBC News",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "Q1 2026 AI Funding Hits $300B Record",
+      "title": "Q1 2026 AI Funding Hits Record",
       "description": "Venture funding shatters records as AI boom drives massive startup investment.",
       "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
       "source": "Crunchbase",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "Monopoly in Slow Motion: $188B to Four Companies",
+      "description": "Fastest capital concentration in venture history in Q1 2026.",
+      "url": "https://medium.com/@aiappninja/this-isnt-a-funding-boom-it-s-a-monopoly-in-slow-motion-39a41b070dd6",
+      "source": "Medium",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "Eclipse Raises $1.3B Physical AI Fund",
-      "description": "New fund targets physical AI, manufacturing, and defense sectors.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
-      "source": "AI Funding Tracker",
+      "title": "Unicorn Startups Update March 2026",
+      "description": "Table of unicorn startups by country as of March 2026, including exits.",
+      "url": "https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies",
+      "source": "Wikipedia",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Google Stitch AI Design Tool Update",
-      "description": "Major March 2026 update to AI design tool challenging Figma dominance.",
-      "url": "https://tech-insider.org/google-stitch-ai-design-tool-march-2026-update/",
-      "source": "Tech Insider",
+      "title": "27 AI Tools for Developers in 2026",
+      "description": "Tested and ranked AI developer tools in production use for coding and frameworks.",
+      "url": "https://pecollective.com/blog/ai-tools-for-developers-2026/",
+      "source": "PE Collective",
       "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     },
     {
-      "title": "Vercel Security Breach Disclosed",
-      "description": "Vercel reports unauthorized access to internal systems on April 19, 2026.",
-      "url": "https://en.wikipedia.org/wiki/Vercel",
-      "source": "Wikipedia",
+      "title": "Best AI Agent Frameworks 2026",
+      "description": "Top AI agent tools and frameworks for autonomous, scalable applications.",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/top-ai-agent-tools-and-frameworks-for-developers-in-2026",
+      "source": "Analytics Insight",
       "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Eclipse IDE 2026-03 Release",
-      "description": "New Eclipse Installer with JRE support for macOS, Windows, and Linux.",
-      "url": "https://www.eclipse.org/downloads/packages/",
-      "source": "Eclipse",
+      "title": "Open-Source AI June 2026 Tools",
+      "description": "Analyze latest June 2026 open-source AI developments including MiniMax M3 and NVIDIA Cosmos.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "Devflokers",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Google I/O 2026: AI for Everyone",
-      "description": "Google showcases making AI more helpful across products at annual event.",
-      "url": "https://blog.google/",
-      "source": "Google Blog",
+      "title": "EU Rules Target Cloud and AI Services",
+      "description": "EU plans to focus landmark rules on cloud services and AI to promote fair competition.",
+      "url": "https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/",
+      "source": "Reuters",
       "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     },
     {
-      "title": "Gartner Top Tech Trends 2026",
-      "description": "Gartner releases strategic technology trends shaping enterprise through 2030.",
-      "url": "https://www.gartner.com/en/articles/top-technology-trends-2026",
-      "source": "Gartner",
+      "title": "Illinois Passes Landmark AI Law",
+      "description": "Illinois leads nation in holding Big Tech accountable with new AI regulation.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+      "source": "Ars Technica",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "GITEX GLOBAL 2026 AI Show",
-      "description": "World's largest tech & AI exhibition reimagined with new dates and venue.",
-      "url": "https://www.gitex.com/",
-      "source": "GITEX",
+      "title": "Big Tech Calls for National AI Regulation",
+      "description": "Major tech companies push for national framework to prevent fragmented state laws.",
+      "url": "https://www.fisherphillips.com/en/news-insights/big-tech-calls-for-national-ai-regulation.html",
+      "source": "Fisher Phillips",
       "image_url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Open-Source AI Roundup June 2026",
-      "description": "New models, agents & papers highlight architectural diversification trend.",
+      "title": "Open-Source AI June 2026 Roundup",
+      "description": "Rapid migration toward architectural diversification and localized execution networks.",
       "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
       "source": "Devflokers",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Hugging Face Hits 2M+ Models",
-      "description": "Hub reaches 2.2M models; top 50 account for 80% of downloads.",
-      "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
-      "source": "Programming Helper",
+      "title": "Hugging Face Models Hub",
+      "description": "Explore latest machine learning models on Hugging Face.",
+      "url": "https://huggingface.co/models",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "Awesome AI Agents 2026 List",
-      "description": "Curated GitHub list of agent frameworks, tools, and protocols for 2026.",
-      "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026",
-      "source": "GitHub",
+      "title": "State of Open Source AI Spring 2026",
+      "description": "Interactive breakdown of benchmarks and strategic implications on Hugging Face.",
+      "url": "https://www.libertify.com/interactive-library/state-open-source-ai-hugging-face-spring-2026/",
+      "source": "Libertify",
       "image_url": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=600&q=60"
     }
   ]
