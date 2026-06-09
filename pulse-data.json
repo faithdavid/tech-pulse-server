@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "MiniMax M2.5 Rivals Claude Opus",
-      "description": "China's MiniMax M2.5 delivers Claude Opus 4.6-level performance at 1/10th the cost.",
-      "url": "https://www.devflokers.com/blog/new-ai-model-releases-open-source-march-2026",
-      "source": "Devflokers",
+      "title": "Google Unveils TurboQuant at ICLR 2026",
+      "description": "New algorithm significantly reduces memory overhead from KV cache in large AI models.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "Google DeepMind Breakthroughs",
-      "description": "Latest AI research from DeepMind lab accelerates product impact.",
-      "url": "https://deepmind.google/research/",
-      "source": "DeepMind",
+      "title": "Anthropic's Claude Mythos Sparks Federal Legislation",
+      "description": "Model capabilities trigger new AI safety laws on May 4, 2026.",
+      "url": "https://www.devflokers.com/blog/ai-news-may-2026-models-papers-open-source",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "AI-Run Simulated Society",
-      "description": "Claude, ChatGPT, Grok, Gemini manage complex 40+ location virtual world.",
-      "url": "https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/",
-      "source": "Fortune",
-      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
+      "title": "Frontier AI Research Accelerates in April 2026",
+      "description": "Comprehensive analysis of ArXiv papers and new model architectures.",
+      "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Humanoid Robotics Boom: $20B+ Funding",
-      "description": "SkildAI valued at $14B as physical AI attracts record capital in 2026.",
-      "url": "https://aifundingtracker.com/top-50-ai-startups/",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "Thinking Machines Raises $2B Led by a16z",
+      "description": "Mira Murati’s startup valued at $12B in early-stage funding.",
+      "url": "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "SpaceX IPO to Include xAI Exposure",
-      "description": "xAI merger with SpaceX sets stage for mid-2026 public market access.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1517976487492-87ac70d4d3f0?w=600&q=60"
+      "title": "OpenAI Backs Indian Teen's AI Startup",
+      "description": "Induced AI raises $2.3M with Sam Altman participation.",
+      "url": "https://techfundingnews.com/openais-sam-altman-backs-indian-teen-prodigys-ai-startup-in-2-3m-funding-round/",
+      "source": "Tech Funding News",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "OpenAI Acquires Hiro Finance",
-      "description": "Seventh 2026 acqui-hire targets personal finance AI capabilities.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+      "title": "Frontier Labs Prepare for Late 2026 IPOs",
+      "description": "OpenAI, Anthropic, xAI gearing up for major public listings.",
+      "url": "https://medium.com/@aiappninja/this-isnt-a-funding-boom-it-s-a-monopoly-in-slow-motion-39a41b070dd6",
+      "source": "Medium",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "AI-Powered Coding Tools Surge",
-      "description": "Replit, Cursor, Windsurf transform software development in 2026.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
+      "title": "Roadmap for Developer Tooling in Software 3.0",
+      "description": "Natural language becomes primary programming interface with AI models.",
+      "url": "https://www.bvp.com/atlas/roadmap-developer-tooling-for-software-3-0",
+      "source": "Bessemer Venture Partners",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "JavaScript Frameworks Evolve with AI",
-      "description": "AI coding tools reshape React, Angular, Vue and Ext JS ecosystems.",
-      "url": "https://www.sencha.com/blog/javascript-frameworks-evolving-with-ai/",
-      "source": "Sencha",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "Awesome AI-Powered Developer Tools",
+      "description": "Curated GitHub list of AI tools for code completion, refactoring, debugging.",
+      "url": "https://github.com/jamesmurdza/awesome-ai-devtools",
+      "source": "GitHub",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "Top 10 2026 Tech Stack Tools",
-      "description": "GitHub Copilot, Cursor, Vercel, Supabase lead developer favorites.",
-      "url": "https://www.buildmvpfast.com/blog/best-developer-tools-2026-tech-stack",
-      "source": "BuildMVPFast",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "12 Effective AI Tools for Software Engineers",
+      "description": "Including ChatGPT, GitHub Copilot, Krisp and more for devs.",
+      "url": "https://www.facebook.com/programmingHero/posts/12-effective-ai-tools-for-software-engineers/1428893695951886/",
+      "source": "Programming Hero",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Project Stargate: $500B AI Initiative",
-      "description": "Trump admin backs OpenAI, Oracle, SoftBank in massive infrastructure push.",
-      "url": "https://www.mindfoundry.ai/blog/ai-regulations-around-the-world",
-      "source": "Mindfoundry",
+      "title": "Big Ideas 2026: a16z Outlook",
+      "description": "Biggest problems builders will tackle in 2026 per American Dynamism partners.",
+      "url": "https://www.a16z.news/p/big-ideas-2026-part-2",
+      "source": "a16z",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "California SB 53 Transparency Law",
-      "description": "Major AI firms must publish safety details from Jan 1, 2026.",
-      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
-      "source": "The Verge",
-      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+      "title": "AI Infiltrates Industrial Workforce in 2026",
+      "description": "Training workers on industrial AI to build resilience in essential industries.",
+      "url": "https://fortune.com/2026/01/15/lets-train-workers-on-industrial-ai-not-replace-them-kriti-sharma/",
+      "source": "Fortune",
+      "image_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&q=60"
     },
     {
-      "title": "EU AI Act Deadlines Pushed to 2027-28",
-      "description": "High-risk AI compliance delayed for technical standards finalization.",
-      "url": "https://atomicmail.io/blog/ai-regulation-news-global-changes-and-watchlist",
-      "source": "AtomicMail",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+      "title": "Musk-Altman Trial Vindicates AI Industry",
+      "description": "Verdict signals fierce competition and profit-making in AI is standard business.",
+      "url": "https://www.bbc.com/news/articles/crlp991nw41o",
+      "source": "BBC",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Hits 2.2M Models",
-      "description": "80% downloads from top 50 entities; NLP leads with 58% share.",
+      "title": "Open-Source AI Roundup June 2026",
+      "description": "New models like MiniMax M3, NVIDIA Cosmos 3, OpenClaw updates on HF.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "Hugging Face Hits 2M+ Models in 2026",
+      "description": "2.2 million models, 2.2B downloads, 80% from top 50 entities.",
       "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
       "source": "Programming Helper",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+    },
+    {
+      "title": "Open LLM Leaderboard 2026 Updates",
+      "description": "Latest rankings for open source LLMs with benchmarks and speeds.",
+      "url": "https://llm-stats.com/leaderboards/open-llm-leaderboard",
+      "source": "LLM Stats",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    },
-    {
-      "title": "Transformers v5.8.0 & New Architectures",
-      "description": "Hugging Face releases major update with fresh model support.",
-      "url": "https://af.net/ar/realtime/latest-ai-innovations-from-hugging-face-github-and-arxiv-may-2026/",
-      "source": "AF.net",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "Open-Source AI June 2026 Roundup",
-      "description": "Rapid growth in agentic systems and localized execution networks.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "Devflokers",
-      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
     }
   ]
 }
