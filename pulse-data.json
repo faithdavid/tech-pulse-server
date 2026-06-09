@@ -1,27 +1,117 @@
 {
   "ai": [
-    {"title": "Gemini 3.1 Pro Released", "description": "Google releases upgraded Gemini 3.1 Pro with enhanced intelligence for consumer and developer products.", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/", "source": "Google Blog", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
-    {"title": "EVA-Bench Data 2.0 Framework", "description": "ServiceNow-AI releases comprehensive evaluation framework for enterprise AI deployment.", "url": "https://dev.to/vjswamy/latest-ai-model-releases-june-2026-roundup-49j5", "source": "DEV Community", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
-    {"title": "Google DeepMind Research Updates", "description": "New AI breakthroughs and Gemini for Science experiments from DeepMind lab.", "url": "https://deepmind.google/research/", "source": "DeepMind", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
+    {
+      "title": "LLM Research Papers: The 2026 List (January to May)",
+      "description": "A January-May 2026 list of notable LLM research papers, covering new models, training methods, agents, reasoning, and efficiency improvements.",
+      "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+      "source": "Sebastian Raschka Magazine",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts",
+      "description": "April 2026's densest AI model release window with OpenAI, Anthropic, and Google DeepMind launching major new models.",
+      "url": "https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/",
+      "source": "Kersai",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    },
+    {
+      "title": "New AI Research Papers & Breakthroughs (April 2026 Weekly)",
+      "description": "Frontier AI Research and Technical Breakthroughs from ArXiv papers and model architectures in April 2026.",
+      "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026",
+      "source": "Devflokers",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    }
   ],
   "funding": [
-    {"title": "AI IPOs on the Horizon", "description": "OpenAI potentially leading anticipated AI IPOs after raising billions.", "url": "https://www.renaissancecapital.com/IPO-Center/Industry/AI-IPOs", "source": "Renaissance Capital", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"},
-    {"title": "Startup Funding Stages Guide", "description": "Comprehensive overview from pre-seed to IPO for AI startups.", "url": "https://growthlist.co/blog/startup-funding-stages/", "source": "GrowthList", "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"},
-    {"title": "Acquisition Opportunities in AI", "description": "Fast-growing startups seeing acquisitions valued at $1-10M for employees.", "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1rer05y/devs_that_have_been_at_startups_that_have_ipod_or/", "source": "Reddit", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
+    {
+      "title": "50 Top AI Funded Startups (June 2026)",
+      "description": "Q2 2026 AI IPO supercycle: Cerebras IPO’d May 14, with total funding rankings through June 1, 2026.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+    },
+    {
+      "title": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B",
+      "description": "Record-breaking funding with Chinese AI companies Z.ai and MiniMax IPOs valued over $6B each.",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "source": "Crunchbase News",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "Recently Funded Startups Jun 2026",
+      "description": "Fresh funding rounds updated daily with amounts, stages, lead investors and AI-powered signals.",
+      "url": "https://fundup.ai/recently-funded-startups",
+      "source": "Fundup AI",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "Apple New AI Frameworks", "description": "Apple unveils new AI frameworks and developer tools for app development across devices.", "url": "https://www.c-sharpcorner.com/news/apple-unveils-new-ai-frameworks-and-developer-tools-to-accelerate-app-development", "source": "C# Corner", "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"},
-    {"title": "Top AI Coding Tools 2026", "description": "Comparison of Cursor, Windsurf, Cline and VS Code AI features.", "url": "https://www.aubergine.co/insights/top-ai-coding-design-tools-in-2026", "source": "Aubergine", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
-    {"title": "Best AI Development Tools", "description": "Top picks including Harness for CI/CD and Otter.ai for transcription.", "url": "https://www.spaceo.ai/blog/best-ai-development-tools/", "source": "Spaceo", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"}
+    {
+      "title": "Google releases AI programming assistant Jules in open beta",
+      "description": "Google's new AI programming assistant Jules now available worldwide in public beta and can work on multiple tasks at once.",
+      "url": "https://dev.ua/en/news/google-jules-vyishov-v-publichnii-beti-1747925085",
+      "source": "dev.ua",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+    },
+    {
+      "title": "Best Artificial Intelligence Software: User Reviews from June 2026",
+      "description": "Explore latest AI software solutions with real user reviews, pricing comparisons on G2.",
+      "url": "https://www.g2.com/categories/artificial-intelligence",
+      "source": "G2",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+    },
+    {
+      "title": "All Developer Tools and Products by JetBrains",
+      "description": "Professional tools for productive development including frameworks for asynchronous applications.",
+      "url": "https://www.jetbrains.com/products/",
+      "source": "JetBrains",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "Latest AI News from Reuters", "description": "Breaking AI breakthroughs, trends, regulation and global impact.", "url": "https://www.reuters.com/technology/artificial-intelligence/", "source": "Reuters", "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=60"},
-    {"title": "The AI Race Updates", "description": "Bloomberg tracks full story on AI developments in real time.", "url": "https://www.bloomberg.com/latest/the-ai-race", "source": "Bloomberg", "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"},
-    {"title": "AI Weekly Newsletter", "description": "Latest AI news, funding, models and regulation for professionals.", "url": "https://aiweekly.co/", "source": "AI Weekly", "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"}
+    {
+      "title": "2026 Year in Preview: AI Regulatory Developments",
+      "description": "AI EO instructs executive actions protecting children, creators; expect more congressional proposals on AI in 2026.",
+      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
+      "source": "Wilson Sonsini",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    },
+    {
+      "title": "Key AI Regulations to Watch in 2026",
+      "description": "SB 942 expanded regulations operative January 2027 for social platforms and AI companies.",
+      "url": "https://www.eliassen.com/blog/key-ai-regulations-to-watch-in-2026",
+      "source": "Eliassen",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+    },
+    {
+      "title": "Meet the new tech laws of 2026",
+      "description": "SB 53 transparency law requires major AI companies to publish safety and security details and protects whistleblowers.",
+      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
+      "source": "The Verge",
+      "image_url": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&q=60"
+    }
   ],
   "oss": [
-    {"title": "State of Open Source on HF Spring 2026", "description": "South Korea models trending, data center partnerships announced.", "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
-    {"title": "New Open Source AI Projects April 2026", "description": "Notable projects on GitHub and Hugging Face with star counts.", "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026", "source": "Fazm Blog", "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=60"},
-    {"title": "ml-intern by Hugging Face", "description": "Open-source AI agent automating LLM post-training workflows.", "url": "https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/", "source": "MarkTechPost", "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"}
+    {
+      "title": "Open-Source AI June 2026: New Models, Agents & Papers",
+      "description": "MiniMax M3, NVIDIA Cosmos 3, OpenClaw updates and new research papers in June 2026 roundup.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "Devflokers",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "Hugging Face 2026: 2M+ Models, 80% of Downloads From Top 50",
+      "description": "Over 2.2 million models on HF Hub with 2.2 billion downloads; 92% under 1B parameters.",
+      "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
+      "source": "Programming Helper",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+    },
+    {
+      "title": "Best Open-Source & Open-Weight Coding Models (2026)",
+      "description": "MiniMax M3, GLM-5.1, Kimi K2.6, DeepSeek V4, Qwen3-Coder benchmarks for local or cloud use.",
+      "url": "https://kilo.ai/open-source-models",
+      "source": "Kilo.ai",
+      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
+    }
   ]
 }
