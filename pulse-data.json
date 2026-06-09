@@ -1,27 +1,117 @@
 {
   "ai": [
-    {"title": "Claude Opus 4.8 by Anthropic", "description": "New frontier model with advanced reasoning capabilities released May 28, 2026.", "url": "https://aireleasetracker.com/latest", "source": "AI Release Tracker", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
-    {"title": "ICLR 2026 Papers on Reliable AI", "description": "12 papers presented on making AI systems reliable, efficient, and secure.", "url": "https://lambda.ai/blog/iclr-2026-12-papers", "source": "Lambda", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
-    {"title": "LLM Research Weekly Papers June 2026", "description": "Advances in model efficiency, reasoning, and alignment from first week of June.", "url": "https://www.linkedin.com/pulse/llm-research-weekly-papers-1st-week-june-2026-hyun-ho-park-h3uic", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"}
+    {
+      "title": "The 2026 AI Index Report | Stanford HAI",
+      "description": "In February 2025, DeepSeek-R1 briefly matched the top U.S. model, and as of March 2026 Anthropic's top model leads by just 2.7%. The U.S. still produces more ...",
+      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+      "source": "Stanford HAI",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "International AI Safety Report 2026",
+      "description": "Feb 3, 2026 · The second International AI Safety Report, published in February 2026, is the next iteration of the comprehensive review of latest ...",
+      "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026",
+      "source": "International AI Safety Report",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "Trending Papers - Hugging Face",
+      "description": "A self-improving AI framework simultaneously updates both model weights and task-specific agent architecture through a language-model feedback agent across ...",
+      "url": "https://huggingface.co/papers/trending",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    }
   ],
   "funding": [
-    {"title": "Tripo AI Raises Nearly $200M", "description": "Series A+ round led by Ince Capital, Alibaba, Baidu Ventures on June 1, 2026.", "url": "https://techstartups.com/2026/06/01/venture-capital-startup-funding-roundup-june-1-2026/", "source": "TechStartups", "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"},
-    {"title": "OpenAI IPO Discussions", "description": "Potential $60B+ IPO targeted for late 2026 with Goldman Sachs, JPMorgan.", "url": "https://aifundingtracker.com/ai-ipo-tracker/", "source": "AI Funding Tracker", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"},
-    {"title": "AI Startups Raise $5.25B in 2026", "description": "101 AI & ML companies funded across pre-seed to Series A.", "url": "https://www.fundedstartupsdaily.com/raises/ai-ml/", "source": "Funded Startups Daily", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
+    {
+      "title": "50 Top AI Funded Startups (June 2026)",
+      "description": "Humanoid robotics is 2026’s breakout category — SkildAI ($14B), Boston Dynamics, and physical AI platforms are all attracting record capital.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+    },
+    {
+      "title": "2026 IPO Watchlist: OpenAI, SpaceX and Other Tech Giants",
+      "description": "The company recently brought on Google and Salesforce veteran David Conte as CFO, and CEO Ali Ghodsi says it has been “IPO ready” since 2020.",
+      "url": "https://builtin.com/articles/top-tech-ipos-2026",
+      "source": "Built In",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "AI Startup Funding News Today – Latest Deals & Rounds 2026",
+      "description": "Separately, OpenAI continued its acquisition spree, announcing the acqui-hire of AI personal finance startup Hiro Finance.",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "Antigravity CLI Replaces Gemini CLI", "description": "New Go-based async workflow tool with multi-agent orchestration, free in preview.", "url": "https://blog.logrocket.com/ai-dev-tool-power-rankings/", "source": "LogRocket", "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"},
-    {"title": "Microsoft Build 2026 AI Tooling", "description": "WinUI 3 and Windows App SDK receive major AI tooling updates for faster app development.", "url": "https://windowsnews.ai/article/build-2026-microsoft-recommits-to-winui-and-windows-app-sdk-with-ai-tooling.422827", "source": "Windows News", "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"},
-    {"title": "Dify & Firecrawl Top Developer Tools", "description": "Workflow orchestration and data ingestion tools highlighted for June 2026.", "url": "https://launchtoolsai.com/best/emerging-ai-developer-tools-june-2026", "source": "LaunchToolsAI", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"}
+    {
+      "title": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+      "description": "An guide to the 12 best AI tools that people are actually using, including the best AI assistants, video generators, automation tools, app builders, and more.",
+      "url": "https://www.synthesia.io/post/ai-tools",
+      "source": "Synthesia",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    },
+    {
+      "title": "Eclipse IDE 2026-03 R Packages",
+      "description": "The Eclipse Installer 2026-03 R now includes a JRE for macOS, Windows and Linux.",
+      "url": "https://www.eclipse.org/downloads/packages/",
+      "source": "Eclipse",
+      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
+    },
+    {
+      "title": "All Developer Tools and Products by JetBrains",
+      "description": "Developer Tools for Your Business. Professional tools for productive development.",
+      "url": "https://www.jetbrains.com/products/",
+      "source": "JetBrains",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "EU 'Made-in-Europe' AI Drive", "description": "New laws proposed June 3, 2026 to boost domestic cloud, AI and semiconductor industries.", "url": "https://www.reuters.com/business/eu-targets-big-tech-dependence-with-made-in-europe-drive-2026-06-03/", "source": "Reuters", "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"},
-    {"title": "California AI Regulations Delayed", "description": "SB 205 enforcement pushed to June 2026 or later amid amendments.", "url": "https://www.eliassen.com/blog/key-ai-regulations-to-watch-in-2026", "source": "Eliassen", "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"},
-    {"title": "Colorado AI Act Effective June 30", "description": "New responsibilities for AI developers and deployers starting end of June 2026.", "url": "https://www.wsgrdataadvisor.com/2026/01/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for/", "source": "Wilson Sonsini", "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"}
+    {
+      "title": "AI News | Latest Headlines and Developments | Reuters",
+      "description": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact.",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
+    },
+    {
+      "title": "2026 AI Laws Update: Key Regulations and Practical Guidance",
+      "description": "AI compliance in 2026: Trump’s Dec 2025 EO, Colorado & California frameworks, EU AI Act.",
+      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
+      "source": "Gunderson Dettmer",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+    },
+    {
+      "title": "AI Regulation News 2026: EU, US, China Updates",
+      "description": "Track the latest AI regulation news with verified updates from the EU AI Act timeline, China content labeling rules, and US state-level AI law changes.",
+      "url": "https://cubbbix.com/blog/ai-regulation-news-2026-global-update/",
+      "source": "Cubbbix",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
+    }
   ],
   "oss": [
-    {"title": "Hugging Face State of Open Source Spring 2026", "description": "South Korea models trending, new partnerships for open-weight frontier models.", "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
-    {"title": "smolagents Library Updates", "description": "Code-first minimal-abstraction runtimes for secure, context-aware AI systems.", "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026", "source": "devFlokers", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"},
-    {"title": "ml-intern Agent from Hugging Face", "description": "Open-source AI agent automating LLM post-training workflow released April 2026.", "url": "https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/", "source": "MarkTechPost", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
+    {
+      "title": "New Open-Source AI Projects & Model Releases: May 2026",
+      "description": "Explore the latest open-source AI breakthroughs of May 2026! From the viral success of OpenClaw to the rise of subquadratic models.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup",
+      "source": "Devflokers",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    },
+    {
+      "title": "Top 6 Open Source AI Models of April 2026: The HuggingFace Roundup",
+      "description": "A deep dive into the 6 hottest open-source AI models trending on HuggingFace in April 2026, from Gemma-4 and Qwen3.5 MoE to FLUX.2.",
+      "url": "https://www.essamamdani.com/blog/top-6-open-source-ai-models-april-2026",
+      "source": "Essam A. Mamdani",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "State of Open Source AI on Hugging Face: Spring 2026",
+      "description": "Essential AI analysis: State of Open Source AI on Hugging Face: Interactive breakdown of findings, benchmarks, and strategic implications.",
+      "url": "https://www.libertify.com/interactive-library/state-open-source-ai-hugging-face-spring-2026/",
+      "source": "Libertify",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+    }
   ]
 }
