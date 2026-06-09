@@ -1,140 +1,77 @@
 {
-  "filmschool": [
+  "filmeschool": [
     {
-      "title": "AI Film Innovations 2026",
-      "description": "X trends highlight 2026 as the 'year of indie AI films,' with tools enabling prompt-to-storyboard pipelines.",
-      "url": "https://www.academicjobs.com/global-news/ai-film-innovations-2026-latest-developments-and-trends-796",
-      "source": "AcademicJobs",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
-    },
-    {
-      "title": "How to make a film using AI tools in 2026",
-      "description": "Filmmakers are cautiously experimenting with AI tools for ideation, image and video generation, sound, and post-production.",
-      "url": "https://interestingengineering.com/ai-robotics/ai-tools-filmmaking-movies",
-      "source": "Interesting Engineering",
+      "title": "Stockholm AI Film Conference",
+      "description": "Leading Scandinavian event exploring how AI is transforming storytelling and creativity.",
+      "url": "https://www.sthlmaiconference.com/",
+      "source": "sthlmaiconference.com",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "Best AI Tools for Filmmakers (2026)",
-      "description": "Guide reviews best AI tools for filmmakers covering pre-production and post-production workflows.",
-      "url": "https://cognitivefuture.ai/best-ai-tools-for-filmmakers/",
-      "source": "Cognitive Future",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "How Artificial Intelligence Can Be a Tool in Filmmaking",
+      "description": "Filmmakers adopting AI for scriptwriting, special effects and editing.",
+      "url": "https://news.gsu.edu/2025/03/31/how-artificial-intelligence-can-be-a-tool-in-filmmaking/",
+      "source": "GSU News",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "LTX Studio: AI Video Production",
-      "description": "All-in-one generative AI platform that turns creative ideas into high-quality professional videos.",
-      "url": "https://ltx.io/studio",
-      "source": "LTX",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a9aafd1?w=600&q=60"
-    },
-    {
-      "title": "The 17 best AI video generators in 2026",
-      "description": "Zapier tested dozens of AI video generators for creating, editing, and enhancing videos.",
-      "url": "https://zapier.com/blog/best-ai-video-generator/",
-      "source": "Zapier",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
-    },
-    {
-      "title": "Synthesia AI Video Platform",
-      "description": "All-in-one AI Video platform for business with studio-quality videos in 160+ languages.",
-      "url": "https://www.synthesia.io/",
-      "source": "Synthesia",
-      "image_url": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=60"
+      "title": "AI Video Tools in 2026",
+      "description": "Production infrastructure shift with models like Google Veo and Runway Gen-4.5.",
+      "url": "https://pixflow.net/blog/ai-video-tools-in-2026/",
+      "source": "Pixflow",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Google AI Updates April 2026",
-      "description": "Biggest AI updates including Gemma 4, Deep Research Max and Cloud Next '26 announcements.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "Top 10 AI Video Tools You Should Try in 2025",
+      "description": "Text-to-video models learned cinematic grammar, voice cloning hit broadcast quality.",
+      "url": "https://sider.ai/blog/ai-tools/top-10-ai-video-tools-you-should-try-in-2025",
+      "source": "Sider",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Canva AI 2.0",
-      "description": "AI tools for design, writing, brand, coding, and more – new conversational design way coming soon.",
-      "url": "https://www.canva.com/canva-ai/",
-      "source": "Canva",
-      "image_url": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&q=60"
-    },
-    {
-      "title": "Best Free AI Tools 2026",
-      "description": "Discover top-rated free AI video generation tools and more from DataCamp guide.",
-      "url": "https://www.datacamp.com/blog/free-ai-tools",
-      "source": "DataCamp",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "title": "The 17 best AI video generators in 2026",
+      "description": "Best tools to create, edit, and enhance videos using AI.",
+      "url": "https://zapier.com/blog/best-ai-video-generator/",
+      "source": "Zapier",
+      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f6b7?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "AWS AI for Vertical Video",
-      "description": "Amazon’s AWS service speeds up vertical video clip creation using agentic AI for real-time optimizations.",
-      "url": "https://deadline.com/2026/02/amazon-aws-ai-vertical-video-fox-nbcuniversal-1236730837/",
-      "source": "Deadline",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
-    },
-    {
-      "title": "Netflix Vertical Video Feed",
-      "description": "Netflix launching TikTok-style vertical video feed with broad AI use for content and recommendations.",
-      "url": "https://creati.ai/ai-news/2026-04-18/netflix-tiktok-style-vertical-video-feed-ai-recommendations/",
-      "source": "Creati.ai",
-      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
-    },
-    {
-      "title": "Vertical AI In Entertainment",
-      "description": "Vertical AI winning in entertainment for localization, post-production, metadata, rights in 2026.",
-      "url": "https://vitrina.ai/blog/vertical-ai-entertainment-niche-models-general-ai-2026/",
-      "source": "Vitrina",
-      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
+      "title": "Vertical AI for Industries",
+      "description": "Industry-specific AI solutions for video applications.",
+      "url": "https://www.nea.com/blog/tomorrows-titans-vertical-ai",
+      "source": "NEA",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "InVideo Coupon June 2026 - 50% OFF",
-      "description": "InVideo AI-powered video platform promo codes for professional-quality videos from text prompts.",
-      "url": "https://www.hotdeals.com/coupons/invideo-promo-codes",
-      "source": "HotDeals",
+      "title": "Deals on AI Tools",
+      "description": "Where to find deals on AI video tools.",
+      "url": "https://brigadeweb.com/where-to-find-deals-on-ai-tools-top-5-sites/",
+      "source": "Brigade Web",
       "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
-    },
-    {
-      "title": "Invideo Coupons - 80% off",
-      "description": "Verified promo codes and discounts for InVideo AI video creation platform.",
-      "url": "https://www.wethrift.com/invideo",
-      "source": "WeThrift",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "AI Video Promo Codes - $110 Off",
-      "description": "Save up to $110 with verified AI Video promo codes June 2026.",
-      "url": "https://dealspotr.com/promo-codes/aivideo.to",
-      "source": "Dealspotr",
-      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "AI Video Trends 2026",
-      "description": "Top creative trends and video trends for 2026 shaping AI-driven content production.",
-      "url": "https://artlist.io/blog/artlist-creative-trend-report-2026/",
-      "source": "Artlist",
+      "title": "AI and art collaboration exhibition",
+      "description": "AI in art showcasing works by traditional artists.",
+      "url": "https://www.facebook.com/groups/546259539481349/posts/1711876632919628/",
+      "source": "Facebook",
+      "image_url": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=600&q=60"
+    },
+    {
+      "title": "LTX Studio Creative Showcase",
+      "description": "Stunning visuals with AI picture generator in various artistic styles.",
+      "url": "https://ltx.io/studio",
+      "source": "LTX Studio",
       "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
-    },
-    {
-      "title": "Best AI Art Showcases 2026",
-      "description": "Top-tier cinematic videos and professional storytelling with advanced AI video tools.",
-      "url": "https://www.mootion.com/use-cases/en/collection/top-ai-videos-for-art-and-design-showcases",
-      "source": "Mootion",
-      "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600&q=60"
-    },
-    {
-      "title": "10 Best AI-Generated Video Examples",
-      "description": "Highlight creativity and practical ways creators use AI tools to produce standout content fast.",
-      "url": "https://magichour.ai/blog/ai-video-examples",
-      "source": "MagicHour",
-      "image_url": "https://images.unsplash.com/photo-1478720568477-152d9f8f9900?w=600&q=60"
     }
   ]
 }
