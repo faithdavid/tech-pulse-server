@@ -1,32 +1,126 @@
 {
   "filmschool": [
-    {"title": "AI Film Innovations 2026", "description": "AI transitions to cornerstone of film production with scene generation and virtual directors.", "url": "https://www.academicjobs.com/global-news/ai-film-innovations-2026-latest-developments-and-trends-796", "source": "AcademicJobs", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
-    {"title": "Best AI Tools for Filmmaking 2026", "description": "Top professional AI filmmaking tools for cinema-quality multi-shot narratives.", "url": "https://alignify.co/tools/filmmaking", "source": "Alignify", "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"},
-    {"title": "Best AI Filmmaking Tools 2026", "description": "From script to final cut — what each tool excels at.", "url": "https://crepal.ai/blog/aivideo/aivideo-ai-filmmaking-tools-2026/", "source": "CrePal", "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"}
+    {
+      "title": "NEW AI Video Generator Kling O1 Redefines AI Filmmaking",
+      "description": "Kling AI dropped a new AI video generator that is redefining AI filmmaking with advanced capabilities.",
+      "url": "https://www.youtube.com/watch?v=m_UfnjFOfys",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+    },
+    {
+      "title": "Introducing Flow: Google’s AI filmmaking tool designed for Veo",
+      "description": "Google introduces Flow, the only AI filmmaking tool custom-designed for Veo, Imagen and Gemini models.",
+      "url": "https://blog.google/innovation-and-ai/products/google-flow-veo-ai-filmmaking-tool/",
+      "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+    },
+    {
+      "title": "Micro-drama platform Bullet launches Trinetra AI",
+      "description": "Bullet launches Trinetra AI for filmmaking and content intelligence in micro-dramas.",
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/micro-drama-platform-bullet-launches-trinetra-aian-ai-filmmaking-and-content-intelligence-platform-for-micro-dramas/articleshow/131522268.cms",
+      "source": "Economic Times",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "YouTube 2026 Roadmap", "description": "Neal Mohan shares AI safeguards, parental controls and TV reinvention.", "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/", "source": "YouTube Blog", "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"},
-    {"title": "50+ AI Video Statistics 2026", "description": "Market research, platform data and enterprise survey insights.", "url": "https://www.ngram.com/blog/ai-video-statistics-2026", "source": "ngram", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"},
-    {"title": "AI Video Trends Predictions", "description": "How AI transforms video marketing and creation workflows in 2026.", "url": "https://ltx.io/blog/ai-video-trends", "source": "LTX", "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"}
+    {
+      "title": "LTX Studio: The Creative Studio for AI Video Production",
+      "description": "All-in-one generative AI platform turning ideas into professional videos.",
+      "url": "https://ltx.io/studio",
+      "source": "LTX",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2a4157?w=600&q=60"
+    },
+    {
+      "title": "The Music Industry Crosses an AI Tipping Point",
+      "description": "Disney announced a landmark $1 billion deal with OpenAI's Sora at end of 2025.",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/the-music-industry-crosses-its-ai-tipping-point-1236556447/",
+      "source": "Hollywood Reporter",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
+    },
+    {
+      "title": "Synthesia: #1 AI Video Platform for Business",
+      "description": "Studio-quality videos with AI avatars in 160+ languages, saving up to 90% time.",
+      "url": "https://www.synthesia.io/",
+      "source": "Synthesia",
+      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "OpusClip AI Clipping", "description": "Turns any video genre into viral clips in one click.", "url": "https://www.opus.pro/", "source": "Opus", "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"},
-    {"title": "Dupdub AI Tools", "description": "AI voice over and video generator for social media.", "url": "https://www.dupdub.com/", "source": "Dupdub", "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"},
-    {"title": "Free AI Animation Tools", "description": "10 surprising free AI animation tools showcased.", "url": "https://www.youtube.com/watch?v=29Toeq0oyM8", "source": "YouTube", "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f812?w=600&q=60"}
+    {
+      "title": "Seedance 2.0 by ByteDance",
+      "description": "Text-to-video model with version 2.0 released February 2026.",
+      "url": "https://en.wikipedia.org/wiki/Seedance_2.0",
+      "source": "Wikipedia",
+      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
+    },
+    {
+      "title": "OpusClip: #1 AI video clipping and editing tool",
+      "description": "Turns any genre into viral clips in 1 click.",
+      "url": "https://www.opus.pro/",
+      "source": "OpusClip",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+    },
+    {
+      "title": "VEED AI Video Generator",
+      "description": "Generate AI videos from text or images for social media and marketing.",
+      "url": "https://www.veed.io/tools/ai-video",
+      "source": "VEED",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
+    }
   ],
   "niches": [
-    {"title": "Viral GUGUGAGA AI Videos", "description": "Trendy short-form AI video style going viral.", "url": "https://www.youtube.com/watch?v=I37u89XS4OM", "source": "YouTube", "image_url": "https://images.unsplash.com/photo-1492725764893-90b379c2b6e7?w=600&q=60"},
-    {"title": "Unlimited Image-to-Video", "description": "Veo 3 powered image to video generator.", "url": "https://aiimagetovideo.pro/", "source": "AI Image to Video", "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"},
-    {"title": "Vidnoz Free Image to Video", "description": "One free generation per day, no login required.", "url": "https://www.vidnoz.com/image-to-video-ai.html", "source": "Vidnoz", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
+    {
+      "title": "9 AI Niches That Can Easily Go Viral",
+      "description": "Top niches for AI video content that drive massive engagement in 2026.",
+      "url": "https://www.reddit.com/r/content_marketing/comments/1phdrkj/9_ai_niches_that_can_easily_go_viral_even_if/",
+      "source": "Reddit",
+      "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
+    },
+    {
+      "title": "Faceless YouTube Shorts with AI: 10 Niches That Still Work in 2026",
+      "description": "Proven faceless niches powered by Veo3 and AI tools for YouTube growth.",
+      "url": "https://miraflow.ai/blog/faceless-youtube-shorts-ai-niches-2026",
+      "source": "MiraFlow",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+    }
   ],
   "offers": [
-    {"title": "Gemini Student Discount", "description": "1-month free Google AI Pro trial still available.", "url": "https://opentherank.com/ai-pricing/gemini/student-discount/", "source": "OpenTheRank", "image_url": "https://images.unsplash.com/photo-1516321497677-de7c7c3c7c7c?w=600&q=60"},
-    {"title": "Otter.ai Coupons", "description": "Up to 51% off with annual plans.", "url": "https://www.grabon.in/otter-ai-coupons/", "source": "GrabOn", "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"},
-    {"title": "Vidnoz Daily Free Credits", "description": "Free daily AI image-to-video generations.", "url": "https://www.vidnoz.com/image-to-video-ai.html", "source": "Vidnoz", "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"}
+    {
+      "title": "9 Best AI Video Generator Lifetime Deals (2026)",
+      "description": "Curated lifetime deals on AI video tools from AppSumo and others.",
+      "url": "https://rytbee.com/ai-video-generator-lifetime-deals/",
+      "source": "Rytbee",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+    },
+    {
+      "title": "AI Video Discount — Save up to 60%",
+      "description": "Premium deals on Topview, Invideo, HeyGen and more AI video suites.",
+      "url": "https://aivideodiscount.com/",
+      "source": "AI Video Discount",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    }
   ],
   "inspire": [
-    {"title": "Gen Art Studios Portfolio", "description": "AI-generated commercials, kids content and creative showcases.", "url": "https://genartstudios.com/portfolio", "source": "Gen Art Studios", "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"},
-    {"title": "LTX Studio Creative Showcase", "description": "All-in-one AI video production with stunning visuals.", "url": "https://ltx.io/studio", "source": "LTX", "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"},
-    {"title": "Refik Anadol AI Art", "description": "Unsupervised project demonstrates powerful AI-generated art.", "url": "https://ixdf.org/literature/topics/ai-generated-art", "source": "IxDF", "image_url": "https://images.unsplash.com/photo-1547891654-e7b9c0c7e9c7?w=600&q=60"}
+    {
+      "title": "Kling AI: Next-Generation AI Creative Studio",
+      "description": "Showcase of imaginative AI-generated images and videos transforming creative workflows.",
+      "url": "https://kling-ai.vercel.app/global/",
+      "source": "Kling AI",
+      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
+    },
+    {
+      "title": "TapNow | Your Agentic Creative Canvas",
+      "description": "Next-gen AI engine for cinematic short films and experimental art.",
+      "url": "https://app.tapnow.ai/",
+      "source": "TapNow",
+      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
+    },
+    {
+      "title": "Leonardo AI Video Generator",
+      "description": "Product spin videos and cinematic sequences from still images.",
+      "url": "https://leonardo.ai/ai-video-generator",
+      "source": "Leonardo.AI",
+      "image_url": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=600&q=60"
+    }
   ]
 }
