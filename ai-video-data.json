@@ -1,140 +1,32 @@
 {
   "filmschool": [
-    {
-      "title": "Confluence of Generative AI and the Art of Filmmaking",
-      "description": "This talk explores how generative AI is transforming independent filmmaking as a new visualization tool.",
-      "url": "https://dac.siggraph.org/sparks/2026-04-24_confluence-of-generative-ai-and-the-art-of-filmmaking/",
-      "source": "SIGGRAPH",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
-    },
-    {
-      "title": "Trends in AI Filmmaking",
-      "description": "AI tools like Runway, Veo 2, and Movie Gen are crafting high-quality, story-driven video without a single frame of original footage.",
-      "url": "https://www.linkedin.com/top-content/innovation/ai-trends-and-innovations/trends-in-ai-filmmaking/",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
-    },
-    {
-      "title": "AI and Virtual Production at Hong Kong Film Market",
-      "description": "Artificial Intelligence (AI) and Virtual Production (VP) technologies are converging to fundamentally transform contemporary filmmaking workflows.",
-      "url": "https://hkfilmart.hktdc.com/conference/hkfilmart/en/programme?category=AI+Academy+Event",
-      "source": "HKTDC",
-      "image_url": "https://images.unsplash.com/photo-1517604931443-2f5a5e3f3f3f?w=600&q=60"
-    }
+    {"title": "AI Film Innovations 2026", "description": "AI transitions to cornerstone of film production with scene generation and virtual directors.", "url": "https://www.academicjobs.com/global-news/ai-film-innovations-2026-latest-developments-and-trends-796", "source": "AcademicJobs", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
+    {"title": "Best AI Tools for Filmmaking 2026", "description": "Top professional AI filmmaking tools for cinema-quality multi-shot narratives.", "url": "https://alignify.co/tools/filmmaking", "source": "Alignify", "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"},
+    {"title": "Best AI Filmmaking Tools 2026", "description": "From script to final cut — what each tool excels at.", "url": "https://crepal.ai/blog/aivideo/aivideo-ai-filmmaking-tools-2026/", "source": "CrePal", "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "What's Coming to YouTube in 2026",
-      "description": "Neal Mohan's 2026 letter for the latest company news, AI safeguards, and parental controls.",
-      "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/",
-      "source": "YouTube Blog",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
-    },
-    {
-      "title": "Media in Motion: Entertainment Trends 2026",
-      "description": "By 2026, media and entertainment trends center on AI integration in production and personalization.",
-      "url": "https://allthingsinsights.com/content/media-in-motion-what-2026-holds-for-entertainment-trends/",
-      "source": "All Things Insights",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a3d1e6f?w=600&q=60"
-    },
-    {
-      "title": "AI Video Trends Predictions For 2026",
-      "description": "Discover 2026's AI video trends and future predictions for video marketing and creation workflows.",
-      "url": "https://ltx.io/blog/ai-video-trends",
-      "source": "LTX Blog",
-      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
-    }
+    {"title": "YouTube 2026 Roadmap", "description": "Neal Mohan shares AI safeguards, parental controls and TV reinvention.", "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/", "source": "YouTube Blog", "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"},
+    {"title": "50+ AI Video Statistics 2026", "description": "Market research, platform data and enterprise survey insights.", "url": "https://www.ngram.com/blog/ai-video-statistics-2026", "source": "ngram", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"},
+    {"title": "AI Video Trends Predictions", "description": "How AI transforms video marketing and creation workflows in 2026.", "url": "https://ltx.io/blog/ai-video-trends", "source": "LTX", "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "AI Video Generation News: 2026 Latest Models",
-      "description": "Veo 3.1 for audio-native dialogue, Kling 3.0 for cost-balanced iteration, Seedance 2.0 for motion-heavy scenes.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    },
-    {
-      "title": "DaVinci Resolve 21 Officially Released",
-      "description": "New AI-powered features including IntelliSearch and Photos module for AI color grading.",
-      "url": "https://petapixel.com/2026/06/03/davinci-resolve-21-officially-released-with-new-photo-editing-ai-tools-and-much-more/",
-      "source": "PetaPixel",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
-    },
-    {
-      "title": "Best AI Video Tool for Content Creators 2026",
-      "description": "Edimakor V5.0.0 introduced Reference to Video and AI Ads features.",
-      "url": "https://resource.digen.ai/best-ai-video-tool-for-content-creators-2026/",
-      "source": "Digen AI",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    }
+    {"title": "OpusClip AI Clipping", "description": "Turns any video genre into viral clips in one click.", "url": "https://www.opus.pro/", "source": "Opus", "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"},
+    {"title": "Dupdub AI Tools", "description": "AI voice over and video generator for social media.", "url": "https://www.dupdub.com/", "source": "Dupdub", "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"},
+    {"title": "Free AI Animation Tools", "description": "10 surprising free AI animation tools showcased.", "url": "https://www.youtube.com/watch?v=29Toeq0oyM8", "source": "YouTube", "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f812?w=600&q=60"}
   ],
   "niches": [
-    {
-      "title": "Vertical AI Startup Ideas 2026",
-      "description": "Highly specialized, vertical applications for industry-specific niches beyond generic solutions.",
-      "url": "https://wearepresta.com/vertical-ai-startup-ideas-2026-dominating-industry-specific-niches/",
-      "source": "Presta",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "Vertical AI Report 2026: $3.5B Invested",
-      "description": "Analysis of $3.5B in vertical AI investment across 10 industries.",
-      "url": "https://shipsquad.ai/blog/vertical-ai-report-2026",
-      "source": "ShipSquad",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    },
-    {
-      "title": "Niche AI Startups Exploding in 2026",
-      "description": "Which niche AI market is most likely to produce venture-scale outcomes by 2026?",
-      "url": "https://startupik.com/niche-ai-startups-exploding/",
-      "source": "Startupik",
-      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
-    }
+    {"title": "Viral GUGUGAGA AI Videos", "description": "Trendy short-form AI video style going viral.", "url": "https://www.youtube.com/watch?v=I37u89XS4OM", "source": "YouTube", "image_url": "https://images.unsplash.com/photo-1492725764893-90b379c2b6e7?w=600&q=60"},
+    {"title": "Unlimited Image-to-Video", "description": "Veo 3 powered image to video generator.", "url": "https://aiimagetovideo.pro/", "source": "AI Image to Video", "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"},
+    {"title": "Vidnoz Free Image to Video", "description": "One free generation per day, no login required.", "url": "https://www.vidnoz.com/image-to-video-ai.html", "source": "Vidnoz", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
   ],
   "offers": [
-    {
-      "title": "Otter.ai Coupon Codes Up To 51% OFF",
-      "description": "Latest Otter.ai Coupons, Promo Codes & Offers For Jun 2026.",
-      "url": "https://www.grabon.in/otter-ai-coupons/",
-      "source": "GrabOn",
-      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
-    },
-    {
-      "title": "Vidnoz Image to Video AI Free",
-      "description": "Vidnoz Gen Image to Video offers one free video generation per day, no login required.",
-      "url": "https://www.vidnoz.com/image-to-video-ai.html",
-      "source": "Vidnoz",
-      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
-    },
-    {
-      "title": "20% Suno Coupon + 250 Free Credits",
-      "description": "Suno Coupons & Promo Highlights 2026 with free credits.",
-      "url": "https://affiliateweapons.com/affiliate-tools/suno/",
-      "source": "Affiliate Weapons",
-      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
-    }
+    {"title": "Gemini Student Discount", "description": "1-month free Google AI Pro trial still available.", "url": "https://opentherank.com/ai-pricing/gemini/student-discount/", "source": "OpenTheRank", "image_url": "https://images.unsplash.com/photo-1516321497677-de7c7c3c7c7c?w=600&q=60"},
+    {"title": "Otter.ai Coupons", "description": "Up to 51% off with annual plans.", "url": "https://www.grabon.in/otter-ai-coupons/", "source": "GrabOn", "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"},
+    {"title": "Vidnoz Daily Free Credits", "description": "Free daily AI image-to-video generations.", "url": "https://www.vidnoz.com/image-to-video-ai.html", "source": "Vidnoz", "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"}
   ],
   "inspire": [
-    {
-      "title": "AI VIDEO CHALLENGE 2026",
-      "description": "Turn creative ideas about the future, nature, and tech into an AI-powered video showcase.",
-      "url": "https://www.facebook.com/techdomepenang/posts/-ai-video-challenge-is-here-got-creative-ideas-about-the-future-nature-and-techn/987906120654994/",
-      "source": "Tech Dome Penang",
-      "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"
-    },
-    {
-      "title": "Portfolio — AI Video Showcase",
-      "description": "Watch AI-generated videos, commercials, kids content, and creative showcases from Gen Art Studios.",
-      "url": "https://genartstudios.com/portfolio",
-      "source": "Gen Art Studios",
-      "image_url": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=60"
-    },
-    {
-      "title": "LTX Studio: Creative Studio for AI Video Production",
-      "description": "Stunning visuals created with LTX Studio's AI picture generator showcasing various artistic styles.",
-      "url": "https://ltx.io/studio",
-      "source": "LTX",
-      "image_url": "https://images.unsplash.com/photo-1558591710-4b4a1b1b1b1b?w=600&q=60"
-    }
+    {"title": "Gen Art Studios Portfolio", "description": "AI-generated commercials, kids content and creative showcases.", "url": "https://genartstudios.com/portfolio", "source": "Gen Art Studios", "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"},
+    {"title": "LTX Studio Creative Showcase", "description": "All-in-one AI video production with stunning visuals.", "url": "https://ltx.io/studio", "source": "LTX", "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"},
+    {"title": "Refik Anadol AI Art", "description": "Unsupervised project demonstrates powerful AI-generated art.", "url": "https://ixdf.org/literature/topics/ai-generated-art", "source": "IxDF", "image_url": "https://images.unsplash.com/photo-1547891654-e7b9c0c7e9c7?w=600&q=60"}
   ]
 }
