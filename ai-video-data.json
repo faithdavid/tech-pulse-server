@@ -1,140 +1,91 @@
 {
   "filmschool": [
     {
-      "title": "Confluence of Generative AI and the Art of Filmmaking",
-      "description": "Generative AI transforming independent filmmaking as visualization tool at SIGGRAPH 2026.",
-      "url": "https://dac.siggraph.org/sparks/2026-04-24_confluence-of-generative-ai-and-the-art-of-filmmaking/",
-      "source": "SIGGRAPH",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
-    },
-    {
-      "title": "Trends in AI Filmmaking",
-      "description": "Runway, Veo 2, Movie Gen crafting story-driven video without original footage.",
-      "url": "https://www.linkedin.com/top-content/innovation/ai-trends-and-innovations/trends-in-ai-filmmaking/",
-      "source": "LinkedIn",
+      "title": "Generative AI for Film Creation Survey",
+      "description": "Comprehensive survey of GenAI tools transforming character creation and workflows in filmmaking.",
+      "url": "https://arxiv.org/html/2504.08296v1",
+      "source": "arXiv",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "AI Tools in Film Education",
-      "description": "AIGC transforming script development to pre-visualization and editing in film schools.",
-      "url": "https://dl.acm.org/doi/10.1145/3775073.3775111",
-      "source": "ACM",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "Complete Guide to AI in Filmmaking 2025",
+      "description": "50+ tools democratizing movie production from concept to delivery.",
+      "url": "https://dev.to/siddharthbhalsod/the-complete-guide-to-ai-in-filmmaking-2025-50-tools-transforming-movie-production-p0d",
+      "source": "Dev.to",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Google Search I/O 2026 AI Agents",
-      "description": "Advanced AI features and agents coming to Search.",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "source": "Google",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
-    },
-    {
-      "title": "YouTube 2026 Future Plans",
-      "description": "AI safeguards, parental controls and TV reinvention.",
+      "title": "YouTube 2026 Roadmap",
+      "description": "Neal Mohan's letter outlines AI safeguards, parental controls and TV reinvention.",
       "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/",
-      "source": "YouTube",
+      "source": "YouTube Blog",
       "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     },
     {
-      "title": "LTX Studio AI Video Platform",
-      "description": "All-in-one generative AI platform for professional videos.",
-      "url": "https://ltx.io/studio",
-      "source": "LTX",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
+      "title": "AI Video Trends 2026 Predictions",
+      "description": "LTX predicts massive shifts in video marketing and creation workflows.",
+      "url": "https://ltx.io/blog/ai-video-trends",
+      "source": "LTX Blog",
+      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Best AI Video Editing Tools 2026",
-      "description": "Rigorous testing of top AI video editors for 4K workflows.",
-      "url": "https://www.aiarty.com/edit-video/ai-video-editing-tools.htm",
-      "source": "AIArty",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
-    },
-    {
-      "title": "AI Video Tools Complete Guide 2026",
-      "description": "Veo 3.1, Kling 3.0, Runway Gen-4.5 production ready.",
-      "url": "https://pixflow.net/blog/ai-video-tools-in-2026/",
-      "source": "Pixflow",
+      "title": "Adobe Premiere & After Effects 26.2",
+      "description": "New AI-driven capabilities, Firefly Video Editor updates and Kling 3.0 integration.",
+      "url": "https://blog.adobe.com/en/publish/2026/01/20/new-ai-powered-video-editing-tools-premiere-major-motion-design-upgrades-after-effects",
+      "source": "Adobe Blog",
       "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     },
     {
-      "title": "AI Video Stack 2026 Rankings",
-      "description": "Live comparison of Veo 3.1, Kling 3.0, Runway, Luma.",
-      "url": "https://rctv.com/posts/ai-video-stack-2026/",
-      "source": "RCTV",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "title": "Google Vids Major AI Upgrade",
+      "description": "Lyria 3 + Veo 3.1 powers free high-quality video generation and AI avatars.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Faceless YouTube Shorts AI Niches",
-      "description": "10 profitable faceless niches powered by Veo3 and Text2Shorts.",
-      "url": "https://miraflow.ai/blog/faceless-youtube-shorts-ai-niches-2026",
-      "source": "MiraFlow",
-      "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
+      "title": "Hailuo AI Video Generator",
+      "description": "Text & image to video tool optimized for posts, memes and vertical content.",
+      "url": "https://hailuoai.video/",
+      "source": "Hailuo AI",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "YouTube Automation Niches 2026",
-      "description": "50+ sub-niches for AI-powered YouTube channels.",
-      "url": "https://outlierkit.com/blog/youtube-automation-niches",
-      "source": "OutlierKit",
-      "image_url": "https://images.unsplash.com/photo-1611605698335-8b1569810433?w=600&q=60"
-    },
-    {
-      "title": "Emerging Low-Competition Niches",
-      "description": "10 rising YouTube categories with high monetization potential.",
-      "url": "https://fluxnote.io/guides/emerging-youtube-niches-2026",
-      "source": "Fluxnote",
-      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
+      "title": "Viral GUGUGAGA AI Videos",
+      "description": "Emerging niche trend for short-form viral meme-style AI content.",
+      "url": "https://www.youtube.com/watch?v=I37u89XS4OM",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1516321497677-de7c1857e4f4?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Zubtitle Forever Free Plan",
-      "description": "AI video editing with 1 free video upload forever.",
-      "url": "https://subscribed.fyi/zubtitle/deals/",
-      "source": "Subscribed",
+      "title": "InVideo 50 Free AI Minutes",
+      "description": "New users get 50 free AI minutes on all plans plus 20% off annual.",
+      "url": "https://www.usatoday.com/deals/invideo",
+      "source": "USA Today Deals",
       "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
-    },
-    {
-      "title": "Pictory AI January 2026 Discount",
-      "description": "Limited-time promotion for AI video creation platform.",
-      "url": "https://pictory.ai/es/editor-video-ia-14",
-      "source": "Pictory",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "Revid AI 20% Off Discount",
-      "description": "20SAVE code for script-to-video system first month.",
-      "url": "https://b4vk.raiselysite.com/anaya-adeel/posts/revid-ai-discount-code-20save-20-off-script-to-video-system-2026",
-      "source": "Revid",
-      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Gen Art Studios AI Portfolio",
-      "description": "AI-generated commercials, kids content and creative showcases.",
-      "url": "https://genartstudios.com/portfolio",
-      "source": "Gen Art Studios",
-      "image_url": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&q=60"
+      "title": "Gemini Omni Conversational Video Agent",
+      "description": "Context-aware chat workspace for iterative video and image generation.",
+      "url": "https://geminomni.com/",
+      "source": "Gemini Omni",
+      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
     },
     {
-      "title": "LTX Studio Creative Showcase",
-      "description": "Stunning AI-generated artistic visuals and video production.",
-      "url": "https://ltx.io/studio",
-      "source": "LTX",
-      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
-    },
-    {
-      "title": "Refik Anadol Unsupervised AI Art",
-      "description": "Impressive AI-generated art video installations.",
-      "url": "https://ixdf.org/literature/topics/ai-generated-art",
-      "source": "IxDF",
-      "image_url": "https://images.unsplash.com/photo-1549490349-8643362247b5?w=600&q=60"
+      "title": "Leonardo AI Video Generator",
+      "description": "Precision motion control for text-to-video and image-to-video sequences.",
+      "url": "https://leonardo.ai/ai-video-generator",
+      "source": "Leonardo AI",
+      "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"
     }
   ]
 }
