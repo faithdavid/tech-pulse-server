@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Latest AI Model Releases: June 2026 Roundup",
-      "description": "EVA-Bench Data 2.0 released by ServiceNow-AI for safer enterprise AI deployment. Significant step in predictable scaling.",
-      "url": "https://dev.to/vjswamy/latest-ai-model-releases-june-2026-roundup-49j5",
-      "source": "DEV Community",
+      "title": "Gemini 3.1 Pro Released",
+      "description": "Google unveils Gemini 3.1 Pro with major intelligence upgrades rolling out to consumer and developer products.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "source": "Google Blog",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "Gemini for Science: New AI Experiments from Google DeepMind",
-      "description": "AI tools for a new era of scientific discovery released in May 2026.",
+      "title": "DeepMind Gemini for Science",
+      "description": "New AI experiments and tools for scientific discovery announced by Google DeepMind in May 2026.",
       "url": "https://deepmind.google/research/",
-      "source": "Google DeepMind",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+      "source": "DeepMind",
+      "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&q=60"
     },
     {
-      "title": "Apple Study Challenges AI Reasoning Models",
-      "description": "New research questions if simulated reasoning models truly reason, impacting o1, o3, DeepSeek-R1.",
-      "url": "https://arstechnica.com/ai/2025/06/new-apple-study-challenges-whether-ai-models-truly-reason-through-problems/",
-      "source": "Ars Technica",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Top AI Papers June 2026",
+      "description": "Fresh research in reasoning, agentic systems and efficient inference dominates latest publications.",
+      "url": "https://www.linkedin.com/pulse/latest-ai-breakthroughs-top-model-releases-papers-projects-ricky-zc1ic",
+      "source": "LinkedIn",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "AI Startup Funding Surges in 2026",
-      "description": "Multiple VC deals and massive investments in AI startups reported throughout 2026.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+      "title": "Fireworks AI $15B Valuation",
+      "description": "AI inference startup in talks for new round valuing company at $15 billion.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/fireworks-ai-in-talks-for-funding-at-15-billion-valuation",
+      "source": "Bloomberg",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "Daily AI Startup Funding News — April 2026 Deals",
-      "description": "Track latest venture capital deals and investor moves in artificial intelligence.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
-      "source": "AI Funding Tracker",
+      "title": "2026 IPO Pipeline Heats Up",
+      "description": "40+ late-stage startups targeting public listings as markets stabilize for banner IPO year.",
+      "url": "https://accessipos.com/upcoming-ipos/",
+      "source": "AccessIPOs",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "Frontier Labs Prepare IPOs",
+      "description": "OpenAI, Anthropic, xAI eyeing 2026-2027 public listings with massive investor returns expected.",
+      "url": "https://medium.com/@aiappninja/this-isnt-a-funding-boom-it-s-a-monopoly-in-slow-motion-39a41b070dd6",
+      "source": "Medium",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "TechCrunch Funding Analysis",
-      "description": "Latest funding rounds across AI unicorns and hot new startups.",
-      "url": "https://techcrunch.com/tag/funding/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Top AI Software Solutions June 2026",
-      "description": "G2 user reviews highlight best artificial intelligence tools and platforms.",
-      "url": "https://www.g2.com/categories/artificial-intelligence",
-      "source": "G2",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
-    },
-    {
-      "title": "Open-Source AI Frameworks Roundup",
-      "description": "Key tools including TensorFlow, Torch, and Apache Mahout for AI development.",
-      "url": "https://dzone.com/articles/10-opensource-toolsframeworks-for-artificial-intel",
-      "source": "DZone",
+      "title": "React 19 & Svelte 5 Lead 2026",
+      "description": "Top frameworks dominating developer mindshare with React 19, Svelte 5, Django 5.2 LTS.",
+      "url": "https://www.index.dev/blog/software-development-frameworks",
+      "source": "Index.dev",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Apple Developer Frameworks Update",
-      "description": "New Swift-based tools and APIs for building across Apple platforms.",
-      "url": "https://developer.apple.com/technologies/",
-      "source": "Apple",
-      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
+      "title": "Django 5.2 LTS Released",
+      "description": "Long-term support release with security fixes through 2028 and 82k+ GitHub stars.",
+      "url": "https://wasp.sh/resources/2026/02/24/best-frameworks-web-dev-2026",
+      "source": "Wasp",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "OpenClaw & LangGraph Agent Tools",
+      "description": "New frameworks enable secure on-prem AI agent deployments with open-weight models.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "AI Weekly Newsletter — Latest Industry Updates",
-      "description": "Curated news on AI breakthroughs, funding, models, and regulation for professionals.",
-      "url": "https://aiweekly.co/",
-      "source": "AI Weekly",
-      "image_url": "https://images.unsplash.com/photo-1504868584819-f8e8dee19844?w=600&q=60"
+      "title": "AI Power Shift to Tech Giants",
+      "description": "Governments hesitate on regulation, handing economic and cultural control to AI companies.",
+      "url": "https://restofworld.org/2026/ai-government-regulation-tech-giants/",
+      "source": "Rest of World",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "Reuters AI News Headlines",
-      "description": "Breaking developments in AI technology, ethics, business and global impact.",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/",
-      "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
+      "title": "EU Simplification Proposals",
+      "description": "Tech law changes risk rolling back rights to accelerate AI development.",
+      "url": "https://www.amnesty.org/en/latest/campaigns/2026/04/eu-simplification-laws/",
+      "source": "Amnesty International",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "Global AI Regulations Guide 2026",
-      "description": "Comprehensive overview of EU, US, UK, China, and APAC AI compliance requirements.",
-      "url": "https://gdprlocal.com/ai-regulations-around-the-world/",
-      "source": "GDPR Local",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
+      "title": "Enterprise AI Adoption Surge",
+      "description": "PwC predicts top-down enterprise-wide AI strategies becoming standard in 2026.",
+      "url": "https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html",
+      "source": "PwC",
+      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face: 2M+ Models Milestone",
-      "description": "World's largest open-source AI platform hits 2 million models and 1 million Spaces per Spring 2026 report.",
-      "url": "https://nerdleveltech.com/hugging-face-the-open-source-heart-of-modern-AI",
-      "source": "Nerd Level Tech",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    },
-    {
-      "title": "Top Open Source Hugging Face Projects",
-      "description": "Leading projects include chat-ui and numerous LLM releases on the platform.",
-      "url": "https://awesomeopensource.com/projects/huggingface",
-      "source": "Awesome Open Source",
-      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
-    },
-    {
-      "title": "Best Open-Source AI Models April 2026",
-      "description": "Ranked benchmarks highlight top open models like Claude Sonnet and GPT alternatives.",
-      "url": "https://www.buildfastwithai.com/blogs/best-ai-models-april-2026",
-      "source": "Build Fast With AI",
+      "title": "Step1X-Edit on Hugging Face",
+      "description": "New Apache 2.0 licensed open-source image editing model lands with full technical details public.",
+      "url": "https://www.aibase.com/news/17601",
+      "source": "AIbase",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+    },
+    {
+      "title": "Hugging Face 2.9M+ Models",
+      "description": "Platform surpasses 2.9 million models as open-source AI continues explosive growth.",
+      "url": "https://huggingface.co/models",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
+    },
+    {
+      "title": "Llama 4 & DeepSeek V4 Released",
+      "description": "Major open-weight model drops including Llama 4 and DeepSeek V4 benchmark leaders.",
+      "url": "https://www.buildfastwithai.com/blogs/best-ai-models-april-2026",
+      "source": "BuildFastWithAI",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ]
 }
