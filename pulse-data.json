@@ -1,117 +1,27 @@
 {
   "ai": [
-    {
-      "title": "Gemini 3.1 Pro Released",
-      "description": "Google unveils Gemini 3.1 Pro with major intelligence upgrades rolling out to consumer and developer products.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "DeepMind Gemini for Science",
-      "description": "New AI experiments and tools for scientific discovery announced by Google DeepMind in May 2026.",
-      "url": "https://deepmind.google/research/",
-      "source": "DeepMind",
-      "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&q=60"
-    },
-    {
-      "title": "Top AI Papers June 2026",
-      "description": "Fresh research in reasoning, agentic systems and efficient inference dominates latest publications.",
-      "url": "https://www.linkedin.com/pulse/latest-ai-breakthroughs-top-model-releases-papers-projects-ricky-zc1ic",
-      "source": "LinkedIn",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    }
+    {"title": "Gemini 3.1 Pro Released", "description": "Google announces Gemini 3.1 Pro with major intelligence upgrades rolling out to products.", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/", "source": "Google Blog", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
+    {"title": "Apple Paper Questions AI Reasoning", "description": "Apple researchers release paper challenging claims of reasoning capabilities in modern AIs.", "url": "https://futurism.com/apple-damning-paper-ai-reasoning", "source": "Futurism", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
+    {"title": "Agentic AI Proves Impact in 2026", "description": "Agentic AI begins showing measurable competitive advantages across industries.", "url": "https://www.linkedin.com/pulse/2026-moment-agentic-ai-starts-proving-itself-erik-herring-5bwmf", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
   ],
   "funding": [
-    {
-      "title": "Fireworks AI $15B Valuation",
-      "description": "AI inference startup in talks for new round valuing company at $15 billion.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-27/fireworks-ai-in-talks-for-funding-at-15-billion-valuation",
-      "source": "Bloomberg",
-      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
-    },
-    {
-      "title": "2026 IPO Pipeline Heats Up",
-      "description": "40+ late-stage startups targeting public listings as markets stabilize for banner IPO year.",
-      "url": "https://accessipos.com/upcoming-ipos/",
-      "source": "AccessIPOs",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "Frontier Labs Prepare IPOs",
-      "description": "OpenAI, Anthropic, xAI eyeing 2026-2027 public listings with massive investor returns expected.",
-      "url": "https://medium.com/@aiappninja/this-isnt-a-funding-boom-it-s-a-monopoly-in-slow-motion-39a41b070dd6",
-      "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    }
+    {"title": "Innefu Labs Raises $30M Series B", "description": "Funding to expand AI platform, robotics division and secure India-focused LLMs.", "url": "https://www.ipoplatform.com/Funding-news/innefu-labs-raises-funding", "source": "IPO Platform", "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"},
+    {"title": "Frontier Labs Prepare Late 2026 IPOs", "description": "OpenAI, Anthropic, xAI gearing up for potential IPOs valued at massive returns.", "url": "https://medium.com/@aiappninja/this-isnt-a-funding-boom-it-s-a-monopoly-in-slow-motion-39a41b070dd6", "source": "Medium", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"},
+    {"title": "Forbes 2026 AI 50 List Released", "description": "Annual ranking highlights top AI companies driving the next wave of innovation.", "url": "https://www.forbes.com/lists/ai50/", "source": "Forbes", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "React 19 & Svelte 5 Lead 2026",
-      "description": "Top frameworks dominating developer mindshare with React 19, Svelte 5, Django 5.2 LTS.",
-      "url": "https://www.index.dev/blog/software-development-frameworks",
-      "source": "Index.dev",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "Django 5.2 LTS Released",
-      "description": "Long-term support release with security fixes through 2028 and 82k+ GitHub stars.",
-      "url": "https://wasp.sh/resources/2026/02/24/best-frameworks-web-dev-2026",
-      "source": "Wasp",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
-    },
-    {
-      "title": "OpenClaw & LangGraph Agent Tools",
-      "description": "New frameworks enable secure on-prem AI agent deployments with open-weight models.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "devFlokers",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
-    }
+    {"title": "Top AI Agent Frameworks 2026", "description": "AutoGen, CrewAI and new frameworks dominate agentic development rankings.", "url": "https://medium.com/data-science-collective/the-best-ai-agent-frameworks-for-2026-tier-list-b3a4362fac0d", "source": "Medium", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
+    {"title": "AI Dev Tool Power Rankings June 2026", "description": "Updated comparison of leading AI coding and development tools.", "url": "https://blog.logrocket.com/ai-dev-tool-power-rankings/", "source": "LogRocket", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
+    {"title": "LLM Coding Workflow Evolution", "description": "Addy Osmani shares advanced 2026 AI-assisted coding best practices.", "url": "https://addyosmani.com/blog/ai-coding-workflow/", "source": "Addy Osmani", "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedba2?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "AI Power Shift to Tech Giants",
-      "description": "Governments hesitate on regulation, handing economic and cultural control to AI companies.",
-      "url": "https://restofworld.org/2026/ai-government-regulation-tech-giants/",
-      "source": "Rest of World",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
-    },
-    {
-      "title": "EU Simplification Proposals",
-      "description": "Tech law changes risk rolling back rights to accelerate AI development.",
-      "url": "https://www.amnesty.org/en/latest/campaigns/2026/04/eu-simplification-laws/",
-      "source": "Amnesty International",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    },
-    {
-      "title": "Enterprise AI Adoption Surge",
-      "description": "PwC predicts top-down enterprise-wide AI strategies becoming standard in 2026.",
-      "url": "https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html",
-      "source": "PwC",
-      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=60"
-    }
+    {"title": "Key AI Regulations to Watch 2026", "description": "SB 942 and EU AI Act deadlines shift to 2027-2028 amid ongoing standards work.", "url": "https://www.eliassen.com/blog/key-ai-regulations-to-watch-in-2026", "source": "Eliassen Group", "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"},
+    {"title": "Trump AI Order Sparks Debate", "description": "New executive order prioritizes innovation while safety advocates push for mandatory oversight.", "url": "https://www.politico.com/news/2026/06/02/trump-ai-order-tech-winners-losers-00947285", "source": "Politico", "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"},
+    {"title": "Global AI Compliance Deadlines Delayed", "description": "High-risk AI system rules postponed to allow technical standards finalization.", "url": "https://atomicmail.io/blog/ai-regulation-news-global-changes-and-watchlist", "source": "Atomic Mail", "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"}
   ],
   "oss": [
-    {
-      "title": "Step1X-Edit on Hugging Face",
-      "description": "New Apache 2.0 licensed open-source image editing model lands with full technical details public.",
-      "url": "https://www.aibase.com/news/17601",
-      "source": "AIbase",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    },
-    {
-      "title": "Hugging Face 2.9M+ Models",
-      "description": "Platform surpasses 2.9 million models as open-source AI continues explosive growth.",
-      "url": "https://huggingface.co/models",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
-    },
-    {
-      "title": "Llama 4 & DeepSeek V4 Released",
-      "description": "Major open-weight model drops including Llama 4 and DeepSeek V4 benchmark leaders.",
-      "url": "https://www.buildfastwithai.com/blogs/best-ai-models-april-2026",
-      "source": "BuildFastWithAI",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    }
+    {"title": "Steerling-8B Open Sourced", "description": "Guide Labs releases interpretable 8B LLM on Hugging Face.", "url": "https://www.linkedin.com/pulse/top-3-ai-model-releases-open-source-projects-from-past-ricky-pno8c", "source": "LinkedIn", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
+    {"title": "Yanolja Open Source Translation Model", "description": "EEVE ROSETTA tops Korean and Tiger leaderboards for nuanced translations.", "url": "https://www.thepickool.com/yanolja-launches-open-source-translation-ai-model/", "source": "The Pickool", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"},
+    {"title": "GLM-5 Leads Open-Source Benchmarks", "description": "New model tops SWE-bench Verified and Chatbot Arena Elo rankings.", "url": "https://www.buildfastwithai.com/blogs/best-ai-models-april-2026", "source": "Build Fast With AI", "image_url": "https://images.unsplash.com/photo-1531746790731-6c087671e931?w=600&q=60"}
   ]
 }
