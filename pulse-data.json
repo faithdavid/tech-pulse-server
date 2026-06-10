@@ -1,23 +1,117 @@
 {
   "ai": [
-    {"title": "Gemini 3.1 Pro Released", "description": "Google announces Gemini 3.1 Pro with major intelligence upgrades rolling out to products.", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/", "source": "Google Blog", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
-    {"title": "AI Simulations Run Societies", "description": "Claude, GPT, Grok and Gemini agents control simulated societies with wildly different outcomes.", "url": "https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/", "source": "Fortune", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
-    {"title": "MiniMax M2.7 Self-Improving", "description": "New model focuses on agentic coding and reasoning at competitive cost.", "url": "https://www.minimax.io/models/text/m27", "source": "MiniMax", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
+    {
+      "title": "Gemini 3.1 Pro Released",
+      "description": "Google unveils Gemini 3.1 Pro with major intelligence upgrades for consumer and developer apps.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "EVA-Bench Data 2.0 Launched",
+      "description": "ServiceNow-AI releases comprehensive evaluation framework for enterprise AI safety and predictability.",
+      "url": "https://dev.to/vjswamy/latest-ai-model-releases-june-2026-roundup-49j5",
+      "source": "DEV Community",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "DeepMind Gemini for Science",
+      "description": "New AI experiments and tools announced for scientific discovery era.",
+      "url": "https://deepmind.google/research/",
+      "source": "DeepMind",
+      "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&q=60"
+    }
   ],
   "funding": [
-    {"title": "Thinking Machines Raises $2B", "description": "Mira Murati’s startup valued at $12B in a16z-led round.", "url": "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/", "source": "Reuters", "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"},
-    {"title": "Puch AI Bids $50B for Perplexity", "description": "Indian-origin startup makes bold unsolicited bid for Perplexity and Chrome.", "url": "https://www.financialexpress.com/life/technology-50-million-worth-indian-origin-startup-makes-a-50-billion-bid-to-acquire-perplexity-ai-but-theres-a-catch-3946293/", "source": "Financial Express", "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"}
+    {
+      "title": "$23.26B AV Investment in 2026",
+      "description": "AI and AV funding hits record $23.26B in first four months; humanoid robotics projected $20B+.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "Etched.ai Raises $500M",
+      "description": "Chips for AI superintelligence startup reaches $5B valuation in latest round.",
+      "url": "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/",
+      "source": "Crunchbase",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "Eclipse $1.3B Fund",
+      "description": "New fund targets physical AI, manufacturing and defense sectors.",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "AI Agent Frameworks 2026", "description": "LangGraph, CrewAI, AutoGen lead agent development infrastructure.", "url": "https://dust.tt/blog/ai-agent-development-frameworks", "source": "Dust", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
-    {"title": "AI Dev Tool Rankings", "description": "Latest comparison of AI coding and developer productivity tools.", "url": "https://www.devteam.space/blog/the-best-ai-tools/", "source": "DevTeam.Space", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"}
+    {
+      "title": "GitHub Agentic Development App",
+      "description": "New GitHub tools at Microsoft Build 2026 enable agents to work seamlessly with developers.",
+      "url": "https://developer.microsoft.com/",
+      "source": "Microsoft",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+    },
+    {
+      "title": "Ktor Framework Updates",
+      "description": "JetBrains releases enhanced asynchronous server/client app building tools.",
+      "url": "https://www.jetbrains.com/products/",
+      "source": "JetBrains",
+      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
+    },
+    {
+      "title": "Top AI Tools 2026 Guide",
+      "description": "Synthesia highlights 12 best AI tools in actual daily use for video, automation and apps.",
+      "url": "https://www.synthesia.io/post/ai-tools",
+      "source": "Synthesia",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "Key AI Regulations 2026", "description": "SB 942 and EU AI Act enforcement deadlines shift into 2027-2028.", "url": "https://www.eliassen.com/blog/key-ai-regulations-to-watch-in-2026", "source": "Eliassen Group", "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"},
-    {"title": "Global AI Compliance Delayed", "description": "High-risk AI rules postponed for technical standards finalization.", "url": "https://www.onetrust.com/blog/where-ai-regulation-is-heading-in-2026-a-global-outlook/", "source": "OneTrust", "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"}
+    {
+      "title": "AI Regulation Momentum Builds",
+      "description": "Reuters covers global AI ethics, business impact and regulatory developments.",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+    },
+    {
+      "title": "AI Weekly Newsletter Growth",
+      "description": "AI Weekly delivers curated news to 44,000+ professionals three times weekly.",
+      "url": "https://aiweekly.co/",
+      "source": "AI Weekly",
+      "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=60"
+    },
+    {
+      "title": "Big Tech AI Moves",
+      "description": "TechCrunch tracks latest machine learning advances and ethical AI issues.",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+    }
   ],
   "oss": [
-    {"title": "Open-Source AI Roundup June 2026", "description": "New models, agents and papers highlight architectural diversification.", "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026", "source": "Devflokers", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
-    {"title": "GLM-5 Tops Benchmarks", "description": "New open model leads SWE-bench and Chatbot Arena rankings.", "url": "https://llm-stats.com/leaderboards/open-llm-leaderboard", "source": "LLM Stats", "image_url": "https://images.unsplash.com/photo-1531746790731-6c087671e931?w=600&q=60"}
+    {
+      "title": "Hugging Face 2M+ Models Milestone",
+      "description": "Over 2.2 million models hosted; 80% downloads from top 50 entities in 2026.",
+      "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "Hugging Face June 2026 Updates",
+      "description": "Latest product releases, release notes and changelog summarized for the platform.",
+      "url": "https://releasebot.io/updates/huggingface",
+      "source": "Releasebot",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "Open Source AI Dominance",
+      "description": "Hugging Face Hub becomes default for open-weight models with 2.2B downloads.",
+      "url": "https://huggingface.co/",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b01?w=600&q=60"
+    }
   ]
 }
