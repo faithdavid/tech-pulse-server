@@ -1,221 +1,151 @@
 {
   "ai": [
     {
-      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-      "description": "",
+      "title": "Meta\u2019s Edits app is getting an AI assistant and a desktop version",
+      "description": "By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention.",
+      "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
+    },
+    {
+      "title": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
+      "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
+    },
+    {
+      "title": "Pool\u2019s new app turns your screenshots into something useful",
+      "description": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
+    },
+    {
+      "title": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
+      "description": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
       "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
       "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
-    },
-    {
-      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
-    },
-    {
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
-    },
-    {
-      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
-    },
-    {
-      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-      "description": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
-      "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-      "source": "Wired",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
-      "description": "",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
+    },
+    {
+      "title": "SpaceX SPV investors won\u2019t know their true holdings until post-IPO lock-ups lift",
+      "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
+      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
+    },
+    {
+      "title": "Quantum Space\u2019s military SPAC is trying to catch SpaceX\u2019s IPO wave",
+      "description": "Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.",
       "url": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
+      "description": "SpaceX alumni Andrew Redd is betting the ocean has vast amounts of untapped geothermal energy.",
+      "url": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
       "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
-    },
-    {
-      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
-    },
-    {
-      "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
-    },
-    {
-      "title": "<![CDATA[Amazon’s data centers used 2.5 billion gallons of water last year]]>",
-      "description": "",
-      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-      "source": "The Verge",
-      "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
-    },
-    {
-      "title": "<![CDATA[Elon Musk is encouraging race riots on the eve of SpaceX’s IPO]]>",
-      "description": "",
-      "url": "https://www.theverge.com/policy/948426/elon-musk-belfast-riots-anti-immigration",
-      "source": "The Verge",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "title": "Bluesky launches group chats, as company shifts focus to community features",
+      "description": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities.",
+      "url": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Alaskans will be flying blind after NSF decommissions ocean monitoring network",
-      "description": "",
-      "url": "https://arstechnica.com/science/2026/06/alaskans-will-be-flying-blind-after-nsf-decommissions-ocean-monitoring-network/",
-      "source": "Ars Technica",
+      "title": "Coinbase\u2019s new tool can help agents trade and pay for premium research",
+      "description": "Coinbase's agent can use x402 protocol to get access to data and APIs.",
+      "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "The Best E-Readers of 2026: Kobo, Kindle",
-      "description": "These WIRED-tested ebook readers let you take your library anywhere.",
-      "url": "https://www.wired.com/gallery/best-ereaders/",
-      "source": "Wired",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Peacock Promo Codes: 40% Off June 2026",
-      "description": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "source": "Wired",
-      "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
-    },
-    {
-      "title": "<![CDATA[Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment]]>",
-      "description": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four da",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat",
-      "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
-    },
-    {
-      "title": "<![CDATA[Show HN: Homebrew 6.0.0]]>",
-      "description": "Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user surve",
-      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "source": "Brew",
+      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+      "description": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
+      "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+      "description": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
+      "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "title": "These are the countries moving to ban social media for children",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "url": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
-      "description": "",
+      "title": "Microsoft taps Alt Carbon in sign of India\u2019s growing role in carbon removal",
+      "description": "Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures.",
       "url": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
-    },
-    {
-      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
-    },
-    {
-      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-      "description": "",
-      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "<![CDATA[FPS.cob: A first person shooter in COBOL]]>",
-      "description": "Article URL: https://github.com/icitry/FPS.cob\nComments URL: https://news.ycombinator.com/item?id=48491486\nPoints: 70\n# Comments: 38\n]]>",
-      "url": "https://github.com/icitry/FPS.cob",
-      "source": "GitHub",
-      "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
-    },
-    {
-      "title": "<![CDATA[Open Reproduction of DeepSeek-R1]]>",
-      "description": "Article URL: https://github.com/huggingface/open-r1\nComments URL: https://news.ycombinator.com/item?id=48489917\nPoints: 150\n# Comments: 15\n]]>",
-      "url": "https://github.com/huggingface/open-r1",
-      "source": "GitHub",
-      "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
-    },
-    {
-      "title": "<![CDATA[Emacs appearances in pop culture]]>",
-      "description": "Article URL: https://ianyepan.github.io/posts/emacs-in-pop-culture/\nComments URL: https://news.ycombinator.com/item?id=48474274\nPoints: 125\n# Comments: 16\n]]>",
-      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-      "source": "Ianyepan",
-      "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
-    },
-    {
-      "title": "<![CDATA[ITScape: Guest-to-Host Escape in KVM/ARM64 (CVE-2026-46316)]]>",
-      "description": "Article URL: https://seclists.org/oss-sec/2026/q2/877\nComments URL: https://news.ycombinator.com/item?id=48495241\nPoints: 2\n# Comments: 0\n]]>",
-      "url": "https://seclists.org/oss-sec/2026/q2/877",
-      "source": "Seclists",
-      "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
-    },
-    {
-      "title": "<![CDATA[Alpine Linux is a crazy-fast distro for your desktop - with just one caveat]]>",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
       "description": "",
-      "url": "https://www.zdnet.com/article/alpine-linux-crazy-fast-distro-for-your-desktop/",
-      "source": "ZDNet",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "Open Source Ecosystems",
+      "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
       "description": "",
-      "url": "https://www.oreilly.com/radar/open-source-ecosystems/",
-      "source": "O'Reilly",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
+    },
+    {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "description": "",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
+    },
+    {
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "description": "",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     }
   ]
