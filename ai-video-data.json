@@ -1,182 +1,182 @@
 {
   "filmschool": [
     {
-      "title": "The AI Arms Race Hits Film School",
-      "description": "Top programs like NYU Tisch are integrating generative AI tools such as Runway into curricula and labs as film schools race to teach next-gen production workflows.",
-      "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
-      "source": "No Film School",
+      "title": "AIF 2026 | AI Festival - Runway",
+      "description": "Originally established in 2022 with a focus on AI films, AIF has evolved into an interdisciplinary celebration of creatives experimenting at the forefront of art and technology. In Film, Design, New Media, Fashion, Advertising and Gaming.",
+      "url": "https://aif.runwayml.com/",
+      "source": "Aif",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "Confluence of Generative AI and the Art of Filmmaking",
-      "description": "SIGGRAPH DAC Sparks session explores how ControlNet-style tools and end-to-end workflows are reshaping independent filmmaking from pre-vis through post.",
-      "url": "https://dac.siggraph.org/sparks/2026-04-24_confluence-of-generative-ai-and-the-art-of-filmmaking/",
-      "source": "SIGGRAPH DAC",
+      "title": "Runway AI and Some NYU Tisch Schools Are Making a Deal",
+      "description": "April 10, 2026 - One of the country’s leading arts academies wants AI to be a key part of its offerings. NYU’s Tisch School of the Arts is cutting a deal with Runway AI to make AI credits and training available for free to students across a number of programs, including the Hypercinema Lab, a univer",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/nyu-film-school-runway-ai-tools-spike-lee-1236560902/",
+      "source": "Hollywoodreporter",
       "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "Which AI Video Generator Should Filmmakers Use in 2026?",
-      "description": "Hands-on comparison of Flora.ai, Runway, and peer platforms on quality, control, and pipeline fit for serious narrative and commercial work.",
-      "url": "https://stageandcinema.com/2026/05/22/ai-video-generator-for-filmmakers-2026/",
-      "source": "Stage & Cinema",
+      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI | TechCrunch",
+      "description": "The three met in 2016 while attending NYU’s ITP (Interactive Communications Program), a graduate program that Valenzuela described as an “art school for engineers.” · The co-founders had all aspired to be filmmakers at certain points in their lives, according to Matamala Ortiz. So Runway started wit",
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "source": "Techcrunch",
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "The Best AI Tools for Filmmakers (2026)",
-      "description": "FilmCrux roundup covers Higgsfield, Runway, OpenAI Sora, and workflow tips for directors moving from storyboard to generated footage.",
-      "url": "https://www.filmcrux.com/blog/ai-tools",
-      "source": "FilmCrux",
+      "title": "AI film school trains next generation of Hollywood moviemakers | Reuters",
+      "description": "February 14, 2026 - Curious Refuge's academy has become a training ground for Hollywood workers racing to adapt as AI reshapes production, fueling new career paths when some in the industry fear losing their jobs.",
+      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
+      "source": "Reuters",
       "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "OpenAI–Disney $1B Studio Licensing; Runway $315M; Luma $4B",
-      "description": "WaveSpeed’s 2026 industry digest flags blockbuster licensing, major fundraises, and platform shifts as generative video goes enterprise-scale.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
+      "title": "Runway Gen-4.5: Best-in-class AI video generation model",
+      "description": "Runway Gen-4.5 is the world's top-rated video model, offering unprecedented visual fidelity and creative control. It produces cinematic and highly realistic outputs while providing limitless creative freedom and precise control over every aspect of generation.",
+      "url": "https://runwayml.com/research/introducing-runway-gen-4.5",
+      "source": "Runwayml",
       "image_url": "https://images.unsplash.com/photo-1558494949-ef0d38d3f9e2?w=600&q=60"
     },
     {
-      "title": "Canal+ and Google Cloud Partner on Generative AI Production",
-      "description": "European broadcaster teams with Google Cloud and OpenAI to weave gen-AI into streaming and studio pipelines alongside digital-human platforms.",
-      "url": "https://www.precedenceresearch.com/generative-ai-in-the-media-and-entertainment-market",
-      "source": "Precedence Research",
+      "title": "Runway ML in 2026: Gen-4.5, World Models, and the New AI ...",
+      "description": "Apr 10, 2026 · Runway ML in 2026: Gen-4.5, World Models, and the New AI Video Landscape Runway ML started as the scrappy AI video tool that filmmakers discovered on YouTube. In 2026, it's something else entirely. With the launch of Gen-4.5, the unveiling of GWM-1 (its first general world model), a S",
+      "url": "https://deeka.ai/blog/runway-ml-2026",
+      "source": "Deeka",
       "image_url": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&q=60"
     },
     {
-      "title": "2026 Media & Entertainment Industry Outlook",
-      "description": "Deloitte notes AI-generated clips flooding social and OTT while slashing creation costs—forcing studios to rethink monetization and rights.",
-      "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/media-entertainment-industry-outlook.html",
-      "source": "Deloitte",
+      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+      "description": "TechCrunch profiles Runway’s pivot from NYU-born filmmaker tooling to competing with Google on frontier video models as Gen-4.5 and world-model research scale up.",
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=600&q=60"
     },
     {
-      "title": "Media in Motion: 2026 Entertainment Trends",
-      "description": "Platforms and majors embed AI in production experiments, personalization, and creator tooling as distribution models keep shifting.",
-      "url": "https://allthingsinsights.com/content/media-in-motion-what-2026-holds-for-entertainment-trends/",
-      "source": "All Things Insights",
+      "title": "OpenAI–Disney $1B Studio Licensing; Runway $315M; Luma $4B",
+      "description": "WaveSpeed’s 2026 industry digest flags blockbuster licensing, nine-figure fundraises, and platform shifts as generative video goes enterprise-scale.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
       "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Adobe Premiere & After Effects AI Upgrades (2026)",
-      "description": "Object Mask tracking, Firefly Boards in Premiere, and After Effects 26.0 motion-design boosts land as NLEs absorb generative assist.",
-      "url": "https://blog.adobe.com/en/publish/2026/01/20/new-ai-powered-video-editing-tools-premiere-major-motion-design-upgrades-after-effects",
-      "source": "Adobe Blog",
+      "title": "23 Best AI Video Generators for 2026 (Tested & Reviewed)",
+      "description": "May 28, 2026 · Discover the 22 best AI video generator apps and online tools for 2026. Read our hands-on reviews of YouCam Video, Google Veo, OpenAI Sora, Runway, and more to create stunning videos from text and images.",
+      "url": "https://www.perfectcorp.com/consumer/blog/video-editing/best-ai-video-generators",
+      "source": "Perfectcorp",
       "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
     },
     {
-      "title": "The 17 Best AI Video Generators in 2026",
-      "description": "Zapier’s tested stack spans creation, editing, and enhancement—useful map for teams picking a primary generator in 2026.",
-      "url": "https://zapier.com/blog/best-ai-video-generator/",
-      "source": "Zapier",
+      "title": "The Ten Best AI Video Generators in 2026: A Definitive Guide",
+      "description": "Apr 16, 2026 · This guide covers the ten most significant AI video generation models available in 2026 — the top five in depth, followed by five honorable mentions that serve important niches. It’s based on hands-on testing, published benchmarks, official documentation, and the experiences of profes",
+      "url": "https://kingy.ai/ai/the-ten-best-ai-video-generators-in-2026-a-definitive-guide/",
+      "source": "Kingy",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
+    },
+    {
+      "title": "13 Best AI Video Generators in 2026 (We Tested Them All: Free ...",
+      "description": "Feb 23, 2026 · Looking for the best AI video generator? We tested 13 tools in 2026. See which ones actually deliver real text-to-video, image-to-video, and 4K results.",
+      "url": "https://klyra.ai/public/blog/best-ai-video-generator-2026",
+      "source": "Klyra",
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Best AI Video Generators of 2026 (CNET)",
-      "description": "Reviews highlight Sora 2, Runway, and Veo 3.1 with native audio generation and notes on deprecated legacy Sora apps.",
-      "url": "https://www.cnet.com/tech/services-and-software/best-ai-video-generators/",
-      "source": "CNET",
-      "image_url": "https://images.unsplash.com/photo-1533750516457-a7f992d1b77e?w=600&q=60"
-    },
-    {
-      "title": "Top 10 AI Video Generators Tested & Compared",
-      "description": "Manus hands-on matrix scores prompt-to-video tools on quality, pricing, and physics realism for production-minded creators.",
+      "title": "Top 10 Best AI Video Generators of 2026 (Tested & Compared)",
+      "description": "Jan 14, 2026 · We tested 10 leading AI video generators in 2026 so you don't have to. Compare features, pricing, and quality to find your perfect match.",
       "url": "https://manus.im/blog/best-ai-video-generator",
       "source": "Manus",
-      "image_url": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "10 Faceless YouTube Shorts Niches Still Working in 2026",
-      "description": "Miraflow maps mini explainers in tech/AI/money and workflow channels using Text2Shorts and Veo 3 for rapid Shorts output.",
-      "url": "https://miraflow.ai/blog/faceless-youtube-shorts-ai-niches-2026",
-      "source": "Miraflow",
+      "title": "18 Best Faceless YouTube Niches in 2026 - fliki.ai",
+      "description": "Apr 4, 2026 · Discover the 18 best faceless YouTube niches in 2026 with real channel examples, earnings potential, and actionable tips to launch your own faceless channel.",
+      "url": "https://fliki.ai/blog/best-faceless-youtube-niches",
+      "source": "Fliki",
       "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
     },
     {
-      "title": "7 Low-Competition Faceless Niches AI Can Automate",
-      "description": "Stoic wisdom, micro-health facts, and “talking object” formats show high retention with near-full automation stacks.",
-      "url": "https://james-palm.medium.com/7-faceless-youtube-niches-with-almost-zero-competition-that-ai-can-completely-automate-in-2026-4f040fe5c08d",
-      "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
+      "title": "Best AI Niches for Faceless YouTube Channels (Data From 500 ...",
+      "description": "Feb 5, 2026 · Best AI Niches for Faceless YouTube Channels (Data From 500 Viral Videos) The secret data top faceless channels don't share: which niches hit monetization in 3 months vs 9, and why narrative formats crush generic lists.",
+      "url": "https://virvid.ai/blog/best-ai-niches-faceless-channels-2026",
+      "source": "Virvid",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "Vertical AI Startup Ideas for Industry Niches",
-      "description": "Presta outlines specialized video-adjacent AI plays in healthcare documentation, legal discovery, and manufacturing QC.",
-      "url": "https://wearepresta.com/vertical-ai-startup-ideas-2026-dominating-industry-specific-niches/",
-      "source": "Presta",
-      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=60"
+      "title": "Faceless YouTube Channels with AI: 2026… | AdCreate Blog",
+      "description": "Feb 19, 2026 · Faceless YouTube channels -- channels where the creator never appears on camera -- have exploded in popularity since 2023. But in 2026, the combination of AI video generation, AI voiceover, and automated editing tools has turned what was once a niche content strategy into one of the m",
+      "url": "https://adcreate.com/blog/faceless-youtube-channels-ai-creators-guide",
+      "source": "Adcreate",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "50+ Profitable YouTube Automation Niches",
-      "description": "OutlierKit catalog includes Technology & AI tutorials and creative-tool walkthroughs built for scalable AI video pipelines.",
-      "url": "https://outlierkit.com/blog/youtube-automation-niches",
-      "source": "OutlierKit",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "7 Faceless YouTube Niches That Will Explode in 2026",
+      "description": "Jan 17, 2026 · Shy on camera? Discover the 7 most profitable faceless YouTube niches for 2026. Learn how to automate 'Digital Horror,' 'AI News,' and 'Business Docs' using AI tools.",
+      "url": "https://www.stackedbuddy.com/7-faceless-youtube-niches-that-will-explode-in-2026/",
+      "source": "Stackedbuddy",
+      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "AI Video Generator Coupon Codes — Up to 65% Off",
-      "description": "Tenereteam lists verified June 2026 promo codes for subscription tiers on popular generator bundles.",
-      "url": "https://ai-video-generator-ai.tenereteam.com/coupons",
-      "source": "Tenereteam",
+      "title": "What's some budget-friendly, multi-purpose AI video generation ...",
+      "description": "Jun 6, 2025 · Runninghub.ai $15 a month for the pro plan and all the latest Wan video workflows. ... cheapest prices just go to the model creators and make a ...Best Low-Cost AI Video Generator : r/generativeAI - RedditWhat are the best free or low-cost AI video generators? : r/aitubers - RedditMore",
+      "url": "https://www.reddit.com/r/KlingAI_Videos/comments/1l4n0qx/whats_some_budgetfriendly_multipurpose_ai_video/",
+      "source": "Reddit",
       "image_url": "https://images.unsplash.com/photo-1607083206869-4c6d35b4c5f3?w=600&q=60"
     },
     {
-      "title": "GlobalGPT Studio: 50% Off + Bonus Credits",
-      "description": "Cyber-season style deal bundles multi-model access including Sora 2 and Veo 3.1 in one studio subscription.",
-      "url": "https://www.glbgpt.com/hub/best-ai-video-generator-cyber-monday-deals-2025/",
-      "source": "GlobalGPT",
-      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"
+      "title": "Kling AI Membership Plans | AI Video & Image Generation Pricing",
+      "description": "Discount only for the first subscription, cancel Anytime. 660 Credits per month. As low as $1 per 100 Credits. 660 images / 33 720p videos.",
+      "url": "https://kling.ai/app/membership/membership-plan",
+      "source": "Kling",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "Text-to-Video Lifetime Deals Guide 2026",
-      "description": "Digen.ai tracks one-time ~$80–$90 lifetime tiers combining video, image, and voice for bootstrapped creators.",
-      "url": "https://resource.digen.ai/text-to-video-ai-software-lifetime-deals-2026/",
-      "source": "Digen.ai",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Synthesia Pricing - Compare Free and Paid Plans",
+      "description": "Find a plan that's suitable for you and your team. See official Synthesia pricing for Basic, Starter, Creator and Enterprise plans.",
+      "url": "https://www.synthesia.io/pricing",
+      "source": "Synthesia",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Cheapest AI Video Generators: Plans from $7.99/mo",
-      "description": "Frameo compares budget stacks and notes up to 49% savings on annual plans for tools like Hailuo AI.",
-      "url": "https://frameo.ai/blog/cheapest-ai-video-generators/",
-      "source": "Frameo",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+      "title": "Pricing - Invideo AI",
+      "description": "4250 credits/mo. ... All paid plans include: Access to 200+ image, video, audio, music models including Seedance 2.0, Veo 3.1, Kling 3.0, Nano banana pro & ...",
+      "url": "https://invideo.io/pricing/",
+      "source": "Invideo",
+      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Runway AI Festival 2026 (AIF)",
-      "description": "Fourth annual festival spotlights finalist films and new-media works in virtual and NYC/LA gala screenings.",
+      "title": "AIF 2026 | AI Festival",
+      "description": "Welcome to Runway’s fourth annual AI Festival. Originally established in 2022 with a focus on AI films, AIF has evolved into an interdisciplinary celebration of creatives experimenting at the forefront of art and technology. In Film, Design, New Media, Fashion, Advertising and Gaming. Works showcase",
       "url": "https://aif.runwayml.com/",
-      "source": "Runway",
+      "source": "Aif",
       "image_url": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=600&q=60"
     },
     {
-      "title": "AI Global Film Festival | Lifeart",
-      "description": "2026 awards platform honors AI-generated cinema, digital art, and music with global jury recognition.",
-      "url": "https://festhome.com/en/festival/ai-global-film-festival-lifeart",
-      "source": "Festhome",
-      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
+      "title": "Runway AI Festival 2026 - AI Film Contests",
+      "description": "11 hours ago · Runway AI Festival 2026 Runway The world's largest AI film competition. Grand Prix $50K + 1M Runway credits. Films 3–15 min with generative video required. Screenings at Lincoln Center NYC and The Broad Stage LA.",
+      "url": "https://aifilmcontests.com/contests/runway-aif-2026",
+      "source": "Aifilmcontests",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "Artiver AI Film & Video Open Call",
-      "description": "2026 competition culminates in an in-person NYC exhibition for standout generative video and motion pieces.",
-      "url": "https://artiver.ai/",
-      "source": "Artiver",
-      "image_url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&q=60"
+      "title": "Runway AI Film Festival - festagent.com",
+      "description": "Years running: 5 (since 2022) Runway AI Film Festival AIFF is a celebration of the art and artists embracing AI tools for filmmaking.",
+      "url": "https://festagent.com/en/festivals/runwayai",
+      "source": "Festagent",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "PixVerse × UN AI for Good Film Festival 2026",
-      "description": "Partnership elevates AI storytelling in an international competition tied to the AI for Good Global Summit.",
-      "url": "https://aiforgood.itu.int/pixverse-partners-with-un-ai-for-good-global-summit-2026-and-film-festival/",
-      "source": "ITU AI for Good",
-      "image_url": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=600&q=60"
+      "title": "Runway Widens Scope Of Its Annual AI Festival Adding ...",
+      "description": "Jan 28, 2026 · The AI Film Festival is branching out to add categories like advertising, gaming, design and fashion, AI firm and festival organizer Runway said.",
+      "url": "https://deadline.com/2026/01/runway-ai-festival-adding-new-categories-1236700233/",
+      "source": "Deadline",
+      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ]
 }
