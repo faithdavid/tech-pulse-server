@@ -16,14 +16,14 @@
     },
     {
       "title": "Five flagship models in seven days reshape the model war",
-      "description": "Mid-March 2026 saw GPT-5.4, Claude Opus 4.6, DeepSeek V4, and Gemini 3.1 Pro land in one week—1T-parameter models at sharply lower inference cost.",
+      "description": "Mid-March 2026 saw GPT-5.4, Claude Opus 4.6, DeepSeek V4, and Gemini 3.1 Pro land in one week\u20141T-parameter models at sharply lower inference cost.",
       "url": "https://medium.com/@kankit570/the-march-2026-ai-model-war-why-intelligence-just-became-a-utility-586a0a6a0380",
       "source": "Medium",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
       "title": "2026 AI Index: industry owns 90%+ of frontier models",
-      "description": "Stanford HAI's March 2026 index reports the US–China performance gap narrowed, agent benchmarks near ~66% task success, and generative AI value at ~$172B annually.",
+      "description": "Stanford HAI's March 2026 index reports the US\u2013China performance gap narrowed, agent benchmarks near ~66% task success, and generative AI value at ~$172B annually.",
       "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
       "source": "Stanford HAI",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
@@ -121,7 +121,7 @@
   ],
   "oss": [
     {
-      "title": "Hugging Face State of Open Source — Spring 2026",
+      "title": "Hugging Face State of Open Source \u2014 Spring 2026",
       "description": "HF's spring 2026 report charts rising Chinese open-weight releases (DeepSeek-R1, Baidu, ByteDance, Tencent) and South Korean hub momentum.",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
@@ -136,7 +136,7 @@
     },
     {
       "title": "MiniMax-M2.5, GLM-5, Kimi K2.5 lead 2026 OSS LLM reviews",
-      "description": "Fireworks and peers benchmark February–2026 open releases including MiniMax-M2.5, GLM-5, and Kimi K2.5 with published HF model cards.",
+      "description": "Fireworks and peers benchmark February\u20132026 open releases including MiniMax-M2.5, GLM-5, and Kimi K2.5 with published HF model cards.",
       "url": "https://fireworks.ai/blog/best-open-source-llms",
       "source": "Fireworks AI",
       "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
