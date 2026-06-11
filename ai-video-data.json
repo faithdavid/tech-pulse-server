@@ -1,182 +1,168 @@
 {
   "filmschool": [
     {
-      "title": "Google Flow + Veo: AI filmmaking built around prompts, reference clips, and Flow TV prompt breakdowns",
-      "description": "Google's Flow creative studio pairs Veo video generation with Gemini prompting and a Flow TV showcase that reveals prompts and techniques creators can study and adapt for film-school style learning.",
+      "title": "Google Introduces Flow: AI Filmmaking Tool for Veo",
+      "description": "Google launches Flow, a custom AI filmmaking tool designed for its Veo model, enabling end-to-end video creation for creatives with seamless integration of Imagen and Gemini.",
       "url": "https://blog.google/innovation-and-ai/products/google-flow-veo-ai-filmmaking-tool/",
       "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
+    },
+    {
+      "title": "Best AI Filmmaking Tools in 2026: Melies, Kling, Flux & More",
+      "description": "Comprehensive guide to top AI tools for full film production pipeline from script to final cut, highlighting Melies as the leading all-in-one solution.",
+      "url": "https://melies.co/ai-filmmaking-tools",
+      "source": "Melies",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "Veo 3.1 Ingredients to Video adds richer dialogue, character consistency, and mobile-first creative controls",
-      "description": "Google upgraded Veo 3.1 Ingredients to Video so creators can turn reference images into expressive videos with stronger dialogue, backgrounds, and character continuity.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b4947b96080b?w=600&q=60"
+      "title": "10 Best AI Filmmaking Tools Ranked by Production Stage",
+      "description": "Ranking of tools across script, storyboard, image, video, voice, and export stages with real coverage of prices and capabilities for 2026 filmmakers.",
+      "url": "https://mstudio.ai/insights/best-ai-filmmaking-tools-2026",
+      "source": "MStudio",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "Google I/O 2026 used Gemini and Flow to prototype animations, sports action, and a short film",
-      "description": "Google shared how Gemini Omni, Veo, and Flow helped build I/O 2026 visuals, including generated animations and a short film concept starring TPUs preparing for heavy lifting.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1518134346220-42f74e9ba4f6?w=600&q=60"
-    },
-    {
-      "title": "Google Flow positions itself as an AI creative studio for cinematic video, images, and custom tools",
-      "description": "The Flow product page frames the platform as a hands-on creative workspace for transforming ideas into cinematic videos with Google's generative models.",
-      "url": "https://flow.google/",
-      "source": "Google Flow",
-      "image_url": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?w=600&q=60"
+      "title": "A Complete Guide to AI Filmmaking in 2026",
+      "description": "Covers the full AI filmmaking pipeline including pre-production storyboards, production scene generation, audio, editing, and export for cinematic content.",
+      "url": "https://www.imagine.art/blogs/ai-filmmaking-guide",
+      "source": "Imagine.art",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Meta and Reliance announce India's first Meta AI-enabled data center",
-      "description": "Meta will lease a Reliance AI-enabled data center in India, bringing AI infrastructure closer to one of its fastest-growing communities and supporting global AI compute needs.",
+      "title": "Meta Partners With Reliance on AI-Enabled Data Center in India",
+      "description": "Major expansion of strategic partnership for AI infrastructure supporting video and content platforms across the region.",
       "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india/",
-      "source": "Meta Newsroom",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "source": "Meta",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef0d38d3f9e2?w=600&q=60"
     },
     {
-      "title": "Runway partners with Getty Images for enterprise-ready AI video tooling",
-      "description": "Runway and Getty Images are building a Runway Getty Images Model that gives enterprise customers a licensed baseline for custom video-generation models and fine-tuning.",
-      "url": "https://runwayml.com/blog/runway-partners-with-getty-images/",
-      "source": "Runway",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "YouTube 2026: AI Safeguards, Parental Controls, and Reinventing TV",
+      "description": "Neal Mohan's letter outlines major platform updates including enhanced AI features and content protections for the video ecosystem.",
+      "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/",
+      "source": "YouTube Blog",
+      "image_url": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&q=60"
     },
     {
-      "title": "Amazon MGM Studios greenlights AI series through its GenAI Creators' Fund",
-      "description": "Amazon MGM Studios unveiled a GenAI Creators' Fund with funding and AI production tools on AWS, including new AI-series deals from established producers.",
-      "url": "https://variety.com/2026/film/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&q=60"
+      "title": "Meta 2026: AI Drives Performance Across Apps",
+      "description": "AI enhancements fuel business value and performance in Meta's platforms, impacting video content distribution and creation.",
+      "url": "https://about.fb.com/news/2026/01/2026-ai-drives-performance/",
+      "source": "Meta",
+      "image_url": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=600&q=60"
     },
     {
-      "title": "Real-time AI video startup Reactor raises $59M from WndrCo and others",
-      "description": "Reactor, founded by ex-Apple engineers, raised $59M to push real-time AI video workflows for interactive and production-scale creative teams.",
-      "url": "https://variety.com/2026/digital/news/reactor-real-time-ai-video-funding-jeffrey-katzenberg-1236755883/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "AI Face Swap and Deepfake Concerns Rise on Platforms",
+      "description": "Political figures report fake AI video ads on X, highlighting ongoing platform challenges with verification and content moderation.",
+      "url": "https://www.bbc.com/news/articles/cewq1w7r0zgo",
+      "source": "BBC",
+      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Google launches Veo 3.1 Lite for lower-cost, high-volume AI video generation",
-      "description": "Veo 3.1 Lite is positioned for builders needing faster, cheaper text-to-video and image-to-video generation with landscape and portrait outputs.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afd409203121?w=600&q=60"
+      "title": "The 17 Best AI Video Generators in 2026",
+      "description": "Zapier tested dozens of tools; top picks for creating, editing, and enhancing videos with the latest models like Veo, Runway Gen-4.5, and more.",
+      "url": "https://zapier.com/blog/best-ai-video-generator/",
+      "source": "Zapier",
+      "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
     },
     {
-      "title": "Kling Video 3.0 introduces AI Director, native audio, multi-shot composition, and 15-second output",
-      "description": "Kling's Video 3.0 update adds automated multi-shot composition, complex camera moves, synchronized multilingual sound, and stronger text rendering for creator workflows.",
-      "url": "https://klingai.com/blog/kling-video-3-0-ai-director-features-guide",
+      "title": "AI Video Tools in 2026: Complete Creator’s Guide",
+      "description": "Text-to-video quality leaps with Veo and Runway; AI integration into Premiere Pro and DaVinci Resolve becomes standard production infrastructure.",
+      "url": "https://pixflow.net/blog/ai-video-tools-in-2026/",
+      "source": "Pixflow",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
+    },
+    {
+      "title": "26 Best AI Tools For Video Creation in 2026",
+      "description": "Comprehensive list delivering lifelike AI videos at fraction of traditional time and cost, with practical examples.",
+      "url": "https://officechai.com/learn/ai-tools-for-video-creation/",
+      "source": "OfficeChai",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+    },
+    {
+      "title": "Kling AI: Next-Generation Creative Studio",
+      "description": "Advanced AI video platform pushing cinematic boundaries, used by artists for innovative VFX-blended content and filmmaking.",
+      "url": "https://kling-ai.vercel.app/global/",
       "source": "Kling AI",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
-    },
-    {
-      "title": "Pika adds MCP and agent-style workflows for AI video creation",
-      "description": "Pika's updated platform emphasizes agents, workflow automation, trend creation, and model access for creators and developers.",
-      "url": "https://pika.art/",
-      "source": "Pika",
-      "image_url": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=600&q=60"
-    },
-    {
-      "title": "Runway's AI video stack keeps expanding with enterprise licensing and custom model pathways",
-      "description": "Runway's Getty Images partnership points toward enterprise-grade licensed models, custom fine-tuning, and more controlled video-generation pipelines.",
-      "url": "https://runwayml.com/blog/runway-partners-with-getty-images/",
-      "source": "Runway",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "A2E AI catalogs video use cases for education, product demos, avatars, training, and campaigns",
-      "description": "A2E's use-case pages highlight practical vertical applications, including AI video for education, talking photos, training content, and social media campaigns.",
-      "url": "https://a2e.ai/use-cases/",
-      "source": "A2E AI",
-      "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=60"
-    },
-    {
-      "title": "AI product video becomes a scalable ecommerce funnel tactic",
-      "description": "New ecommerce guides show AI video being used to create product demos, ad variations, and conversion-focused clips from product images and brief prompts.",
-      "url": "https://resource.digen.ai/text-to-video-ai-for-ecommerce-products-2026-guide/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"
-    },
-    {
-      "title": "AI video for real estate moves from listing photos to cinematic property reels",
-      "description": "Real-estate marketing guides show agents using AI to turn property photos into short-form reels, listing videos, and brand-building social clips.",
-      "url": "https://agenttechtools.com/ai-video-for-real-estate-guide/",
-      "source": "Agent Tech Tools",
-      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=60"
-    },
-    {
-      "title": "AI video is becoming core infrastructure for Reels and TikTok content",
-      "description": "Vertical-video guides argue that AI generation and enhancement are now central to fast-moving short-form content workflows on Reels and TikTok.",
+      "title": "AI Video for Instagram Reels and TikTok in 2026",
+      "description": "One in three top-performing Reels now AI-generated; guide to models and techniques for creating viral vertical short-form content.",
       "url": "https://gensta.ai/blog/ai-video-reels-tiktok/",
       "source": "Gensta",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1611162618071-b45e8b0b4e0e?w=600&q=60"
+    },
+    {
+      "title": "Vertical AI Agents and Industry-Specific Video Applications",
+      "description": "2026 sees rise of purpose-built vertical AI for sectors like customer service, with video analytics and multi-modal systems in key niches.",
+      "url": "https://actgsys.com/en/blog/vertical-ai-agents-industry-specific-2026",
+      "source": "ACTGSYS",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef0d38d3f9e2?w=600&q=60"
+    },
+    {
+      "title": "AI in Video Analytics for Surveillance and Events",
+      "description": "Real-time event detection, tracking, and industry-specific applications using AI video processing across multiple sectors.",
+      "url": "https://thenewviews.com/artificial-intelligence-project-ideas/",
+      "source": "TheNewViews",
+      "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Runway pricing starts at $12/month with free, Standard, Pro, and Max plans",
-      "description": "Runway's current pricing page lists flexible AI image and video plans with credits and features for individual creators and teams.",
-      "url": "https://runwayml.com/pricing",
-      "source": "Runway",
-      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
+      "title": "Vidnoz Image to Video AI: Free Daily Generation",
+      "description": "No login required for one free high-quality image-to-video generation per day, encouraging consistent creative use.",
+      "url": "https://www.vidnoz.com/image-to-video-ai.html",
+      "source": "Vidnoz",
+      "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
     },
     {
-      "title": "Synthesia pricing starts from $18/month and highlights time and budget savings",
-      "description": "Synthesia's pricing pages promote plans for Basic, Starter, Creator, and Enterprise teams, with claims of large production time and budget savings.",
-      "url": "https://www.synthesia.io/pricing",
-      "source": "Synthesia",
-      "image_url": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=600&q=60"
+      "title": "Suno Coupon: 20% Off + 250 Free Credits",
+      "description": "Special deal for AI music and audio tools that pair perfectly with video generation projects in 2026.",
+      "url": "https://affiliateweapons.com/affiliate-tools/suno/",
+      "source": "Suno",
+      "image_url": "https://images.unsplash.com/photo-1511376777868-611b54f68947?w=600&q=60"
     },
     {
-      "title": "HeyGen offers creator and team pricing for AI avatars, localization, and video APIs",
-      "description": "HeyGen's pricing and API pages position the platform for creators and businesses creating avatar videos, translations, and scalable video APIs.",
-      "url": "https://www.heygen.com/pricing",
-      "source": "HeyGen",
-      "image_url": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=600&q=60"
-    },
-    {
-      "title": "Descript pricing starts free with paid creator and team plans from $16/month",
-      "description": "Descript's pricing page frames its AI video and podcast editor as free to start, with paid plans for podcasting, video, and team collaboration.",
-      "url": "https://www.descript.com/pricing",
-      "source": "Descript",
-      "image_url": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=600&q=60"
+      "title": "Multiple Free AI Video Generators Available",
+      "description": "Tools like Fotor, Pollo AI, and Pixelbin offer free text-to-video and image-to-video with no signup, ideal for testing new ideas.",
+      "url": "https://www.fotor.com/ai-video-generator/",
+      "source": "Fotor / Pollo",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Runway AI Film Festival 2026 spotlights creators experimenting with art and technology",
-      "description": "The AI Film Festival has evolved into an interdisciplinary showcase for artists and filmmakers using AI across storytelling, design, and technology.",
-      "url": "https://aif.runwayml.com/",
-      "source": "Runway AI Film Festival",
-      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600&q=60"
+      "title": "Kling AI Artist Showcase: Elley duhè - Free Me",
+      "description": "Content creator with 360k+ followers uses Kling daily to create highly cinematic AI + VFX blended art and music videos.",
+      "url": "https://kling-ai.vercel.app/global/",
+      "source": "Kling AI",
+      "image_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=60"
     },
     {
-      "title": "LifeArt Festival AI Award celebrates AI-generated films, digital art, and enhanced post-production",
-      "description": "LifeArt's AI Award category recognizes creative excellence in AI films, digital art, and AI-assisted production workflows.",
-      "url": "https://www.lifeartfestival.com/ai",
-      "source": "LifeArt Festival",
-      "image_url": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=60"
+      "title": "Hailuo AI Creative Demos: Cute Kid Bed Hand Dance",
+      "description": "Stunning AI-generated videos from text and images demonstrating high-quality motion and character consistency.",
+      "url": "https://hailuoai.video/",
+      "source": "Hailuo AI",
+      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     },
     {
-      "title": "One More Shot automates AI music videos from songs, styles, and scene-by-scene project edits",
-      "description": "One More Shot lets creators upload music, choose a style, and generate fully synced AI music videos with project-level scene control.",
-      "url": "https://www.onemoreshot.ai/",
-      "source": "One More Shot",
-      "image_url": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=600&q=60"
+      "title": "Gemini Omni Conversational Video Creations",
+      "description": "Chat-based video and image generation with iterative refinement, showcasing conversational AI as creative filmmaking partner.",
+      "url": "https://geminomni.com/",
+      "source": "Gemini Omni",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Mootion highlights AI art and design showcases for cinematic storytelling",
-      "description": "Mootion's showcase collection points creators toward AI-generated art videos, cinematic storytelling examples, and design-forward motion workflows.",
-      "url": "https://www.mootion.com/use-cases/en/collection/top-ai-videos-for-art-and-design-showcases",
-      "source": "Mootion",
-      "image_url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=600&q=60"
+      "title": "OpenArt AI: Cinematic Videos up to 4K",
+      "description": "Experimentation with multiple top models (Veo, Kling, Sora) to produce stunning cinematic and artistic video art.",
+      "url": "https://openart.ai/",
+      "source": "OpenArt",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ]
 }
