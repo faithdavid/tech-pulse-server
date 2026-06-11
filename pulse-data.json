@@ -1,117 +1,152 @@
 {
   "ai": [
     {
-      "title": "Gemini 3.1 Pro Released",
-      "description": "Google unveils Gemini 3.1 Pro with major intelligence upgrades for consumer and developer apps.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "source": "Google Blog",
+      "title": "Claude Fable 5 and Claude Mythos 5 launch",
+      "description": "Anthropic launched Claude Fable 5, a Mythos-class model generally available June 9, 2026, with state-of-the-art results across software engineering, vision, scientific research and knowledge work.",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "source": "Anthropic",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    },
+    {
+      "title": "OpenAI model disproves 80-year-old geometry conjecture",
+      "description": "OpenAI reported that one of its models solved the unit distance problem in discrete geometry, overturning a conjecture that had stood for roughly 80 years.",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "source": "OpenAI",
+      "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&q=60"
+    },
+    {
+      "title": "Google DeepMind highlights Gemini 3.5 Live Translate and Gemma 4 12B",
+      "description": "Google DeepMind's June 2026 model updates include fluid voice translation and Gemma 4 12B, a unified encoder-free multimodal model for responsible AI applications.",
+      "url": "https://deepmind.google/",
+      "source": "Google DeepMind",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "EVA-Bench Data 2.0 Launched",
-      "description": "ServiceNow-AI releases comprehensive evaluation framework for enterprise AI safety and predictability.",
-      "url": "https://dev.to/vjswamy/latest-ai-model-releases-june-2026-roundup-49j5",
-      "source": "DEV Community",
+      "title": "arXiv benchmark evaluates frontier LLM research agents",
+      "description": "The June 5, 2026 paper 'Act As a Real Researcher' introduces a benchmark suite for evaluating frontier LLMs and agentic harnesses across the research lifecycle.",
+      "url": "https://arxiv.org/abs/2606.07462",
+      "source": "arXiv",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "DeepMind Gemini for Science",
-      "description": "New AI experiments and tools announced for scientific discovery era.",
-      "url": "https://deepmind.google/research/",
-      "source": "DeepMind",
-      "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "$23.26B AV Investment in 2026",
-      "description": "AI and AV funding hits record $23.26B in first four months; humanoid robotics projected $20B+.",
-      "url": "https://aifundingtracker.com/top-50-ai-startups/",
-      "source": "AI Funding Tracker",
+      "title": "Anthropic files to go public after $65B raise",
+      "description": "TechCrunch reported Anthropic's confidential IPO filing on June 1, 2026, less than a week after a $65B Series H round that pushed the company to a $965B post-money valuation.",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Etched.ai Raises $500M",
-      "description": "Chips for AI superintelligence startup reaches $5B valuation in latest round.",
-      "url": "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/",
-      "source": "Crunchbase",
+      "title": "Cognition raises $1B at $25B pre-money valuation",
+      "description": "The Devin maker raised more than $1B, reaching a $25B pre-money valuation and $26B post-money valuation as autonomous software engineering capital keeps compounding.",
+      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "Eclipse $1.3B Fund",
-      "description": "New fund targets physical AI, manufacturing and defense sectors.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
-      "source": "AI Funding Tracker",
+      "title": "Coralogix raises $200M for AI-agent monitoring",
+      "description": "Coralogix raised $200M in a round that valued the observability startup at $1.6B post-money, positioning it as a monitoring layer for AI agents.",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+    },
+    {
+      "title": "Sandstone raises $30M for AI legal teams",
+      "description": "Sandstone announced a $30M Series A on June 9, 2026 to bring AI tools to in-house legal teams and automate legal workflow discovery.",
+      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "GitHub Agentic Development App",
-      "description": "New GitHub tools at Microsoft Build 2026 enable agents to work seamlessly with developers.",
-      "url": "https://developer.microsoft.com/",
-      "source": "Microsoft",
+      "title": "GitHub Copilot SDK becomes generally available",
+      "description": "GitHub made Copilot SDK generally available on June 2, 2026, letting teams embed Copilot's agentic engine into apps, services and developer tools through a stable API.",
+      "url": "https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/",
+      "source": "GitHub",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
+    },
+    {
+      "title": "GitHub Copilot app expands to all Copilot tiers",
+      "description": "GitHub expanded technical preview availability for its agent-native Copilot app across Copilot Pro, Pro+, Business and Enterprise customers on June 2, 2026.",
+      "url": "https://github.blog/changelog/2026-06-02-expanded-technical-preview-availability-for-the-github-copilot-app/",
+      "source": "GitHub",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Ktor Framework Updates",
-      "description": "JetBrains releases enhanced asynchronous server/client app building tools.",
-      "url": "https://www.jetbrains.com/products/",
-      "source": "JetBrains",
-      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
+      "title": "Vercel AI SDK 6 adds reusable agents",
+      "description": "Vercel's AI SDK 6 introduces an Agent abstraction for reusable agents with model, instructions and tools, plus type-safe UI streaming and structured outputs.",
+      "url": "https://vercel.com/blog/ai-sdk-6",
+      "source": "Vercel",
+      "image_url": "https://images.unsplash.com/photo-1517694712202-20b9a50d7872?w=600&q=60"
     },
     {
-      "title": "Top AI Tools 2026 Guide",
-      "description": "Synthesia highlights 12 best AI tools in actual daily use for video, automation and apps.",
-      "url": "https://www.synthesia.io/post/ai-tools",
-      "source": "Synthesia",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "Microsoft Build 2026 ships open trust stack for agents",
+      "description": "Microsoft highlighted open evaluations, portable runtime controls, production observability and security workflows for building trustworthy AI agents across frameworks.",
+      "url": "https://devblogs.microsoft.com/foundry/build-2026-open-trust-stack-ai-agents/",
+      "source": "Microsoft",
+      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc57a1?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "AI Regulation Momentum Builds",
-      "description": "Reuters covers global AI ethics, business impact and regulatory developments.",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "title": "EU targets Big Tech dependence with made-in-Europe drive",
+      "description": "Reuters reported that the European Commission proposed laws on June 3, 2026 to boost domestic cloud, AI and semiconductor industries while reducing reliance on U.S. Big Tech.",
+      "url": "https://www.reuters.com/business/eu-targets-big-tech-dependence-with-made-in-europe-drive-2026-06-03/",
       "source": "Reuters",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "AI Weekly Newsletter Growth",
-      "description": "AI Weekly delivers curated news to 44,000+ professionals three times weekly.",
-      "url": "https://aiweekly.co/",
-      "source": "AI Weekly",
-      "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=60"
+      "title": "U.S. House draft would block state AI regulation",
+      "description": "Reuters reported on June 4, 2026 that bipartisan U.S. House lawmakers released draft legislation to prohibit states from regulating AI development and deployment.",
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=60"
     },
     {
-      "title": "Big Tech AI Moves",
-      "description": "TechCrunch tracks latest machine learning advances and ethical AI issues.",
-      "url": "https://techcrunch.com/category/artificial-intelligence/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "AI leaders call for protections against AI-aided bioweapons",
+      "description": "The Verge reported that AI leaders sent an open letter to U.S. lawmakers pressing for rules to close biosecurity gaps from AI-assisted biological weapons work.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+      "source": "The Verge",
+      "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&q=60"
+    },
+    {
+      "title": "Seattle weighs data-center moratorium as Amazon employees ask for brakes",
+      "description": "The Verge reported that Seattle's city council is considering a one-year moratorium on new data centers after Amazon employees asked officials to slow AI infrastructure growth.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
+      "source": "The Verge",
+      "image_url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face 2M+ Models Milestone",
-      "description": "Over 2.2 million models hosted; 80% downloads from top 50 entities in 2026.",
-      "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
+      "title": "Cohere releases North Mini Code on Hugging Face",
+      "description": "Cohere Labs released North Mini Code on June 9, 2026: a 30B-parameter mixture-of-experts model with 3B active parameters under Apache 2.0 for agentic coding.",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+    },
+    {
+      "title": "Google introduces Gemini CLI open-source AI agent",
+      "description": "Google announced Gemini CLI on June 4, 2026 as an open-source AI agent that brings Gemini capabilities directly into the terminal for developers.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-cli-open-source-ai-agent/",
+      "source": "Google",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "Gemma 4 12B joins the open-source ecosystem",
+      "description": "Google DeepMind's Gemma 4 12B is positioned as a unified, encoder-free multimodal model with open ecosystem integrations for on-device and cloud AI apps.",
+      "url": "https://huggingface.co/blog/gemma4",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Hugging Face June 2026 Updates",
-      "description": "Latest product releases, release notes and changelog summarized for the platform.",
-      "url": "https://releasebot.io/updates/huggingface",
-      "source": "Releasebot",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "Open Source AI Dominance",
-      "description": "Hugging Face Hub becomes default for open-weight models with 2.2B downloads.",
-      "url": "https://huggingface.co/",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b01?w=600&q=60"
+      "title": "Ollama 0.30 improves local model performance",
+      "description": "Ollama 0.30 shipped June 5, 2026 with improved performance and GGUF model compatibility through llama.cpp for faster local inference workflows.",
+      "url": "https://ollama.com/blog",
+      "source": "Ollama",
+      "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
     }
   ]
 }
