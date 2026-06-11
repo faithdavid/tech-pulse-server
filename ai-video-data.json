@@ -1,31 +1,31 @@
 {
   "filmschool": [
     {
-      "title": "Runway AI and Some NYU Tisch Schools Are Making a Deal",
-      "description": "NYU Tisch School of the Arts partners with Runway AI to offer free AI credits and training across programs including the Hypercinema Lab, embedding generative video into film-school curricula.",
+      "title": "Some NYU Film Students Will Now Be Given Tools to Make Movies With AI (Exclusive)",
+      "description": "The Hollywood Reporter reports NYU Tisch expanding Runway partnerships so students get AI credits and training across programs including the Hypercinema Lab.",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/nyu-film-school-runway-ai-tools-spike-lee-1236560902/",
       "source": "Hollywood Reporter",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+    },
+    {
+      "title": "USC to NYU: AI's Stealth Film School Takeover Has Begun",
+      "description": "The Ankler traces how elite film schools are embedding generative video into curricula and production labs faster than guild negotiations can keep pace.",
+      "url": "https://theankler.com/p/usc-nyu-ai-film-school-takeover",
+      "source": "The Ankler",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
       "title": "AI film school trains next generation of Hollywood moviemakers",
       "description": "Reuters profiles Curious Refuge's academy as a training ground for Hollywood workers adapting as AI reshapes production and opens new career paths.",
       "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
       "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
-    },
-    {
-      "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
-      "description": "TechCrunch covers Runway leadership's thesis that smaller AI-assisted productions could replace single nine-figure tentpoles for studios exploring volume strategies.",
-      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Imax and Runway AI Sign a Film Festival Deal",
-      "description": "The Hollywood Reporter reports Imax partnering with Runway on festival exhibition, signaling theatrical interest in AI-native short and feature work.",
-      "url": "https://www.hollywoodreporter.com/business/business-news/imax-runway-ai-film-festival-deal-1236560000/",
-      "source": "Hollywood Reporter",
+      "title": "Runway News | Runway Expands Collaboration with NYU Tisch School of the Arts",
+      "description": "Runway formalizes deeper NYU Tisch integration—free credits, workshops, and festival pipelines for student AI-native filmmaking.",
+      "url": "https://runwayml.com/news/runway-expands-collaboration-with-nyu-tisch-school-of-the-arts",
+      "source": "Runway",
       "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ],
@@ -45,17 +45,17 @@
       "image_url": "https://images.unsplash.com/photo-1558494949-ef0d38d3f9e2?w=600&q=60"
     },
     {
-      "title": "Chinese AI groups pull ahead of US rivals in video generation race",
-      "description": "Financial Times analysis argues Chinese labs are shipping faster iteration on text-to-video quality and cost, pressuring US incumbents on benchmarks and pricing.",
-      "url": "https://www.ft.com/content/chinese-ai-video-generation-2026",
-      "source": "Financial Times",
+      "title": "Google Signals AI Video's Shift From Clip Generation To Production",
+      "description": "Forbes argues Google's Veo and workflow integrations push generative video from one-off clips toward full production pipelines for brands and studios.",
+      "url": "https://www.forbes.com/sites/google-ai-video-production-shift/",
+      "source": "Forbes",
       "image_url": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=600&q=60"
     },
     {
-      "title": "AI-powered Video Generator Market Size | CAGR of 23.5%",
-      "description": "Market.us sizes the global AI video generator market with 23.5% CAGR through the decade as marketing, entertainment, and enterprise adoption accelerate.",
-      "url": "https://market.us/report/ai-powered-video-generator-market/",
-      "source": "Market.us",
+      "title": "Lionsgate Takes Equity Stake in Runway, Enables AI Shorts",
+      "description": "Let's Data Science covers Lionsgate investing in Runway to co-develop AI short-form content and tooling tied to its IP library.",
+      "url": "https://www.letsdatascience.com/news/lionsgate-runway-ai-shorts",
+      "source": "Let's Data Science",
       "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
     }
   ],
@@ -68,24 +68,24 @@
       "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
     },
     {
-      "title": "Best AI Video Generator Tools 2026: Tested, Ranked & Compared",
-      "description": "Memeburn publishes a June 2026 matrix of generators by use case—ads, social, explainers—with quality notes and workflow fit for creators.",
-      "url": "https://memeburn.com/2026/06/best-ai-video-generator-tools-2026/",
-      "source": "Memeburn",
+      "title": "Introducing Gemini Omni",
+      "description": "Google's blog unveils Gemini Omni multimodal capabilities that bundle faster reasoning with creative tooling relevant to video and asset pipelines.",
+      "url": "https://blog.google/technology/ai/gemini-omni/",
+      "source": "Google Blog",
       "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "Is AKOOL's Agentic Canvas a Game Changer for AI Video Production",
-      "description": "Kavout examines AKOOL's agentic canvas for chaining shots, assets, and edits in one workspace aimed at marketing and brand video teams.",
-      "url": "https://www.kavout.com/market-lens/news/akool-agentic-canvas-ai-video",
-      "source": "Kavout",
+      "title": "NVIDIA and ComfyUI Streamline Local AI Video Generation for Game Developers and Creators at GDC",
+      "description": "NVIDIA pairs ComfyUI workflows with local GPU stacks so game and creator teams can run controllable generative video on-prem at GDC demos.",
+      "url": "https://blogs.nvidia.com/blog/comfyui-local-ai-video-gdc/",
+      "source": "NVIDIA Blog",
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Nanobanana.co Expands Into a Full-Stack AI Image and Video Creation Platform",
-      "description": "Nanobanana bundles image and video models in one creator stack, targeting solo operators who want unified credits and templates.",
-      "url": "https://www.24-7pressrelease.com/press-release/521234/nanobanana-full-stack-ai-video",
-      "source": "24-7 Press Release",
+      "title": "Research-Based Evaluation: Why Intellemo AI Is the Best AI Video Generation Platform",
+      "description": "Yahoo Finance syndicates a vendor comparison pitching Intellemo for performance marketers evaluating ROI on generative ad video.",
+      "url": "https://finance.yahoo.com/news/intellemo-ai-video-platform-evaluation-113500123.html",
+      "source": "Yahoo Finance",
       "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ],
@@ -105,18 +105,18 @@
       "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "How AI Music Video Generators Are Transforming Music Marketing",
-      "description": "The AI Journal tracks labels and indie artists using generative video for release campaigns, lyric visuals, and social cutdowns at lower cost.",
-      "url": "https://aijourn.com/ai-music-video-generators-marketing-2026/",
-      "source": "The AI Journal",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
-    },
-    {
-      "title": "How to Turn Images into Animated Videos with AI: A Filmora Guide",
-      "description": "Hackread walks through Wondershare Filmora's image-to-video pipeline for creators upgrading still assets into motion content.",
+      "title": "How to Turn Images into Animated Videos with AI: A Wondershare Filmora Guide",
+      "description": "Hackread walks through Filmora's image-to-video pipeline for creators upgrading still assets into motion content.",
       "url": "https://hackread.com/filmora-ai-image-to-video-guide/",
       "source": "Hackread",
       "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
+    },
+    {
+      "title": "Ash Koosha Debuts All-AI Film at Tribeca Festival",
+      "description": "Let's Data Science spotlights an entirely AI-generated feature premiere at Tribeca, signaling festival appetite for experimental generative cinema.",
+      "url": "https://www.letsdatascience.com/news/ash-koosha-ai-film-tribeca",
+      "source": "Let's Data Science",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     }
   ],
   "offers": [
@@ -142,11 +142,11 @@
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Research-Based Evaluation: Why Intellemo AI Is the Best AI Video Generation Platform",
-      "description": "Yahoo Finance syndicates a vendor comparison pitching Intellemo for performance marketers evaluating ROI on generative ad video.",
-      "url": "https://finance.yahoo.com/news/intellemo-ai-video-platform-evaluation-113500123.html",
-      "source": "Yahoo Finance",
-      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
+      "title": "AI-powered Video Generator Market Size | CAGR of 23.5%",
+      "description": "Market.us sizes the global AI video generator market with 23.5% CAGR through the decade as marketing, entertainment, and enterprise adoption accelerate.",
+      "url": "https://market.us/report/ai-powered-video-generator-market/",
+      "source": "Market.us",
+      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
     }
   ],
   "inspire": [
@@ -172,10 +172,10 @@
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "AIF 2026 | AI Festival",
-      "description": "Runway's fourth annual AI Festival celebrates interdisciplinary work across film, design, new media, fashion, advertising, and gaming.",
-      "url": "https://aif.runwayml.com/",
-      "source": "Runway AIF",
+      "title": "Imax and Runway AI Sign a Film Festival Deal",
+      "description": "The Hollywood Reporter reports Imax partnering with Runway on festival exhibition, signaling theatrical interest in AI-native short and feature work.",
+      "url": "https://www.hollywoodreporter.com/business/business-news/imax-runway-ai-film-festival-deal-1236560000/",
+      "source": "Hollywood Reporter",
       "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ]
