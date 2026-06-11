@@ -1,221 +1,221 @@
 {
   "ai": [
     {
-      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-      "description": "1 day ago - Track AI model updates and LLM releases in real time. Version launches, API changes, and notable improvements across GPT, Claude, Gemini, Llama, and 500+ language models.",
-      "url": "https://llm-stats.com/llm-updates",
-      "source": "Llm-Stats",
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "AI Rumors June 2026: GPT-5.6, Gemini 3.5 Pro, Claude Mythos | centerbit",
-      "description": "1 week ago - Three major AI models are set to launch within weeks: GPT-5.6 (OpenAI), Gemini 3.5 Pro (Google), and Claude Mythos 1 (Anthropic).",
-      "url": "https://centerbit.co/en/blog/ai-rumors-june-2026-gpt-5-6-gemini-3-5-pro-claude-mythos",
-      "source": "Centerbit",
+      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "Model Timeline — When Each LLM Was Released | LLM Gateway",
-      "description": "Model ID: gemini-embedding-2google · Provider release · Apr 22, 2026 · Added to LLM Gateway · May 18, 2026 · View model details · GPT Image 2 · Model ID: gpt-image-2openai · Provider release · Apr 21, 2026 · Added to LLM Gateway · Apr 23, 2026 · View model details · Kimi K2.6 · ...",
-      "url": "https://llmgateway.io/timeline",
-      "source": "Llmgateway",
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "DeepSeek V4 is here: How it compares to ChatGPT, Claude, Gemini | Mashable",
-      "description": "April 24, 2026 - Here's what we know about the new model, and how it stacks up against other new models like OpenAI's GPT-5.5 and Anthropic's Claude Opus 4.7.",
-      "url": "https://mashable.com/article/deepseek-v4-preview-comparison-chatgpt-claude-gemini",
-      "source": "Mashable",
+      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "AI Model Release Timeline 2025–2026 — Every LLM Launch Tracked | AI Flash Report",
-      "description": "2 weeks ago - Google's first model to beat GPT-4 on MMLU — 90%+ with CoT — Google's most capable multimodal AI model · 🎛 In: text, image, audio, video 📤 Out: text 🌐 Google One AI Premium · Vertex AI ...",
-      "url": "https://aiflashreport.com/model-releases.html",
-      "source": "Aiflashreport",
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "Best AI Model 2026: GPT-5.5 vs Claude 4.8 vs Gemini 3.5 vs Llama 4 [Tested] | Stob.AI",
-      "description": "2 weeks ago - The most effective production systems in 2026 do not pick one model. They use a model routing layer that sends each task to the right model based on complexity, cost, and capability requirements. A practical multi-model architecture looks like this: Triage & classification: Gemini 2.5 Flash-Lite or GPT-5 nano (cheapest, fastest) Standard production work: Claude Sonnet 4.6 or Gemini 2.5 Flash (best value)",
-      "url": "https://stob.ai/blog/best-ai-model-2026-chatgpt-vs-claude-vs-gemini-vs-llama",
-      "source": "Stob",
+      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+      "description": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
+      "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+      "source": "Wired",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Top Startup Funding Deals of Q1 2026: Record $297 Billion ...",
-      "description": "Apr 14, 2026 · The first quarter of 2026 didn't just set a record — it shattered every benchmark venture capital has ever known. For the first time in history, a single funding round (OpenAI's landmark $122B raise) exceeded the entire prior quarterly record for global startup investment. According to Intellizence startup funding data, AI companies captured over $188 Explore the top AI startup funding deals ...",
-      "url": "https://intellizence.com/insights/startup-funding/top-startup-funding-deals-of-q1-2026-record-297-billion-raised-with-ai-dominating/",
-      "source": "Intellizence",
+      "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "AI Funding Tracker | AI Startup Investment Roundups 2026",
-      "description": "Track the latest AI startup funding rounds and venture capital investments. Weekly updates on AI company valuations, Series rounds, news.",
-      "url": "https://aifundingtracker.com/",
-      "source": "Aifundingtracker",
+      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "AI Funding Rounds 2026 — Live Deal Tracker (Updated Daily ...",
-      "description": "Track every AI startup funding round as it happens. Seed to Series D+, filterable by sector and stage — with lead investors, valuations, and source links. 300+ deals tracked in 2026.",
-      "url": "https://aifunding.me/deals",
-      "source": "Aifunding",
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "Live AI Funding Rounds Tracker 2026 | Awaira",
-      "description": "Track every AI funding round in real time. See who raised, how much, from whom. Series A to IPO — all AI startup funding data, free forever.",
-      "url": "https://awaira.com/funding-rounds",
-      "source": "Awaira",
+      "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "AI Startup Funding Q1 2026: $300B Analysis for Developers ...",
-      "description": "Apr 29, 2026 · Q1 2026 VC hit $297B - 80% to AI. OpenAI $852B valuation, 70 new unicorns, Factory $1.5B. What the funding boom means for developers & startups. Updated April 2026.",
-      "url": "https://lushbinary.com/blog/ai-startup-funding-landscape-q1-2026-analysis/",
-      "source": "Lushbinary",
+      "title": "<![CDATA[Amazon’s data centers used 2.5 billion gallons of water last year]]>",
+      "description": "",
+      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "source": "The Verge",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "Q1 2026 Venture Capital Hits $297B: AI Captures 81% of Record ...",
-      "description": "Apr 19, 2026 · Q1 2026 venture capital hit $297 billion, with AI startups capturing 81% of all funding. OpenAI raised $122B, Anthropic $30B, xAI $20B in record mega-rounds.",
-      "url": "https://tech-insider.org/q1-2026-venture-capital-297-billion-ai-startup-funding-record/",
-      "source": "Tech-Insider",
+      "title": "<![CDATA[Elon Musk is encouraging race riots on the eve of SpaceX’s IPO]]>",
+      "description": "",
+      "url": "https://www.theverge.com/policy/948426/elon-musk-belfast-riots-anti-immigration",
+      "source": "The Verge",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Top 12 Developer Tools you SHOULD be using in 2026 - Medium",
-      "description": "Jan 14, 2026 · And with TanStack Start hitting release candidate as a full-stack React framework, it's integrating everything seamlessly for end-to-end builds.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "10 Best Developer Tools for 2026 Tech Stack",
-      "description": "Apr 23, 2026 · Compare 10 developer tools shaping the 2026 tech stack. Covers GitHub Copilot, Cursor, Vercel, Supabase, Playwright, Linear with verified ...",
-      "url": "https://www.buildmvpfast.com/blog/best-developer-tools-2026-tech-stack",
-      "source": "Buildmvpfast",
+      "title": "Alaskans will be flying blind after NSF decommissions ocean monitoring network",
+      "description": "",
+      "url": "https://arstechnica.com/science/2026/06/alaskans-will-be-flying-blind-after-nsf-decommissions-ocean-monitoring-network/",
+      "source": "Ars Technica",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "The 2026 Web Developer Stack Daily Tools and Workflow",
-      "description": "Dec 3, 2025 · The essential, future-proof stack for web developers in 2026. AI Orchestration, Next.js 15 (RSC/Edge), Biome, & Turborepo for peak ...",
-      "url": "https://javascript.plainenglish.io/the-2026-web-developer-stack-daily-tools-and-workflow-a341162b9644",
-      "source": "Javascript",
+      "title": "The Best E-Readers of 2026: Kobo, Kindle",
+      "description": "These WIRED-tested ebook readers let you take your library anywhere.",
+      "url": "https://www.wired.com/gallery/best-ereaders/",
+      "source": "Wired",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Software Development in 2026: New Tools and Trends - Refonte Learning",
-      "description": "Feb 7, 2026 · Explore software development in 2026. Discover new tools, emerging trends, AI-driven workflows, and skills shaping the future of coding.",
-      "url": "https://www.refontelearning.com/blog/software-development-in-2026-new-tools-and-trends",
-      "source": "Refontelearning",
+      "title": "Peacock Promo Codes: 40% Off June 2026",
+      "description": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "url": "https://www.wired.com/story/peacock-promo-code/",
+      "source": "Wired",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Best Chrome Extensions for Developers in 2026 - Builder.io",
-      "description": "Dec 4, 2025 · Discover the best Chrome extensions for developers in 2026—from AI tools to framework devtools—to improve debugging, productivity, and workflow.",
-      "url": "https://www.builder.io/blog/best-chrome-extensions-for-developers-2026",
-      "source": "Builder",
+      "title": "<![CDATA[Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment]]>",
+      "description": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four da",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Web Development Frameworks, Tools and Techniques for 2025 – 2026",
-      "description": "Nov 6, 2025 · This guide breaks down the most important web development frameworks 2025-2026, the essential development tools you'll use, and the modern ...",
-      "url": "https://webo360solutions.com/blog/web-development-frameworks-tools-and-techniques-for-2025-2026/",
-      "source": "Webo360Solutions",
+      "title": "<![CDATA[Show HN: Homebrew 6.0.0]]>",
+      "description": "Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user surve",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "source": "Brew",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "2026 AI Laws Update: Key Regulations and Practical Guidance",
-      "description": "Feb 5, 2026 · Overview This client alert provides a high-level overview of key AI laws enacted or taking effect in 2026. With President Trump’s December 2025 Executive Order signaling federal intent to consolidate AI oversight, new comprehensive governance frameworks in Colorado and California, and evolving international requirements under the EU AI Act, companies developing or deploying AI systems face a ...",
-      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
-      "source": "Gunder",
+      "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "White House National Policy Framework for AI - Legislative ...",
-      "description": "Mar 3, 2026 · The federal government must establish a federal AI policy framework to protect American rights, support innovation, and prevent a fragmented patchwork of state regulations that would hinder our ...",
-      "url": "https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf",
-      "source": "Whitehouse",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "AI Governance and Regulation 2026: A Complete Guide to Global ...",
-      "description": "The EU AI Act takes full effect August 2026. NIST AI RMF sets the U.S. standard. Singapore leads on agentic AI governance. This guide maps every major AI regulation framework, compares enforcement mechanisms, and provides a compliance roadmap for enterprises operating across jurisdictions.",
-      "url": "https://www.hungyichen.com/en/insights/ai-governance-regulatory-landscape-2026",
-      "source": "Hungyichen",
+      "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "US AI Regulation 2026: What the New Rules Mean for You",
-      "description": "Mar 28, 2026 · The US AI regulatory landscape changed dramatically in 2025–2026: Biden's AI safety executive order was revoked. Trump's AI acceleration order replaced it. California's SB 1047 battle reshaped state AI regulation. The EU AI Act is affecting US companies. This is the complete, plain-language guide to what the current AI rules in America actually are, who they apply to, and what they mean for ...",
-      "url": "https://lumichats.com/blog/ai-regulation-usa-2026-executive-orders-laws-explained",
-      "source": "Lumichats",
+      "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "AI Regulation 2026 Guide — EU AI Act, US Law & Global ...",
-      "description": "Complete guide to AI regulation in 2026: EU AI Act requirements, US executive orders, UK pro-innovation approach, China AI rules. What AI regulation means for businesses, developers, and everyday users.",
-      "url": "https://www.singularitymoments.com/ai-regulation-2026/",
-      "source": "Singularitymoments",
+      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "AI Regulations Around the World: What You Need to Know",
-      "description": "Jan 28, 2026 · Complete guide to AI regulations around the world. Compare the EU, US, UK, China, and Asia-Pacific regulations and AI compliance steps.",
-      "url": "https://gdprlocal.com/ai-regulations-around-the-world/",
-      "source": "Gdprlocal",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Trending repositories on GitHub today · GitHub",
-      "description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
-      "url": "https://github.com/trending",
+      "title": "<![CDATA[FPS.cob: A first person shooter in COBOL]]>",
+      "description": "Article URL: https://github.com/icitry/FPS.cob\nComments URL: https://news.ycombinator.com/item?id=48491486\nPoints: 70\n# Comments: 38\n]]>",
+      "url": "https://github.com/icitry/FPS.cob",
       "source": "GitHub",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "Best Open Source Projects on GitHub 2026 — Trending Repos ...",
-      "description": "Best Open Source Projects on GitHub in 2026: The Ones Worth Watching GitHub's Octoverse 2025 report revealed that over 4.3 million AI-related repositories now exist on the platform — a 178% year-over-year jump in LLM-focused projects alone.",
-      "url": "https://www.techloghub.com/blog/best-open-source-projects-github-2026",
-      "source": "Techloghub",
+      "title": "<![CDATA[Open Reproduction of DeepSeek-R1]]>",
+      "description": "Article URL: https://github.com/huggingface/open-r1\nComments URL: https://news.ycombinator.com/item?id=48489917\nPoints: 150\n# Comments: 15\n]]>",
+      "url": "https://github.com/huggingface/open-r1",
+      "source": "GitHub",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "Top Open Source Projects That Will Dominate 2026",
-      "description": "Jan 3, 2026 · Top Open Source Projects That Will Dominate 2026 # opensource # programming # javascript # ai 2025 was wild. 2026? It's about to get wilder. The open source ecosystem is exploding with innovation. AI is reshaping development workflows. New frameworks are challenging old guards. And developers are building tools that make our lives infinitely ...",
-      "url": "https://dev.to/jaysaadana/top-open-source-projects-that-will-dominate-2026-2moa",
-      "source": "Dev",
+      "title": "<![CDATA[Emacs appearances in pop culture]]>",
+      "description": "Article URL: https://ianyepan.github.io/posts/emacs-in-pop-culture/\nComments URL: https://news.ycombinator.com/item?id=48474274\nPoints: 125\n# Comments: 16\n]]>",
+      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+      "source": "Ianyepan",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "10 Best Open Source Agent Projects to Star on GitHub (2026)",
-      "description": "Mar 2, 2026 · A curated list of the 10 most promising open-source AI agent projects on GitHub in 2026, covering web automation, multi-agent frameworks, research tools, and coding agents.",
-      "url": "https://flowith.io/blog/10-best-open-source-agent-projects-github-2026/",
-      "source": "Flowith",
+      "title": "<![CDATA[ITScape: Guest-to-Host Escape in KVM/ARM64 (CVE-2026-46316)]]>",
+      "description": "Article URL: https://seclists.org/oss-sec/2026/q2/877\nComments URL: https://news.ycombinator.com/item?id=48495241\nPoints: 2\n# Comments: 0\n]]>",
+      "url": "https://seclists.org/oss-sec/2026/q2/877",
+      "source": "Seclists",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "New Open-Source AI Projects & Model Releases: May 2026 ...",
-      "description": "May 19, 2026 · For those monitoring open source ai projects github releases may 2026, the trend has moved decisively toward \"agentic execution\"—AI that doesn't just talk, but acts.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup",
-      "source": "Devflokers",
+      "title": "<![CDATA[Alpine Linux is a crazy-fast distro for your desktop - with just one caveat]]>",
+      "description": "",
+      "url": "https://www.zdnet.com/article/alpine-linux-crazy-fast-distro-for-your-desktop/",
+      "source": "ZDNet",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "Top 20 Open-Source GitHub Projects to Contribute to in 2026",
-      "description": "Mar 27, 2026 · Top 20 Open-Source GitHub Projects to Contribute to in 2026 Top open-source projects for contributions are opportunities to advance your skills and career. This curated list features 20 actively maintained projects where your code can make a real impact today.",
-      "url": "https://www.index.dev/blog/open-source-github-projects",
-      "source": "Index",
+      "title": "Open Source Ecosystems",
+      "description": "",
+      "url": "https://www.oreilly.com/radar/open-source-ecosystems/",
+      "source": "O'Reilly",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     }
   ]
