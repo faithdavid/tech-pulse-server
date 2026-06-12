@@ -15,16 +15,16 @@
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Theker just raised $85M to build the factory robot that doesn't specialize in anything",
-      "description": "Unlike humanoid robots designed around a fixed form, Theker's machines are built to be reconfigured for flexible factory automation.",
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "title": "'AI-pilled' firms spend $7,500 per employee each month on AI",
+      "description": "Ramp AI Index: the most AI-obsessed companies now spend roughly $7,500 monthly per employee on AI tools and tokens.",
+      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "DoorDash's new AI chatbot lets you order with prompts and photos",
-      "description": "Ask DoorDash lets users search in natural language and with images instead of scrolling restaurants to build a cart.",
-      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "description": "A former xAI engineer alleges he was terminated for raising AI safety concerns about Grok days before SpaceX's IPO.",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=600&q=60"
     }
@@ -32,28 +32,28 @@
   "funding": [
     {
       "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world",
-      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "description": "Prometheus valued at $41B as it targets physical-world automation across engineering and drug design.",
       "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
       "title": "Theker just raised $85M to build the factory robot that doesn't specialize in anything",
-      "description": "Theker is pitching reconfigurable factory robotics as an alternative to fixed-form humanoids like Boston Dynamics.",
+      "description": "Theker pitches reconfigurable factory robotics as an alternative to fixed-form humanoids like Boston Dynamics.",
       "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
       "title": "Equal AI raises $30M to screen calls so Indians don't have to",
-      "description": "Prosus Ventures-backed Equal AI reports 1M+ monthly actives on its AI call-screening assistant.",
+      "description": "Prosus-backed Equal AI reports 1M+ monthly actives on its AI call-screening assistant.",
       "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1579621970563-ebec756aff7e?w=600&q=60"
     },
     {
       "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "description": "With its official share pricing announcement, SpaceX's IPO has begun at $135 per share.",
+      "description": "SpaceX set IPO pricing at $135 per share, opening the largest public offering in market history.",
       "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1517976487492-5750f319fe3a?w=600&q=60"
@@ -62,59 +62,59 @@
   "tools": [
     {
       "title": "Coinbase's new tool can help agents trade and pay for premium research",
-      "description": "Coinbase's agent can use x402 protocol to get access to data and APIs for autonomous trading workflows.",
+      "description": "Coinbase's agent stack uses the x402 protocol to pay for data and APIs in autonomous trading workflows.",
       "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Bluesky launches group chats, as company shifts focus to community features",
-      "description": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities.",
-      "url": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "description": "Niteshift raised a $7M seed to give teams model choice instead of lock-in with frontier AI vendors.",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
       "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&q=60"
-    },
-    {
-      "title": "Pool's new app turns your screenshots into something useful",
-      "description": "Pool sorts screenshots into collections, finds original links, and helps rediscover saved products, recipes, and travel ideas.",
-      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=600&q=60"
     },
     {
       "title": "Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
-      "description": "Deezer introduced a tool that scans playlists from major streaming platforms to identify AI-generated music.",
+      "description": "Deezer scans playlists across major streaming platforms to flag AI-generated tracks.",
       "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=60"
+    },
+    {
+      "title": "Pool's new app turns your screenshots into something useful",
+      "description": "Pool auto-sorts screenshots into collections and resurfaces products, recipes, and travel ideas you saved.",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
     }
   ],
   "industry": [
     {
       "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-      "description": "Google notified more than 100 organizations with potentially vulnerable servers after a mass-hacking campaign exploiting the flaw.",
+      "description": "Google notified 100+ organizations with potentially vulnerable servers after a mass-exploitation campaign.",
       "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
       "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-      "description": "TCS will stand up a business unit focused on deploying Anthropic's Claude models to enterprise customers.",
+      "description": "Tata Consultancy Services will stand up a dedicated unit to deploy Claude models for global enterprise clients.",
       "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
       "title": "Meta's Edits app is getting an AI assistant and a desktop version",
-      "description": "Meta is embedding an AI assistant in Edits to keep Instagram creators engaged against TikTok and YouTube.",
+      "description": "Meta embeds an AI assistant in Edits to keep Instagram creators on-platform vs TikTok and YouTube.",
       "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e39e9426?w=600&q=60"
     },
     {
-      "title": "These are the countries moving to ban social media for children",
-      "description": "Australia led with a late-2025 ban; more governments are weighing age limits amid addiction and safety concerns.",
-      "url": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "description": "Amazon adds bank debt on top of recent bond issuance as hyperscalers fund the AI capex arms race.",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
     }
@@ -128,9 +128,9 @@
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "description": "Walkthrough of an agent workflow that composes multiple Spaces into a single 3D experience.",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "description": "OpenEnv gains community momentum as a shared environment layer for reinforcement learning agents.",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     },
@@ -142,9 +142,9 @@
       "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=600&q=60"
     },
     {
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "description": "Guide to moving GitHub Actions CI workloads onto Hugging Face Jobs for ML pipelines.",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "description": "Hugging Face outlines CLI ergonomics tuned for agents pushing models, datasets, and Spaces.",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     }
