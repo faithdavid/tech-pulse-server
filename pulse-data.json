@@ -15,16 +15,16 @@
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "'AI-pilled' firms spend $7,500 per employee each month on AI",
-      "description": "Ramp AI Index: the most AI-obsessed companies now spend roughly $7,500 monthly per employee on AI tools and tokens.",
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "title": "Decart's new world model can simulate hours of photorealistic driving — with some caveats",
+      "description": "Oasis 3 generates photorealistic driving environments for AV testing, now available via API for developers.",
+      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "description": "A former xAI engineer alleges he was terminated for raising AI safety concerns about Grok days before SpaceX's IPO.",
-      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "title": "How memory tools can make AI models worse",
+      "description": "New research suggests AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=600&q=60"
     }
@@ -68,13 +68,6 @@
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "description": "Niteshift raised a $7M seed to give teams model choice instead of lock-in with frontier AI vendors.",
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=600&q=60"
-    },
-    {
       "title": "Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
       "description": "Deezer scans playlists across major streaming platforms to flag AI-generated tracks.",
       "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
@@ -87,22 +80,29 @@
       "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
+    },
+    {
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "description": "Niteshift raised a $7M seed to give teams model choice instead of lock-in with frontier AI vendors.",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=600&q=60"
     }
   ],
   "industry": [
+    {
+      "title": "US surveillance law to expire for first time after lawmakers reject Trump's controversial pick to lead spy agencies",
+      "description": "Section 702 warrantless surveillance authority is set to lapse Friday after Senate deadlock on intelligence leadership.",
+      "url": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+    },
     {
       "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
       "description": "Google notified 100+ organizations with potentially vulnerable servers after a mass-exploitation campaign.",
       "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
-    },
-    {
-      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-      "description": "Tata Consultancy Services will stand up a dedicated unit to deploy Claude models for global enterprise clients.",
-      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
       "title": "Meta's Edits app is getting an AI assistant and a desktop version",
@@ -112,11 +112,11 @@
       "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e39e9426?w=600&q=60"
     },
     {
-      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-      "description": "Amazon adds bank debt on top of recent bond issuance as hyperscalers fund the AI capex arms race.",
-      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+      "description": "Tata Consultancy Services will stand up a dedicated unit to deploy Claude models for global enterprise clients.",
+      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
       "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     }
   ],
   "oss": [
@@ -142,9 +142,9 @@
       "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=600&q=60"
     },
     {
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "description": "Hugging Face outlines CLI ergonomics tuned for agents pushing models, datasets, and Spaces.",
-      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "description": "Walkthrough of agent workflows combining multiple Spaces into a single multimodal demo.",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     }

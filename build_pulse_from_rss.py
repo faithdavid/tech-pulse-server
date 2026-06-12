@@ -74,23 +74,29 @@ def main():
         if not any(x["url"] == it["link"] for x in by_cat["industry"]):
             by_cat["industry"].append(mk(it, "TechCrunch", "industry"))
 
-    hn = parse_rss(fetch("https://hnrss.org/newest?q=AI&count=20"), 15)
-    for it in hn:
-        if len(by_cat["ai"]) >= 4:
-            break
-        if it["link"] not in {x["url"] for x in by_cat["ai"]}:
-            by_cat["ai"].append(mk(it, "Hacker News", "ai"))
+    try:
+        hn = parse_rss(fetch("https://hnrss.org/newest?q=AI&count=20"), 15)
+        for it in hn:
+            if len(by_cat["ai"]) >= 4:
+                break
+            if it["link"] not in {x["url"] for x in by_cat["ai"]}:
+                by_cat["ai"].append(mk(it, "Hacker News", "ai"))
+    except Exception:
+        pass
 
     hf = parse_rss(fetch("https://huggingface.co/blog/feed.xml"), 8)
     for it in hf[:4]:
         by_cat["oss"].append(mk(it, "Hugging Face", "oss"))
 
-    gh = parse_rss(fetch("https://hnrss.org/newest?q=github.com&count=15"), 10)
-    for it in gh:
-        if len(by_cat["oss"]) >= 4:
-            break
-        if "github.com" in it["link"]:
-            by_cat["oss"].append(mk(it, "GitHub", "oss"))
+    try:
+        gh = parse_rss(fetch("https://hnrss.org/newest?q=github.com&count=15"), 10)
+        for it in gh:
+            if len(by_cat["oss"]) >= 4:
+                break
+            if "github.com" in it["link"]:
+                by_cat["oss"].append(mk(it, "GitHub", "oss"))
+    except Exception:
+        pass
 
     for cat in by_cat:
         while len(by_cat[cat]) < 4 and tc:
