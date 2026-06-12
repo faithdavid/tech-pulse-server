@@ -1,65 +1,72 @@
 {
   "ai": [
     {
-      "title": "SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies",
-      "description": "SpaceX's debut traded well above its $135 IPO price, lifting the rocket maker into the ranks of America's most valuable public companies.",
-      "url": "https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1517976487492-5750f319fe3a?w=600&q=60"
+      "title": "Google's DiffusionGemma: open diffusion model for faster text generation",
+      "description": "Google open-sources DiffusionGemma, a diffusion-based text generator aimed at faster single-GPU inference versus autoregressive decoding.",
+      "url": "https://aidailypost.com/",
+      "source": "AI Daily Post",
+      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
+    },
+    {
+      "title": "Perplexity routes deep-research subtasks across 20+ models using Gemini agent",
+      "description": "Perplexity's Computer platform orchestrates Deep Research across 20+ frontier models via multi-model agent collaboration.",
+      "url": "https://aidailypost.com/",
+      "source": "AI Daily Post",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "Anthropic's Model Context Protocol crosses 97 million installs",
+      "description": "MCP hit 97M installs in March 2026, signaling agent tooling standards moving from experiment to core infrastructure.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
       "title": "Mistral is rumored to be raising €3B at €20B valuation",
       "description": "The round would nearly double Mistral's Series C €11.7B mark, putting the French frontier lab at roughly $23B.",
       "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
       "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
-    },
-    {
-      "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world",
-      "description": "Physical AI startup Prometheus is valued at $41B as it targets automated heavy engineering and drug design.",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
-    },
-    {
-      "title": "Cheaper, faster, and culturally aware, Avataar's video AI is built for India's scale",
-      "description": "Avataar AI prices distilled video generation at $0.005 per second for India-scale creators and brands.",
-      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Elon Musk becomes the world's first trillionaire after SpaceX's historic IPO",
-      "description": "SpaceX's public debut pushed Musk's paper wealth past $1 trillion as shares opened above the $135 IPO price.",
-      "url": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
-      "source": "TechCrunch",
+      "title": "Q1 2026 shatters venture funding records as AI boom pushes startup investment to $300B",
+      "description": "Crunchbase data through March 31 shows global venture funding at record pace, led by AI-heavy rounds.",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "source": "Crunchbase News",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "description": "With official pricing, SpaceX's IPO is underway as the most anticipated and largest public debut on record.",
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "title": "SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies",
+      "description": "SpaceX's Nasdaq debut traded well above its $135 IPO price as Anthropic and OpenAI watch the listing as their own IPO benchmark.",
+      "url": "https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1517976487492-5750f319fe3a?w=600&q=60"
+    },
+    {
+      "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer'",
+      "description": "Physical AI startup Prometheus is valued at $41B as it targets automated heavy engineering and drug design.",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "Theker just raised $85M to build the factory robot that doesn't specialize in anything",
-      "description": "Theker bets on reconfigurable factory robotics instead of fixed-form humanoids like Boston Dynamics.",
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "source": "TechCrunch",
+      "title": "U.S. Army awards Anduril up to $20B enterprise contract",
+      "description": "Anduril projects $4.3B 2026 revenue on Arsenal-1 scaling after a 10-year Army enterprise deal signed in March 2026.",
+      "url": "https://aifundingtracker.com/",
+      "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
-    },
-    {
-      "title": "Equal AI raises $30M to screen calls so Indians don't have to",
-      "description": "Prosus-backed Equal AI reports 1M+ monthly actives on its AI call-screening assistant.",
-      "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1579621970563-ebec756aff7e?w=600&q=60"
     }
   ],
   "tools": [
+    {
+      "title": "WWDC26 reveals Foundation Models framework and Liquid Glass design across Apple platforms",
+      "description": "Apple's June 8–12 online WWDC ships Xcode 26 RC, on-device Apple Intelligence APIs, and App Store submissions for iOS 26 family releases.",
+      "url": "https://developer.apple.com/news/",
+      "source": "Apple Developer",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
+    },
     {
       "title": "Coinbase's new tool can help agents trade and pay for premium research",
       "description": "Coinbase's agent stack uses the x402 protocol to pay for data and APIs in autonomous trading workflows.",
@@ -68,25 +75,18 @@
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Bluesky launches group chats, as company shifts focus to community features",
-      "description": "Bluesky adds group chats as it pivots toward smaller-community features on the open social network.",
-      "url": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e39e9426?w=600&q=60"
+      "title": "Fireworks AI lands on Microsoft Foundry Azure",
+      "description": "Partnership brings Fireworks open-model inference to Azure Foundry days after its Hathora acquisition for real-time workloads.",
+      "url": "https://fireworks.ai/blog/fireworks-on-microsoft-foundry",
+      "source": "Fireworks AI",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
       "title": "Meta's Edits app is getting an AI assistant and a desktop version",
       "description": "Meta embeds an AI assistant in Edits and ships desktop to keep Instagram creators on-platform.",
       "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
       "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
-    },
-    {
-      "title": "Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
-      "description": "Deezer scans playlists across major streaming platforms to flag AI-generated tracks.",
-      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e39e9426?w=600&q=60"
     }
   ],
   "industry": [
@@ -98,18 +98,18 @@
       "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=60"
     },
     {
-      "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
-      "description": "Shotwell's latest comments fuel speculation that a SpaceX–Tesla combination is increasingly inevitable.",
-      "url": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1593941707882-a5bba14938ca?w=600&q=60"
+      "title": "California AI transparency and worker-impact bills advance in Senate",
+      "description": "AB 2713, AB 2575, and AB 2545 move through Senate committees with hearings scheduled mid-June 2026.",
+      "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-june12-2026",
+      "source": "Transparency Coalition",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "US surveillance law to expire for first time after lawmakers reject Trump's controversial pick to lead spy agencies",
-      "description": "Section 702 warrantless surveillance authority is set to lapse Friday after Senate deadlock on intelligence leadership.",
-      "url": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "Illinois sends landmark frontier model safety bill SB 315 to Gov. Pritzker",
+      "description": "First-in-nation style act would require third-party audits of frontier model safety protocols.",
+      "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-june12-2026",
+      "source": "Transparency Coalition",
+      "image_url": "https://images.unsplash.com/photo-1593941707882-a5bba14938ca?w=600&q=60"
     },
     {
       "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
@@ -121,32 +121,32 @@
   ],
   "oss": [
     {
+      "title": "Qwen3.5-9B through 0.8B now on Hugging Face Hub and ModelScope",
+      "description": "Alibaba's Qwen team released the Qwen3.5 small-model lineup on March 2, 2026 for edge and laptop deployment.",
+      "url": "https://github.com/QwenLM/Qwen3.6",
+      "source": "Qwen / GitHub",
+      "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
+    },
+    {
+      "title": "Hugging Face: Chinese open models overtook U.S. on the Hub in Spring 2026",
+      "description": "State of Open Source report credits Qwen and DeepSeek for a surge in derivatives and downloads.",
+      "url": "https://getaibook.com/news/hugging-face-reports-chinese-open-models-overtook-us-on-hub-as-qwen-and-deepseek/",
+      "source": "Hugging Face ecosystem",
+      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
+    },
+    {
       "title": "olmo-eval: An evaluation workbench for the model development loop",
       "description": "Allen AI's olmo-eval gives open-model builders a structured bench for the full train-eval-iterate loop.",
       "url": "https://huggingface.co/blog/allenai/olmo-eval",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
-    },
-    {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "description": "A walkthrough of agent-driven 3D scene building by composing multiple Hub Spaces in sequence.",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
-    },
-    {
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "description": "Guide to moving GitHub Actions CI workloads onto Hugging Face Jobs for ML pipelines.",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=600&q=60"
     },
     {
       "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
       "description": "JetBrains releases Mellum2, a 12B MoE coding model on the Hub for developer workflows.",
       "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     }
   ]
 }
