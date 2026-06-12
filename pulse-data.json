@@ -1,28 +1,28 @@
 {
   "ai": [
     {
-      "title": "Meta\u2019s Edits app is getting an AI assistant and a desktop version",
+      "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world",
+      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
+    },
+    {
+      "title": "Meta's Edits app is getting an AI assistant and a desktop version",
       "description": "By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention.",
       "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
+      "title": "Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
       "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
       "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "Pool\u2019s new app turns your screenshots into something useful",
-      "description": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
-      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
-    },
-    {
-      "title": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
+      "title": "DoorDash's new AI chatbot lets you order with prompts and photos",
       "description": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
       "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
       "source": "TechCrunch",
@@ -31,21 +31,21 @@
   ],
   "funding": [
     {
+      "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world",
+      "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
+    },
+    {
       "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "description": "With its official share pricing announcement, SpaceX's IPO has begun.",
       "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
     },
     {
-      "title": "SpaceX SPV investors won\u2019t know their true holdings until post-IPO lock-ups lift",
-      "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
-      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
-    },
-    {
-      "title": "Quantum Space\u2019s military SPAC is trying to catch SpaceX\u2019s IPO wave",
+      "title": "Quantum Space's military SPAC is trying to catch SpaceX's IPO wave",
       "description": "Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.",
       "url": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
       "source": "TechCrunch",
@@ -61,6 +61,13 @@
   ],
   "tools": [
     {
+      "title": "Coinbase's new tool can help agents trade and pay for premium research",
+      "description": "Coinbase's agent can use x402 protocol to get access to data and APIs.",
+      "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
+    },
+    {
       "title": "Bluesky launches group chats, as company shifts focus to community features",
       "description": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities.",
       "url": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
@@ -68,23 +75,16 @@
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "Coinbase\u2019s new tool can help agents trade and pay for premium research",
-      "description": "Coinbase's agent can use x402 protocol to get access to data and APIs.",
-      "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+      "title": "Pool's new app turns your screenshots into something useful",
+      "description": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     },
     {
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
-    },
-    {
-      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-      "description": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
-      "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+      "title": "Waymo launches a loyalty program with 10% cash back and free cancellations",
+      "description": "Members of the program, called \"Waymo Premier,\" will have to pony up $29.99 per month.",
+      "url": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
     }
@@ -105,16 +105,16 @@
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "Microsoft taps Alt Carbon in sign of India\u2019s growing role in carbon removal",
+      "title": "Microsoft taps Alt Carbon in sign of India's growing role in carbon removal",
       "description": "Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures.",
       "url": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     },
     {
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+      "description": "The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers.",
+      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
     }
@@ -122,29 +122,29 @@
   "oss": [
     {
       "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "description": "",
+      "description": "Hugging Face deep dive on fusing MLP layers in PyTorch for faster training and inference.",
       "url": "https://huggingface.co/blog/torch-mlp-fusion",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
-      "description": "",
+      "title": "Introducing North Mini Code: Cohere's First Model For Developers",
+      "description": "Cohere Labs launches a compact coding model aimed at developer workflows on the Hub.",
       "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
       "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "description": "",
+      "description": "Agent workflow demo chaining multiple Spaces into a multimodal 3D experience.",
       "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "description": "",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "description": "Community momentum around OpenEnv as a standard for reinforcement learning with agents.",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     }
