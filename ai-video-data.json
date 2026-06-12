@@ -1,181 +1,181 @@
 {
   "filmschool": [
     {
-      "title": "Runway - AIF 2026 | AI Festival",
-      "description": "Welcome to Runway’s fourth annual AI Festival. Originally established in 2022 with a focus on AI films, AIF has evolved into an interdisciplinary celebration of creatives experimenting at the forefront of art and technology. In Film, Design, New Media, Fashion, Advertising and Gaming. Works showcase",
-      "url": "https://aiff.runwayml.com/",
-      "source": "Aiff",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
+      "title": "AI film school trains next generation of Hollywood moviemakers",
+      "description": "Reuters profiles programs like Curious Refuge training filmmakers to use machine learning tools for story, VFX, and production—positioned as critical pipeline for Hollywood's next wave.",
+      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "Runway AI Festival 2026 - AI Film Contests",
-      "description": "1 day ago · Runway AI Festival 2026 Runway The world's largest AI film competition. Grand Prix $50K + 1M Runway credits. Films 3–15 min with generative video required. Screenings at Lincoln Center NYC and The Broad Stage LA.",
-      "url": "https://aifilmcontests.com/contests/runway-aif-2026",
-      "source": "Aifilmcontests",
+      "title": "The 12 Best AI Tools for Filmmakers in 2026 (Tested on Real Productions)",
+      "description": "Storyflow's working-filmmaker guide ranks Runway for AI footage, ElevenLabs for voice, Descript for edit—plus festival-track advice on when to avoid generative cuts in submissions.",
+      "url": "https://storyflow.so/blog/best-ai-tools-for-filmmakers-2026",
+      "source": "Storyflow",
       "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     },
     {
-      "title": "HKU School of Future Media to host AI & Filmmaking Week 2026 - EurekAlert!",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TcUR4YVpjUEN1NUNqNFZkcS1tYXB3S3YzVThNaTN2QzRSNEZhdU5BMDk5THVCNlR2UFlzMGZxV0pXelJTMnFwY0s2TnIwWXNHenBqQTdrdW5sbmVy?oc=5\" target=\"_blank\">HKU School of Future Media to host AI & Filmmaking Week 2026</a>&nbsp;&nbsp;<font c",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TcUR4YVpjUEN1NUNqNFZkcS1tYXB3S3YzVThNaTN2QzRSNEZhdU5BMDk5THVCNlR2UFlzMGZxV0pXelJTMnFwY0s2TnIwWXNHenBqQTdrdW5sbmVy?oc=5",
-      "source": "News",
+      "title": "AI Filmmaker Academy",
+      "description": "Community hub covering story creation, image and video generation, audio, lip-sync, editing, monetization, and promotion—continuously updated resources for creator collaboration.",
+      "url": "https://www.aifilmmaker.academy/",
+      "source": "AI Filmmaker Academy",
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "The Real AI Revolution in Filmmaking Is Happening Behind the Scenes - No Film School",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNUdheW0zMy1uZGpTc1h2ZzFLNEQxa29aRE53SlptOXVFRHQtbFNUNnZ1azRJX1N1aDhURDJxT2JwRm9DYmcxTkdKQXhzaEtWSmNfWUlRQWNNNHBvelVUYXRNMWl3ZWRLM3JadUx1Q0tqQTBkelNCcTl0VjhOZE1pU0dvcHRqd2V3NzQ5ei1UV3owV0dqbXNN?oc=5\" target=\"_blank\">The",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNUdheW0zMy1uZGpTc1h2ZzFLNEQxa29aRE53SlptOXVFRHQtbFNUNnZ1azRJX1N1aDhURDJxT2JwRm9DYmcxTkdKQXhzaEtWSmNfWUlRQWNNNHBvelVUYXRNMWl3ZWRLM3JadUx1Q0tqQTBkelNCcTl0VjhOZE1pU0dvcHRqd2V3NzQ5ei1UV3owV0dqbXNN?oc=5",
-      "source": "News",
-      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
+      "title": "AI Video School — short film to festivals",
+      "description": "End-to-end course: brainstorm and script with AI, generate images, edit video, and submit to film festivals—hands-on pipeline for new AI-native directors.",
+      "url": "https://aivideo.school/",
+      "source": "AI Video School",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Amazon MGM Studios Greenlights Three AI Series for Prime Video Under New GenAI Creators' Fund",
-      "description": "2 weeks ago - Amazon MGM Studios unveiled the GenAI Creators’ Fund, which will provide funding and access to AI production tools built on AWS, and announced deals for projects from Albie Hecht and Jorge Gutierrez.",
+      "title": "Amazon MGM Studios Greenlights Three AI Series for Prime Video Under GenAI Creators' Fund",
+      "description": "Fund provides AWS-backed AI production tools plus greenlights for series from Albie Hecht and Jorge Gutierrez—major studio bet on GenAI-native series.",
       "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
       "source": "Variety",
       "image_url": "https://images.unsplash.com/photo-1558494949-ef0d38d3f9e2?w=600&q=60"
     },
     {
-      "title": "Real-Time AI Video Startup Reactor, Founded by Ex-Apple Engineers, Raises $59 Million From Jeffrey Katzenberg’s WndrCo and Others (EXCLUSIVE)",
-      "description": "2 weeks ago - Taiuti says the company is in talks with major Hollywood studios about deals.",
-      "url": "https://variety.com/2026/digital/news/reactor-real-time-ai-video-funding-jeffrey-katzenberg-1236755883/",
-      "source": "Variety",
+      "title": "Reactor Emerges from Stealth with $59M for Real-Time AI Worlds",
+      "description": "Lightspeed-led round backs developer platform for real-time generative video; WndrCo and others participate as Hollywood explores live AI world-building.",
+      "url": "https://press.aboutamazon.com/aws/2026/5/reactor-emerges-from-stealth-with-59m-to-build-the-platform-for-real-time-ai-worlds",
+      "source": "Amazon Press",
       "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "AI Video Generation News: 2026 Latest Models & Updates | WaveSpeed Blog",
-      "description": "1 week ago - OpenAI–Disney partnership — Reported $1B deal for licensed character generation. First studio-AI partnership at this scale.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "Wavespeed",
+      "title": "Pictory 2026 State of AI Video-Creation Industry Report — 1.5M+ Videos",
+      "description": "Aggregated platform data shows professionals—not hobbyists—driving growth; report tracks how marketers, educators, and teams scale AI video output.",
+      "url": "https://www.businesswire.com/news/home/20260610439066/en/Pictory-Releases-2026-State-of-the-AI-Video-Creation-Industry-Report-Analyzing-More-Than-1.5-Million-Videos",
+      "source": "Business Wire",
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Hollywood Studios Are Spending On AI To Control The Future Of Film",
-      "description": "1 week ago - That distinction is the story. After two years of strikes, protests and splashy deals, the industry’s AI question has changed. It is no longer whether studios will work with AI companies.",
-      "url": "https://www.forbes.com/sites/maureenkerr/2026/06/01/hollywood-studios-are-spending-on-ai-to-control-the-future-of-film/",
-      "source": "Forbes",
+      "title": "JWX Acquires Aug X Labs (Augie Studio) for Publisher AI Video",
+      "description": "Jan 2026 deal folds LLM-powered article-to-video studio into JWX Studio so publishers turn existing content into multi-platform video, audio, and interactive formats.",
+      "url": "http://jwx.com/news/jwx-augie-acquisition",
+      "source": "JWX",
       "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "23 Best AI Video Generators for 2026 (Tested & Reviewed)",
-      "description": "May 28, 2026 · Discover the 22 best AI video generator apps and online tools for 2026. Read our hands-on reviews of YouCam Video, Google Veo, OpenAI Sora, Runway, and more to create stunning videos from text and images.",
-      "url": "https://www.perfectcorp.com/consumer/blog/video-editing/best-ai-video-generators",
-      "source": "Perfectcorp",
+      "title": "AI Video Generation News 2026: Veo 3.1, Kling 3.0, Seedance 2.0",
+      "description": "WaveSpeed roundup flags Veo 3.1 for audio-native dialogue, Kling 3.0 for cost-balanced iteration, and Seedance 2.0 for motion-heavy scenes among models worth evaluating now.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
       "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
     },
     {
-      "title": "The Ten Best AI Video Generators in 2026: A Definitive Guide",
-      "description": "Apr 16, 2026 · This guide covers the ten most significant AI video generation models available in 2026 — the top five in depth, followed by five honorable mentions that serve important niches. It’s based on hands-on testing, published benchmarks, official documentation, and the experiences of profes",
-      "url": "https://kingy.ai/ai/the-ten-best-ai-video-generators-in-2026-a-definitive-guide/",
-      "source": "Kingy",
+      "title": "DaVinci Resolve 21 Released With Photo Editing and AI Tools",
+      "description": "Blackmagic ships Resolve 21 with IntelliSearch clip discovery, Neural Color Mapping, and expanded AI workflow automation for pro edit suites.",
+      "url": "https://petapixel.com/2026/06/03/davinci-resolve-21-officially-released-with-new-photo-editing-ai-tools-and-much-more/",
+      "source": "PetaPixel",
       "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "13 Best AI Video Generators in 2026 (We Tested Them All: Free ...",
-      "description": "Feb 23, 2026 · Looking for the best AI video generator? We tested 13 tools in 2026. See which ones actually deliver real text-to-video, image-to-video, and 4K results.",
-      "url": "https://klyra.ai/public/blog/best-ai-video-generator-2026",
-      "source": "Klyra",
+      "title": "AI Video Generator API for Developers (2026 Guide)",
+      "description": "Developer-focused guide highlights Google DeepMind Veo 3 launch trajectory—resolution, temporal consistency, and prompt adherence for API integrations.",
+      "url": "https://resource.digen.ai/ai-video-generator-api-for-developers-2026/",
+      "source": "Digen",
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Best AI Video Generators in 2026 - Free & Paid Ranked",
-      "description": "1 day ago · Best AI Video Generators Compared: Runway, Sora, Veo, Pika, Seedance 2.0, and Kling (2026) 11 Jun,2026 11 Min Read Creative AI Featured Choosing the best AI video generator in 2026 is no longer about which model can make a clip move. Every major model can do that.",
-      "url": "https://pixflow.net/blog/best-ai-video-generator/",
-      "source": "Pixflow",
+      "title": "Pictory Introduces AI Video MCP Server",
+      "description": "Model Context Protocol server lets Claude Desktop, Cursor, and automation stacks build intelligent video workflows from assistants and dev tools.",
+      "url": "https://www.businesswire.com/news/home/20260610439066/en/Pictory-Releases-2026-State-of-the-AI-Video-Creation-Industry-Report-Analyzing-More-Than-1.5-Million-Videos",
+      "source": "Business Wire",
       "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "7 Faceless YouTube Niches With Almost Zero Competition That AI Can Completely Automate in 2026 | by James 99 | Medium",
-      "description": "March 18, 2026 - Here’s the uncomfortable truth that most YouTube tutorials won’t tell you in 2026: the creator who uploads 30 videos a month beats the creator who uploads 3 perfect ones. Every time. The algorithm doesn’t care about your color grading. It cares about your consistency. That’s the gam",
-      "url": "https://james-palm.medium.com/7-faceless-youtube-niches-with-almost-zero-competition-that-ai-can-completely-automate-in-2026-4f040fe5c08d",
-      "source": "James-Palm",
+      "title": "The State of AI Video Creation 2026 — Vivideo Order Data",
+      "description": "88.2% of orders are fully AI-generated video; 43.7% vertical (9:16) nearly matches 52.8% landscape—social-first AI output is mainstream.",
+      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
+      "source": "Vivideo",
       "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
     },
     {
-      "title": "Best Faceless YouTube Niches & Channel Ideas in 2026 (100 Ideas + CPM Data + AI Tools) | OutlierKit Resources",
-      "description": "2 weeks ago - Notable examples: The 2026 faceless stack is end-to-end AI: research, script, voice, visuals, editing, and publishing. The biggest shift this year is the rise of scene-based AI video generators that collapse the entire script-to-publish pipeline ...",
-      "url": "https://outlierkit.com/resources/faceless-youtube-channels/",
-      "source": "Outlierkit",
+      "title": "AI Video Marketing in 2026: Strategy Guide for Business Teams",
+      "description": "Product demos lead at 31% of AI marketing video; personalized one-to-one outreach is fastest-growing segment; average clip length 42 seconds, 59% vertical.",
+      "url": "https://www.ngram.com/article/ai-video-marketing",
+      "source": "ngram",
       "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "10 Faceless AI YouTube Niches That Are Blowing Up in 2026 | by Esha Usmani | Write A Catalyst | Apr, 2026 | Medium",
-      "description": "April 11, 2026 - 👉 They’re choosing low-competition, high-demand niches 👉 They’re using simple, repeatable AI content systems 👉 And they’re scaling fast · In this article, you’ll discover 10 faceless YouTube niches that are exploding in 2026 plus the exact strategies behind them.",
-      "url": "https://medium.com/write-a-catalyst/10-faceless-ai-youtube-niches-that-are-blowing-up-in-2026-fe7321a07e9d",
-      "source": "Medium",
+      "title": "The State of AI Video Generation in 2026: What Works & What Doesn't",
+      "description": "Case studies: furniture retailer cut production costs 78% with Runway Gen-3; Fortune 500 Synthesia training in 12 languages lifted completion from 64% to 87%.",
+      "url": "https://is4.ai/blog/our-blog-1/ai-video-generation-2026-what-works-what-doesnt-340",
+      "source": "is4.ai",
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "15 Trending Faceless YouTube Channel Ideas for 2026",
-      "description": "February 21, 2025 - This tutorial showcases how AI can turn your idea into a publish-ready video: Looking for top, profitable faceless YouTube channel ideas and niches in 2026?",
-      "url": "https://invideo.io/blog/faceless-youtube-channel-ideas/",
-      "source": "Invideo",
+      "title": "AI Video Tools & Software for 2026 — Futurepedia Directory",
+      "description": "Curated catalog of text-to-video and generative stacks for creators mapping tools to precision visual storytelling workflows.",
+      "url": "https://www.futurepedia.io/ai-tools/video",
+      "source": "Futurepedia",
       "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "AI Video Generator Coupons, Promo Codes & Discounts June 2026 2",
-      "description": "for June 2026 Vizard.ai Coupon – 5% discount on all monthly subscription plans. Flat 30% Off on yearly subscription plan. Scale and Business yearly ...",
-      "url": "https://hostingcouponspot.com/coupons/ai-video-software/page/2",
-      "source": "Hostingcouponspot",
+      "title": "InVideo Coupon: 50 Free AI Minutes — April 2026",
+      "description": "USA Today deals list 50 free AI minutes first month plus up to 20% off annual plans—six active offers tracked for InVideo.",
+      "url": "https://www.usatoday.com/deals/invideo",
+      "source": "USA Today",
       "image_url": "https://images.unsplash.com/photo-1607083206869-4c6d35b4c5f3?w=600&q=60"
     },
     {
-      "title": "Vidnoz AI Coupon Code & Discount – February 2026 - WPdiscounts.io",
-      "description": "Save 20% with this Vidnoz AI coupon code, valid in February 2026! Get 20% OFF on all plans on Vidnoz AI. You can get 25% off by paying annually and get ...",
-      "url": "https://wpdiscounts.io/ai-tools/vidnoz-ai-coupon/",
-      "source": "Wpdiscounts",
+      "title": "AI Video Generator Pricing Comparison 2026 — 7 Tools",
+      "description": "Per-video costs normalized from ~$0.01 (VO3 volume) to ~$0.48 (Runway Gen-3); compares Kling, Pika, Sora, Luma, Hailuo free tiers and caps.",
+      "url": "https://www.vo3ai.com/ai-video-generator-pricing-comparison",
+      "source": "VO3 AI",
       "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "65% OFF AI Video Generator AI Coupon Codes - June 2026 Promo ...",
-      "description": "65% Coupons available. Enjoy 25% off when you shop online. Receive an instant discount of at most 10% off on your purchases. 60% off annual plans – Code: ...",
-      "url": "https://ai-video-generator-ai.tenereteam.com/coupons",
-      "source": "Ai-Video-Generator-Ai",
+      "title": "AI Video Software Coupons and Deals 2026 — BreTech",
+      "description": "Promo codes and discounts across Vidnoz, InVideo, and Pictory—plan comparison hub for stacking annual savings.",
+      "url": "https://www.bretech.net/category/ai-video/",
+      "source": "BreTech",
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Zebracat.AI Coupon Code [EBUBE] – Get 15% Off AI Video Creation ...",
-      "description": "2 days ago · The exclusive coupon code EBUBE currently gives creators, an extra 15% OFF on eligible Zebracat.AI plans and AI-powered video creation tools.",
-      "url": "https://tsa-fundraising-heroes.raiselysite.com/bolw-caterina/posts/zebracatai-coupon-code-ebube-get-15-off-ai-video-creation-content-automation-tools",
-      "source": "Tsa-Fundraising-Heroes",
+      "title": "Creatify Pricing — AI Video for TikTok Ads and Social",
+      "description": "Starter through Pro tiers with 100–5,000 monthly credits, 300–1500 AI actors, URL-to-video and batch ad flows for performance marketers.",
+      "url": "https://creatify.ai/pricing",
+      "source": "Creatify",
       "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "AIF 2026 | AI Festival",
-      "description": "Welcome to Runway's fourth annual AI Festival. Originally established in 2022 with a focus on AI films, AIF has evolved into an interdisciplinary celebration of creatives experimenting at the forefront of art and technology. In Film, Design, New Media, Fashion, Advertising and Gaming. Works showcase",
-      "url": "https://aif.runwayml.com/",
-      "source": "Aif",
+      "title": "Venice Biennale 2026 China Pavilion Dream Stream — AI-Enhanced Art",
+      "description": "Dream Stream blends Song Dynasty handscrolls with video, interactive installs, and AI-assisted production—including calligraphy co-authored with a robot.",
+      "url": "https://www.travelandtourworld.com/news/article/italy-venice-showcases-china-pavilion-dream-stream-at-la-biennale-di-venezia-2026-where-eastern-cultural-lineages-meet-innovative-interactive-art-and-ai-enhanced-experiences-for-visitors/",
+      "source": "Travel And Tour World",
       "image_url": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=600&q=60"
     },
     {
-      "title": "Runway AI Festival 2026 - AI Film Contests",
-      "description": "Runway AI Festival 2026 Runway The world's largest AI film competition. Grand Prix $50K + 1M Runway credits. Films 3-15 min with generative video required. Screenings at Lincoln Center NYC and The Broad Stage LA.",
-      "url": "https://aifilmcontests.com/contests/runway-aif-2026",
-      "source": "Aifilmcontests",
+      "title": "AI Video Generation in 2026: Real Creative Infrastructure",
+      "description": "European Business Review argues 2026 is the year controllable workflows—edit, extend, object control—beat one-shot slot-machine demos for real products.",
+      "url": "https://www.europeanbusinessreview.com/ai-video-generation-in-2026-the-year-it-started-looking-like-real-creative-infrastructure/",
+      "source": "European Business Review",
       "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "Runway AI Film Festival - festagent.com",
-      "description": "Years running: 5 (since 2022) Runway AI Film Festival AIFF is a celebration of the art and artists embracing AI tools for filmmaking.",
-      "url": "https://festagent.com/en/festivals/runwayai",
-      "source": "Festagent",
+      "title": "SAQA Global Exhibition: AI Artistic Interpretations",
+      "description": "Fiber artists worldwide merge algorithms and human craft—AI as tool or subject in a multi-year global quilt arts showcase through 2029.",
+      "url": "https://www.saqa.com/art/exhibitions/ai-artistic-interpretations-saqa-global-exhibition",
+      "source": "SAQA",
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Runway Widens Scope Of Its Annual AI Festival Adding Categories Beyond Film",
-      "description": "The AI Film Festival is branching out to add categories like advertising, gaming, design and fashion, AI firm and festival organizer Runway said.",
-      "url": "https://deadline.com/2026/01/runway-ai-festival-adding-new-categories-1236700233/",
-      "source": "Deadline",
+      "title": "imgMotion Community Showcase — AI Scene Maker & AR",
+      "description": "20+ AI tools for image-to-video and animation; public gallery highlights Seedance, Hailuo, and LTXV clips from creators building AR-ready motion.",
+      "url": "http://1busyguy.com/",
+      "source": "imgMotion",
       "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&q=60"
     }
   ]
