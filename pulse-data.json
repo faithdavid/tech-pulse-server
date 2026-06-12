@@ -1,23 +1,23 @@
 {
   "ai": [
     {
+      "title": "SpaceX, Anthropic, and OpenAI's hot IPO summer",
+      "description": "MANGOS — Meta, Anthropic, Nvidia, Google, OpenAI, and SpaceX — are stress-testing public markets as half the cohort debuts in the same window.",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
+    },
+    {
       "title": "Cheaper, faster, and culturally aware, Avataar's video AI is built for India's scale",
       "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
       "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
       "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
       "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world",
       "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
       "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "Decart's new world model can simulate hours of photorealistic driving — with some caveats",
-      "description": "Oasis 3 generates photorealistic driving environments for AV testing, now available via API for developers.",
-      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
@@ -31,11 +31,18 @@
   ],
   "funding": [
     {
-      "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world",
-      "description": "Prometheus valued at $41B as it targets physical-world automation across engineering and drug design.",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "title": "Elon Musk becomes the world's first trillionaire after SpaceX's historic IPO",
+      "description": "SpaceX's public debut pushed Musk's paper wealth past $1 trillion as shares opened well above the $135 IPO price.",
+      "url": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
+    },
+    {
+      "title": "SpaceX opens at $150, an 11% pop for the most anticipated debut in history",
+      "description": "The company made its heavily anticipated debut Friday, trading 11% above its $135 IPO pricing.",
+      "url": "https://techcrunch.com/2026/06/12/spacex-opens-at-150-an-11-pop-for-the-most-anticipated-debut-in-history/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1517976487492-5750f319fe3a?w=600&q=60"
     },
     {
       "title": "Theker just raised $85M to build the factory robot that doesn't specialize in anything",
@@ -50,13 +57,6 @@
       "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
       "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1579621970563-ebec756aff7e?w=600&q=60"
-    },
-    {
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "description": "SpaceX set IPO pricing at $135 per share, opening the largest public offering in market history.",
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1517976487492-5750f319fe3a?w=600&q=60"
     }
   ],
   "tools": [
@@ -121,16 +121,16 @@
   ],
   "oss": [
     {
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "description": "Hugging Face deep dive on fusing MLP layers in PyTorch for faster training and inference.",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "description": "Allen AI's olmo-eval gives open-model builders a structured bench for the full train-eval-iterate loop.",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
     },
     {
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "description": "OpenEnv gains community momentum as a shared environment layer for reinforcement learning agents.",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "description": "Hugging Face deep dive on fusing MLP layers in PyTorch for faster training and inference.",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     },
@@ -142,9 +142,9 @@
       "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=600&q=60"
     },
     {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "description": "Walkthrough of agent workflows combining multiple Spaces into a single multimodal demo.",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "description": "OpenEnv gains community momentum as a shared environment layer for reinforcement learning agents.",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     }
