@@ -1,152 +1,152 @@
 {
   "ai": [
     {
-      "title": "Claude Opus 4.6 adaptive thinking and GPT-5.3 Garlic density push",
-      "description": "March 2026 wave: Anthropic adds four effort levels and context compaction; OpenAI cites 6× knowledge density per byte, 400K context, and 128K max output.",
-      "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
-      "source": "Mean CEO",
+      "title": "OpenAI confidential IPO filing targets $1T+ valuation",
+      "description": "June 8, 2026: OpenAI filed confidentially with the SEC; Goldman Sachs and Morgan Stanley lead. Jury cleared Musk lawsuit path; $122B March round at $852B post-money.",
+      "url": "https://sacra.com/c/openai",
+      "source": "Sacra",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
       "title": "Model Context Protocol crosses 97M installs",
-      "description": "Anthropic's MCP graduates from experiment to foundational agent infrastructure as install volume hits nine figures in March 2026.",
+      "description": "Anthropic's MCP hit nine-figure installs in March 2026 — shift from experiment to default agent wiring for tools and enterprise stacks.",
       "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "MIT generative model streamlines protein drug design",
-      "description": "Researchers predict synthetic protein folding and target binding to cut wet-lab trial-and-error for oncology and rare-disease pipelines.",
+      "title": "255+ model releases in Q1 2026 frontier sprint",
+      "description": "LLM Stats tracks unprecedented velocity: Gemini 3.1 Pro, Claude Opus 4.6, GPT-5.3 Codex, Grok 4.20, Qwen 3.5, GLM-5 among February–March drops.",
       "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
       "source": "Mean CEO",
-      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "March frontier drop: GPT-5.4, Qwen3.5, Grok 4.20, Nemotron 3 Super",
-      "description": "WhatLLM tracks nine text models in one month; GTC 2026 Vera Rubin platform claims ~10× training cost cuts for trillion-parameter stacks.",
-      "url": "http://whatllm.org/blog/llm-releases-march-2026",
-      "source": "WhatLLM.org",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+      "title": "GPT-5.4 and Gemini 3.1 Ultra headline March wave",
+      "description": "BuildFastWithAI counts 12+ major releases in the March window — benchmark, price, and context-window comparisons across frontier labs.",
+      "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
+      "source": "BuildFastWithAI",
+      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Shield AI closes $2B Series G — $3B raised to date",
-      "description": "San Diego defense autonomy leader tops March 2026 global rounds per AlleyWatch; backers include a16z, Advent, and Point72.",
-      "url": "http://alleywatch.com/2026/04/global-startup-funding-top-largest-march-2026-vc",
-      "source": "AlleyWatch",
+      "title": "Shield AI $1.5B Series G at $12.7B valuation",
+      "description": "March 25, 2026: Hivemind autonomy for USAF Collaborative Combat Aircraft; $540M+ 2026 revenue projected — 80% YoY growth.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Nexthop AI $500M Series B for AI networking fabric",
-      "description": "Santa Clara startup hits $610M total equity for optics, cables, and software targeting GPU-scale AI environments.",
-      "url": "http://alleywatch.com/2026/04/global-startup-funding-top-largest-march-2026-vc",
-      "source": "AlleyWatch",
+      "title": "Q1 2026 VC hits $297B — AI takes 81%",
+      "description": "Record quarter: OpenAI $122B, Anthropic $30B, xAI $20B mega-rounds; four companies absorbed 63% of global Q1 VC.",
+      "url": "https://tech-insider.org/q1-2026-venture-capital-297-billion-ai-startup-funding-record/",
+      "source": "Tech Insider",
       "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "Rebellions $400M pre-IPO at ~$2.34B valuation",
-      "description": "Korean AI chipmaker launches RebelRack and RebelPod; total funding $850M with US expansion ahead of a future listing.",
-      "url": "http://datacenterdynamics.com/en/news/ai-chip-startup-rebellions-raises-400m-in-pre-ipo-funding-round-launches-two-ai-infrastructure-platforms",
-      "source": "DCD",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "Anthropic ~$5B round at $170B valuation",
+      "description": "Iconiq-led raise; ~$19B ARR run-rate by early 2026 vs ~$4B mid-2025 — enterprise and cloud contract surge.",
+      "url": "https://sacra.com/c/openai",
+      "source": "Sacra",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "Anthropic confidential IPO filing heats OpenAI race",
-      "description": "Reuters: Anthropic moves toward a US listing; Altman says OpenAI is not focused on IPO timing after rival filing news.",
-      "url": "https://www.reuters.com/business/ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01/",
-      "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "Crossover funds anchor Series B+ AI rounds",
+      "description": "2026 shift: strategics and institutions lead largest deals; acquihires and consolidation reshape mid-market outcomes.",
+      "url": "https://qubit.capital/blog/ai-startup-fundraising-trends",
+      "source": "Qubit Capital",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Apple Foundation Models — free PCC for sub-2M-download devs",
-      "description": "WWDC 2026 State of the Union adds image input, server-side Claude/Gemini via Swift API, and open-source release later this summer.",
-      "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates",
-      "source": "MacRumors",
+      "title": "Xcode 27 agentic coding with MCP and ACP",
+      "description": "WWDC 2026: Anthropic, Google, and OpenAI agents in Xcode; Device Hub simulator control, Playgrounds validation, GitHub/Figma plug-ins.",
+      "url": "https://www.iclarified.com/101143/apple-unveils-new-ai-frameworks-and-agentic-coding-in-xcode-27",
+      "source": "iClarified",
       "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
     },
     {
-      "title": "Microsoft Build — Scout in Copilot and OpenClaw on Windows",
-      "description": "Agent tooling expands across desktop with Microsoft IQ and new controls for third-party agent runtimes on Windows.",
-      "url": "https://www.developer-tech.com/news/microsoft-build-ai-agents-copilot-windows-developer-tools/",
-      "source": "Developer Tech",
+      "title": "Temporal Cloud 2.0 durable execution",
+      "description": "Workflow orchestration with signals/updates, visual replay, and guaranteed completion — Go/TS/Python/Java without custom retry glue.",
+      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
+      "source": "DEV Community",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Xcode 26 RC and Liquid Glass SDK push",
-      "description": "Apple Developer news urges TestFlight validation against latest SDKs, Foundation Models framework, and redesigned platform UI.",
-      "url": "https://developer.apple.com/news/",
-      "source": "Apple Developer",
+      "title": "Swift 6.4 and SwiftUI performance pass",
+      "description": "Faster layout rendering, reorderable containers, Spatial Preview for Vision Pro streams — Liquid Glass transparency slider in Settings.",
+      "url": "https://www.iclarified.com/101143/apple-unveils-new-ai-frameworks-and-agentic-coding-in-xcode-27",
+      "source": "iClarified",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
     },
     {
-      "title": "Agent-runner frameworks (BMAD) and workflow engines 2.0",
-      "description": "Figma 2026 trends cite one senior dev orchestrating 4–5 engineer output; Temporal-style retries, signals, and replay for agent pipelines.",
-      "url": "https://www.figma.com/resource-library/web-development-trends/",
-      "source": "Figma",
-      "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=60"
+      "title": "Rails 7.2 Solid Queue, Cache, Cable",
+      "description": "Built-in job and cache backends without Redis; Hotwire Turbo 8 morphing; rails-ai gem for OpenAI, Anthropic, Google.",
+      "url": "https://www.sencha.com/blog/web-application-development-top-frameworks/",
+      "source": "Sencha",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "White House National AI Policy Framework (March 20, 2026)",
-      "description": "Federal blueprint urges unified congressional approach, faster data-center siting, and measures aimed at preempting a patchwork of state AI laws.",
-      "url": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20260323-white-house-releases-national-policy-framework-for-artificial-intelligence",
-      "source": "WilmerHale",
-      "image_url": "https://images.unsplash.com/photo-1589829545855-d10d945aee59?w=600&q=60"
-    },
-    {
-      "title": "California SB 53 — safety transparency and whistleblower protections",
-      "description": "The Verge: revised successor to SB 1047 requires major AI vendors to publish safety and security details.",
-      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
-      "source": "The Verge",
+      "title": "Big Tech $36M lobbying in H1 2025 session days",
+      "description": "Eight majors averaged ~$320K/day in session; 10-year state AI moratorium stripped from final bill after bipartisan pushback.",
+      "url": "https://issueone.org/articles/as-washington-debates-major-tech-and-ai-policy-changes-big-techs-lobbying-is-relentless",
+      "source": "Issue One",
       "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
     },
     {
-      "title": "Pentagon AI supply-chain fallout after Anthropic restrictions",
-      "description": "Agencies phasing out Claude over six months; OpenAI-DoD deal triggers internal backlash as autonomous-weapons policy hardens.",
-      "url": "http://whatllm.org/blog/llm-releases-march-2026",
-      "source": "WhatLLM.org",
+      "title": "California AI transparency law live Jan 2026",
+      "description": "Americans gain AI system transparency rights alongside Colorado crypto ATM refunds and broader repair laws per state rollouts.",
+      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
+      "source": "The Verge",
       "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     },
     {
-      "title": "US AI governance — FTC Section 5 and state laws active in 2026",
-      "description": "VerifyWise: no single federal AI statute, but Colorado, California, Texas, Illinois, and NIST AI RMF drive real compliance pressure now.",
-      "url": "https://verifywise.ai/blog/state-of-ai-governance-regulations-united-states-2026",
-      "source": "VerifyWise",
-      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
+      "title": "FDA trims oversight on some AI-enabled tech",
+      "description": "Wilson Sonsini 2026 preview: HHS action expected from RFI; FDA guidance already easing rules for select AI medical devices.",
+      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
+      "source": "Wilson Sonsini",
+      "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"
+    },
+    {
+      "title": "Colorado ADMT law reset to Jan 2027",
+      "description": "March 2026 working group draft repeals and reenacts automated decision-making rules with delayed effective date.",
+      "url": "https://www.cooley.com/news/insight/2026/2026-04-24-state-ai-laws-where-are-they-now",
+      "source": "Cooley",
+      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "State of Open Source on Hugging Face — Spring 2026",
-      "description": "Hub blog: Qwen and DeepSeek momentum vs renewed Western pushes (GPT-OSS, OLMo, Gemma) for deployable open weights.",
+      "title": "State of Open Source on HF — Spring 2026",
+      "description": "Hub growth into robotics and science; Western push for GPT-OSS, OLMo, Gemma vs Qwen/DeepSeek adoption momentum.",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "MiniMax M2.7 and MiMo-V2-Pro — same-day open-weight rivals",
-      "description": "March 18 drops score ~49–50 on intelligence indexes with strong agentic Elo for production-tier local and hosted deploys.",
-      "url": "http://whatllm.org/blog/llm-releases-march-2026",
-      "source": "WhatLLM.org",
+      "title": "2.2M+ models, 80% downloads from top 50",
+      "description": "Hub stats: 2.2B downloads; 92.48% under 1B params; NLP 58.1%, CV 21.2%, audio 15.1% of traffic.",
+      "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
+      "source": "Programming Helper",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "Kimi K2.6 and Qwen3 235B-A22B lead 2026 OSS LLMs",
+      "description": "Modified MIT Kimi for agentic coding; Apache 2.0 Qwen3 MoE for multilingual enterprise; Llama 4 Scout 10M context.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "Hugging Face Blog",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "HunyuanVideo 13B open text-to-video on Hub",
+      "description": "Tencent OSS model with MLLM encoder and 3D VAE; human evals vs Runway Gen-3; FP8 quant cuts ~10GB VRAM.",
+      "url": "https://lovableapp.org/blog/latest-text-to-video-models-huggingface-2026",
+      "source": "Lovable APP",
       "image_url": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=600&q=60"
-    },
-    {
-      "title": "Hugging Face ml-intern — open agent for LLM post-training",
-      "description": "Automates fine-tuning and evaluation workflow steps that teams previously scripted by hand across HF tooling.",
-      "url": "https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/",
-      "source": "MarkTechPost",
-      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
-    },
-    {
-      "title": "22 models logged on HF timeline for March 2026 alone",
-      "description": "LM Market Cap roll includes GPT-5.4 Pro, Qwen3.5-9B, Nemotron 3 Super, and Gemini 3.1 Flash Lite Preview with context up to 2M.",
-      "url": "https://lmmarketcap.com/new-ai-models",
-      "source": "LM Market Cap",
-      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
     }
   ]
 }
