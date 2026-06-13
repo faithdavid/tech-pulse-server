@@ -1,152 +1,152 @@
 {
   "ai": [
     {
-      "title": "Google's DiffusionGemma: open diffusion model for faster text generation",
-      "description": "Google open-sources DiffusionGemma, a diffusion-based text generator aimed at faster single-GPU inference versus autoregressive decoding.",
-      "url": "https://aidailypost.com/",
-      "source": "AI Daily Post",
+      "title": "Anthropic's Model Context Protocol crosses 97 million installs",
+      "description": "MCP hit 97M installs in March 2026, marking its shift from experimental agent standard to foundational infrastructure.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "Perplexity routes deep-research subtasks across 20+ models using Gemini agent",
-      "description": "Perplexity's Computer platform orchestrates Deep Research across 20+ frontier models via multi-model agent collaboration.",
-      "url": "https://aidailypost.com/",
-      "source": "AI Daily Post",
+      "title": "OpenAI's 2026 release cadence: GPT-5.5, Memory Sources, and Codex stack",
+      "description": "Official OpenAI blog trail shows new model variants roughly every 4–6 weeks plus Memory Sources and agent improvements.",
+      "url": "https://beginnersinai.org/whats-new-chatgpt-2026/",
+      "source": "Beginners in AI",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Anthropic's Model Context Protocol crosses 97 million installs",
-      "description": "MCP hit 97M installs in March 2026, signaling agent tooling standards moving from experiment to core infrastructure.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "arXiv cs.AI: AXIOM neuro-symbolic math reasoning and probing-guided drug design",
+      "description": "June 2026 preprints highlight verifiable math agents and structure-based molecular optimization for LLM drug-design workflows.",
+      "url": "https://arxiv.org/list/cs.AI/current",
+      "source": "arXiv",
+      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     },
     {
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "description": "The round would nearly double Mistral's Series C €11.7B mark, putting the French frontier lab at roughly $23B.",
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
+      "title": "LLM Stats tracks 500+ models with real-time API and version launches",
+      "description": "Live feed covers GPT, Claude, Gemini, Llama, and hundreds more as labs accelerate 2026 model updates.",
+      "url": "https://llm-stats.com/llm-updates",
+      "source": "LLM Stats",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Q1 2026 shatters venture funding records as AI boom pushes startup investment to $300B",
-      "description": "Crunchbase data through March 31 shows global venture funding at record pace, led by AI-heavy rounds.",
+      "title": "Q1 2026 shatters venture records as AI boom pushes startup investment toward $300B",
+      "description": "Crunchbase data through March 31: four of the five largest venture rounds ever closed in Q1, with frontier labs leading.",
       "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
       "source": "Crunchbase News",
-      "image_url": "https://images.unsplash.com/photo-1611974789855?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies",
-      "description": "SpaceX's Nasdaq debut traded well above its $135 IPO price as Anthropic and OpenAI watch the listing as their own IPO benchmark.",
-      "url": "https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1517976487492-5750f319fe3a?w=600&q=60"
-    },
-    {
-      "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer'",
-      "description": "Physical AI startup Prometheus is valued at $41B as it targets automated heavy engineering and drug design.",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
-    },
-    {
-      "title": "U.S. Army awards Anduril up to $20B enterprise contract",
-      "description": "Anduril projects $4.3B 2026 revenue on Arsenal-1 scaling after a 10-year Army enterprise deal signed in March 2026.",
-      "url": "https://aifundingtracker.com/",
-      "source": "AI Funding Tracker",
+      "title": "OpenAI $122B, Anthropic $30B, xAI $20B, Waymo $16B in Q1 mega-rounds",
+      "description": "Frontier labs and autonomy collectively raised $188B in the quarter's headline private financings.",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "source": "Crunchbase News",
       "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
+    },
+    {
+      "title": "Anthropic run-rate revenue reportedly surpasses OpenAI on latest private round",
+      "description": "Tracker data cites ~$47B annualized vs OpenAI's ~$24B+ while total raised still favors OpenAI at ~$186B vs ~$132B+.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+    },
+    {
+      "title": "AI-focused M&A gains traction in IT services for the first time",
+      "description": "Accenture, Insight, and a $40B AI infrastructure consortium deal signal strategic—not speculative—AI acquisitions.",
+      "url": "https://www.crn.com/news/ai/2026/ai-focused-acquisitions-gain-traction-in-it-services-m-a-for-first-time",
+      "source": "CRN",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "WWDC26 reveals Foundation Models framework and Liquid Glass design across Apple platforms",
-      "description": "Apple's June 8–12 online WWDC ships Xcode 26 RC, on-device Apple Intelligence APIs, and App Store submissions for iOS 26 family releases.",
-      "url": "https://developer.apple.com/news/",
-      "source": "Apple Developer",
+      "title": "Apple WWDC: Core AI on-device LLMs, Dynamic Profiles, and agentic Xcode 27",
+      "description": "June 2026 release brings Anthropic, Google, and OpenAI agents into Xcode plus Neural Engine–optimized local model runtime.",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "source": "Apple Newsroom",
       "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
     },
     {
-      "title": "Coinbase's new tool can help agents trade and pay for premium research",
-      "description": "Coinbase's agent stack uses the x402 protocol to pay for data and APIs in autonomous trading workflows.",
-      "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1461749280684?w=600&q=60"
-    },
-    {
-      "title": "Fireworks AI lands on Microsoft Foundry Azure",
-      "description": "Partnership brings Fireworks open-model inference to Azure Foundry days after its Hathora acquisition for real-time workloads.",
-      "url": "https://fireworks.ai/blog/fireworks-on-microsoft-foundry",
-      "source": "Fireworks AI",
+      "title": "Hugging Face smolagents: ~1,000 lines of Python for code-first agent routing",
+      "description": "Models write and execute raw Python in managed sandboxes instead of heavy JSON tool schemas.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Meta's Edits app is getting an AI assistant and a desktop version",
-      "description": "Meta embeds an AI assistant in Edits and ships desktop to keep Instagram creators on-platform.",
-      "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e39e9426?w=600&q=60"
+      "title": "Microsoft ASSERT open trust stack for agent safety regression testing",
+      "description": "ASSERT plus Agent Control Specification standardize policy scoring and human-in-the-loop limits across frameworks.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
+    },
+    {
+      "title": "Meta-frameworks dominate 2026 full-stack web: Next.js, Remix, SvelteKit, Nuxt",
+      "description": "SSR, edge rendering, and API routes are default architecture for performance and SEO-heavy apps.",
+      "url": "https://www.refontelearning.com/blog/new-front-end-development-tools-in-2026-a-comprehensive-guide",
+      "source": "Refonte Learning",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "description": "Google says \"Outsider Enterprise\" used AI to hit hundreds of thousands of victims with 2.5M scam texts in two weeks.",
-      "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=60"
-    },
-    {
-      "title": "California AI transparency and worker-impact bills advance in Senate",
-      "description": "AB 2713, AB 2575, and AB 2545 move through Senate committees with hearings scheduled mid-June 2026.",
-      "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-june12-2026",
-      "source": "Transparency Coalition",
+      "title": "White House National Policy Framework for AI legislative recommendations",
+      "description": "March 2026 framework pushes federal preemption of burdensome state rules while states keep advancing their own bills.",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial",
+      "source": "Holland & Knight",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "Illinois sends landmark frontier model safety bill SB 315 to Gov. Pritzker",
-      "description": "First-in-nation style act would require third-party audits of frontier model safety protocols.",
-      "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-june12-2026",
-      "source": "Transparency Coalition",
+      "title": "EU AI Act: high-risk and transparency rules tighten by August 2, 2026",
+      "description": "Enterprises face HRAI compliance deadlines and expanded transparency obligations this summer.",
+      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
+      "source": "Wilson Sonsini",
       "image_url": "https://images.unsplash.com/photo-1593941707882-a5bba14938ca?w=600&q=60"
     },
     {
-      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-      "description": "Google notified 100+ organizations with potentially vulnerable servers after a mass-exploitation campaign.",
-      "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1519389950473?w=600&q=60"
+      "title": "California SB 53 and New York RAISE Act align on frontier model disclosures",
+      "description": "March NY amendments mirror California safety frameworks, safety incidents, and transparency for largest GP models.",
+      "url": "https://www.wsgr.com/en/insights/recent-ai-regulatory-developments-in-the-united-states.html",
+      "source": "Wilson Sonsini",
+      "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=60"
+    },
+    {
+      "title": "Protecting Consumers From Deceptive AI Act targets watermarking and provenance",
+      "description": "April 2026 federal bill would task NIST with guidelines for AI-generated audio, video, and text labeling.",
+      "url": "https://www.wsgr.com/en/insights/recent-ai-regulatory-developments-in-the-united-states.html",
+      "source": "Wilson Sonsini",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Qwen3.5-9B through 0.8B now on Hugging Face Hub and ModelScope",
-      "description": "Alibaba's Qwen team released the Qwen3.5 small-model lineup on March 2, 2026 for edge and laptop deployment.",
-      "url": "https://github.com/QwenLM/Qwen3.6",
-      "source": "Qwen / GitHub",
-      "image_url": "https://images.unsplash.com/photo-1558494949?w=600&q=60"
+      "title": "Hugging Face Spring 2026: South Korea sovereign AI models trend on the Hub",
+      "description": "National champions LG AI Research, SK Telecom, Naver Cloud, and others drove simultaneous Hub momentum in Feb–Mar 2026.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     },
     {
-      "title": "Hugging Face: Chinese open models overtook U.S. on the Hub in Spring 2026",
-      "description": "State of Open Source report credits Qwen and DeepSeek for a surge in derivatives and downloads.",
-      "url": "https://getaibook.com/news/hugging-face-reports-chinese-open-models-overtook-us-on-hub-as-qwen-and-deepseek/",
-      "source": "Hugging Face ecosystem",
+      "title": "Hub hosts 2M+ models; top 50 entities drive ~80% of downloads",
+      "description": "92% of downloads are sub-1B-parameter models; NLP 58%, vision 21%, audio 15% of usage.",
+      "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
+      "source": "Programming Helper",
       "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     },
     {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "description": "Allen AI's olmo-eval gives open-model builders a structured bench for the full train-eval-iterate loop.",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=600&q=60"
+      "title": "HunyuanVideo 13B open text-to-video on Hugging Face",
+      "description": "Tencent's foundation model targets Runway-class motion with FP8 quant and parallel xDiT inference options.",
+      "url": "https://a2aprotocol.ai/insights/latest-text-to-video-models-huggingface-2026",
+      "source": "A2A Protocol",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e39e9426?w=600&q=60"
     },
     {
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "description": "JetBrains releases Mellum2, a 12B MoE coding model on the Hub for developer workflows.",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "Open-source June 2026: MiniMax M3, Cosmos 3, LangGraph, OpenClaw local stacks",
+      "description": "Sparse open weights plus RTX-class local compute push agent workflows off pure cloud hosting.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=600&q=60"
     }
   ]
 }
