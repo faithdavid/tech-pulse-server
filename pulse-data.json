@@ -1,151 +1,151 @@
 {
   "ai": [
     {
-      "title": "Anthropic's Model Context Protocol crosses 97 million installs",
-      "description": "MCP hit 97M installs in March 2026, marking its shift from experimental agent standard to foundational infrastructure.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
+      "title": "Anthropic Claude Fable 5 — newest frontier model on Jun 9, 2026",
+      "description": "AI Release Tracker lists Fable 5 as the latest major lab drop, ahead of a packed June frontier cadence.",
+      "url": "https://aireleasetracker.com/latest",
+      "source": "AI Release Tracker",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "OpenAI's 2026 release cadence: GPT-5.5, Memory Sources, and Codex stack",
-      "description": "Official OpenAI blog trail shows new model variants roughly every 4–6 weeks plus Memory Sources and agent improvements.",
-      "url": "https://beginnersinai.org/whats-new-chatgpt-2026/",
-      "source": "Beginners in AI",
+      "title": "Google TurboQuant at ICLR 2026 slashes KV-cache memory for large models",
+      "description": "Research cuts one of the biggest inference bottlenecks for long-context and high-throughput serving.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "arXiv cs.AI: AXIOM neuro-symbolic math reasoning and probing-guided drug design",
-      "description": "June 2026 preprints highlight verifiable math agents and structure-based molecular optimization for LLM drug-design workflows.",
-      "url": "https://arxiv.org/list/cs.AI/current",
-      "source": "arXiv",
+      "title": "arXiv week of Jun 8–14: agentic environment engineering survey and open T2I recipe i1",
+      "description": "Featured papers cover LLM agent environments and fully open text-to-image training recipes with ablations.",
+      "url": "https://arxiv.deeppaper.ai/papers/weekly",
+      "source": "DeepPaper / arXiv",
       "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     },
     {
-      "title": "LLM Stats tracks 500+ models with real-time API and version launches",
-      "description": "Live feed covers GPT, Claude, Gemini, Llama, and hundreds more as labs accelerate 2026 model updates.",
-      "url": "https://llm-stats.com/llm-updates",
-      "source": "LLM Stats",
+      "title": "AXIOM neuro-symbolic architecture targets verifiable mathematical reasoning",
+      "description": "12-page preprint ships live demo and Zenodo artifacts for trust-first math agents.",
+      "url": "https://arxiv.org/list/cs.AI/current",
+      "source": "arXiv",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Q1 2026 shatters venture records as AI boom pushes startup investment toward $300B",
-      "description": "Crunchbase data through March 31: four of the five largest venture rounds ever closed in Q1, with frontier labs leading.",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "title": "Flourish raises $500M for brain-inspired foundational AI models",
+      "description": "Crunchbase highlights the NYC startup among the week's largest rounds in enterprise software and AI.",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/",
       "source": "Crunchbase News",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "OpenAI $122B, Anthropic $30B, xAI $20B, Waymo $16B in Q1 mega-rounds",
-      "description": "Frontier labs and autonomy collectively raised $188B in the quarter's headline private financings.",
-      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
-      "source": "Crunchbase News",
+      "title": "Coram AI closes $35M Series B; Ethyreal Bio $101M Series B (Jun 10)",
+      "description": "Fundup AI feed shows active mid-stage AI and life-sciences financings this week.",
+      "url": "https://fundup.ai/recently-funded-startups",
+      "source": "Fundup AI",
       "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "Anthropic run-rate revenue reportedly surpasses OpenAI on latest private round",
-      "description": "Tracker data cites ~$47B annualized vs OpenAI's ~$24B+ while total raised still favors OpenAI at ~$186B vs ~$132B+.",
-      "url": "https://aifundingtracker.com/top-50-ai-startups/",
-      "source": "AI Funding Tracker",
+      "title": "Equal AI lands $30M; ShopAgentic €1.9M — Jun 11 global seed/Series activity",
+      "description": "India and EU software startups continue to attract capital alongside US frontier labs.",
+      "url": "https://fundup.ai/recently-funded-startups",
+      "source": "Fundup AI",
       "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     },
     {
-      "title": "AI-focused M&A gains traction in IT services for the first time",
-      "description": "Accenture, Insight, and a $40B AI infrastructure consortium deal signal strategic—not speculative—AI acquisitions.",
-      "url": "https://www.crn.com/news/ai/2026/ai-focused-acquisitions-gain-traction-in-it-services-m-a-for-first-time",
-      "source": "CRN",
+      "title": "Q1 2026: OpenAI $122B, Anthropic $30B, xAI $20B, Waymo $16B mega-rounds",
+      "description": "AI captured 80%+ of venture dollars; four of history's five largest rounds closed in one quarter.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
+      "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Apple WWDC: Core AI on-device LLMs, Dynamic Profiles, and agentic Xcode 27",
-      "description": "June 2026 release brings Anthropic, Google, and OpenAI agents into Xcode plus Neural Engine–optimized local model runtime.",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "source": "Apple Newsroom",
+      "title": "Apple 2026 Platforms SOTU: Core AI, Foundation Models framework, Dynamic Profiles",
+      "description": "On-device custom models, PCC for smaller devs, and multi-agent workflows with Claude/Gemini server support.",
+      "url": "https://forums.macrumors.com/threads/apple-outlines-major-ai-and-developer-tool-updates-at-2026-platforms-state-of-the-union.2483618/",
+      "source": "MacRumors / Apple",
       "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
     },
     {
-      "title": "Hugging Face smolagents: ~1,000 lines of Python for code-first agent routing",
-      "description": "Models write and execute raw Python in managed sandboxes instead of heavy JSON tool schemas.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "devFlokers",
+      "title": "Temporal Cloud 2.0 durable execution for workflow orchestration",
+      "description": "Signals, visual replay, and guaranteed completion for payments, pipelines, and microservices.",
+      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
+      "source": "DEV Community",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Microsoft ASSERT open trust stack for agent safety regression testing",
-      "description": "ASSERT plus Agent Control Specification standardize policy scoring and human-in-the-loop limits across frameworks.",
+      "title": "Hugging Face smolagents — ~1K lines Python for sandboxed code-first agents",
+      "description": "Models execute raw Python in E2B/Docker instead of brittle JSON tool schemas.",
       "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
       "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
     },
     {
-      "title": "Meta-frameworks dominate 2026 full-stack web: Next.js, Remix, SvelteKit, Nuxt",
-      "description": "SSR, edge rendering, and API routes are default architecture for performance and SEO-heavy apps.",
-      "url": "https://www.refontelearning.com/blog/new-front-end-development-tools-in-2026-a-comprehensive-guide",
-      "source": "Refonte Learning",
+      "title": "FastAPI remains default API layer for LLM products in 2026",
+      "description": "Pydantic tool schemas, async SSE, and OpenAPI exports align with agent and RAG stacks.",
+      "url": "https://www.index.dev/blog/software-development-frameworks",
+      "source": "Index.dev",
       "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "White House National Policy Framework for AI legislative recommendations",
-      "description": "March 2026 framework pushes federal preemption of burdensome state rules while states keep advancing their own bills.",
-      "url": "https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial",
-      "source": "Holland & Knight",
+      "title": "White House June 2026 order: classified benchmarking for covered frontier models",
+      "description": "Treasury, NSA, CISA tasked to define cyber-capability thresholds within 60 days.",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "source": "The White House",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "EU AI Act: high-risk and transparency rules tighten by August 2, 2026",
-      "description": "Enterprises face HRAI compliance deadlines and expanded transparency obligations this summer.",
+      "title": "EU AI Act high-risk draft expected finalized by June 2026",
+      "description": "Member states still appointing national regulators as August enforcement approaches.",
       "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
       "source": "Wilson Sonsini",
       "image_url": "https://images.unsplash.com/photo-1593941707882-a5bba14938ca?w=600&q=60"
     },
     {
-      "title": "California SB 53 and New York RAISE Act align on frontier model disclosures",
-      "description": "March NY amendments mirror California safety frameworks, safety incidents, and transparency for largest GP models.",
-      "url": "https://www.wsgr.com/en/insights/recent-ai-regulatory-developments-in-the-united-states.html",
-      "source": "Wilson Sonsini",
+      "title": "California SB 205 enforcement window slips toward Jan 2027 amid amendments",
+      "description": "State AI safety debate continues as federal sector-specific rules diverge from EU risk tiers.",
+      "url": "https://www.eliassen.com/blog/key-ai-regulations-to-watch-in-2026",
+      "source": "Eliassen Group",
       "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=60"
     },
     {
-      "title": "Protecting Consumers From Deceptive AI Act targets watermarking and provenance",
-      "description": "April 2026 federal bill would task NIST with guidelines for AI-generated audio, video, and text labeling.",
-      "url": "https://www.wsgr.com/en/insights/recent-ai-regulatory-developments-in-the-united-states.html",
-      "source": "Wilson Sonsini",
+      "title": "Global AI governance split: EU risk-based Act vs US sector agencies vs China sovereignty",
+      "description": "Stanford HAI analysis frames fragmented compliance costs for multinational AI products.",
+      "url": "https://www.programming-helper.com/tech/ai-regulation-global-framework-2026-eu-us-china-policy-comparison",
+      "source": "Programming Helper",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Spring 2026: South Korea sovereign AI models trend on the Hub",
-      "description": "National champions LG AI Research, SK Telecom, Naver Cloud, and others drove simultaneous Hub momentum in Feb–Mar 2026.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "title": "Kimi K2.6 on Hugging Face — ~1.1T params for coding and agentic workflows",
+      "description": "Modified MIT license; strong for repo-level coding, tool use, and long-horizon agents.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     },
     {
-      "title": "Hub hosts 2M+ models; top 50 entities drive ~80% of downloads",
-      "description": "92% of downloads are sub-1B-parameter models; NLP 58%, vision 21%, audio 15% of usage.",
-      "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
-      "source": "Programming Helper",
+      "title": "State of Open Source on HF Spring 2026: Qwen and DeepSeek adoption momentum",
+      "description": "Western sovereign-AI pushes compete with Chinese open-weight leaders on the Hub.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     },
     {
-      "title": "HunyuanVideo 13B open text-to-video on Hugging Face",
-      "description": "Tencent's foundation model targets Runway-class motion with FP8 quant and parallel xDiT inference options.",
-      "url": "https://a2aprotocol.ai/insights/latest-text-to-video-models-huggingface-2026",
-      "source": "A2A Protocol",
+      "title": "Hugging Face agents can train models and gain new Hub skills",
+      "description": "Merve Noyan demo shows agents extending models via Hub-integrated skill training.",
+      "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/hugging-face-agents-train-models-with-new-skills",
+      "source": "StartupHub.ai",
       "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e39e9426?w=600&q=60"
     },
     {
-      "title": "Open-source June 2026: MiniMax M3, Cosmos 3, LangGraph, OpenClaw local stacks",
-      "description": "Sparse open weights plus RTX-class local compute push agent workflows off pure cloud hosting.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "devFlokers",
+      "title": "HunyuanVideo 13B open T2V rivals commercial motion quality on the Hub",
+      "description": "FP8 quant saves ~10GB VRAM; xDiT parallel inference for production video pipelines.",
+      "url": "https://a2aprotocol.ai/insights/latest-text-to-video-models-huggingface-2026",
+      "source": "A2A Protocol",
       "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=600&q=60"
     }
   ]
