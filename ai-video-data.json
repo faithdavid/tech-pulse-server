@@ -8,174 +8,174 @@
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "AI Filmmaker Academy — full pipeline: script, gen, lip-sync, SFX, monetization",
-      "description": "Creator community with continuously updated resources across image/video/audio and promotion.",
-      "url": "https://www.aifilmmaker.academy/",
-      "source": "AI Filmmaker Academy",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
-    },
-    {
-      "title": "Melies 2026 — Flux, Seedream 4.5, Grok Imagine model shootouts for filmmakers",
-      "description": "Side-by-side credits, resolution, and best-use cases for short-film and pre-viz pipelines.",
+      "title": "Melies 2026 — Midjourney, Flux, Kling v3, Veo 3.1, ElevenLabs in one filmmaking workflow",
+      "description": "Eight video models from six providers; AI actors for character continuity across short-film pipelines.",
       "url": "https://melies.co/ai-filmmaking-tools",
       "source": "Melies",
       "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
     },
     {
-      "title": "Flawless wins 2026 Lumiere Award for assistive AI dubbing & lip-sync in film/TV",
-      "description": "Production-grade localization tools gaining guild recognition as standard post stack.",
-      "url": "https://flawlessai.com/",
-      "source": "Flawless",
+      "title": "Murf 2026 guide — Google Veo 3 for concept viz, trailers, and full AI-generated sequences",
+      "description": "Text-to-cinematic with realistic camera motion; blends stills, stock, and animation for studios.",
+      "url": "https://murf.ai/blog/best-ai-softwares-for-film",
+      "source": "Murf AI",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+    },
+    {
+      "title": "Hollywood editors quietly adopt AI as creative partners in 2026",
+      "description": "FilmLocal: tools reshape concept-to-screen maps; privacy-aware adoption in professional edit bays.",
+      "url": "https://filmlocal.com/filmmaking/why-hollywood-editors-are-quietly-using-ai-filmmaking/",
+      "source": "FilmLocal",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Disney × OpenAI — 200+ characters on Sora; curated fan videos on Disney+",
-      "description": "Three-year IP license; no talent likeness/voice; ChatGPT Images + subscriber experiences early 2026.",
-      "url": "https://openai.com/index/disney-sora-agreement/",
-      "source": "OpenAI",
+      "title": "OpenAI–Disney — reported $1B-scale licensed character generation deal",
+      "description": "WaveSpeed 2026 recap: first studio-AI partnership at this scale; fan-curated IP still under scrutiny.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
       "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
     },
     {
       "title": "Amazon MGM GenAI Creators' Fund greenlights three Prime Video AI series",
-      "description": "AWS-backed tools + financing; Albie Hecht and Jorge Gutierrez lead first funded wave.",
+      "description": "AWS purpose-built AI production platform for visual storytelling; industry-first studio stack claim.",
       "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
       "source": "Variety",
       "image_url": "https://images.unsplash.com/photo-1558494949-ef0d38d3f9e2?w=600&q=60"
     },
     {
-      "title": "AI video market — 36.20% CAGR; enterprise pivot to 4K native + security in 2026",
-      "description": "Consolidation retires weak tools; AR + editing integration drives 2025–2033 forecast.",
-      "url": "https://resource.digen.ai/ai-video-generation-market-trends-2026/",
-      "source": "Digen",
+      "title": "March 2026 consolidation — Google Flow merges three tools; Adobe Quick Cut; NVIDIA 4K on GPUs",
+      "description": "Bonega recap: workflow compression week signals enterprise pivot from standalone gen apps.",
+      "url": "https://bonega.ai/en/blog/ai-video-workflow-consolidation-march-2026",
+      "source": "Bonega",
       "image_url": "https://images.unsplash.com/photo-1574375927938-d5a98e8d6990?w=600&q=60"
     },
     {
-      "title": "Visla enterprise — AI Video Agent from PPT/PDF to polished team video in minutes",
-      "description": "Brand kits, API, avatars; marketing/training/support at scale with human creative control.",
-      "url": "https://www.visla.us/",
-      "source": "Visla",
+      "title": "2026 AI video economics — pro 30s clip ~$1,000 agency vs ~$25 DIY platform fees",
+      "description": "YOPRST pricing survey: quality variance wide; Kling Standard cited at $10/mo entry for commercial rights.",
+      "url": "https://prst.media/en/how-much-does-an-ai-video-cost/",
+      "source": "YOPRST",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Adobe Premiere — AI Object Mask + new Color Mode ahead of NAB 2026",
-      "description": "Faster selective grading; After Effects motion upgrades keep editor intent in the loop.",
-      "url": "https://blog.adobe.com/en/publish/2026/01/20/new-ai-powered-video-editing-tools-premiere-major-motion-design-upgrades-after-effects",
-      "source": "Adobe",
-      "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
-    },
-    {
-      "title": "DaVinci Resolve 21 — IntelliSearch + photo editing + new AI workflow automations",
-      "description": "PetaPixel: unified post suite accelerates clip find and common task offload.",
-      "url": "https://petapixel.com/2026/06/03/davinci-resolve-21-officially-released-with-new-photo-editing-ai-tools-and-much-more/",
-      "source": "PetaPixel",
-      "image_url": "https://images.unsplash.com/photo-1558494949-ef0d38d3f9e2?w=600&q=60"
-    },
-    {
-      "title": "WaveSpeed 2026 stack — Veo 3.1 audio dialogue, Kling 3.0 volume, Seedance 2.0 motion",
-      "description": "Model release guide for cost-balanced iteration vs motion-heavy scenes.",
+      "title": "Google Veo 3.1 Lite — released March 31, 2026 for faster iteration",
+      "description": "Follows viral actor clips and copyright scrutiny; lighter tier for volume pre-viz and social cuts.",
       "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
       "source": "WaveSpeed",
       "image_url": "https://images.unsplash.com/photo-1574375927938-d5a98e8d6990?w=600&q=60"
     },
     {
-      "title": "Synthesia-tested roundup — 18 generators; Higgsfield $49/mo unlimited stills for storyboards",
-      "description": "Short films, ads, AI influencers; Krea aggregator noted for quality vs pricing tradeoffs.",
-      "url": "https://www.synthesia.io/post/best-ai-video-generators",
-      "source": "Synthesia",
+      "title": "Runway Characters (March 2026) + Aleph in-video text edits without full regen",
+      "description": "Lemonade Digital: interactive AI characters and scene-level prompt edits on existing footage.",
+      "url": "https://lemonadedigitalmedia.com/en/the-best-ai-video-production-tools-in-2026/",
+      "source": "Lemonade Digital",
+      "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
+    },
+    {
+      "title": "LiblibAI LibTV — March 2026 dual-entry: node workflows + Agent skills full chain",
+      "description": "Script-to-finished-film platform; 300+ models; manual creation and autonomous agent paths.",
+      "url": "https://freeai.help/blog/2026-ai-video-generation-tools-overview-19-mainstream-tools-in-depth-comparison-en-1746259200030",
+      "source": "FreeAI",
       "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
+    },
+    {
+      "title": "2026 face-swap tools add temporal stability for high-motion sequences",
+      "description": "Digen/Ventureburn roundup: locked faces through dramatic lighting and action for VFX pipelines.",
+      "url": "https://resource.digen.ai/top-ai-video-editing-features-2026-2/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef0d38d3f9e2?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Vivideo data — 88.2% orders fully AI-generated; 43.7% vertical 9:16 vs 52.8% landscape",
-      "description": "Avatar video 7.1%; image animation 4.7%; social-first distribution now near parity with YouTube.",
-      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
-      "source": "Vivideo",
+      "title": "HKUST instructional design — generative AI repurposes lecture video for blended learning",
+      "description": "THE Campus: speech-to-text, learning-outcome alignment, voice clones and avatars without rerecording.",
+      "url": "https://www.timeshighereducation.com/campus/use-ai-refine-educational-video-content",
+      "source": "THE Campus",
       "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
     },
     {
-      "title": "ngram — product demos 31% of AI marketing video; personalized outreach fastest-growing",
-      "description": "Average AI ad clip 42s; 59% vertical format; explainer + social ads dominate spend.",
-      "url": "https://www.ngram.com/article/ai-video-marketing",
-      "source": "ngram",
+      "title": "Healthcare video analytics — surgical training overlays and patient-specific simulation video",
+      "description": "Memories.ai: real-time landmark guidance, GAN-based anatomy scenarios, telehealth education modules.",
+      "url": "https://memories.ai/blogs/Healthcare_with_Advanced_Video_Analytics",
+      "source": "Memories.ai",
       "image_url": "https://images.unsplash.com/photo-1574375927938-d5a98e8d6990?w=600&q=60"
     },
     {
-      "title": "10 business use cases — training, sales one-to-one video, multi-format clip repurposing",
-      "description": "69% of video marketers do social clips; AI turns one long-form into a week of platform-native posts.",
-      "url": "https://www.ngram.com/blog/article/ai-video-creator-for-business-use-cases",
-      "source": "ngram",
+      "title": "Luma — text-to-tutorial for LMS, Coursera-scale libraries, and corporate training",
+      "description": "Lesson outlines to animated walkthroughs in minutes; multi-platform export for mobile learning.",
+      "url": "https://lumalabs.ai/create/ai-video-generator-for-educational-tutorials",
+      "source": "Luma",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "HeyGen niche — localized campaigns + sales prospect personalization at scale",
-      "description": "Precision AI Academy: B-roll, concept viz, and training remain most production-ready in 2026.",
-      "url": "https://precisionaiacademy.com/blog/ai-video-generation-2026",
-      "source": "Precision AI Academy",
+      "title": "ImagineArt medical video generator — clinic promos with Veo, Kling, Haiper models",
+      "description": "Vertical/square/horizontal healthcare branding; waiting-room and campaign-ready trust visuals.",
+      "url": "https://www.imagine.art/features/ai-medical-video-generator",
+      "source": "ImagineArt",
       "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "InVideo — 50 free AI minutes first month + up to 20% off annual (April 2026 promos)",
-      "description": "USA Today deal tracker lists six active offers for new subscribers.",
-      "url": "https://www.usatoday.com/deals/invideo",
-      "source": "USA Today",
+      "title": "Affordable AI video subs — entry plans from $9.99/mo for HD output (May 2026 survey)",
+      "description": "Digen: cinematic tools without 2024-era enterprise price tags; tiered credits vs unlimited studio deals.",
+      "url": "https://resource.digen.ai/affordable-ai-video-subscription-plans-2026/",
+      "source": "Digen",
       "image_url": "https://images.unsplash.com/photo-1558494949-ef0d38d3f9e2?w=600&q=60"
     },
     {
-      "title": "Krater student stack — ~15% off yearly; ChatGPT, Claude, image, video, voice bundle",
-      "description": "Verified 2026 list: ~$6.38/mo effective vs buying single tools separately.",
-      "url": "https://krater.ai/blog/ai-student-discounts-2026",
-      "source": "Krater",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
-    },
-    {
-      "title": "Topview AI — product URL/image to full marketing video with 20+ language avatars",
-      "description": "Auto captions + voiceover for e-commerce and performance ad creative.",
-      "url": "https://www.switchtools.io/tool/topview-ai",
-      "source": "SwitchTools",
+      "title": "InVideo — 50 free AI minutes first month + up to 20% off annual plans",
+      "description": "USA Today June 2026 deal tracker: six active promos for new subscribers.",
+      "url": "https://www.usatoday.com/deals/invideo",
+      "source": "USA Today",
       "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Hailuo monetization guide — Creator Rewards + TikTok Shop + Meta video payout shifts",
-      "description": "2026 playbook: stack platform rewards with direct commerce on short AI content.",
-      "url": "https://hailuoai.video/pages/blog/how-to-monetize-ai-videos",
-      "source": "Hailuo",
+      "title": "Kling AI Pro ~$37/mo cited as mid-tier value leader for serious creators",
+      "description": "LaoZhang 2026 pricing guide: Standard $10/mo lowest major-platform commercial entry.",
+      "url": "https://blog.laozhang.ai/en/posts/how-much-does-ai-video-generator-cost",
+      "source": "LaoZhang AI",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
+    },
+    {
+      "title": "Annual billing discounts — 20% to 50% off vs monthly on popular AI video stacks",
+      "description": "Digioffly 2026: promo codes and extended trials bundled across HeyGen-class avatar tools.",
+      "url": "https://digioffly.com/ai-tech-offers/",
+      "source": "Digioffly",
       "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Dataland — Refik Anadol's 'world's first AI arts museum' opens June in downtown LA",
-      "description": "Grand Avenue / Frank Gehry complex; ethical generative installs after MoMA-scale 2022 work.",
-      "url": "https://www.npr.org/2026/04/25/nx-s1-5799511/dataland-refik-anadol-los-angeles-ai-art-museum",
-      "source": "NPR",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
-    },
-    {
-      "title": "James Gerde — 1.7M IG following for surreal AI animation; studio collab pipeline",
-      "description": "Favikon top AI artist 2026: nature/food/dance motifs blending motion design and gen video.",
-      "url": "https://www.favikon.com/blog/top-ai-artists-social-media",
-      "source": "Favikon",
+      "title": "ZSky — 50 AI video ideas with copy-paste prompts for TikTok, Reels, YouTube",
+      "description": "Style morphs, terraforming timelapses, decade evolution — storytelling hooks that drive views in 2026.",
+      "url": "https://zsky.ai/blog/50-ai-video-ideas-2026",
+      "source": "ZSky AI",
       "image_url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&q=60"
     },
     {
-      "title": "Leonardo AI — artist-first stills + motion for pro teams prioritizing control over volume",
-      "description": "Quasa 2026 review: workflow efficiency for cinematic short-form and brand motion.",
+      "title": "Future of AI video 2026 — Sora app sunset March; value shifts to integrated pro suites",
+      "description": "Digen: talking-photo urban culture, human-in-the-loop refinement, instant cinema as daily practice.",
+      "url": "https://resource.digen.ai/future-of-ai-video-generation-2026/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
+    },
+    {
+      "title": "Leonardo AI — artist-first stills and motion for teams prioritizing control over volume",
+      "description": "Quasa 2026: professional-grade generation and workflow efficiency for cinematic short-form.",
       "url": "https://quasa.io/video/leonardo-ai-next-level-ai-art-video-generation",
       "source": "Quasa",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "Making Our Miracles — participatory AI art in The Wrong Biennale 7th edition",
-      "description": "Collaborative generative project through March 2026 in global digital arts circuit.",
-      "url": "https://www.digitalartsblog.com/exhibitions/tag/ai+art",
-      "source": "Digital Arts Blog",
+      "title": "Behance 2026 — surge in AI short-form brand films and agentic editor UI showcases",
+      "description": "Global creators posting reels, school promos, and interactive editing-studio concept work.",
+      "url": "https://www.behance.net/search/projects/ai%20video%20editor",
+      "source": "Behance",
       "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=60"
     }
   ]
