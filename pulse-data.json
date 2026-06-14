@@ -1,152 +1,152 @@
 {
   "ai": [
     {
-      "title": "OpenAI confidential IPO filing targets $1T+ valuation",
-      "description": "June 8, 2026: OpenAI filed confidentially with the SEC; Goldman Sachs and Morgan Stanley lead. Jury cleared Musk lawsuit path; $122B March round at $852B post-money.",
-      "url": "https://sacra.com/c/openai",
-      "source": "Sacra",
+      "title": "Morgan Stanley warns H1 2026 AI leap — world underprepared",
+      "description": "Investment bank report flags a transformative AI inflection in first-half 2026, with enterprise readiness lagging compute and product velocity.",
+      "url": "https://finance.yahoo.com/news/morgan-stanley-warns-ai-breakthrough-072000084.html",
+      "source": "Yahoo Finance",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
       "title": "Model Context Protocol crosses 97M installs",
-      "description": "Anthropic's MCP hit nine-figure installs in March 2026 — shift from experiment to default agent wiring for tools and enterprise stacks.",
+      "description": "Anthropic's MCP hit nine-figure installs in March 2026 — from experiment to default agent infrastructure for tools and enterprise stacks.",
       "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "255+ model releases in Q1 2026 frontier sprint",
-      "description": "LLM Stats tracks unprecedented velocity: Gemini 3.1 Pro, Claude Opus 4.6, GPT-5.3 Codex, Grok 4.20, Qwen 3.5, GLM-5 among February–March drops.",
-      "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
-      "source": "Mean CEO",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+      "title": "GPT-5.4 ships with ~33% fewer factual errors vs GPT-5.2",
+      "description": "March 2026 release positions OpenAI for accuracy-heavy enterprise workloads; part of a dense frontier model wave across labs.",
+      "url": "https://www.clawpod.co/blog/new-ai-model-releases-march-2026",
+      "source": "ClawPod",
+      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     },
     {
-      "title": "GPT-5.4 and Gemini 3.1 Ultra headline March wave",
-      "description": "BuildFastWithAI counts 12+ major releases in the March window — benchmark, price, and context-window comparisons across frontier labs.",
-      "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
-      "source": "BuildFastWithAI",
-      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
+      "title": "2026 frontier: world models and continual learning prototypes",
+      "description": "DeepMind leadership and research community align on memory, simulation, and System-2 reasoning as next AGI bottlenecks beyond scale.",
+      "url": "https://www.nextbigfuture.com/2026/04/2026-is-breakthrough-year-for-reliable-ai-world-models-and-continual-learning-prototypes.html",
+      "source": "NextBigFuture",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Shield AI $1.5B Series G at $12.7B valuation",
-      "description": "March 25, 2026: Hivemind autonomy for USAF Collaborative Combat Aircraft; $540M+ 2026 revenue projected — 80% YoY growth.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "Q1 2026 VC hits $297B — AI takes 81%",
-      "description": "Record quarter: OpenAI $122B, Anthropic $30B, xAI $20B mega-rounds; four companies absorbed 63% of global Q1 VC.",
+      "title": "Q1 2026 global VC: $297B record — AI ~81%",
+      "description": "Mega-rounds dominate; OpenAI valuation cited at ~$852B in March 2026 (5.4× vs Oct 2024 round) — four firms absorbed majority of Q1 capital.",
       "url": "https://tech-insider.org/q1-2026-venture-capital-297-billion-ai-startup-funding-record/",
       "source": "Tech Insider",
       "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "Anthropic ~$5B round at $170B valuation",
-      "description": "Iconiq-led raise; ~$19B ARR run-rate by early 2026 vs ~$4B mid-2025 — enterprise and cloud contract surge.",
-      "url": "https://sacra.com/c/openai",
-      "source": "Sacra",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "Anduril: $20B Army enterprise contract (March 2026)",
+      "description": "Defense autonomy player projects $4.3B 2026 revenue on Arsenal-1 scaling; $2.2B 2025 revenue (+110% YoY) per funding trackers.",
+      "url": "https://aifundingtracker.com/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Crossover funds anchor Series B+ AI rounds",
-      "description": "2026 shift: strategics and institutions lead largest deals; acquihires and consolidation reshape mid-market outcomes.",
-      "url": "https://qubit.capital/blog/ai-startup-fundraising-trends",
-      "source": "Qubit Capital",
+      "title": "Humanoid robotics: $20B+ dedicated funding projected in 2026",
+      "description": "Production deployments at Amazon, BMW, Mercedes cited as commercial validation driving a new robotics capital cycle.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
+      "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+    },
+    {
+      "title": "IT services M&A: AI deals as gap-fillers, not volume drivers",
+      "description": "CRN: acquirers still view most AI targets as immature in 2026 — AI tuck-ins mirror early cloud/cyber M&A patterns.",
+      "url": "https://www.crn.com/news/ai/2026/ai-focused-acquisitions-gain-traction-in-it-services-m-a-for-first-time",
+      "source": "CRN",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Xcode 27 agentic coding with MCP and ACP",
-      "description": "WWDC 2026: Anthropic, Google, and OpenAI agents in Xcode; Device Hub simulator control, Playgrounds validation, GitHub/Figma plug-ins.",
-      "url": "https://www.iclarified.com/101143/apple-unveils-new-ai-frameworks-and-agentic-coding-in-xcode-27",
-      "source": "iClarified",
-      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
-    },
-    {
-      "title": "Temporal Cloud 2.0 durable execution",
-      "description": "Workflow orchestration with signals/updates, visual replay, and guaranteed completion — Go/TS/Python/Java without custom retry glue.",
+      "title": "Temporal Cloud 2.0 — durable execution for workflows",
+      "description": "Signals/updates, visual replay, and completion guarantees across Go, TypeScript, Python, and Java — less bespoke retry/observability glue.",
       "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
       "source": "DEV Community",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Swift 6.4 and SwiftUI performance pass",
-      "description": "Faster layout rendering, reorderable containers, Spatial Preview for Vision Pro streams — Liquid Glass transparency slider in Settings.",
-      "url": "https://www.iclarified.com/101143/apple-unveils-new-ai-frameworks-and-agentic-coding-in-xcode-27",
-      "source": "iClarified",
-      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
+      "title": "Rails 8 + Solid stack reduces Redis dependencies",
+      "description": "Kamal 2, Thruster, Solid Cable/Cache/Queue — database-backed infra for queues and cache in the convention-first Ruby stack.",
+      "url": "https://wasp.sh/resources/2026/02/24/best-frameworks-web-dev-2026",
+      "source": "Wasp",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
     },
     {
-      "title": "Rails 7.2 Solid Queue, Cache, Cable",
-      "description": "Built-in job and cache backends without Redis; Hotwire Turbo 8 morphing; rails-ai gem for OpenAI, Anthropic, Google.",
-      "url": "https://www.sencha.com/blog/web-application-development-top-frameworks/",
-      "source": "Sencha",
-      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=60"
+      "title": "Django 5.2 LTS through April 2028",
+      "description": "Python full-stack default for teams pairing web apps with ML pipelines; ~82k GitHub stars and mature admin/auth ecosystem.",
+      "url": "https://wasp.sh/resources/2026/02/24/best-frameworks-web-dev-2026",
+      "source": "Wasp",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+    },
+    {
+      "title": "CI/CD on 32.7% of GitHub repos — release cycles compressing",
+      "description": "2026 DevOps trend: automated test/deploy pipelines pushing enterprise releases from weeks toward hours.",
+      "url": "https://www.intelegain.com/top-20-software-development-trends-in-2026/",
+      "source": "Intelegain",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Big Tech $36M lobbying in H1 2025 session days",
-      "description": "Eight majors averaged ~$320K/day in session; 10-year state AI moratorium stripped from final bill after bipartisan pushback.",
-      "url": "https://issueone.org/articles/as-washington-debates-major-tech-and-ai-policy-changes-big-techs-lobbying-is-relentless",
-      "source": "Issue One",
-      "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
+      "title": "White House National AI Policy Framework (March 20, 2026)",
+      "description": "Sweeping federal blueprint: innovation sandboxes, AI-ready federal data, sector regulators over a new AI authority, workforce apprenticeships.",
+      "url": "https://www.consumerfinancemonitor.com/2026/04/08/the-white-houses-national-policy-framework-for-artificial-intelligence-what-it-means-and-what-comes-next/",
+      "source": "Consumer Finance Monitor",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "California AI transparency law live Jan 2026",
-      "description": "Americans gain AI system transparency rights alongside Colorado crypto ATM refunds and broader repair laws per state rollouts.",
-      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
-      "source": "The Verge",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
-    },
-    {
-      "title": "FDA trims oversight on some AI-enabled tech",
-      "description": "Wilson Sonsini 2026 preview: HHS action expected from RFI; FDA guidance already easing rules for select AI medical devices.",
-      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
-      "source": "Wilson Sonsini",
-      "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"
-    },
-    {
-      "title": "Colorado ADMT law reset to Jan 2027",
-      "description": "March 2026 working group draft repeals and reenacts automated decision-making rules with delayed effective date.",
+      "title": "Colorado SB 205 AI law — enforcement delayed to June 30, 2026",
+      "description": "March 2026 working sessions on scope/feasibility after tech pushback; substantive revision under debate before go-live.",
       "url": "https://www.cooley.com/news/insight/2026/2026-04-24-state-ai-laws-where-are-they-now",
       "source": "Cooley",
-      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
+    },
+    {
+      "title": "U.S.–EU regulatory divergence on Big Tech AI",
+      "description": "2026 policy debate: faster federal framework vs EU fundamental-rights standards — compliance fragmentation for global model vendors.",
+      "url": "https://www.youtube.com/watch?v=C9QUvaVKEpw",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    },
+    {
+      "title": "Big Tech still steering harmonized AI standards",
+      "description": "Corporate Europe Observatory: industry-led standard bodies remain central to how frontier models meet transparency and fairness rules.",
+      "url": "https://corporateeurope.org/en/2025/01/setting-rules-their-own-game-how-big-tech-shaping-ai-standards",
+      "source": "Corporate Europe Observatory",
+      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "State of Open Source on HF — Spring 2026",
-      "description": "Hub growth into robotics and science; Western push for GPT-OSS, OLMo, Gemma vs Qwen/DeepSeek adoption momentum.",
+      "title": "State of Open Source on Hugging Face — Spring 2026",
+      "description": "HF blog: South Korea–U.S. Reflection AI data-center partnership brings frontier open-weight models to new regions.",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "2.2M+ models, 80% downloads from top 50",
-      "description": "Hub stats: 2.2B downloads; 92.48% under 1B params; NLP 58.1%, CV 21.2%, audio 15.1% of traffic.",
+      "title": "Hub scale: 2.2M+ models, 2.2B downloads",
+      "description": "Top 50 entities drive ~80% of downloads; 92% of pulls are sub-1B parameter models — embeddings and RAG stacks dominate.",
       "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
       "source": "Programming Helper",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "Kimi K2.6 and Qwen3 235B-A22B lead 2026 OSS LLMs",
-      "description": "Modified MIT Kimi for agentic coding; Apache 2.0 Qwen3 MoE for multilingual enterprise; Llama 4 Scout 10M context.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face Blog",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "HunyuanVideo 13B open text-to-video on Hub",
-      "description": "Tencent OSS model with MLLM encoder and 3D VAE; human evals vs Runway Gen-3; FP8 quant cuts ~10GB VRAM.",
-      "url": "https://lovableapp.org/blog/latest-text-to-video-models-huggingface-2026",
-      "source": "Lovable APP",
-      "image_url": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=600&q=60"
+      "title": "Open LLM landscape: Qwen3, Gemma 4, Llama 4 Scout, DeepSeek V4",
+      "description": "March 2026 comparison tables cover licenses, benchmarks, and Ollama/vLLM hosting paths for self-hosted inference.",
+      "url": "https://computingforgeeks.com/open-source-llm-comparison",
+      "source": "ComputingForGeeks",
+      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
+    },
+    {
+      "title": "Cohere Transcribe 2B tops Open ASR leaderboard",
+      "description": "Apache 2.0 speech model (March 2026) across 14 languages — open-weight audio stack catching up to text frontier.",
+      "url": "https://computingforgeeks.com/open-source-llm-comparison",
+      "source": "ComputingForGeeks",
+      "image_url": "https://images.unsplash.com/photo-1518779578993-4f2f01f4e792?w=600&q=60"
     }
   ]
 }
