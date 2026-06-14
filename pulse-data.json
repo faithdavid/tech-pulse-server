@@ -1,151 +1,151 @@
 {
   "ai": [
     {
-      "title": "Anthropic MCP crosses 97 million installs",
-      "description": "March 2026 milestone marks Model Context Protocol's shift from experiment to default agent infrastructure — tool wiring standard for Claude and third-party stacks.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
+      "title": "Google March 2026 AI: longer Lyria music and product rollouts",
+      "description": "Google's March update extends generative music to ~3 minutes with section-level control (intros, verses, bridges) across more consumer and creator surfaces.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "source": "Google",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "GPT-5.4: 1M context, native computer use, 57.7% SWE-bench Pro",
-      "description": "OpenAI's March 5 release targets agent orchestration with 33% fewer factual errors vs GPT-5.2 — Pro and Thinking variants for API and enterprise agents.",
-      "url": "https://openai.com/index/introducing-gpt-5-4/",
-      "source": "OpenAI",
+      "title": "MCP hits 97M installs — agent wiring goes mainstream",
+      "description": "Anthropic's Model Context Protocol crossed 97 million installs in March 2026, signaling shift from experiment to default infrastructure for tool-connected agents.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Claude Opus 4.6 and Sonnet 4.6 with adaptive thinking",
-      "description": "Anthropic February drop hits 80.8% SWE-Bench Verified with four effort levels and 1M-token beta — context compaction for long agent sessions.",
-      "url": "https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-6",
-      "source": "Anthropic",
+      "title": "March LLM wave: GPT-5.4, Qwen3.5, Nemotron, MiMo-V2-Pro",
+      "description": "Nine text models shipped in March including OpenAI GPT-5.4 (xhigh), Alibaba Qwen3.5 (0.8B–397B), NVIDIA Nemotron 3 Super, and open-weight MiniMax-M2.7 / MiMo-V2-Pro same-day drops.",
+      "url": "https://whatllm.org/blog/llm-releases-march-2026",
+      "source": "WhatLLM",
       "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     },
     {
-      "title": "Gemini 3.1 Pro joins frontier trio in March 2026",
-      "description": "Google's latest Pro tier competes on reasoning and multimodal benchmarks alongside GPT-5.4 and Claude 4.6 — API pricing tiered for Flash vs Pro workloads.",
-      "url": "https://gaim-solutions.com/en/ratgeber/latest-ai-models-2026",
-      "source": "GAIM Solutions",
+      "title": "NVIDIA GTC 2026: Vera Rubin platform and Nemotron Coalition",
+      "description": "Jensen Huang cited ~$1T in Blackwell + Vera Rubin orders through 2027; Vera Rubin AI platform, open Agent Toolkit, and Nemotron Coalition (Mistral, Perplexity, Cursor) anchor March keynote.",
+      "url": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html",
+      "source": "CNBC",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Cohere reports $240M ARR ahead of IPO chatter",
-      "description": "February 2026 revenue milestone on ~$7B valuation — Nvidia and Salesforce Ventures back enterprise LLM push with open multilingual Command family.",
-      "url": "https://builtin.com/articles/top-tech-ipos-2026",
-      "source": "Built In",
+      "title": "Factory closes $150M Series C for enterprise coding agents",
+      "description": "Khosla and Sequoia back AI agents for engineering teams — April 2026 round underscores agent-native dev tooling as a funded category.",
+      "url": "https://projectstartups.com/pages/ai-ml-san-francisco",
+      "source": "ProjectStartups",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "OpenAI confidential IPO filing follows Anthropic",
-      "description": "2026 S-1 path targets public liquidity as private valuations near $850B+ — eight of twelve mega-IPO watchlist names are AI-concentrated.",
-      "url": "https://builtin.com/articles/top-tech-ipos-2026",
-      "source": "Built In",
+      "title": "ElevenLabs $500M Series D at $11B valuation",
+      "description": "Sequoia-led February mega-round cements voice AI as a standalone infrastructure layer for agents and media pipelines.",
+      "url": "https://mezha.net/eng/bukvy/us-ai-startups-secure-mega-funding-rounds-in-early-2026",
+      "source": "Mezha",
       "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "Gyde raises $60M for AI insurance workflow automation",
-      "description": "March 2026 early round led by Lightspeed — automates carrier workflows as InsurTech agents move from pilots to production stacks.",
-      "url": "https://www.cdp.center/post/startup-report-venture-funds-deals-and-trends-march-2026",
-      "source": "CDP Center",
+      "title": "Fundamental $255M Series A at $1.4B on AI compute",
+      "description": "Oak HC/FT and Salesforce Ventures join February 2026 round for AI computing stack — part of ~17 US AI startups with $100M+ raises YTD.",
+      "url": "https://mezha.net/eng/bukvy/us-ai-startups-secure-mega-funding-rounds-in-early-2026",
+      "source": "Mezha",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "Sixfold closes $30M Series B on AI underwriting",
-      "description": "Platform extracts risk data for automated underwriting — Guidewire syndicate backs scale as carriers adopt agentic quote-to-bind pipelines.",
-      "url": "https://www.cdp.center/post/startup-report-venture-funds-deals-and-trends-march-2026",
-      "source": "CDP Center",
+      "title": "Humanoid robotics funding projected $20B+ in 2026",
+      "description": "Production deployments (Figure at Amazon, BMW, Mercedes) drive dedicated robotics capital as physical AI exits pilot phase.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
+      "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Google Antigravity 2.0 and Managed Agents in Gemini API",
-      "description": "I/O 2026 ships desktop app, CLI, and single-call agents in isolated Linux envs — powered by Gemini 3.5 Flash four times faster than prior Pro tier.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/",
-      "source": "Google Developers",
+      "title": "Mistral Forge: train custom frontier models on private data",
+      "description": "Enterprise system for full training and alignment from Mistral open bases — positioned against fine-tune-only and runtime-RAG-only customization.",
+      "url": "https://mistral.ai/news/forge/",
+      "source": "Mistral AI",
       "image_url": "https://images.unsplash.com/photo-1618477388954-7852f725947f?w=600&q=60"
     },
     {
-      "title": "Chrome DevTools for agents and HTML-in-Canvas",
-      "description": "Agents run audits, emulate users, and hand off sessions auto-connect — HTML-in-Canvas origin trial merges DOM with WebGL/WebGPU for searchable 3D UIs.",
-      "url": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
-      "source": "Google Developers Blog",
+      "title": "Hugging Face smolagents: ~1K lines, code-first agent runtime",
+      "description": "Models write and execute Python in managed sandboxes (E2B, Docker) instead of heavy JSON tool schemas — minimal-abstraction agent dev trend.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
     },
     {
-      "title": "Android Studio migration agent previews at I/O",
-      "description": "Agent migrates React Native, web, or iOS codebases to native Kotlin — Google positions week-long porting jobs as hours with human-in-loop review.",
-      "url": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
-      "source": "Google Developers Blog",
+      "title": "Microsoft ASSERT + Agent Control Specification",
+      "description": "Open trust stack for policy-driven safety evals on agent trajectories and standardized execution limits, HITL, and access controls.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Temporal 2.0 durable execution for agent workflows",
-      "description": "Signals and updates enable event-driven orchestration with replayable state — payment and microservice teams adopt for crash-proof multi-day runs.",
-      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
-      "source": "DEV Community",
+      "title": "NVIDIA RTX Spark: 1 PFLOP, 128GB unified memory on desk",
+      "description": "Consumer superchip targets local models to ~120B params with 1M-token context — cuts latency and egress for agent workloads.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "White House national AI framework — March 18, 2026",
-      "description": "Federal policy push pairs with Blackburn TRUMP AMERICA AI Act draft — preemption debate pits labs against state transparency and ADMT rules.",
+      "title": "White House National Policy Framework for AI (March 2026)",
+      "description": "Administration pushes light-touch federal approach, minor protections, IP, and preemption of state laws deemed burdensome — Commerce evaluation timeline still lagging.",
       "url": "https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial",
       "source": "Holland & Knight",
       "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     },
     {
-      "title": "Big Tech $100M campaign for AI federal preemption",
-      "description": "Tech Oversight Project flags coordinated spend to block state AI laws — ballot and lobbying fight intensifies ahead of 2026 election cycle.",
-      "url": "https://techoversight.org/2026/04/15/the-tech-oversight-project-calls-out-big-techs-100m-ai-preemption-campaign/",
-      "source": "Tech Oversight Project",
+      "title": "DOJ AI Litigation Task Force vs state AI statutes",
+      "description": "January 2026 task force sole remit to challenge state laws on commerce, preemption, or unlawful burden — escalates federal–state AI federalism fight.",
+      "url": "https://www.globalpolicywatch.com/2026/04/u-s-tech-legislative-regulatory-update-first-quarter-2026",
+      "source": "Global Policy Watch",
       "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
     },
     {
-      "title": "FDA 2026 guidance narrows AI medtech oversight",
-      "description": "Wilson Sonsini preview: qualifying AI-enabled clinical tools may see lighter paths as HHS acts on 2025 RFI feedback.",
+      "title": "FDA narrows oversight for qualifying AI medtech",
+      "description": "2026 guidance may lighten paths for some AI-enabled clinical tools as HHS acts on prior RFI — Wilson Sonsini flags compliance shifts for digital health.",
       "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
       "source": "Wilson Sonsini",
       "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     },
     {
-      "title": "EU AI Act implementation still shaped by Big Tech standards",
-      "description": "CEO research tracks CEN-CENELEC harmonized standards on fundamental rights — industry-heavy bodies write compliance tests labs must meet.",
-      "url": "https://corporateeurope.org/en/2025/01/setting-rules-their-own-game-how-big-tech-shaping-ai-standards",
-      "source": "Corporate Europe Observatory",
+      "title": "2026 AI legal shift: innovation to compliance",
+      "description": "Baker Donelson frames 2026 as accountability year after hype — enterprises face harmonized EU/US expectations on governance, children, and IP.",
+      "url": "https://www.bakerdonelson.com/2026-ai-legal-forecast-from-innovation-to-compliance",
+      "source": "Baker Donelson",
       "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Spring 2026 State of Open Source",
-      "description": "Hub scales to billions of downloads — small models edge-deploy, science sub-communities heat up on protein folding and drug discovery releases.",
+      "title": "Hugging Face Spring 2026: State of Open Source",
+      "description": "Hub growth, sovereign AI initiatives (e.g. South Korea champions trending), and science communities heating on protein folding and drug discovery models.",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Hugging Face ml-intern automates LLM post-training",
-      "description": "Open-source agent mirrors in-house research loop — dataset curation, evals, and training orchestration exposed for community fork and audit.",
-      "url": "https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/",
-      "source": "MarkTechPost",
+      "title": "Red Hat AI validated models collection — March 2026",
+      "description": "Curated third-party generative models certified for Red Hat AI portfolio — enterprise path for governed open-weight deployment.",
+      "url": "https://huggingface.co/collections/RedHatAI/red-hat-ai-validated-models-march-2026",
+      "source": "Red Hat AI",
       "image_url": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=600&q=60"
     },
     {
-      "title": "HunyuanVideo 13B open text-to-video on the Hub",
-      "description": "Tencent foundation model claims human-eval wins vs Runway Gen-3 and Luma — FP8 quant cuts ~10GB VRAM for local inference.",
-      "url": "https://a2aprotocol.ai/insights/latest-text-to-video-models-huggingface-2026",
-      "source": "A2A Protocol",
+      "title": "Nemotron 3 Ultra on Hub: 550B total, 55B active",
+      "description": "NVIDIA open model for long-context agentic reasoning — GTC Taipei wave emphasizes factories, deskside, and coalition-built frontier OSS.",
+      "url": "https://www.llmrumors.com/news/nvidia-gtc-taipei-ai-factory-stack",
+      "source": "LLM Rumors",
       "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Olmo 3.1 and gpt-oss collections updated on Hub",
-      "description": "Allen AI Olmo family adds RL-tuned 32B Think; OpenAI gpt-oss open weights target reasoning and agentic dev workflows under permissive terms.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
+      "title": "Hub scale: 2.2M+ models, 80% downloads from top 50",
+      "description": "92% of downloads under 1B params; NLP 58%, CV 21%, audio 15% — embeddings and sentence-transformers still dominate production RAG stacks.",
+      "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
+      "source": "Programming Helper",
       "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
     }
   ]
