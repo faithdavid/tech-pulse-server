@@ -1,152 +1,152 @@
 {
   "ai": [
     {
-      "title": "Claude Fable 5 — Mythos-class SOTA, then access suspended June 12",
-      "description": "Anthropic shipped Fable 5 on June 9 with top-tier SWE and research benchmarks; export-control directive paused general access after 72 hours.",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "source": "Anthropic",
+      "title": "2026 frontier shift — world models, continual learning, and agentic memory",
+      "description": "DeepMind and peers frame the next AGI gains around nested learning, long-horizon reliability, and inference-time reasoning—not scale-only LLM training.",
+      "url": "https://www.nextbigfuture.com/2026/04/2026-is-breakthrough-year-for-reliable-ai-world-models-and-continual-learning-prototypes.html",
+      "source": "NextBigFuture",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "Microsoft Build: seven MAI models — MAI-Thinking-1 reasoning at low token cost",
-      "description": "35B-active reasoning model with 256K context, trained without distillation; blind raters prefer it to Sonnet 4.6 on coding per Microsoft Build June 2.",
-      "url": "https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/",
-      "source": "Microsoft",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "WWDC 2026: Apple Foundation Models 3 built with Google Gemini",
-      "description": "Five AFM 3 variants (3B on-device to Cloud Pro) power revamped Siri, Image Playground photoreal edits, and agentic tool use with SynthID provenance.",
-      "url": "https://www.cnet.com/tech/services-and-software/apple-intelligence-models-wwdc-2026/",
-      "source": "CNET",
-      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
-    },
-    {
-      "title": "MCP hits 97M installs — agent tool wiring goes mainstream",
-      "description": "Anthropic's Model Context Protocol crossed 97 million installs in March 2026, signaling shift from experiment to default agent infrastructure.",
+      "title": "MCP crosses 97M installs — agent tool wiring becomes default infra",
+      "description": "Anthropic's Model Context Protocol hit 97 million installs by March 2026, moving from experiment to baseline plumbing for production agents.",
       "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    },
+    {
+      "title": "Huawei SuperPoD and AI-centric 5G-A stack debut outside China",
+      "description": "March 2026 launches pair U6 GHz networking with a SuperPoD cluster pitch as an alternative intelligent-compute option for telco and enterprise AI.",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
+      "source": "Mean CEO",
+      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
+    },
+    {
+      "title": "Chinese open-source wave — DeepSeek R1 and global model competition",
+      "description": "MIT Technology Review flags 2026 as a year when efficient open reasoning models from China reset cost and access assumptions for the frontier.",
+      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "source": "MIT Technology Review",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Genspark — $100M Series B extension at $2.6B valuation",
-      "description": "Agentic workplace platform Genspark raised $100M June 11 (Sozo, UpHonest, Mirae); total funding tops $645M with 63% valuation lift in three months.",
-      "url": "https://www.thesaasnews.com/news/genspark-raises-100m-series-b-extension/",
-      "source": "The SaaS News",
+      "title": "OpenAI confidential IPO filing — reported ~$852B valuation",
+      "description": "June 2026 reports say OpenAI filed confidentially as capital races with Anthropic and infrastructure-heavy AI peers heat up public markets.",
+      "url": "https://techstartups.com/2026/06/09/openai-confidentially-files-for-ipo-at-852-billion-valuation-as-ai-race-with-anthropic-and-spacex-heats-up/",
+      "source": "Tech Startups",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Q1 2026 AI VC: ~$290B across 1,677 deals — median still $13M",
-      "description": "Bot Memo analysis: OpenAI $122B, Anthropic $30B, xAI $20B lead mega-rounds while 60.8% of deal count stays early-stage.",
-      "url": "https://www.botmemo.com/top-ai-funding-rounds-q1",
-      "source": "Bot Memo",
+      "title": "Factory — $150M Series C for enterprise engineering agents",
+      "description": "Khosla and Sequoia back AI agents for software teams in a mid-April 2026 round amid sustained nine-figure checks for agentic dev platforms.",
+      "url": "https://projectstartups.com/pages/ai-ml-san-francisco",
+      "source": "ProjectStartups",
       "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "Coram AI — $35M Series B for video security AI",
-      "description": "June 10 round extends U.S. software player building AI-native physical security and monitoring for enterprises.",
-      "url": "https://fundup.ai/recently-funded-startups",
-      "source": "Fundup AI",
+      "title": "OpenAI acquisition pace — six deals by March 2026 vs eight in 2025",
+      "description": "Tracker data includes io, Statsig, and Astral-style tuck-ins as labs buy tooling and talent ahead of product and IPO scale.",
+      "url": "https://aifundingtracker.com/openai-biggest-acquisitions/",
+      "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "Equal AI — $30M Series B (India, software)",
-      "description": "June 11 financing for Indian AI software vendor amid steady mid-market AI SaaS checks globally.",
-      "url": "https://fundup.ai/recently-funded-startups",
-      "source": "Fundup AI",
+      "title": "Humanoid robotics funding — $20B+ projected for 2026",
+      "description": "Sector outlook ties production pilots at Amazon, BMW, and Mercedes to a dedicated capital wave unlike prior robotics hype cycles.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
+      "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Project Polaris — Microsoft in-house Copilot model replaces GPT-4 Turbo August 2026",
-      "description": "MoE coding model tuned for GitHub; Microsoft claims HumanEval/MBPP gains and up to 100K-line multi-file context on Pro tier.",
-      "url": "https://chatforest.com/builders-log/microsoft-build-2026-recap-windows-agent-platform-project-polaris-copilot-workspace",
-      "source": "ChatForest",
+      "title": "Agentic IDEs — Cursor Composer, Copilot Workspace, SWE-agent class workflows",
+      "description": "2026 dev stacks treat multi-file plans, terminal use, and test loops as standard—AI as coding partner, not autocomplete only.",
+      "url": "https://tech-insider.org/ai-coding-tools-2026-transforming-software-development/",
+      "source": "Tech Insider",
       "image_url": "https://images.unsplash.com/photo-1618477388954-7852f725947f?w=600&q=60"
     },
     {
-      "title": "Xcode 27 — coding agents from Anthropic, Google, OpenAI in one workflow",
-      "description": "Apple WWDC ships Foundation Models framework expansions plus third-party model hooks and Core AI for on-device PyTorch-class models.",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "source": "Apple",
+      "title": "DeepSeek Coder V3 and Code Llama 3 — open weights near proprietary coding SOTA",
+      "description": "January–2026 releases claim within ~5% of top closed models on HumanEval while fitting more modest GPU budgets.",
+      "url": "https://tech-insider.org/ai-coding-tools-2026-transforming-software-development/",
+      "source": "Tech Insider",
       "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
     },
     {
-      "title": "Azure AI Foundry — visual RAG designer and per-project token budgets",
-      "description": "Build 2026 update adds multimodal pipelines, Cohere/Mistral/Stability catalog entries, and governance alerts for enterprise agents.",
-      "url": "https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/",
-      "source": "Microsoft",
+      "title": "React 19 and full-stack picks — Rails 8 Solid stack, Django 5.2 LTS, Wasp",
+      "description": "Framework roundups stress Server Components, DB-backed queues, and batteries-included JS full-stack for faster SaaS shipping.",
+      "url": "https://wasp.sh/resources/2026/02/24/best-frameworks-web-dev-2026",
+      "source": "Wasp",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Windows as agent platform — agents as first-class OS citizens",
-      "description": "Satya Nadella's Build 2026 thesis: runtime, tooling, and distribution now treat autonomous agents alongside human users on Windows.",
-      "url": "https://chatforest.com/builders-log/microsoft-build-2026-recap-windows-agent-platform-project-polaris-copilot-workspace",
-      "source": "ChatForest",
+      "title": "Replit and v0 — prompt-to-software for non-engineers hits production narrative",
+      "description": "Capgemini TechnoVision 2026 cites intent-driven builds as a defining trend—design, deploy, and host in one AI-native loop.",
+      "url": "https://10pearls.com/blog/top-software-development-technologies/",
+      "source": "10Pearls",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Apple–Google ~$1B/yr Gemini tie-in reshapes on-device vs cloud AI story",
-      "description": "WWDC 2026 pairs AFM 3 with Google models for cloud reasoning while Xcode embeds Claude and Gemini alongside Apple stacks.",
-      "url": "https://www.popsci.com/gear/apple-wwdc-announcements-2026/",
-      "source": "Popular Science",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
-    },
-    {
-      "title": "U.S. export controls hit Claude Fable 5 mid-rollout",
-      "description": "June 12 directive forced Anthropic to suspend Fable 5 and Mythos 5 access globally, spotlighting geopolitics on frontier model releases.",
-      "url": "https://www.reddit.com/r/singularity/comments/1u4ialb/rip_claude_fable_5_june_9_2026_june_12_2026/",
-      "source": "Reddit / community",
-      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
-    },
-    {
-      "title": "White House National AI Policy Framework — federal preemption push continues",
-      "description": "2026 policy package favors sandboxes and sector regulators; Commerce evaluation timelines and state-law friction remain in flux.",
-      "url": "https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial",
+      "title": "White House National AI Policy Framework — March 20, 2026 federal preemption ask",
+      "description": "Administration urges Congress for a single federal AI use regime with sector guardrails including child safety and replica rights.",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/04/ai-regulation-the-new-compliance-frontier",
       "source": "Holland & Knight",
       "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     },
     {
-      "title": "Microsoft diversifies stack to cut OpenAI dependency and token bills",
-      "description": "CNBC Build recap: MAI family on custom Maia accelerators targets lower per-inference cost for Copilot and Foundry customers.",
-      "url": "https://www.cnbc.com/news-live/microsoft-build-2026-news-ai-copilot/",
-      "source": "CNBC",
+      "title": "Innovation Council Action — $100M+ pro-AI midterm spend planned",
+      "description": "Axios reports a deregulatory-aligned PAC with David Sacks backing, turning AI guardrails into a nine-figure electoral category.",
+      "url": "https://techstartups.com/2026/03/30/top-tech-news-today-march-30-2026",
+      "source": "Tech Startups",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
+    },
+    {
+      "title": "Big Tech AI valuations face discipline as infra bills and outages bite",
+      "description": "March 2026 market stress shows exuberance meeting execution risk—compute redirects, platform downtime, and selloff sensitivity.",
+      "url": "https://techstartups.com/2026/03/30/top-tech-news-today-march-30-2026",
+      "source": "Tech Startups",
       "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
+    },
+    {
+      "title": "2026 state and federal tech laws — privacy, repair, and AI statutes take effect",
+      "description": "The Verge roundup tracks a patchwork of new compliance deadlines as U.S. and EU approaches diverge on enforcement.",
+      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
+      "source": "The Verge",
+      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Spring 2026 — individuals now #4 for trending new models",
-      "description": "State of OSS report: geography shifts (France, South Korea), Kernel Hub for NVIDIA/AMD, and robotics/science sub-communities scaling.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "title": "Kimi K2.6 on Hugging Face — ~1.1T params, Modified MIT, dev favorite",
+      "description": "Early 2026 open-weight release ranks among strongest hub cards for coding and agentic workloads under permissive license terms.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Apple to open-source Foundation Models framework summer 2026",
-      "description": "WWDC 2026 roadmap promises public Swift agent APIs after multimodal and server-side execution expansions ship to developers.",
-      "url": "https://lushbinary.com/blog/apple-foundation-models-framework-swift-guide",
-      "source": "Lushbinary",
-      "image_url": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=600&q=60"
-    },
-    {
-      "title": "Open LLM leaderboard: Qwen3, Gemma 4, Llama 4 Scout, DeepSeek V4",
-      "description": "March 2026 comparison tables stress MoE efficiency, Apache/MIT licenses, and Ollama-friendly deploy sizes for self-hosters.",
-      "url": "https://computingforgeeks.com/open-source-llm-comparison",
-      "source": "ComputingForGeeks",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
-    },
-    {
-      "title": "MiniMax-M2.5 — 229B MoE with 10B active, Modified MIT license",
-      "description": "Agent-native open weights with Lightning throughput variant; strong pick for real-environment RL-tuned coding and ops agents.",
+      "title": "MiniMax-M2.5 and GLM-5 — MoE agents with 10B–40B active tokens",
+      "description": "February 2026 drops pair RL-trained agent behavior with 196K–200K context windows and Lightning throughput variants.",
       "url": "https://fireworks.ai/blog/best-open-source-llms",
       "source": "Fireworks AI",
       "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
+    },
+    {
+      "title": "HunyuanVideo 13B — Tencent open text-to-video on the Hub",
+      "description": "13B-parameter foundation model with MLLM encoder and 3D VAE targets motion quality competitive with closed video APIs.",
+      "url": "https://a2aprotocol.ai/insights/latest-text-to-video-models-huggingface-2026",
+      "source": "A2A Protocol",
+      "image_url": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=600&q=60"
+    },
+    {
+      "title": "Hugging Face as GitHub-for-AI — models, datasets, Spaces distribution standard",
+      "description": "2026 ecosystem guides stress task filters, multimodal hubs, and community scale as default path for releasing open models.",
+      "url": "https://learncsdesigns.medium.com/day-6-open-source-ai-ecosystem-in-2026-64bf78c77bb9",
+      "source": "Medium / LearnCS",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     }
   ]
 }
