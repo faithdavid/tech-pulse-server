@@ -8,28 +8,35 @@
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "Q1 2026 release velocity — 255+ tracked model launches; Gemini 3.1 Pro, Claude Opus 4.6, GPT-5.3 Codex",
-      "description": "February alone brought 12 major updates; March pace continues across OpenAI, Anthropic, Google, xAI, and Chinese labs.",
+      "title": "Apple Siri rebuild — 1.2T-parameter Gemini via Private Cloud Compute; iOS 26.4 March target",
+      "description": "On-screen awareness and cross-app integration while keeping inference in Apple's privacy envelope.",
       "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
       "source": "Mean CEO",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "June 2026 arXiv wave — agent orchestration, VLA lab agents, and CoT causality probes",
-      "description": "Fresh cs.AI papers cover reward models for multi-agent LLM orchestration, LabVLA for scientific labs, and epiphenomenal chain-of-thought analysis.",
-      "url": "https://arxivlens.com/category/cs-ai",
-      "source": "ArxivLens",
+      "title": "DeepSeek-V4-Flash — 284B MoE with 13B active params; 1M context, 32T pretrain tokens",
+      "description": "Tier-1 intelligence at lowest activation footprint; reshapes inference economics vs western frontier labs.",
+      "url": "https://www.devflokers.com/blog/ai-news-may-2026-models-papers-open-source",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     },
     {
-      "title": "Google DeepMind publications — ongoing frontier research catalog for multimodal and reasoning systems",
-      "description": "Central index for peer-reviewed and preprint output from Google's core AI research org.",
-      "url": "https://deepmind.google/research/publications/",
-      "source": "Google DeepMind",
+      "title": "LLM-Emu (Cambridge) — profile-driven inference emulator under 5% wall-clock error",
+      "description": "Simulate massive multi-agent LLM runs without full GPU forward passes for academic-scale research.",
+      "url": "https://www.devflokers.com/blog/ai-news-may-2026-models-papers-open-source",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
+    {
+      "title": "Anthropic & OpenAI IPO filings — June 2026 confidential S-1s; combined ~$1.8T narrative",
+      "description": "Anthropic cited at ~$965B after $65B private raise; ~$47B annualized revenue run rate with heavy compute spend.",
+      "url": "https://informedclearly.com/en/ai/54704/anthropic-openai-ipo-june-2026",
+      "source": "Informed Clearly",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
     {
       "title": "AI acquisitions 2026 — Google-Wiz, OpenAI Promptfoo/Astral, Anthropic Vercept and Bun",
       "description": "Strategic buyers target security, eval tooling, and agent UX as consolidation accelerates around foundation labs.",
@@ -38,17 +45,10 @@
       "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     },
     {
-      "title": "2026 consolidation — NVIDIA and Databricks assemble full AI stacks via M&A",
-      "description": "Infrastructure giants buy components faster than building in-house as the market compresses around integrated platforms.",
-      "url": "https://tooldirectory.ai/blog/bought-or-buried-2026-ai-consolidation",
-      "source": "Tool Directory",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "Mistral AI — Paris lab signals IPO path; not for sale after rapid VC scale-up",
-      "description": "Arthur Mensch told Bloomberg the European open-model challenger plans a public listing timeline after 2023 founding.",
-      "url": "https://accessipos.com/upcoming-ipos/",
-      "source": "Access IPOs",
+      "title": "Humanoid robotics — $20B+ dedicated funding projected for 2026 production deployments",
+      "description": "Figure at Amazon, BMW, Mercedes cited as commercial validation prior robotics waves lacked.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
+      "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
@@ -61,91 +61,91 @@
   ],
   "tools": [
     {
-      "title": "Google I/O 2026 — Chrome DevTools for agents, Antigravity 2.0 CLI, HTML-in-Canvas origin trial",
-      "description": "Agents get Lighthouse-aware debugging, sandboxed terminals, and searchable DOM inside WebGL/WebGPU canvases.",
-      "url": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
-      "source": "Google Developers Blog",
+      "title": "Temporal Cloud 2.0 — durable execution for multi-day agent and payment workflows",
+      "description": "Signals, updates, and visual replay cut custom orchestration tooling; Go/TS/Python/Java workflows survive crashes.",
+      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
+      "source": "DEV Community",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
     },
     {
-      "title": "Android Studio migration agent — RN, web, and iOS codebases to native Kotlin in hours",
-      "description": "Preview agent analyzes sources and automates week-scale porting work for greenfield Android targets.",
-      "url": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
-      "source": "Google Developers Blog",
+      "title": "TanStack Start RC — type-safe Router + Query as full-stack React default for 2026",
+      "description": "End-to-end builds with fewer React Router footguns; Query v5 for server-state in AI-heavy frontends.",
+      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
+      "source": "Medium",
       "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
     },
     {
-      "title": "FastAPI — default API layer for LLM products with Pydantic tool schemas and async SSE",
-      "description": "OpenAPI exports map cleanly to agent tool definitions; cited as dominant 2026 backend for AI startups.",
-      "url": "https://www.index.dev/blog/software-development-frameworks",
-      "source": "Index.dev",
+      "title": "Zod v4 + Pydantic — runtime schema validation as compile-time guard for agent tool I/O",
+      "description": "Dominant pattern for TypeScript and Python SDK integrations with Gemini, Claude, and OpenAI tool APIs.",
+      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
+      "source": "Medium",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "React 19 + Next.js — Server Components and Compiler ship as 2026 web default stack",
-      "description": "Framework roundups rank React/Next, Flutter, and SwiftUI as top adoption curves for new product teams.",
-      "url": "https://hackajob.com/talent/blog/top-10-frameworks-to-learn-in-2025-and-when-to-use-them",
-      "source": "hackajob",
+      "title": "Wasp + Django 5.2 LTS — batteries-included JS/TS and Python full-stack picks for 2026",
+      "description": "Framework roundups rank Wasp for indie SaaS velocity and Django for ML-integrated web backends through 2028 LTS.",
+      "url": "https://wasp.sh/resources/2026/02/24/best-frameworks-web-dev-2026",
+      "source": "Wasp",
       "image_url": "https://images.unsplash.com/photo-1618477388954-7852f725947f?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "White House National Policy Framework for AI — legislative recommendations and state-law tension",
-      "description": "March 2026 framework pushes federal coordination; Commerce evaluation on preemption was due mid-March.",
-      "url": "https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial",
-      "source": "Holland & Knight",
+      "title": "Pentagon shifts 2/3 of classified AI work off Anthropic ahead of September cutoff",
+      "description": "DOD R&E chief says transition to alternative providers already underway on classified networks.",
+      "url": "https://insideaipolicy.com/",
+      "source": "Inside AI Policy",
       "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
     },
     {
-      "title": "EO on advanced AI innovation and security — frontier model benchmarking within 60 days",
-      "description": "Treasury, NSA, CISA, and NIST tasked to classify covered frontier models via classified cyber capability tests.",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-      "source": "The White House",
+      "title": "California AI transparency — gen-AI training-data docs required for systems sold to Californians",
+      "description": "2024 law effective Jan 1, 2026; part of broader 2026 state tech rules alongside repair and privacy statutes.",
+      "url": "https://www.techpolicy.press/march-2026-us-tech-policy-roundup/",
+      "source": "TechPolicy.Press",
       "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     },
     {
-      "title": "Big Tech's last push on AI regulation — lobbying surge ahead of federal framework votes",
-      "description": "June 2026 coverage tracks coordinated industry effort to shape preemption and compliance timelines.",
-      "url": "https://www.glideslope.ai/post/ooqhqdo/big-tech-desperate-last-push-at-ai-regulation",
-      "source": "Glideslope",
+      "title": "White House AI framework — Commerce frontier evaluation was due March 11, 2026",
+      "description": "National policy push on federal preemption and legislative recommendations; Task Force announced Jan 9.",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial",
+      "source": "Holland & Knight",
       "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
     },
     {
-      "title": "FTC AI policy statement — March 2026 deadline on state-law preemption vs deceptive practices",
-      "description": "Executive order timeline requires clarity on when truthful-output mandates conflict with federal FTC Act.",
-      "url": "https://www.kslaw.com/news-and-insights/new-state-ai-laws-are-effective-on-january-1-2026-but-a-new-executive-order-signals-disruption",
-      "source": "King & Spalding",
+      "title": "NSF X-Labs — $1.5B / 10-year FO for AI- and quantum-enabled scientific instruments",
+      "description": "White House-backed initiative opens major funding lane for next-gen lab tooling and sensing.",
+      "url": "https://insideaipolicy.com/",
+      "source": "Inside AI Policy",
       "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "xAI Grok on Hugging Face — Grok-2 at 43.2k downloads; open weights for self-hosted deploy",
-      "description": "xai-org hub hosts Grok-1/2 and RealworldQA dataset as API alternatives for on-prem inference.",
-      "url": "https://explainx.ai/blog/xai-grok-hugging-face-open-weights-2026",
-      "source": "explainx.ai",
+      "title": "Holo3.1 — local computer-use agents with FP8, NVFP4, and Q4 GGUF edge checkpoints",
+      "description": "H Company releases fast on-device agent stack plus Models API collection on Hugging Face.",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=600&q=60"
     },
     {
-      "title": "Hugging Face ml-intern — open agent automates LLM post-training workflow on GPU",
-      "description": "April 2026 release implements research ideas in training pipelines without manual orchestration scripts.",
-      "url": "https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/",
-      "source": "MarkTechPost",
+      "title": "State of Open Source on HF — Spring 2026; South Korea sovereign models trended in February",
+      "description": "National stack partnerships put three Korean models on Hub leaderboards simultaneously.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Best open LLMs 2026 — Qwen3, Gemma 4, Llama 4 Scout, DeepSeek V4, Kimi K2.6",
-      "description": "Hugging Face blog compares license, benchmark, local deploy, long context, and low API cost tradeoffs.",
+      "title": "Best open LLMs 2026 — Qwen3, Gemma 4, Llama 4 Scout, DeepSeek V4 Flash, Kimi K2.6",
+      "description": "HF guide maps license, benchmarks, local deploy, long context, and API cost tradeoffs.",
       "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "One year since the DeepSeek moment — open-weight momentum across Olmo, Llama 4, Mistral Large 3",
-      "description": "HF retrospective tracks U.S. and European releases and community engagement on the Hub.",
-      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
-      "source": "Hugging Face",
+      "title": "FLUX.2-small-decoder — ~1.4× faster decode, ~1.4× less VRAM with minimal quality loss",
+      "description": "Black Forest Labs drop-in VAE upgrade for consumer-GPU image pipelines and real-time editing.",
+      "url": "https://www.essamamdani.com/blog/top-6-open-source-ai-models-april-2026",
+      "source": "Essa Mamdani",
       "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
     }
   ]
