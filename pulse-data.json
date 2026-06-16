@@ -1,151 +1,151 @@
 {
   "ai": [
     {
-      "title": "OpenAI GPT-5.4 — Standard, Thinking, and Pro tiers ship as March 2026 frontier wave",
-      "description": "Launch positions ~33% fewer factual errors vs prior tiers on enterprise benchmarks while labs race on reasoning consistency and cost-efficient production SKUs.",
-      "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
-      "source": "BuildFastWithAI",
+      "title": "Grok 4.20 — tops March 2026 frontier models on live-news accuracy benchmarks",
+      "description": "X-integrated real-time stream and tighter source attribution push Grok ahead on events published within the prior 30 days.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
+    },
+    {
+      "title": "Sony AI Ace — beats three pro table-tennis players in March 2026 eval matches",
+      "description": "Real-world robotics research shows faster shots, edge placement, and aggressive rally tactics vs earlier Ace generations.",
+      "url": "https://ai.sony/news/sony-ai-announces-breakthrough-research-in-real-world-artificial-intelligence-and-robotics",
+      "source": "Sony AI",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "Anthropic MCP — 97 million installs; agent tool wiring becomes default infra",
-      "description": "Model Context Protocol crosses from experiment to shared plumbing for data sources and tools across the agent ecosystem.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
+      "title": "LLM release tracker — GPT, Claude, Gemini, Llama updates indexed in real time for June 2026",
+      "description": "Central changelog surfaces API changes, version launches, and capability bumps across 500+ language models.",
+      "url": "https://llm-stats.com/llm-updates",
+      "source": "LLM Stats",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Apple Siri rebuild — 1.2T-parameter Gemini via Private Cloud Compute; iOS 26.4 target",
-      "description": "On-screen awareness and cross-app agent flows land without sending raw user context off-device in the privacy-preserving stack.",
-      "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
-      "source": "Mean CEO",
-      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
-    },
-    {
-      "title": "WWDC26 (June 8–12) — Foundation Models framework and Apple Intelligence SDK betas",
-      "description": "Apple opens App Store submissions on Tahoe 26 / iOS 26 with Liquid Glass design and on-device model APIs for third-party apps.",
-      "url": "https://developer.apple.com/news/",
-      "source": "Apple Developer",
-      "image_url": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=600&q=60"
+      "title": "March 2026 model wave — database adds specs and researcher metadata for every new checkpoint",
+      "description": "LLM Reference month view helps teams compare context windows, pricing, and safety cards on day-one releases.",
+      "url": "https://www.llmreference.com/changelog/2026-03",
+      "source": "LLM Reference",
+      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Q1 2026 — AI startups capture 57% of all venture capital in first quarterly tally",
-      "description": "Fundraise Insider reports faster Series A/B graduation for AI vs rest of market while debt rounds quietly normalize cap tables.",
-      "url": "https://www.usatoday.com/press-release/story/34535/q1-2026-startup-funding-report-ai-takes-57-of-all-capital/",
-      "source": "USA Today / Fundraise Insider",
+      "title": "2026 fundraising — crossover funds anchor Series B+ AI rounds for liquidity optionality",
+      "description": "Founders face heavier financial diligence and public-comps framing as strategics and institutions own the largest checks.",
+      "url": "https://qubit.capital/blog/ai-startup-fundraising-trends",
+      "source": "Qubit Capital",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Lio — $30M Series A led by a16z for agentic enterprise procurement (Mar 5, 2026)",
-      "description": "Total funding hits $33M as agents triage quotes, negotiate vendors, and execute purchases end-to-end across ERP stacks.",
-      "url": "https://grokipedia.com/page/AI_Funding_Rounds_in_March_2026",
-      "source": "Grokipedia",
-      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
-    },
-    {
-      "title": "Together AI — advanced talks for ~$1B round at ~$7.5B valuation",
-      "description": "Inference-cloud cap table wars intensify as GPU landlords price scarcity above application-layer multiples.",
-      "url": "https://grokipedia.com/page/AI_Funding_Rounds_in_March_2026",
-      "source": "Grokipedia",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
-    },
-    {
-      "title": "2026 M&A map — Google-Wiz closed; OpenAI buys Promptfoo & Astral; Anthropic Vercept & Bun",
-      "description": "Frontier labs and hyperscalers buy security, dev tooling, and agent UX instead of waiting on organic product cycles.",
+      "title": "Acquisition map — Google-Wiz, OpenAI Promptfoo & Astral, Anthropic Vercept & Bun",
+      "description": "Frontier labs buy security, dev tooling, and agent UX instead of waiting on organic product cycles.",
       "url": "https://www.buildmvpfast.com/blog/ai-startup-acquisitions-2026-whos-buying-why",
       "source": "Build MVP Fast",
       "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+    },
+    {
+      "title": "IT services M&A — AI-focused deals gain traction for the first time in services consolidation",
+      "description": "Analysts expect 2025 bridge year to yield more AI tuck-ins in 2026 as scale players outpace smaller acquirers.",
+      "url": "https://www.crn.com/news/ai/2026/ai-focused-acquisitions-gain-traction-in-it-services-m-a-for-first-time",
+      "source": "CRN",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
+    },
+    {
+      "title": "Acquihires — early buyer conversations and team-vs-product valuation separate real 2026 exits",
+      "description": "Consolidation cycle rewards engineers and proprietary systems over headline ARR when cap tables need a floor.",
+      "url": "https://qubit.capital/blog/ai-startup-fundraising-trends",
+      "source": "Qubit Capital",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Microsoft Agent Framework 1.0 GA — AutoGen + Semantic Kernel unified (Apr 3, 2026)",
-      "description": "Stable APIs and LTS commitment replace greenfield AutoGen installs for multi-agent orchestration in enterprise .NET/Java shops.",
-      "url": "https://www.morphllm.com/ai-agent-framework",
-      "source": "MorphLLM",
+      "title": "AI coding stack 2026 — Claude Code, Codex, and Cursor split terminal, async PR, and IDE pair modes",
+      "description": "Teams assign task classes across $20–200/mo tiers instead of betting on a single assistant vendor.",
+      "url": "https://automationatlas.io/rankings/best-ai-coding-tools-2026",
+      "source": "Automation Atlas",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Google ADK — Java 1.0 and Go 1.0 ship; A2A agents across language silos",
-      "description": "Agent Designer in Google Cloud plus four SDKs let Python agents call Java services without shared runtimes.",
-      "url": "https://www.morphllm.com/ai-agent-framework",
-      "source": "MorphLLM",
-      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
-    },
-    {
-      "title": "Hugging Face Smolagents — ~1K LOC CodeAgent cuts LLM calls ~30% vs JSON tool mode",
-      "description": "26k+ GitHub stars; sandboxed execution via E2B, Modal, Docker, or Pyodide for lightweight agent loops.",
-      "url": "https://www.morphllm.com/ai-agent-framework",
-      "source": "MorphLLM",
+      "title": "Greptile — AI code review catches cross-file auth gaps and secret-leak regressions pre-merge",
+      "description": "Scales with Copilot/Cursor volume by validating callers, shared modules, and sensitive paths outside the diff.",
+      "url": "https://www.greptile.com/content-library/14-best-developer-productivity-tools",
+      "source": "Greptile",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
     },
     {
-      "title": "Xcode 26 Release Candidate — App Store open for iOS 26 / macOS Tahoe 26 with on-device models",
-      "description": "TestFlight + Foundation Models framework become the default path for shipping Apple Intelligence features in production apps.",
-      "url": "https://developer.apple.com/news/",
-      "source": "Apple Developer",
+      "title": "FastAPI — default API layer for LLM products via Pydantic tool schemas and async SSE streams",
+      "description": "OpenAPI exports map cleanly to agent tool definitions for most 2025–2026 AI startups.",
+      "url": "https://www.index.dev/blog/software-development-frameworks",
+      "source": "Index.dev",
+      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
+    },
+    {
+      "title": "Lovable vs Bolt.new — production React+Supabase vs in-browser multi-framework prototyping",
+      "description": "App builders trade per-message shipping ($25/mo) against WebContainer token pricing ($20/mo) for demos.",
+      "url": "https://automationatlas.io/rankings/best-ai-coding-tools-2026",
+      "source": "Automation Atlas",
       "image_url": "https://images.unsplash.com/photo-1618477388954-7852f725947f?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "White House National Policy Framework for AI — March 20, 2026 legislative blueprint",
-      "description": "Administration pushes single federal guardrails on child safety and interstate commerce while Commerce evaluation timelines slip.",
-      "url": "https://www.hklaw.com/en/insights/publications/2026/04/ai-regulation-the-new-compliance-frontier",
-      "source": "Holland & Knight",
-      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
-    },
-    {
-      "title": "CAISI frontier testing — Google, Microsoft, xAI partnerships; 40+ evaluations completed",
-      "description": "Renamed US AI Safety Institute scales pre/post-deployment reviews as states keep enforceable AI laws after 99-1 Senate moratorium kill.",
-      "url": "https://www.softwareimprovementgroup.com/blog/us-ai-legislation-overview",
-      "source": "SIG",
+      "title": "OpenAI leadership shuffle — Altman pivots to capital, supply chains, and next-model industrial scale",
+      "description": "Frontier AI becomes an operations and infrastructure challenge as much as a research race.",
+      "url": "https://techstartups.com/2026/03/25/top-tech-news-today-march-25-2026",
+      "source": "Tech Startups",
       "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
     },
     {
-      "title": "California 2026 tech laws — AI system transparency (SB 53) in force Jan 1",
-      "description": "Disclosure and whistleblower duties join privacy, repair, and crypto ATM refund rules in the new-year compliance bundle.",
-      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
-      "source": "The Verge",
+      "title": "EU antitrust — Teresa Ribera meets Google, Meta, OpenAI, Amazon on AI market concentration",
+      "description": "Brussels frames bundled cloud, data, and distribution as competition risk—not only safety regulation.",
+      "url": "https://techstartups.com/2026/03/25/top-tech-news-today-march-25-2026",
+      "source": "Tech Startups",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+    },
+    {
+      "title": "White House AI policy framework — Commerce evaluation past March 11 deadline still pending public release",
+      "description": "Federal blueprint advances while state and sector compliance timelines diverge across enterprises.",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial",
+      "source": "Holland & Knight",
       "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     },
     {
-      "title": "Anthropic Claude Fable 5 & Mythos 5 — 1M-token GA across API, Bedrock, Vertex, Foundry",
-      "description": "June 9 rollout reframes enterprise RAG and long-horizon agent contracts vs OpenAI and Google production SKUs.",
-      "url": "https://platform.claude.com/docs/en/about-claude/models/overview",
-      "source": "Claude API Docs",
-      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
+      "title": "2026 regulatory preview — top 10 AI compliance shifts for companies operating across states and feds",
+      "description": "Wilson Sonsini maps enforcement, disclosure, and product-liability watchpoints for the year ahead.",
+      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
+      "source": "Wilson Sonsini",
+      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Spring 2026 — Chinese open models overtake U.S. Hub adoption",
-      "description": "Qwen and DeepSeek derivative boom drives sovereign open-weight strategy and cross-border download leadership.",
-      "url": "https://getaibook.com/news/hugging-face-reports-chinese-open-models-overtook-us-on-hub-as-qwen-and-deepseek/",
-      "source": "GetAI Book",
+      "title": "Hugging Face Spring 2026 — South Korea sovereign models trended three at once in February",
+      "description": "State of open source report tracks national checkpoints competing on Hub discovery and downloads.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Red Hat AI validated models — March 2026 third-party gen-AI collection on Hugging Face",
-      "description": "Curated stack for OpenShift AI and RHEL AI with enterprise support gates on community checkpoints.",
-      "url": "https://huggingface.co/collections/RedHatAI/red-hat-ai-validated-models-march-2026",
-      "source": "Hugging Face / Red Hat",
+      "title": "ml-intern — open agent automates end-to-end LLM post-training workflows on the Hub",
+      "description": "Hugging Face ships tooling to reduce manual RLHF/SFT pipeline glue for community model builders.",
+      "url": "https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/",
+      "source": "MarkTechPost",
       "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Open LLM picks 2026 — Kimi K2.6, GLM-5.1, Gemma 4, DeepSeek V4 Flash for coding and local deploy",
-      "description": "License-aware matrix maps Apache/MIT weights to single-GPU Ollama paths vs API-only frontier distillates.",
+      "title": "Kimi K2.6 — ~1.1T-parameter Modified MIT open weights for coding and agentic dev in 2026",
+      "description": "Moonshot checkpoint ranks among strongest Hugging Face developer picks for local and API deploy.",
       "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
       "source": "Hugging Face Blog",
       "image_url": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=600&q=60"
     },
     {
-      "title": "Hub scale — 1M+ models and 500k+ datasets as default self-host discovery layer",
-      "description": "TGI, vLLM, and Transformers loaders keep open weights within single-digit points of closed APIs on coding benchmarks.",
-      "url": "https://www.coronium.io/blog/openai-gpt-oss-open-source-models-2025",
-      "source": "Coronium",
+      "title": "Hub scale — 2.2M+ models; top 50 entities drive ~80% of total download volume",
+      "description": "92% of pulls stay under 1B parameters as NLP, vision, and audio modalities split usage.",
+      "url": "https://huggingface.co/blog/lbourdois/huggingface-models-stats",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
     }
   ]
