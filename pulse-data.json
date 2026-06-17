@@ -1,152 +1,152 @@
 {
   "ai": [
     {
-      "title": "Claude Fable 5 — Anthropic ships newest frontier model (Jun 9, 2026)",
-      "description": "AI Release Tracker ranks it latest major lab release; cadence continues after Q1's 255+ tracked model drops.",
-      "url": "https://aireleasetracker.com/latest",
-      "source": "AI Release Tracker",
+      "title": "CVPR 2026 Best Papers — NitroGen gaming agent, SAM 3D single-image 3D",
+      "description": "Awards honor vision-action model trained on 40K hours across 1,000+ games and Meta SAM 3D with 5:1 human preference wins on real-world reconstruction.",
+      "url": "https://cvpr.thecvf.com/Conferences/2026/News/Best_Papers",
+      "source": "CVPR",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "GPT-5.4 — OpenAI claims ~33% fewer factual errors vs GPT-5.2 (Mar 5, 2026)",
-      "description": "March release wave positions accuracy-focused frontier models for enterprise and agent workloads.",
-      "url": "https://www.clawpod.co/blog/new-ai-model-releases-march-2026",
-      "source": "ClawPod",
+      "title": "NVIDIA Nemotron 3 Ultra — 550B MoE, Intelligence Index 48, OpenMDW-1.1",
+      "description": "June 4 ship claims 91% PinchBench, 95% RULER at 1M tokens, 300+ tok/s on DeepInfra; 8× B200 for single-node deploy.",
+      "url": "https://felloai.com/best-ai-models",
+      "source": "Fello AI",
       "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     },
     {
-      "title": "Model Context Protocol — 97M+ installs by March 2026",
-      "description": "Anthropic's MCP crosses from experiment to default plumbing for agent tool and context wiring.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
+      "title": "GLM-5.2 — Zhipu 744B coding MoE with 1M-token context",
+      "description": "June 13 release: 40B active params, MIT open weights following GLM Coding Plan; benchmarks pending independent runs.",
+      "url": "https://felloai.com/best-ai-models",
+      "source": "Fello AI",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Q1 2026 model surge — Gemini 3.1 Pro, Claude Opus 4.6, Grok 4.20, Qwen 3.5 among 12+ February ships",
-      "description": "Startup-edition tracker logs unprecedented release velocity across Western and Chinese labs.",
-      "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
-      "source": "Mean CEO",
+      "title": "Breakthrough arXiv wave — CausalMoE, FTP-1 tactile policy, WEAVER robot world model",
+      "description": "June 11 papers push billion-scale causal discovery, cross-sensor manipulation, and flow-matching simulators for embodied AI.",
+      "url": "https://arxiv.deeppaper.ai/paper_type_tags/breakthrough",
+      "source": "DeepPaper",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "OpenAI — $122B round puts valuation above many national GDPs",
-      "description": "CNBC-reported mega-round cements hyperscaler-scale capital concentration in foundation-model race.",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "title": "OpenAI — confidential S-1 filed June 8; ~$852B valuation after $122B round",
+      "description": "SEC draft filing stresses undecided listing timing; Wall Street braces for largest AI IPO cycle.",
+      "url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html",
       "source": "CNBC",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Shield AI — $1.5B Series G at $12.7B valuation (+140% YoY)",
-      "description": "Hivemind autonomy platform tied to USAF Collaborative Combat Aircraft; $540M+ 2026 revenue guided.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
+      "title": "CuspAI — $400M raise (Jun 17) tops daily AI-adjacent deal flow",
+      "description": "UK software startup leads Fundup refresh alongside Flagright $12.5M and Traysar $25M defense-tech.",
+      "url": "https://fundup.ai/recently-funded-startups",
+      "source": "Fundup AI",
       "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     },
     {
-      "title": "Anthropic — $65B Series H (late May 2026) at ~$965B post-money",
-      "description": "AI Funding Tracker flags Anthropic as most valuable standalone AI startup in current rankings.",
-      "url": "https://aifundingtracker.com/top-50-ai-startups/",
-      "source": "AI Funding Tracker",
+      "title": "SpaceX S-1 — xAI absorbed Feb 2026; $3.2B AI revenue vs $6.4B segment loss in 2025",
+      "description": "Starlink $11.4B of ~$18.7B total revenue; proceeds earmarked for orbital data centers ~2028.",
+      "url": "https://beincrypto.com/learn/top-ai-ipos/",
+      "source": "BeInCrypto",
       "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "Daily funded AI startups — ChatSee.AI $6.5M, FreightHero.ai $6.1M, Maritime Robotics €28M (Jun 12)",
-      "description": "Fundup AI refresh surfaces agent analytics, logistics AI, and maritime autonomy checks.",
-      "url": "https://fundup.ai/recently-funded-startups",
-      "source": "Fundup AI",
+      "title": "Databricks — talks for $165B–$175B round (Jun 9); no SEC filing yet",
+      "description": "Follows February $5B at $134B; lakehouse rival still private as IPO watchlist thickens.",
+      "url": "https://builtin.com/articles/top-tech-ipos-2026",
+      "source": "Built In",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Xcode 27 — on-device Apple Intelligence multi-line completion vs Copilot/Cursor",
-      "description": "WWDC 2026 ships local Silicon inference plus optional third-party model routing for teams.",
-      "url": "https://lushbinary.com/blog/wwdc-2026-announcements-ios-27-siri-developer-guide",
-      "source": "Lushbinary",
+      "title": "Microsoft Build — Copilot agents across Windows, Foundry, workplace stack",
+      "description": "June 3 wave adds agentic layers to dev and productivity surfaces alongside device prototypes.",
+      "url": "https://www.developer-tech.com/news/microsoft-build-ai-agents-copilot-windows-developer-tools/",
+      "source": "Developer Tech",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
     },
     {
-      "title": "App Intents replaces SiriKit — mandatory Siri surface with ~2–3 year migration window",
-      "description": "Platforms State of the Union deprecates 2016 SiriKit as new Siri chains cross-app actions.",
+      "title": "Xcode 27 — on-device Apple Intelligence completion; SiriKit → App Intents",
+      "description": "WWDC 2026 mandates new Siri surface with 2–3 year migration; local Silicon inference rivals Copilot/Cursor.",
       "url": "https://lushbinary.com/blog/wwdc-2026-announcements-ios-27-siri-developer-guide",
       "source": "Lushbinary",
       "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
     },
     {
-      "title": "Hugging Face smolagents — ~1K lines Python, code-first agent routing in sandboxes",
-      "description": "June OSS roundup highlights minimal-abstraction agents vs JSON-schema tool stacks.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "devFlokers",
+      "title": "2026 framework stack — React 19, Angular 18, FastAPI, Svelte 5 still lead hiring charts",
+      "description": "Index.dev tracker cites dominant web/backend picks plus rising challengers for greenfield builds.",
+      "url": "https://www.index.dev/blog/software-development-frameworks",
+      "source": "Index.dev",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Temporal Cloud 2.0 — durable execution for long-running AI and payment workflows",
-      "description": "DEV Community flags signals/updates and visual workflow observability for microservice orchestration.",
-      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
-      "source": "DEV Community",
-      "image_url": "https://images.unsplash.com/photo-1618477388954-7852f725947f?w=600&q=60"
+      "title": "Apple WWDC26 SDKs — platform design, Apple Intelligence, new AI dev frameworks",
+      "description": "June 8–12 online sessions ship betas with intelligence APIs and cross-platform sample docs.",
+      "url": "https://developer.apple.com/news/",
+      "source": "Apple Developer",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "White House EO (Jun 2026) — classified benchmarking for 'covered frontier' cyber-capable models",
-      "description": "Treasury, NSA, CISA, NIST tasked with 60-day threshold process for advanced AI security designations.",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-      "source": "White House",
+      "title": "OpenAI S-1 week — frontier labs race public markets with $1.8T+ combined narrative",
+      "description": "June filings and mega-rounds shift AI from VC science project to quarterly-growth scrutiny.",
+      "url": "https://informedclearly.com/en/ai/54704/anthropic-openai-ipo-june-2026",
+      "source": "Informed Clearly",
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
+    },
+    {
+      "title": "US EO (Jun 2) — NSA frontier-model benchmarks; 30-day voluntary pre-release evals",
+      "description": "Promoting Advanced AI Innovation and Security avoids licensing while classifying cyber-capable models.",
+      "url": "https://www.devflokers.com/blog/ai-news-june-2026-models-research-developments",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     },
     {
-      "title": "Big Tech's last push on federal AI regulation — June 15 lobbying narrative",
-      "description": "The Verge/Glideslope coverage frames preemption fight as state patchwork laws multiply.",
-      "url": "https://www.glideslope.ai/post/ooqhqdo/big-tech-desperate-last-push-at-ai-regulation",
-      "source": "Glideslope",
-      "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=60"
-    },
-    {
-      "title": "Anthropic vs White House — June 12 order tensions after Pentagon access dispute",
-      "description": "Policy clash escalates over government model access and defense-use terms vs lab refusals.",
-      "url": "https://www.aivanet.com/2026/06/all-the-news-about-anthropics-new-ai-fight-with-the-white-house/",
-      "source": "AIVAnet",
+      "title": "EU Cloud and AI Development Act proposed Jun 3 — sovereign compute, data residency",
+      "description": "Commission package targets coordinated capital and resilient European AI infrastructure.",
+      "url": "https://www.devflokers.com/blog/ai-news-june-2026-models-research-developments",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
     },
     {
-      "title": "National AI Policy Framework — Commerce evaluation past Mar 11 deadline still pending public release",
-      "description": "Holland & Knight notes Task Force timing slip as federal preemption strategy advances.",
-      "url": "https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial",
-      "source": "Holland & Knight",
-      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+      "title": "Colorado AI Act effective Jun 30 — developer/deployer duty-of-care obligations",
+      "description": "2026 preview flags state-level AI governance joining California and federal health-tech guidance shifts.",
+      "url": "https://www.wsgrdataadvisor.com/2026/01/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for/",
+      "source": "Wilson Sonsini",
+      "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face June 12 drop — MiniMax-M3-VL, PP-OCRv6, Parakeet-RNNT multimodal + speech",
-      "description": "Company changelog highlights vision-language, OCR, and RNNT speech stacks on the Hub.",
-      "url": "https://af.net/realtime/hugging-face-announces-june-2026-updates-featuring-new-multimodal-and-ocr-models",
-      "source": "AF.net",
-      "image_url": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=600&q=60"
-    },
-    {
-      "title": "State of Open Source Spring 2026 — South Korea sovereign models trended 3 at once in February",
-      "description": "HF report tracks LG AI Research, SKT, Naver Cloud momentum vs EU/US sovereign releases.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
+      "title": "Kimi K2.7-Code — Moonshot 1T-param open coding model on Hugging Face",
+      "description": "June 12 release cuts reasoning tokens ~30% with double-digit benchmark gains over K2.6 for agentic dev.",
+      "url": "https://cryptobriefing.com/kimi-k2-7-code-open-source-release/",
+      "source": "Crypto Briefing",
       "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Best OSS LLM picks 2026 — Qwen3, Gemma 4, Llama 4 Scout, DeepSeek V4 for local and agents",
-      "description": "HF blog compares coding, long-context, and low-cost API tiers for open-weight deployment.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face",
+      "title": "MiniMax M3 — open-weight 1M context, MSA sparse attention, native computer use",
+      "description": "June OSS roundup positions first frontier-tier SWE + multimodal OS interaction under open weights.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Microsoft ASSERT + Agent Control Specification — open trust stack for agent safety regression",
-      "description": "June OSS tools wave adds policy-driven trajectory scoring and standardized execution limits.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "devFlokers",
-      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
+      "title": "Hugging Face Hub — 2.2M+ models, 80% of downloads from top 50 entities",
+      "description": "92% of pulls are sub-1B params; NLP 58%, CV 21%; sentence-transformers still dominate RAG stacks.",
+      "url": "https://www.programming-helper.com/tech/hugging-face-2026-2-million-models-80-percent-downloads-python",
+      "source": "Programming Helper",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+    },
+    {
+      "title": "Hugging Face agents — train models and wire new Hub skills from agent loops",
+      "description": "Merve Noyan demo path lets agents extend capabilities via Hub-integrated skill training.",
+      "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/hugging-face-agents-train-models-with-new-skills",
+      "source": "StartupHub.ai",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ]
 }
