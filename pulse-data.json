@@ -1,152 +1,152 @@
 {
   "ai": [
     {
-      "title": "Q1 2026 model velocity — 255+ releases; March adds GPT-5.4, Gemini 3.1 Ultra, Gemma 4",
-      "description": "LLM Stats tracks unprecedented cadence after February's Gemini 3.1 Pro, Claude Opus 4.6, GPT-5.3 Codex, Grok 4.20, Qwen 3.5, and GLM-5 wave.",
-      "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
-      "source": "Mean CEO",
+      "title": "Claude Fable 5 — Anthropic's latest frontier drop (Jun 9, 2026)",
+      "description": "AI Release Tracker flags Claude Fable 5 as the newest tracked frontier model, continuing the 2026 cadence of rapid lab releases after the spring GPT/Gemini/Qwen wave.",
+      "url": "https://aireleasetracker.com/latest",
+      "source": "AI Release Tracker",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
-      "title": "Anthropic MCP — 97M installs in March 2026",
+      "title": "Anthropic MCP — 97 million installs in March 2026",
       "description": "Model Context Protocol crosses from experimental standard to foundational agent infrastructure as enterprises wire tools at scale.",
       "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "JNGR 5.0 — 2026 research shifts to agents, governance, and deployment",
-      "description": "Peer-reviewed journal highlights agentic systems, evaluation frameworks, human–AI collaboration, and Industry 5.0 over pure model scaling.",
-      "url": "https://jngr5.com/jngr/ai-research-papers-2026",
-      "source": "JNGR",
+      "title": "Sony AI Ace — table-tennis agent beats pros in March 2026 evals",
+      "description": "Ace defeated three new professional players at least once with higher shot speeds and edge placement versus earlier benchmarks—real-world robotics + policy learning showcase.",
+      "url": "https://ai.sony/news/sony-ai-announces-breakthrough-research-in-real-world-artificial-intelligence-and-robotics",
+      "source": "Sony AI",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "12+ models in one March week — Muse Spark, GLM-5.1 benchmark comparisons",
-      "description": "BuildFastWithAI roundup compares price, benchmarks, and use cases across the spring 2026 release cluster.",
-      "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
-      "source": "BuildFastWithAI",
+      "title": "Big AI regulatory capture — arXiv maps industry interference (2026)",
+      "description": "New analysis ties Big Tech \"AI-first\" pivots to lobbying patterns and contrasts them with public appetite for privacy and civil-rights guardrails.",
+      "url": "https://arxiv.org/html/2605.06806v1",
+      "source": "arXiv",
       "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Physical AI capital — Figure AI $48B, SkildAI $14B; AV hits $23.26B in four months",
-      "description": "AIFundingTracker top-50 list shows robotics foundation models attracting record checks in early 2026.",
-      "url": "https://aifundingtracker.com/top-50-ai-startups/",
-      "source": "AI Funding Tracker",
+      "title": "Shield AI — $1.5B Series G at $12.7B valuation (Mar 25, 2026)",
+      "description": "Hivemind autonomy platform selected for USAF Collaborative Combat Aircraft; package includes Aechelon acquisition and X-BAT drone work—$540M+ 2026 revenue projected (80% YoY).",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Cohere — $240M ARR; open multilingual model family for enterprise IPO path",
-      "description": "Former Google Brain team positions for public markets with revenue footing stronger than many VC-dependent labs.",
-      "url": "https://builtin.com/articles/top-tech-ipos-2026",
-      "source": "Built In",
+      "title": "Anduril — $2.2B revenue in 2025; $4.3B 2026 outlook on Arsenal-1 scale-up",
+      "description": "Defense autonomy stack draws mega-checks as physical-AI capital concentrates on production-scale autonomy infrastructure.",
+      "url": "https://aifundingtracker.com/",
+      "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     },
     {
-      "title": "Databricks — $100B valuation Series K; lakehouse rivalry vs Snowflake intensifies",
-      "description": "15,000+ customers and IPO chatter as company funds acquisitions and autonomous-agent storage bets.",
-      "url": "https://builtin.com/articles/top-tech-ipos-2026",
-      "source": "Built In",
+      "title": "AI M&A wave 2026 — Google-Wiz, OpenAI Promptfoo/Astral, Anthropic Vercept/Bun",
+      "description": "Strategic buyers are paying for eval tooling, infra, and agent UX rather than raw model weights alone.",
+      "url": "https://www.buildmvpfast.com/blog/ai-startup-acquisitions-2026-whos-buying-why",
+      "source": "Build MVP Fast",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "Mistral AI — Paris lab rules out sale; IPO planned after rapid VC stack",
-      "description": "European challenger to U.S. LLM giants signals public listing over acquisition as EU deep-tech funding diversifies.",
-      "url": "https://accessipos.com/upcoming-ipos/",
-      "source": "Access IPOs",
+      "title": "Perplexity — $500M round at $4B valuation fuels IPO chatter",
+      "description": "Citation-native search keeps gaining share against classic engines, sharpening the 2026 IPO watchlist for AI-native consumer products.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "TanStack Router + Query — 20,000× route-match claims; Start RC for full-stack React",
-      "description": "2026 default for type-safe navigation, scroll restoration, and optimistic data in large dashboards.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
+      "title": "Xcode 26.5 + OS 26.5 betas — Apple pushes WWDC26 prep (Mar 30, 2026)",
+      "description": "iOS/iPadOS/macOS/tvOS/visionOS/watchOS betas land ahead of June 8–12 WWDC—developers told to validate against new SDKs now.",
+      "url": "https://developer.apple.com/news/",
+      "source": "Apple Developer",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
     },
     {
-      "title": "AI coding stack 2026 — Claude Code, Cursor, Codex ranked by task class",
-      "description": "Automation Atlas: terminal refactors → Claude Code; async PRs → Codex; IDE pair → Cursor; Lovable leads app builders at 8.6/10.",
-      "url": "https://automationatlas.io/rankings/best-ai-coding-tools-2026",
-      "source": "Automation Atlas",
+      "title": "2026 web stack — RSC/SSR default, TanStack + AI SDK for agentic UIs",
+      "description": "Figma trend report: server-first React, full-stack frameworks, and agent-runner workflows replacing hand-glued front/back splits.",
+      "url": "https://www.figma.com/resource-library/web-development-trends/",
+      "source": "Figma",
       "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
     },
     {
-      "title": "React 19 + FastAPI — dominant 2026 web/API pairing for LLM products",
-      "description": "Index.dev framework guide cites Server Components, React Compiler, and Pydantic-native tool schemas for AI startups.",
-      "url": "https://www.index.dev/blog/software-development-frameworks",
-      "source": "Index.dev",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "Flutter + Dart still top cross-platform pick for 2026 shipping velocity",
+      "description": "Bolder Apps roundup cites Flutter's compile performance and single-codebase reach as the default for mobile teams under deadline pressure.",
+      "url": "https://www.bolderapps.com/blog-posts/top-cross-platform-app-development-frameworks-in-2026",
+      "source": "Bolder Apps",
+      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538a60f?w=600&q=60"
     },
     {
-      "title": "Vibe coding wave — Cursor, Windsurf, Lovable, Bolt for non-traditional builders",
-      "description": "Designers shipping prototypes without deep backend skills; platform choice guide updated for 2026.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
+      "title": "Local LLM dev loop — Ollama, LM Studio, Vercel AI SDK in 2026 toolchains",
+      "description": "Creator roundups rank on-device models plus Shadcn/Radix/Tailwind and IDE agents (Cursor, Cline) as the default builder stack.",
+      "url": "https://www.youtube.com/watch?v=NpYiXVu1KCc",
+      "source": "YouTube / Adrian Twarog",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "White House National AI Policy Framework — March 20, 2026 seven-pillar blueprint",
-      "description": "Legislative recommendations span innovation, infrastructure, workforce, and liability signals for platform developers.",
-      "url": "https://iabrief.com/en/us-ai-regulation-2026",
-      "source": "IA Brief",
+      "title": "EU AI Act — staggered enforcement through 2026–2027",
+      "description": "Risk-tier obligations for high-risk and GPAI systems continue rolling out; BEUC and EDRi warn against \"digital omnibus\" dilution of hard-won protections.",
+      "url": "https://en.wikipedia.org/wiki/Artificial_Intelligence_Act",
+      "source": "Wikipedia / EU AI Act",
       "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     },
     {
-      "title": "California AI laws live Jan 2026 — AB 2013 training transparency, TFAIA safety frameworks",
-      "description": "Companion chatbot rules (SB 243) and health-profession disclosure (AB 489) tighten frontier-model operators.",
-      "url": "https://iabrief.com/en/us-ai-regulation-2026",
-      "source": "IA Brief",
-      "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=60"
-    },
-    {
-      "title": "EU AI Omnibus — high-risk deadlines slip to Dec 2027 / Aug 2028",
-      "description": "Council–Parliament deal adds non-consensual deepfake ban while extending SME sandboxes and AI Office powers.",
-      "url": "https://www.fladgate.com/insights/ai-round-up-june-2026",
-      "source": "Fladgate",
-      "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
-    },
-    {
-      "title": "FTC + state enforcement — Colorado, Texas, Illinois ADMT rules; NIST AI RMF as de facto standard",
-      "description": "No federal AI statute, but March 2026 policy statements and fines make compliance calendars non-optional.",
-      "url": "https://verifywise.ai/blog/state-of-ai-governance-regulations-united-states-2026",
-      "source": "VerifyWise",
+      "title": "2026 regulatory map — US framework, EU deadlines, UK bill, Japan law, China controls",
+      "description": "The AI Forest digest tracks diverging national regimes as enterprises split compliance playbooks by market.",
+      "url": "https://theaiforest.com/ai-regulation-news-2026-us-eu-global-updates/",
+      "source": "The AI Forest",
       "image_url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=600&q=60"
+    },
+    {
+      "title": "HHS ACCESS Model + Tools Directory — healthcare AI dereg push in 2026",
+      "description": "Wilson Sonsini preview expects HHS to name ACCESS participants and expand flexibility guidance for clinical AI deployments.",
+      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
+      "source": "Wilson Sonsini",
+      "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"
+    },
+    {
+      "title": "People's AI Action Plan vs White House industry-backed orders",
+      "description": "Civil-society coalition frames 2026 policy fight as everyday users versus Big Tech–authored federal AI agendas.",
+      "url": "https://arxiv.org/html/2605.06806v1",
+      "source": "arXiv",
+      "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Spring 2026 — 2.2M+ models, 80% of downloads from top 50",
-      "description": "Hub stats: 92% of pulls are sub-1B params; NLP 58%, CV 21%, audio 15%; South Korea sovereign models trended in Feb.",
+      "title": "State of Open Source on Hugging Face — Spring 2026",
+      "description": "Hub trends highlight sovereign-model pushes (e.g. South Korea national stacks) and sustained open-weight momentum past 1M models.",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Red Hat AI validated models — March 2026 third-party gen-AI collection",
-      "description": "Curated Hub collection for models certified across the Red Hat AI product portfolio.",
-      "url": "https://huggingface.co/collections/RedHatAI/red-hat-ai-validated-models-march-2026",
-      "source": "Red Hat AI",
-      "image_url": "https://images.unsplash.com/photo-1618477388954-7852f725cc36?w=600&q=60"
+      "title": "Holo3.1 — local computer-use agents on Hugging Face",
+      "description": "H Company ships fast on-device GUI agents with Holo Models API and a dedicated HF collection for builders.",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "source": "H Company",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "Gemma 4, Qwen3.5 MoE, FLUX.2-small decoder — April power rankings",
-      "description": "FLUX.2 decoder ~1.4× faster/less VRAM; NVIDIA PersonaPlex-7B full-duplex voice nears 500k downloads.",
-      "url": "https://www.essamamdani.com/blog/top-6-open-source-ai-models-april-2026",
-      "source": "Essa Mamdani",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "Open-weight playbook 2026 — Qwen3, Gemma 4 26B, Llama 4 Scout, DeepSeek V4 Flash",
-      "description": "Hugging Face blog maps coding, local deploy, long context, and low API cost starting points.",
+      "title": "2026 open LLM picks — Qwen3, Gemma 4, Kimi K2.6, GLM-5.1 for coding & agents",
+      "description": "Practitioner guide maps license-clean enterprise starts, local Phi-4/Gemma paths, and long-context Llama 4 Scout / DeepSeek V4 options.",
       "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+    },
+    {
+      "title": "Self-host stack — TGI, GPTQ/AWQ, 1M+ models on the Hub",
+      "description": "Coronium 2026 guide compares Llama 4, DeepSeek-R1, Mixtral 8x22B licensing and GPU footprints for on-prem inference.",
+      "url": "https://www.coronium.io/blog/openai-gpt-oss-open-source-models-2025",
+      "source": "Coronium.io",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     }
   ]
 }
