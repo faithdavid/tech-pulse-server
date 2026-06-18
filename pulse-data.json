@@ -1,10 +1,10 @@
 {
   "ai": [
     {
-      "title": "Google Gemma 4 — new open-source frontier tier",
-      "description": "Google ships Gemma 4 as an open-weight release developers can run locally; follows Gemini Omni Flash and Nano Banana family momentum in spring 2026.",
-      "url": "https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it",
-      "source": "Mashable",
+      "title": "Kimi K2.7 Code — Moonshot’s latest frontier drop",
+      "description": "Moonshot AI ships Kimi K2.7 Code as the newest tracked frontier release in June 2026, keeping weekly model cadence the norm for builders.",
+      "url": "https://aireleasetracker.com/latest",
+      "source": "AI Release Tracker",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
@@ -15,28 +15,21 @@
       "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Apple AI Siri — iOS 26.4 with Gemini backbone",
-      "description": "Context-aware assistant with on-screen awareness runs Google’s 1.2T-parameter Gemini on Private Cloud Compute for a targeted March–June 2026 rollout.",
-      "url": "https://www.crescendo.ai/news/ai-breakthroughs-and-latest-ai-news-2026",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
+      "title": "GPT-5.4 family — OpenAI March frontier stack",
+      "description": "GPT-5.4 Pro scores 92 on composite benchmarks with 1.1M context; Nano and Mini variants target cost-sensitive agent workloads.",
+      "url": "https://lmmarketcap.com/new-ai-models",
+      "source": "LM Market Cap",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Q1–Q2 2026 model velocity — frontier cadence",
-      "description": "Gemini 3.1 Pro, Claude Opus 4.6, GPT-5.3 Codex, Qwen 3.5, and GLM-5 keep weekly frontier releases the norm for builders.",
-      "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
-      "source": "Mean CEO",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+      "title": "Gemini 3.1 Flash Lite — Google preview tier",
+      "description": "1M-token preview model joins Lyria 3 and Grok 4.20 in a March 2026 release wave across multimodal and coding lines.",
+      "url": "https://lmmarketcap.com/new-ai-models",
+      "source": "LM Market Cap",
+      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     }
   ],
   "funding": [
-    {
-      "title": "OpenAI — $122B round fuels IPO narrative",
-      "description": "Largest 2026 capital event pushes valuation past many sovereign GDPs; strategic and crossover investors anchor scale rounds.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
     {
       "title": "Shield AI — $1.5B Series G at $12.7B",
       "description": "Hivemind autonomy for USAF Collaborative Combat Aircraft; $540M+ 2026 revenue guide at 80% YoY plus Aechelon acquisition.",
@@ -45,47 +38,54 @@
       "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     },
     {
-      "title": "2026 AI M&A — Google-Wiz, OpenAI, Anthropic buys",
-      "description": "Strategics acquire Promptfoo, Astral, Vercept, and Bun as acquihires and IP deals replace pure growth rounds for many teams.",
-      "url": "https://www.buildmvpfast.com/blog/ai-startup-acquisitions-2026-whos-buying-why",
-      "source": "Build MVP Fast",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "OpenAI IPO watch — $20B+ ARR, ~$1T talk",
+      "description": "Post-Musk legal clearance and Anthropic parity moves position ChatGPT maker for a potential 2026 listing amid CFO compute-cost debates.",
+      "url": "https://polymarket.com/event/openai-ipo-by",
+      "source": "Polymarket / Reuters",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Orbital — $5M pre-seed for space inference",
-      "description": "Fridge-sized satellite constellation targets orbital data centers for large AI inference; a16z Speedrun leads with multi-fund syndicate.",
-      "url": "https://scouts.yutori.com/290c4873-543d-47e8-aebd-c87eb7a78b4a",
-      "source": "Yutori Scouts",
+      "title": "CoreWeave — Nasdaq IPO filing as CRWV",
+      "description": "GPU cloud filed SEC registration for accelerated AI compute; crossover investors anchor largest 2026 infra rounds.",
+      "url": "https://www.prnewswire.com/news-releases/march-recap-10-top-finance-press-releases-302420372.html",
+      "source": "PR Newswire",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+    },
+    {
+      "title": "2026 AI rounds — crossovers and acquihires",
+      "description": "Series B+ deals led by crossover funds; distressed teams exit via talent-and-IP buys as early-stage cooling reshapes cap tables.",
+      "url": "https://qubit.capital/blog/ai-startup-fundraising-trends",
+      "source": "Qubit Capital",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Temporal Cloud 2.0 — durable workflow orchestration",
-      "description": "Durable execution, signals, and visual replay make long-running agent and payment pipelines reliable without custom saga code.",
-      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
-      "source": "DEV Community",
+      "title": "Microsoft Build 2026 — Aspire for agents",
+      "description": "BRK205 covers transforming distributed app build/deploy for agentic workloads; VS Code weekly shipping lessons in BRK204.",
+      "url": "https://microsoft.github.io/build26-next-steps/devtools-frameworks",
+      "source": "Microsoft Build",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
     },
     {
-      "title": "Playwright — default E2E stack in 2026",
-      "description": "~45% QA adoption, 13.5M weekly npm downloads, and auto-wait beat Cypress for cross-browser CI at scale.",
-      "url": "https://www.buildmvpfast.com/blog/best-developer-tools-2026-tech-stack",
-      "source": "Build MVP Fast",
+      "title": "Forrester Top 10 2026 — agentic software development",
+      "description": "ASD named medium-term emerging tech as agents generate artifacts; humanoid robots flagged for labor-bottleneck relief with integration risk.",
+      "url": "https://www.prnewswire.com/apac/news-releases/forresters-top-10-emerging-technologies-for-2026-ai-is-no-longer-confined-to-digital-workflows-302744387.html",
+      "source": "Forrester",
       "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     },
     {
-      "title": "FastAPI + Pydantic 2 — LLM API default",
-      "description": "OpenAPI 3.1 exports map cleanly to tool-calling schemas; async SSE streams power most new AI product backends.",
+      "title": "FastAPI — default LLM API layer in 2026",
+      "description": "Pydantic models map to tool-calling schemas; async SSE streams power most new AI product backends per framework rankings.",
       "url": "https://www.index.dev/blog/software-development-frameworks",
       "source": "Index.dev",
       "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
     },
     {
-      "title": "TanStack Start RC — full-stack React 2026",
-      "description": "Type-safe router, query caching, and SSR integrate in one stack as teams migrate off legacy React Router patterns.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
+      "title": "React 19 + Server Components — dominant web stack",
+      "description": "Compiler, Actions API, and RSC shipped stable; component model keeps React the Fortune 500 default for new product teams.",
+      "url": "https://www.index.dev/blog/software-development-frameworks",
+      "source": "Index.dev",
       "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
     }
   ],
@@ -98,22 +98,22 @@
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "Colorado AI Act — enforcement window shifts",
-      "description": "SB 205 high-risk duties face amendments and lawsuits; effective dates slide toward June 2026 or January 2027.",
-      "url": "https://www.cooley.com/news/insight/2026/2026-04-24-state-ai-laws-where-are-they-now",
-      "source": "Cooley",
-      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=60"
-    },
-    {
-      "title": "EU AI Act — 2026 negotiation crunch",
-      "description": "Omnibus amendments and GPAI obligations move compliance from drafting to documented risk programs for deployers.",
-      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
-      "source": "Wilson Sonsini",
+      "title": "EU antitrust — Ribera meets Big Tech on AI",
+      "description": "Google, Meta, OpenAI, and Amazon sit with Brussels as regulators treat AI concentration as a market-power problem, not only safety.",
+      "url": "https://techstartups.com/2026/03/25/top-tech-news-today-march-25-2026",
+      "source": "Tech Startups",
       "image_url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=600&q=60"
     },
     {
-      "title": "FTC + state AGs — AI enforcement calendar",
-      "description": "Section 5 AI policy statements, Commerce state-law reviews, and CCPA ADMT rules land through 2027 for consequential decisions.",
+      "title": "Pentagon vs Anthropic — supply-chain risk fight",
+      "description": "Federal judge signals punishment after military-use negotiations collapsed; case tests how much frontier labs keep on defense deployment limits.",
+      "url": "https://techstartups.com/2026/03/25/top-tech-news-today-march-25-2026",
+      "source": "WIRED / Tech Startups",
+      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=60"
+    },
+    {
+      "title": "US AI compliance calendar — FTC and states",
+      "description": "No federal AI law yet; Colorado, California, Texas, Illinois, and FTC Section 5 statements drive 2026–2027 enterprise obligations.",
       "url": "https://verifywise.ai/blog/state-of-ai-governance-regulations-united-states-2026",
       "source": "VerifyWise",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
@@ -121,31 +121,31 @@
   ],
   "oss": [
     {
-      "title": "Hugging Face — Spring 2026 state of open source",
-      "description": "Hub report tracks Qwen and DeepSeek adoption vs Western sovereign models, edge LLMs, and science sub-communities.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
-    },
-    {
-      "title": "MiniMax M3 — 1M-token open-weight agent model",
-      "description": "Sparse-attention MSA architecture pairs frontier coding with native multimodal computer-use under open weights in June 2026.",
-      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
-      "source": "devFlokers",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "Holo3.1 — local computer-use agents",
-      "description": "H Company releases fast on-device agents for GUI automation with models and API on the Hugging Face collection.",
+      "title": "Holo3.1 — fast local computer-use agents",
+      "description": "H Company ships on-device GUI automation building on Holo3 adoption across browser and enterprise software workflows.",
       "url": "https://huggingface.co/blog/Hcompany/holo31",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&q=60"
     },
     {
-      "title": "Open LLM playbook — Qwen3, Gemma 4, DeepSeek V4",
-      "description": "2026 guide ranks Scout/Maverick Llama 4, Phi-4 local runs, and API-cost leaders for enterprise self-hosting.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face Blog",
+      "title": "MiniMax M2.7 — open-weight agent line",
+      "description": "205K context LLM lands March 2026 alongside June roundup of Zyphra ZAYA1-8B sparse routing trained on AMD Instinct.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "Hugging Face — open-source robotics models",
+      "description": "Two new robot models aim to lower barriers for physical AI and embodied applications on the Hub.",
+      "url": "https://www.rtinsights.com/hugging-face-releases-open-source-robots-in-two-models/",
+      "source": "RTInsights",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    },
+    {
+      "title": "smolagents — ~1K lines Python agent runtime",
+      "description": "Hugging Face library lets models write and execute raw Python in E2B, Blaxel, or Docker sandboxes instead of JSON tool schemas.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     }
   ]
