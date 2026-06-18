@@ -1,151 +1,151 @@
 {
   "ai": [
     {
-      "title": "Hugging Face Spring 2026 — China open-source surge vs U.S. volume",
-      "description": "State of OSS report: post–DeepSeek R1, Baidu went from zero Hub releases in 2024 to 100+ in 2025; ByteDance and Tencent releases up 8–9× as agentic small models push autonomy to the edge.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
+      "title": "255+ model releases in Q1 2026 — Gemini 3.1 Pro, Claude Opus 4.6, GPT-5.3 Codex",
+      "description": "LLM Stats tracks unprecedented lab velocity: February alone brought 12 major updates including Grok 4.20, Qwen 3.5, and ByteDance Seed 2.0 as March keeps the pace.",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
+      "source": "Mean CEO",
       "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
     },
     {
       "title": "Anthropic MCP — 97 million installs in March 2026",
-      "description": "Model Context Protocol graduates from experiment to default agent wiring layer as enterprises standardize tool access at scale.",
+      "description": "Model Context Protocol crosses from experimental standard to foundational agent infrastructure as enterprises wire tools at scale.",
       "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Google Gemma 4 — open-weight family on Gemini 3 techniques",
-      "description": "DeepMind ships Gemma 4 for developers who want frontier-class research patterns without closed API dependency.",
+      "title": "Google Gemma 4 — open-weight family ships on Hub",
+      "description": "DeepMind’s Gemma 4 brings frontier research patterns to downloadable weights as developers seek alternatives to closed APIs.",
       "url": "https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it",
       "source": "Mashable",
       "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
     },
     {
-      "title": "Transformers adds DeepSeek-V3.2 and DiffusionGemma (Jun 12, 2026)",
-      "description": "Hugging Face library release wave keeps Hub models one pip install from production—GPU path and quantization for small models land in the same train.",
-      "url": "https://releases.sh/hugging-face/releases",
-      "source": "releases.sh / HF",
+      "title": "Google Gemini Omni Flash — world model with advanced video generation",
+      "description": "First Omni variant rolls out with multimodal video capabilities as labs race toward unified perception-and-generation stacks.",
+      "url": "https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it",
+      "source": "Mashable",
       "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Conduct — $60M Series A for SAP-fixing enterprise AI (Jun 17, 2026)",
-      "description": "ICONIQ leads London startup round—professional ERP automation stays a magnet for crossover checks as agents meet legacy IT.",
-      "url": "https://aifunding.me/deals",
-      "source": "AI Funding",
+      "title": "Shield AI — $1.5B Series G at $12.7B valuation (Mar 25, 2026)",
+      "description": "Defense autonomy play Hivemind selected for USAF Collaborative Combat Aircraft; package includes Aechelon acquisition and $540M+ 2026 revenue target (80% YoY).",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     },
     {
-      "title": "Arcade — $60M Series A for AI agent authorization (Jun 16, 2026)",
-      "description": "Security layer for autonomous agents raises at ~$300M valuation—identity and policy gates are the new infra tax on agent rollouts.",
+      "title": "NewCore — $66M for AI employee identities (Jun 15, 2026)",
+      "description": "Agent-as-workforce governance raises at ~$440M valuation as enterprises need credentials and policy for non-human staff.",
+      "url": "https://aifunding.me/deals",
+      "source": "AI Funding",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
+    },
+    {
+      "title": "Conduct — $60M Series A to fix SAP with enterprise AI (Jun 17, 2026)",
+      "description": "ICONIQ leads London round at ~$300M—legacy ERP automation remains a crossover magnet for agent rollouts.",
       "url": "https://aifunding.me/deals",
       "source": "AI Funding",
       "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     },
     {
-      "title": "Respond.io — $62.5M as Malaysia’s agent messaging platform scales (Jun 16, 2026)",
-      "description": "Round funds acquisition appetite for conversational AI in APAC—~$417M valuation signals vertical SaaS + agents still clearing large growth rounds.",
-      "url": "https://aifunding.me/deals",
-      "source": "AI Funding",
+      "title": "Physical AI — Figure AI $48B, AV investment $23.26B in four months",
+      "description": "Robotics and autonomy categories pull record capital in H1 2026—more than double prior-year AV totals in the opening months alone.",
+      "url": "https://aifundingtracker.com/top-50-ai-startups/",
+      "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "NewCore — $66M for AI employee identities (Jun 15, 2026)",
-      "description": "As agents act as staff, NewCore’s identity stack raises at ~$440M—workforce-shaped agent governance is now a funded category.",
-      "url": "https://aifunding.me/deals",
-      "source": "AI Funding",
-      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "TanStack Router + Query — 2026 default for typed full-stack React",
-      "description": "Devs cite 20,000× faster route matching on deep dashboards and scroll restoration that actually works—TanStack Start RC ties the stack end-to-end.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
+      "title": "FastAPI — default API layer for LLM products in 2026",
+      "description": "Pydantic schemas map to tool-calling, async streams to SSE, OpenAPI exports to agent definitions—most AI startups standardize here.",
+      "url": "https://www.index.dev/blog/software-development-frameworks",
+      "source": "Index.dev",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
     },
     {
-      "title": "CodeRabbit leads 2026 automated code-review stack",
-      "description": "DEV Community roundup puts AI-assisted review and quality gates first—inline collaboration plus blocking on security/style before release.",
-      "url": "https://dev.to/coderabbitai/the-top-15-developer-productivity-tools-in-2026-1nb6",
-      "source": "DEV Community",
-      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
-    },
-    {
-      "title": "Hugging Face — Copy Repo to Bucket via Xet (May 28, 2026)",
-      "description": "One-click Hub→Bucket transfers for terabyte checkpoints—mount in training jobs or Spaces without re-upload latency.",
-      "url": "https://releases.sh/hugging-face/releases",
-      "source": "Hugging Face Changelog",
-      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
-    },
-    {
-      "title": "Wasp 2026 guide — batteries-included TS full-stack for indie SaaS",
-      "description": "React + Node + Prisma opinionation targets solo hackers who want auth, jobs, and deploy paths without framework archaeology.",
+      "title": "Rails 8 + Solid Queue/Cache/Cable — Redis-free defaults",
+      "description": "Kamal 2 deploy and database-backed infra trim ops surface for full-stack teams shipping SaaS without a separate broker fleet.",
       "url": "https://wasp.sh/resources/2026/02/24/best-frameworks-web-dev-2026",
       "source": "Wasp",
       "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
+    },
+    {
+      "title": "Vercel AI SDK, LangChain.js, Mastra — AI-native web stack",
+      "description": "Shift Asia’s 2026 framework survey: agent SDKs moved from differentiators to baseline for competitive web products.",
+      "url": "https://shiftasia.com/column/top-20-web-development-frameworks/",
+      "source": "SHIFT ASIA",
+      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
+    },
+    {
+      "title": "32.7% of GitHub repos now run CI/CD pipelines",
+      "description": "Automated test-compile-deploy workflows shrink release cycles from weeks to hours as DevOps becomes default delivery.",
+      "url": "https://www.intelegain.com/top-20-software-development-trends-in-2026/",
+      "source": "Intelegain",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "EU AI Act — political agreement on simplification (May 7, 2026)",
-      "description": "High-risk system timelines clarified after AI omnibus; full applicability still targets Aug 2026 with extended runway for embedded regulated products to 2028.",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "source": "European Commission",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
-    },
-    {
-      "title": "EU tech sovereignty package proposed (Jun 3, 2026)",
-      "description": "Commission pushes digital autonomy and resilience package as enforcement and expert support for AI Act ramp in parallel.",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "source": "European Commission",
-      "image_url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=600&q=60"
-    },
-    {
-      "title": "White House National AI Policy Framework (Mar 2026)",
-      "description": "Seven-pillar blueprint urges federal preemption of patchwork state laws; FTC policy statement on AI deception due Mar 11, 2026 per King & Spalding tracker.",
-      "url": "https://iabrief.com/en/us-ai-regulation-2026",
-      "source": "IA Brief",
+      "title": "White House National AI Policy Framework (Mar 20, 2026)",
+      "description": "Sweeping legislative recommendations aim for nationally unified AI rules and federal preemption of patchwork state controls.",
+      "url": "https://www.consumerfinancemonitor.com/2026/04/08/the-white-houses-national-policy-framework-for-artificial-intelligence-what-it-means-and-what-comes-next/",
+      "source": "Consumer Finance Monitor",
       "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=60"
     },
     {
-      "title": "California AI laws live — AB 2013 training transparency & TFAIA safety",
-      "description": "Generative devs must publish training data disclosures; frontier builders need published safety frameworks—direct compliance load on OpenAI, Google, Anthropic.",
-      "url": "https://iabrief.com/en/us-ai-regulation-2026",
-      "source": "IA Brief",
+      "title": "Trump national AI plan — federal licensing and dataset access",
+      "description": "Framework hints U.S. government could partner on AI licensing and publish federal data in AI-ready formats for industry and academia.",
+      "url": "https://www.cnet.com/tech/services-and-software/trump-national-ai-legislation-plan-march-2026-news/",
+      "source": "CNET",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+    },
+    {
+      "title": "OpenAI acquisition spree — io, Statsig, Astral through Mar 2026",
+      "description": "Lab pivots from one deal in 2023 to eight in 2025 including $6.5B for Jony Ive’s io as vertical integration accelerates.",
+      "url": "https://aifundingtracker.com/openai-biggest-acquisitions/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=600&q=60"
+    },
+    {
+      "title": "AI-focused M&A gains traction in IT services for first time",
+      "description": "Corporate Finance Associates notes services buyers now prioritize AI capability targets—deal flow shifts from pure labor arbitrage.",
+      "url": "https://www.crn.com/news/ai/2026/ai-focused-acquisitions-gain-traction-in-it-services-m-a-for-first-time",
+      "source": "CRN",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Kimi K2.6 — ~1.1T open-weight on Hugging Face (Modified MIT)",
-      "description": "2026 open-LLM leaderboards highlight agentic and coding strength—enterprise teams can self-host without proprietary weights lock-in.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face Blog",
+      "title": "Hugging Face Spring 2026 — Qwen and DeepSeek adoption vs U.S. volume",
+      "description": "State of OSS: Chinese open-weight momentum challenges Western release counts as Hub becomes the default distribution layer.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "April 2026 OSS velocity — google/adk-python ~8.2k stars in two weeks",
-      "description": "Agent Development Kit and Meta llama-stack among fastest GitHub risers alongside OpenAI codex-cli—agent tooling repos outpace generic ML templates.",
-      "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026",
-      "source": "Fazm Blog",
+      "title": "MiniMax M3 — 1M context, sparse attention, open-weight agentic model",
+      "description": "June 2026 release pairs frontier coding with native multimodal computer use—MSA architecture targets dense video and OS control.",
+      "url": "https://www.devflokers.com/blog/open-source-ai-roundup-june-2026",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Transformers — Gemma4 unified + Sapiens2 model parallelism (May 29, 2026)",
-      "description": "Community contributions harden multi-GPU paths as Google and research checkpoints land same week on Hub.",
-      "url": "https://releases.sh/hugging-face/releases",
-      "source": "Hugging Face",
+      "title": "HF agents can train models with new Hub skills",
+      "description": "Platform update lets agents fine-tune and interact with the Hub directly—developer loop from discovery to deployment tightens.",
+      "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/hugging-face-agents-train-models-with-new-skills",
+      "source": "StartupHub.ai",
       "image_url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&q=60"
     },
     {
-      "title": "smolagents v1.26 — Exa search engine integration (May 29, 2026)",
-      "description": "HF’s lightweight agent framework drops WasmExecutor, adds Exa retrieval—smaller agent runtimes keep gaining first-class search backends.",
-      "url": "https://releases.sh/hugging-face/releases",
-      "source": "Hugging Face smolagents",
+      "title": "1M+ models on Hugging Face — Gemma 4, DeepSeek V4, Llama 4 Scout",
+      "description": "2026 playbook: local Gemma 4 26B, long-context Llama 4 Scout, low-cost DeepSeek V4 Flash—open weights narrow gap to closed APIs.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "Hugging Face Blog",
       "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     }
   ]
