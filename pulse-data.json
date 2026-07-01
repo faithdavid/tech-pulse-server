@@ -1,152 +1,152 @@
 {
   "ai": [
     {
-      "title": "Gemini 3.5 Flash — beats 3.1 Pro at 40% lower cost",
-      "description": "Google I/O 2026 ships Gemini 3.5 Flash with stronger coding and agentic scores than 3.1 Pro, ~4× faster inference, and free tier access; Gemini 3.5 Pro follows in June.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "source": "Google",
-      "image_url": "https://images.unsplash.com/photo-1677442136019?w=600&q=60"
+      "title": "Vesta: Generalist Embodied Reasoning Model",
+      "description": "New unified foundation model for robotics combining localization, spatial reasoning, navigation and long-horizon planning in a single model.",
+      "url": "https://arxiv.deeppaper.ai/papers/weekly",
+      "source": "arXiv",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "Gemma 4 12B — unified open multimodal on-device stack",
-      "description": "DeepMind releases encoder-free Gemma 4 12B for vision, audio, and text under open weights—positioned for local and edge agents after I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "source": "Google DeepMind",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+      "title": "AI-Designed Universal Coronavirus Vaccine Passes First Human Trial",
+      "description": "First human trial of AI-designed universal coronavirus vaccine shows safety and immune responses against multiple strains including SARS-CoV-2.",
+      "url": "https://www.sciencedaily.com/",
+      "source": "ScienceDaily",
+      "image_url": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?w=600&q=60"
     },
     {
-      "title": "GPT-5.4 — 1M context, native computer use, 83% GDPVal",
-      "description": "OpenAI's March frontier model merges Codex-class coding with tool search and state-of-the-art computer-use agents in ChatGPT, API, and Codex.",
-      "url": "https://openai.com/index/introducing-gpt-5-4/",
-      "source": "OpenAI",
-      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
+      "title": "Native Video Understanding Models Track Causality Across Frames",
+      "description": "2026 breakthrough in multimodal AI with native video models that understand actions and causality for scientific discovery and robotics.",
+      "url": "https://www.synthpost.ai/links/112-10-key-ai-research-breakthroughs-from-2026-so-far",
+      "source": "SynthPost",
+      "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=60"
     },
     {
-      "title": "MCP — 97M+ SDK installs as agent wiring standard",
-      "description": "Anthropic's Model Context Protocol crossed 97 million installs in March 2026; Linux Foundation AAIF cements it as default infrastructure for tool-connected agents.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "title": "Energy-Efficient Architectures Cut Training Costs 70%",
+      "description": "New model designs reduce training energy consumption by up to 70% while maintaining performance, advancing sustainable AI development.",
+      "url": "https://www.synthpost.ai/links/112-10-key-ai-research-breakthroughs-from-2026-so-far",
+      "source": "SynthPost",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Prometheus — $12B Series B at $41B valuation",
-      "description": "Jeff Bezos co-founded industrial AI startup raises from JPMorgan, BlackRock, Goldman; targets an 'artificial general engineer' for physical-world design.",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "OpenAI Closes $122B Round at $852B Valuation",
+      "description": "OpenAI raises massive round with 900M weekly users and $20B annualized revenue, eyeing near-$1T IPO in Q4 2026.",
+      "url": "https://builtin.com/articles/top-tech-ipos-2026",
+      "source": "Built In",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "Shield AI — $1.5B Series G at $12.7B",
-      "description": "Hivemind autonomy for USAF Collaborative Combat Aircraft; $540M+ 2026 revenue guide at 80% YoY plus Aechelon acquisition.",
+      "title": "Shield AI Raises $1.5B for Autonomous Defense Systems",
+      "description": "Defense AI company secures $1.5B to advance X-BAT jet fighter drone after acquiring Aechelon Technology, projecting $540M revenue.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
     },
     {
-      "title": "OpenAI — six 2026 acquisitions match 2025 pace",
-      "description": "After the $6.5B io deal, OpenAI added Astral, Promptfoo, and talent buys through March—strategic acquihires to lock agentic coding and safety tooling.",
-      "url": "https://aifundingtracker.com/openai-biggest-acquisitions/",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "ElevenLabs Hits $11B Valuation on Voice AI Boom",
+      "description": "Voice synthesis leader reaches $11B valuation driven by non-English market adoption, preparing for potential 2027-28 IPO.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
     },
     {
-      "title": "June venture wave — $650M+ across 7+ rounds in 48h",
-      "description": "Jedify $24M, Neion Bio $23M, Capsa AI $18M, and Mendo €12M headline mid-June AI infra, biotech, and EU agent startups.",
-      "url": "https://scouts.yutori.com/68f22e10-d5fe-4e94-b1c8-9c6218cfdb2c",
-      "source": "Yutori Scouts",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+      "title": "SpaceX Acquires Cursor AI Coding Startup for $60B",
+      "description": "Elon Musk's SpaceX acquires Cursor, the $1B ARR AI coding platform, in major consolidation move ahead of mega IPO.",
+      "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
+      "source": "CNBC",
+      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Apple WWDC26 — Foundation Models & agentic Xcode",
-      "description": "June 8–12 online: Liquid Glass design, on-device Apple Intelligence APIs, and extended agentic coding workflows in Xcode 26 RC.",
-      "url": "https://developer.apple.com/news/",
-      "source": "Apple Developer",
-      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
+      "title": "ShadCN + Tailwind v4 Delivers 5x Faster Rebuilds",
+      "description": "Major 2026 CLI rewrite and Tailwind v4 update brings component library, themes and hooks with dramatically improved performance.",
+      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
+      "source": "Medium",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "GitHub gh-aw v0.69 — Crush engine & MCP CI progress",
-      "description": "Agentic workflows add multi-agent issue assignment and MCP real-time progress messages for autonomous pull-request and review loops.",
-      "url": "https://github.com/github/gh-aw/releases",
-      "source": "GitHub",
-      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
-    },
-    {
-      "title": "Google Deep Research Max — MCP-native research agents",
-      "description": "Two-tier Gemini 3.1 Pro research agents with charts, multimodal inputs, and native MCP for developer-facing autonomous literature sweeps.",
-      "url": "https://www.reddit.com/r/AIDeveloperNews/comments/1t17anp/15_new_ai_dev_tools_models_agents_releases_best",
-      "source": "AI Developer News",
+      "title": "TanStack Query & Router Dominate Full-Stack React",
+      "description": "TanStack ecosystem explodes for type-safe data fetching, routing and full-stack development with TanStack Start RC release.",
+      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
+      "source": "Medium",
       "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
     },
     {
-      "title": "TanStack Start RC — type-safe full-stack React",
-      "description": "TanStack Router plus Start release candidate unifies type-safe routing and full-stack React builds as a 2026 default for greenfield apps.",
+      "title": "Chrome DevTools Gains AI-Assisted Debugging",
+      "description": "New AI assistance in DevTools integrates Lighthouse data and Gemini reasoning for open-ended performance and debugging questions.",
+      "url": "https://developer.chrome.com/blog/chrome-at-io26",
+      "source": "Chrome Developers",
+      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
+    },
+    {
+      "title": "Vibe Coding Platforms Accelerate Prototyping",
+      "description": "AI-powered tools like Cursor, Replit, Lovable and Windsurf enable designers and non-coders to ship working apps rapidly.",
       "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
       "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "White House National AI Policy Framework",
-      "description": "March 2026 seven-pillar blueprint pushes federal preemption of burdensome state AI laws while DOJ's AI Litigation Task Force challenges interstate rules.",
-      "url": "https://www.whitehouse.gov/releases/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/",
+      "title": "Trump Issues Executive Order Promoting AI Innovation & Security",
+      "description": "June 2026 EO establishes voluntary framework for frontier models, cyber defense clearinghouse and rejects mandatory licensing for AI development.",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
       "source": "White House",
-      "image_url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "Google I/O 2026 — TPU v8, Gemini Spark, Docs Live",
-      "description": "Sundar Pichai unveiled TPU 8t/8i chips, personal assistant Gemini Spark, and voice-first Docs Live alongside the Gemini 3.5 family rollout.",
-      "url": "https://www.ndtvprofit.com/technology/google-i-o-2026-highlights-gemini-3-5-flash-ai-personal-assistant-docs-live-benchmark-setting-ai-chips-and-more-11519819",
-      "source": "NDTV Profit",
+      "title": "Big Tech Commits $650B to AI Infrastructure in 2026",
+      "description": "Amazon, Google, Microsoft and Meta plan combined $650B capex surge, 72% YoY growth, reshaping power grids and global economy.",
+      "url": "https://tech-insider.org/big-tech-650-billion-ai-infrastructure-capex-2026/",
+      "source": "Tech Insider",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "EU AI Act — risk-tier enforcement in 2026",
-      "description": "Sliding-scale obligations apply to any org offering AI in the EU; product teams need country-level compliance maps alongside U.S. state ADMT delays.",
-      "url": "https://www.eliassen.com/blog/key-ai-regulations-to-watch-in-2026",
-      "source": "Eliassen Group",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "California Generative AI Training Data Transparency Act Takes Effect",
+      "description": "AB 2013 requires all generative AI developers to publish training data details starting January 2026, impacting OpenAI, Google and Anthropic.",
+      "url": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-united-states",
+      "source": "White & Case",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     },
     {
-      "title": "FDA 2026 guidance — lighter touch on some AI medtech",
-      "description": "HHS and FDA actions in 2026 reduce regulatory oversight for select AI-enabled clinical tools while Colorado ADMT effective dates slip toward 2027.",
-      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
-      "source": "Wilson Sonsini",
-      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=60"
+      "title": "National AI Legislative Framework Released in March 2026",
+      "description": "Trump administration unveils seven-pillar federal framework to harmonize state AI laws and reduce developer liability for third-party use.",
+      "url": "https://iabrief.com/en/us-ai-regulation-2026",
+      "source": "IA Brief",
+      "image_url": "https://images.unsplash.com/photo-1521791136064-7986c2920215?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Transformers v5.10 — Sapiens2 vision & inference kernels",
-      "description": "Hugging Face ships v5.10.x with Sapiens2 human-centric ViTs up to 5B params, specialized inference kernels, and cleaner defaults for production deploys.",
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.10.2",
+      "title": "Hugging Face Surpasses 2 Million Public Models",
+      "description": "Open source AI ecosystem doubles with 13M users, 2M+ models and 500K datasets; Chinese organizations surge post-DeepSeek R1.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Holo3.1 — fast local computer-use agents",
-      "description": "H Company releases Holo3.1 on Hugging Face for browser and desktop automation with lower latency than prior Holo3 enterprise deployments.",
-      "url": "https://huggingface.co/blog/Hcompany/holo31",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&q=60"
-    },
-    {
-      "title": "Open-source LLM guide — Kimi K2.6, GLM-5.1, Gemma 4",
-      "description": "HF community roundup ranks Kimi K2.6 and GLM-5.1 for coding agents, Gemma 4 for commercial licensing, and Llama 4 Scout for long context.",
+      "title": "Llama 4 Scout Delivers 10M Token Context Window",
+      "description": "Meta releases Llama 4 Scout with native multimodal input, 109B total parameters and record 10 million token context for long-horizon tasks.",
       "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&q=60"
+      "source": "Hugging Face Blog",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Red Hat AI validated models — March 2026 collection",
-      "description": "Curated Hugging Face collection lists third-party generative models certified for Red Hat AI portfolio enterprise Kubernetes deployments.",
-      "url": "https://huggingface.co/collections/RedHatAI/red-hat-ai-validated-models-march-2026",
-      "source": "Red Hat / HF",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+      "title": "DeepSeek-V4 and Qwen3 Lead Open Reasoning Models",
+      "description": "DeepSeek V4 Pro and Qwen3-235B-A22B dominate open-source leaderboards for coding, agentic workflows and million-token context support.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llm-models-to-run-locally",
+      "source": "Hugging Face Blog",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "LeRobot Robotics Library Sees Rapid Community Growth",
+      "description": "Hugging Face's open-source robotics toolkit expands with new imitation learning datasets and vision-language-action models for real-world deployment.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=600&q=60"
     }
   ]
 }
