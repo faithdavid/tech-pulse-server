@@ -1,112 +1,98 @@
 {
   "filmschool": [
     {
-      "title": "Advanced AI Filmmaking 2.0 Course",
-      "description": "Learn Hollywood-level AI film techniques from top artists in a 4-module journey covering story, production, and distribution.",
-      "url": "https://curiousrefuge.com/advanced-ai-filmmaking",
-      "source": "Curious Refuge",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
-    },
-    {
-      "title": "AI in Film & Video Course at WM College",
-      "description": "10-week hands-on course on AI for scripting, editing, VFX using Mac-based tools.",
-      "url": "https://www.wmcollege.ac.uk/course-detail/ai-in-film--video-the-future-of-video--filmmaking/35231/",
-      "source": "WM College",
+      "title": "AI film school trains next generation of Hollywood moviemakers",
+      "description": "Curious Refuge specializes in training filmmakers how to use machine learning tools for storytelling.",
+      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
+      "source": "Reuters",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "Warsaw Film School Modern Filmmaking with AI",
-      "description": "New directing & AI specialization combining classical storytelling with generative tools.",
-      "url": "https://warsawfilmschool.com/en/wsf/C_WSFO.WSF/797",
-      "source": "Warsaw Film School",
+      "title": "The economics of AI in cinema",
+      "description": "Rise of AI film festivals and generative AI market projected to reach $14.1B by 2033.",
+      "url": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1758969/full",
+      "source": "Frontiers",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Kaltura and Descript Partnership",
-      "description": "New alliance for AI-powered video innovation in regulated industries, already deployed in a major medical center.",
-      "url": "https://corp.kaltura.com/press/kaltura-and-descript-partner-to-drive-ai-powered-video-innovation-in-the-enterprise-enabling-scalable-content-production-across-regulated-industries/",
-      "source": "Kaltura",
-      "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=600&q=60"
+      "title": "Amazon MGM Studios Greenlights Three AI Series",
+      "description": "New GenAI Creators' Fund launches first purpose-built AI production platform for Prime Video.",
+      "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
+      "source": "Variety",
+      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     },
     {
-      "title": "Berlin AI Startup Scene Booms",
-      "description": "190+ AI companies; Jina AI acquired, Langfuse 2300% growth — Europe's AI powerhouse.",
-      "url": "https://www.contextstudios.ai/blog/berlins-ai-startup-scene-in-2026-why-the-german-capital-is-europes-ai-powerhouse",
-      "source": "Context Studios",
-      "image_url": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&q=60"
-    },
-    {
-      "title": "Studio Atelico Raises $5M",
-      "description": "AI-first games studio founded by ex-Uber, Meta, Creative Assembly veterans targeting mobile with on-device AI.",
-      "url": "https://press.airstreet.com/p/studio-atelico-raises-5m-seed-ai-games",
-      "source": "Air Street Press",
-      "image_url": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=600&q=60"
+      "title": "Runway raises $315M amid EU AI Act enforcement",
+      "description": "Article 50 enforcement begins August 2026 requiring machine-readable AI video marking.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Kling 3.0 Release",
-      "description": "Kuaishou's latest with native 4K, multilingual audio, tops text-to-video leaderboards.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "Seedance 2.0 and Kling 3.0 dominate 2026 leaderboards",
+      "description": "ByteDance and Kuaishou release native 4K models with audio; Veo 3.1 Lite at $0.05/sec.",
+      "url": "https://higgsfield.ai/blog/best-ai-video-generators-2026",
+      "source": "Higgsfield",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Seedance 2.0 by ByteDance",
-      "description": "New model hits #1 on Elo leaderboard with audio support; viral actor clips released.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
-    },
-    {
-      "title": "Adobe Firefly Video Model Beta",
-      "description": "Public beta for Firefly video gen competing with Sora; Generative Extend in Premiere Pro.",
-      "url": "https://www.techloy.com/adobe-releases-its-ai-video-creation-tool-and-other-features-to-take-on-openai-and-meta",
-      "source": "Techloy",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    },
-    {
-      "title": "Google Veo 3.1 Lite",
-      "description": "Budget 720p tier at $0.05/sec via Gemini API; full model remains flagship.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=600&q=60"
+      "title": "Edimakor V5.0.0 adds reference-to-video synthesis",
+      "description": "Maintains visual consistency across projects with new reference-to-video capabilities.",
+      "url": "https://resource.digen.ai/how-ai-revolutionizes-video-content-2026/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Mirelo AI SFX for Video",
-      "description": "Generative sound effects synced to video for film, gaming; Adobe Premiere plugin available.",
-      "url": "https://www.mirelo.ai/creative-partnerships",
-      "source": "Mirelo AI",
-      "image_url": "https://images.unsplash.com/photo-1511379938547-c1f6942095f6?w=600&q=60"
+      "title": "Netflix launches vertical video feed with AI recommendations",
+      "description": "TikTok-like vertical feed coming to Netflix apps powered by AI for content and recs.",
+      "url": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     },
     {
-      "title": "AI Short Film Pipeline 2026",
-      "description": "Complete ComfyUI + Kling workflow for consistent characters, lip-sync, from script to screen.",
-      "url": "https://apatero.com/blog/ai-short-film-creation-complete-pipeline-2026",
-      "source": "Apatero",
-      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
+      "title": "AI video for real estate, e-commerce and education",
+      "description": "Specialized tools emerging for automated property tours, product demos and interactive lessons.",
+      "url": "https://resource.digen.ai/best-ai-tools-video-editing-generation-2026/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1560472355-536de3962603?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "film.fun Free AI Video Editor",
-      "description": "No-subscription credits model; Splice editor with all major models and timeline.",
-      "url": "https://www.film.fun/",
-      "source": "film.fun",
-      "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"
+      "title": "InVideo 50 Free AI Minutes + 20% off annual",
+      "description": "New users get 50 free AI minutes first month; annual plans save up to 20%.",
+      "url": "https://www.usatoday.com/deals/invideo",
+      "source": "USA Today",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+    },
+    {
+      "title": "TopView AI Pro from $29/month with Seedance 2.0",
+      "description": "Business plan at $75/mo unlocks 3,000 credits and 59% off extra packs.",
+      "url": "https://scribehow.com/o/QJbcfdSIRv6Xcu-OkuCvzQ/page/AI_Studios_vs_TopView_AI_2026_Best_AI_Video_Platform_for_Corporate_Training_and_eLearning__oz2QzdyjR9K1dknNLvnQ0Q",
+      "source": "Scribe",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Howard Allson AI Film School",
-      "description": "Guided 1,200+ filmmakers with 110+ videos and live sessions on practical AI film production.",
-      "url": "https://www.eventbrite.com/o/howard-allson-106629470771",
-      "source": "Eventbrite",
-      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
+      "title": "Forter x Superside: All Systems Go",
+      "description": "Top AI video marketing examples from Superside's creative team showcase brand storytelling.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
+    },
+    {
+      "title": "50 AI Video Ideas for 2026",
+      "description": "Planet terraforming, art style morphing, and AI dance video generators trending.",
+      "url": "https://zsky.ai/blog/50-ai-video-ideas-2026",
+      "source": "ZSky AI",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ]
 }
