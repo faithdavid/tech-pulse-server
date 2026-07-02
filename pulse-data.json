@@ -1,152 +1,117 @@
 {
   "ai": [
     {
-      "title": "Vesta: Generalist Embodied Reasoning Model",
-      "description": "New unified foundation model for robotics combining localization, spatial reasoning, navigation and long-horizon planning in a single model.",
-      "url": "https://arxiv.deeppaper.ai/papers/weekly",
+      "title": "Claude Sonnet 5 Released by Anthropic",
+      "description": "Anthropic releases Claude Sonnet 5 on Jun 30 2026, latest frontier model with major advances.",
+      "url": "https://aireleasetracker.com/latest",
+      "source": "AI Release Tracker",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "Self-Evolving Agents with Anytime-Valid Certificates",
+      "description": "New arXiv paper on self-evolving agents accepted to ICML 2026 workshop.",
+      "url": "https://arxiv.org/list/cs.AI/recent",
       "source": "arXiv",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "AI-Designed Universal Coronavirus Vaccine Passes First Human Trial",
-      "description": "First human trial of AI-designed universal coronavirus vaccine shows safety and immune responses against multiple strains including SARS-CoV-2.",
-      "url": "https://www.sciencedaily.com/",
-      "source": "ScienceDaily",
-      "image_url": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?w=600&q=60"
-    },
-    {
-      "title": "Native Video Understanding Models Track Causality Across Frames",
-      "description": "2026 breakthrough in multimodal AI with native video models that understand actions and causality for scientific discovery and robotics.",
-      "url": "https://www.synthpost.ai/links/112-10-key-ai-research-breakthroughs-from-2026-so-far",
-      "source": "SynthPost",
-      "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=60"
-    },
-    {
-      "title": "Energy-Efficient Architectures Cut Training Costs 70%",
-      "description": "New model designs reduce training energy consumption by up to 70% while maintaining performance, advancing sustainable AI development.",
-      "url": "https://www.synthpost.ai/links/112-10-key-ai-research-breakthroughs-from-2026-so-far",
-      "source": "SynthPost",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "PP-VAE Breakthrough in Cardiology AI",
+      "description": "University of Kansas researchers develop PP-VAE model improving ECG analysis while preserving privacy.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "OpenAI Closes $122B Round at $852B Valuation",
-      "description": "OpenAI raises massive round with 900M weekly users and $20B annualized revenue, eyeing near-$1T IPO in Q4 2026.",
-      "url": "https://builtin.com/articles/top-tech-ipos-2026",
-      "source": "Built In",
-      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
-    },
-    {
-      "title": "Shield AI Raises $1.5B for Autonomous Defense Systems",
-      "description": "Defense AI company secures $1.5B to advance X-BAT jet fighter drone after acquiring Aechelon Technology, projecting $540M revenue.",
+      "title": "OpenAI $122B Round Pushes Valuation Near $1T",
+      "description": "OpenAI raises $122B, now valued near $1 trillion ahead of planned Q4 2026 IPO.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "ElevenLabs Hits $11B Valuation on Voice AI Boom",
-      "description": "Voice synthesis leader reaches $11B valuation driven by non-English market adoption, preparing for potential 2027-28 IPO.",
+      "title": "Shield AI Raises $1.5B for Autonomous Defense",
+      "description": "Shield AI secures $1.5B to advance X-BAT drone and acquire Aechelon Technology.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=600&q=60"
     },
     {
-      "title": "SpaceX Acquires Cursor AI Coding Startup for $60B",
-      "description": "Elon Musk's SpaceX acquires Cursor, the $1B ARR AI coding platform, in major consolidation move ahead of mega IPO.",
-      "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
-      "source": "CNBC",
-      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
+      "title": "ElevenLabs Hits $11B Valuation",
+      "description": "Voice AI leader ElevenLabs reaches $11B valuation, IPO targeted for 2027-28.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d2f0a5a?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "ShadCN + Tailwind v4 Delivers 5x Faster Rebuilds",
-      "description": "Major 2026 CLI rewrite and Tailwind v4 update brings component library, themes and hooks with dramatically improved performance.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
+      "title": "PyTorch Downloads Surge 24% YoY",
+      "description": "PyTorch sees 24% growth in Anaconda downloads, remaining dominant research and production framework.",
+      "url": "https://www.anaconda.com/guides/ai-development-tools",
+      "source": "Anaconda",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    },
+    {
+      "title": "Transformers v5.11.0 Adds DiffusionGemma, DeepSeek-V3.2",
+      "description": "Hugging Face releases Transformers v5.11.0 with new model support and performance improvements.",
+      "url": "https://releasebot.io/updates/huggingface",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+    },
+    {
+      "title": "LangChain Leads LLM App Development",
+      "description": "LangChain remains top framework for building stateful multi-agent LLM workflows in 2026.",
+      "url": "https://www.anaconda.com/guides/ai-development-tools",
+      "source": "Anaconda",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "TanStack Query & Router Dominate Full-Stack React",
-      "description": "TanStack ecosystem explodes for type-safe data fetching, routing and full-stack development with TanStack Start RC release.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
-    },
-    {
-      "title": "Chrome DevTools Gains AI-Assisted Debugging",
-      "description": "New AI assistance in DevTools integrates Lighthouse data and Gemini reasoning for open-ended performance and debugging questions.",
-      "url": "https://developer.chrome.com/blog/chrome-at-io26",
-      "source": "Chrome Developers",
-      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
-    },
-    {
-      "title": "Vibe Coding Platforms Accelerate Prototyping",
-      "description": "AI-powered tools like Cursor, Replit, Lovable and Windsurf enable designers and non-coders to ship working apps rapidly.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Trump Issues Executive Order Promoting AI Innovation & Security",
-      "description": "June 2026 EO establishes voluntary framework for frontier models, cyber defense clearinghouse and rejects mandatory licensing for AI development.",
+      "title": "White House Issues New AI Innovation & Security Order",
+      "description": "Executive order promotes AI innovation while establishing voluntary frameworks for frontier model oversight.",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
       "source": "White House",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "Big Tech Commits $650B to AI Infrastructure in 2026",
-      "description": "Amazon, Google, Microsoft and Meta plan combined $650B capex surge, 72% YoY growth, reshaping power grids and global economy.",
-      "url": "https://tech-insider.org/big-tech-650-billion-ai-infrastructure-capex-2026/",
-      "source": "Tech Insider",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "Big Tech Blocks California AI Data Center Rules",
+      "description": "California's strict AI data center energy regulations delayed to 2027 after lobbying.",
+      "url": "https://calmatters.org/environment/2025/12/data-center-energy-study-california/",
+      "source": "CalMatters",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "California Generative AI Training Data Transparency Act Takes Effect",
-      "description": "AB 2013 requires all generative AI developers to publish training data details starting January 2026, impacting OpenAI, Google and Anthropic.",
-      "url": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-united-states",
-      "source": "White & Case",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
-    },
-    {
-      "title": "National AI Legislative Framework Released in March 2026",
-      "description": "Trump administration unveils seven-pillar federal framework to harmonize state AI laws and reduce developer liability for third-party use.",
-      "url": "https://iabrief.com/en/us-ai-regulation-2026",
-      "source": "IA Brief",
-      "image_url": "https://images.unsplash.com/photo-1521791136064-7986c2920215?w=600&q=60"
+      "title": "India Advances AI Governance Framework in 2026",
+      "description": "India releases AI Governance framework and finalizes DPDP rules for Big Tech oversight.",
+      "url": "https://www.storyboard18.com/digital/ai-dpdp-and-it-rules-will-drive-new-phase-of-big-tech-regulation-in-india-in-2026-86739.htm",
+      "source": "Storyboard18",
+      "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Surpasses 2 Million Public Models",
-      "description": "Open source AI ecosystem doubles with 13M users, 2M+ models and 500K datasets; Chinese organizations surge post-DeepSeek R1.",
+      "title": "DeepSeek-V3.2-Exp Released on Hugging Face",
+      "description": "DeepSeek introduces Sparse Attention model for efficient long-context training and inference.",
+      "url": "https://releasebot.io/updates/huggingface",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+    },
+    {
+      "title": "OLMo 3.1 Collection Expands on HF Hub",
+      "description": "AllenAI releases new OLMo 3.1 models and large post-training research datasets.",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     },
     {
-      "title": "Llama 4 Scout Delivers 10M Token Context Window",
-      "description": "Meta releases Llama 4 Scout with native multimodal input, 109B total parameters and record 10 million token context for long-horizon tasks.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face Blog",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "DeepSeek-V4 and Qwen3 Lead Open Reasoning Models",
-      "description": "DeepSeek V4 Pro and Qwen3-235B-A22B dominate open-source leaderboards for coding, agentic workflows and million-token context support.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llm-models-to-run-locally",
-      "source": "Hugging Face Blog",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "LeRobot Robotics Library Sees Rapid Community Growth",
-      "description": "Hugging Face's open-source robotics toolkit expands with new imitation learning datasets and vision-language-action models for real-world deployment.",
+      "title": "Hugging Face Users & Models Double in 2025",
+      "description": "Open source AI ecosystem surges: 13M users, 2M+ models, 500k+ datasets on the Hub.",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
     }
   ]
 }
