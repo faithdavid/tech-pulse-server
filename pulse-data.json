@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
-      "description": "Track AI model updates and LLM releases in real time across GPT, Claude, Gemini, Llama, and 500+ models.",
-      "url": "https://llm-stats.com/llm-updates",
-      "source": "llm-stats.com",
+      "title": "Self-Evolving Agents with Anytime-Valid Certificates",
+      "description": "New arXiv paper on self-evolving agents accepted to ICML 2026 workshop, advancing autonomous AI systems.",
+      "url": "https://arxiv.org/abs/2607.00871",
+      "source": "arXiv",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "New AI Research Papers & Breakthroughs (April 2026 Weekly)",
-      "description": "Transformative acceleration in AI with frontier models and foundational research on arXiv challenging scaling assumptions.",
-      "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026",
-      "source": "devFlokers",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+      "title": "PP-VAE Breakthrough in Private Cardiology AI",
+      "description": "University of Kansas researchers develop PP-VAE model for ECG analysis preserving patient privacy.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"
     },
     {
-      "title": "Inside the AI Index: 12 Takeaways from the 2026 Report",
-      "description": "AI models achieving breakthrough results in science and complex reasoning, but at a concerning environmental toll.",
-      "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
-      "source": "Stanford HAI",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "Claude Mythos 5 and GPT-5.4 Frontier Releases",
+      "description": "Anthropic and OpenAI push scaling frontier with 10T+ parameter models and elite reasoning benchmarks.",
+      "url": "https://llm-stats.com/ai-news",
+      "source": "LLM Stats",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "LeapXpert Raises $180M Growth Round",
-      "description": "Governed comms / AI startup secures funding led by Riverwood Capital in latest AI deals.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today",
+      "title": "Anthropic $65B Series H at $965B Valuation",
+      "description": "Anthropic becomes world's most valuable private AI company, leapfrogging OpenAI with $47B run-rate revenue.",
+      "url": "https://aifundingtracker.com/",
       "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
-    },
-    {
-      "title": "OpenAI Worth More Than Most Countries with $122B Round",
-      "description": "Frontier AI infrastructure treated as sovereign wealth-class asset; IPO targeted at near-$1 trillion valuation.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo.ai",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Shield AI Raises $1.5B for Autonomous Skies",
-      "description": "Funds acquisition of Aechelon Technology and X-BAT jet fighter drone; projects $540M+ 2026 revenue.",
+      "title": "Shield AI Raises $1.5B for Autonomous Defense",
+      "description": "Defense AI leader funds X-BAT drone acquisition and projects $540M 2026 revenue (80% YoY growth).",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo.ai",
-      "image_url": "https://images.unsplash.com/photo-1436491865332-7a61f3ad80dc?w=600&q=60"
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1564769625688-6f2d85aac352?w=600&q=60"
+    },
+    {
+      "title": "ElevenLabs Hits $11B Valuation",
+      "description": "Voice AI leader secures massive round as speech synthesis goes mainstream ahead of 2027-28 IPO.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d2f0a5a?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Apple Releases Xcode 27 with Agentic Coding Tools at WWDC 2026",
-      "description": "Integrates AI coding agents from Anthropic, Google, OpenAI; cuts Xcode size by 30%; new Swift AI APIs.",
-      "url": "https://completeaitraining.com/news/apple-introduces-new-ai-frameworks-and-agentic-coding-tools",
-      "source": "Complete AI Training",
-      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
-    },
-    {
-      "title": "Top AI Development Frameworks for 2026",
-      "description": "TensorFlow, PyTorch, JAX, Hugging Face Transformers, H2O.ai lead developer tools for scalable AI models.",
-      "url": "https://www.imgglobalinfotech.com/blog/ai-development-frameworks",
-      "source": "IMG Global Infotech",
+      "title": "Mastra and PydanticAI Lead 2026 Agent Frameworks",
+      "description": "TypeScript-first Mastra (25k stars) and type-safe PydanticAI emerge as top choices for production agents.",
+      "url": "https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026",
+      "source": "KDnuggets",
       "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "AI Reshapes JavaScript Frameworks and Web Dev Trends",
-      "description": "Angular, React, Svelte gain AI optimizations; agentic workflows via LangChain, CrewAI; MCP servers emerging.",
-      "url": "https://dhtmlx.com/blog/how-ai-is-reshaping-web-development-in-2026-javascript-frameworks-open-source-and-pm-tools",
-      "source": "DHTMLX",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "Google ADK and LangGraph Dominate Agent Dev",
+      "description": "Google's Agent Development Kit and LangGraph become standards for multi-agent workflows and evaluations.",
+      "url": "https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026",
+      "source": "KDnuggets",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "PyTorch Downloads Surge 24% YoY",
+      "description": "PyTorch remains dominant ML framework with 1.3M monthly downloads as Anaconda ecosystem grows.",
+      "url": "https://www.anaconda.com/guides/ai-development-tools",
+      "source": "Anaconda",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "White House Executive Order on AI Innovation and Security",
-      "description": "June 2026 EO promotes AI growth, slashes prior regulations, prioritizes cyber defense of national security systems.",
+      "title": "Trump Admin Issues Pro-Innovation AI Executive Order",
+      "description": "June 2026 order prioritizes AI innovation, cyber defense, and voluntary frontier model frameworks without licensing mandates.",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
       "source": "White House",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "US House Draft Bill to Prohibit State AI Rules",
-      "description": "Lawmakers release bill blocking state-level AI regulations; ITI praises, critics note gaps in discrimination and deepfakes.",
-      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
-      "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+      "title": "EU AI Act Compliance Deadline August 2026",
+      "description": "High-risk AI systems face final compliance wave as states and Big Tech accelerate explainable AI investments.",
+      "url": "https://verifywise.ai/blog/state-of-ai-governance-regulations-united-states-2026",
+      "source": "VerifyWise",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "India Enters New Phase of Big Tech AI Regulation",
-      "description": "AI Governance framework, DPDP rules, CCI market study, and RBI AI-in-finance guidelines drive 2026 policy.",
-      "url": "https://www.storyboard18.com/digital/ai-dpdp-and-it-rules-will-drive-new-phase-of-big-tech-regulation-in-india-in-2026-86739.htm",
-      "source": "Storyboard18",
-      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
+      "title": "US State AI Laws Take Effect Across CA, CO, TX, IL",
+      "description": "Colorado SB 24-205 and California transparency rules drive algorithmic discrimination protections and data disclosure.",
+      "url": "https://iabrief.com/en/us-ai-regulation-2026",
+      "source": "iabrief",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "description": "HF users, models, datasets near doubling; China surges with DeepSeek R1; mean model size to 20.8B params.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "title": "Qwen3 235B-A22B Apache 2.0 Release",
+      "description": "Alibaba's MoE model with clean commercial license becomes top choice for enterprise fine-tuning on Hugging Face.",
+      "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     },
     {
-      "title": "OpenAI Releases gpt-oss-120b and gpt-oss-20b on HF",
-      "description": "Powerful open-weight models for reasoning, agentic tasks; 120B and 20B variants with safeguards collection.",
-      "url": "https://huggingface.co/openai",
-      "source": "OpenAI / Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+      "title": "Kimi K2.6 and GLM-5.1 Excel in Agentic Coding",
+      "description": "Moonshot and Zhipu open-weight models lead benchmarks for tool use, planning, and long-context workflows.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "Hugging Face Blog",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     },
     {
-      "title": "LeRobot Robotics Library Rapid Growth on HF",
-      "description": "Open source PyTorch robotics library for imitation learning, RL, vision-language-action models sees explosive adoption.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "title": "DeepSeek-V3.2-Exp Sparse Attention Upgrade",
+      "description": "June 2026 Transformers release introduces DeepSeek Sparse Attention for efficient long-context training.",
+      "url": "https://huggingface.co/blog",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1639322537228-8e0f9c8e8e8e?w=600&q=60"
     }
   ]
 }
