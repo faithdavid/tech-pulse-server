@@ -1,140 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "AI film school trains next generation of Hollywood moviemakers",
-      "description": "Curious Refuge offers courses in AI-assisted documentary and narrative filmmaking in 11 languages to students in 170 countries.",
-      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
-      "source": "Reuters",
+      "title": "A Complete Guide to AI Filmmaking in 2026",
+      "description": "Comprehensive overview of Seedance 2.0, Kling 3.0, Veo 3.1 and ImagineArt Film Studio workflows.",
+      "url": "https://www.imagine.art/blogs/ai-filmmaking-guide",
+      "source": "ImagineArt",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+    },
+    {
+      "title": "Advanced AI Filmmaking 2.0 Course Launches",
+      "description": "Curious Refuge releases updated 4-module Hollywood-level AI filmmaking curriculum.",
+      "url": "https://curiousrefuge.com/advanced-ai-filmmaking",
+      "source": "Curious Refuge",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "AI Filmmaking: The Complete Platform for AI-Generated Films",
-      "description": "Melies provides an all-in-one AI filmmaking platform with 18 image models, 11 video models, AI actors, voice and timeline editor.",
-      "url": "https://melies.co/ai-filmmaking",
-      "source": "Melies",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
-    },
-    {
-      "title": "What AI could mean for film and TV production",
-      "description": "McKinsey analysis shows AI reshaping pre-production, post-production and enabling new content formats in the industry.",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/what-ai-could-mean-for-film-and-tv-production-and-the-industrys-future",
-      "source": "McKinsey",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "title": "AI Filmmaker Academy Opens Enrollment",
+      "description": "30-lesson masterclass covering story, generation, audio, editing and monetization.",
+      "url": "https://www.aifilmmaker.academy/",
+      "source": "AI Filmmaker Academy",
+      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Adobe Acquires AI Image and Video Enhancement Company Topaz Labs",
-      "description": "Adobe integrates Topaz’s tools into Firefly AI studio and Creative Cloud for enhanced creator control.",
-      "url": "https://variety.com/2026/biz/news/adobe-acquires-ai-image-video-company-topaz-labs-1236790499/",
-      "source": "Variety",
+      "title": "Adobe & Runway Announce Multi-Year AI Video Partnership",
+      "description": "Runway Gen-4.5 integrated into Adobe Firefly; unlimited generations for Pro users.",
+      "url": "https://news.adobe.com/news/2025/12/adobe-and-runway-partner",
+      "source": "Adobe",
       "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     },
     {
-      "title": "Amazon MGM Studios Greenlights Three AI Series for Prime Video",
-      "description": "New GenAI Creators’ Fund launches purpose-built AI production platform with AWS for visual storytelling.",
-      "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
-      "source": "Variety",
+      "title": "Netflix Building Internal AI Animation Studio",
+      "description": "New division to explore generative animation for original content.",
+      "url": "https://on.theverge.com/column/930118/netflix-gen-ai-animation-inkubator",
+      "source": "The Verge",
       "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     },
     {
-      "title": "OpenAI Sora web and mobile app discontinuation announced",
-      "description": "Sora web app ends April 2026, API follows September 2026 — teams must plan migration.",
-      "url": "https://monday.com/blog/ai-agents/ai-for-video-creation/",
-      "source": "Monday.com",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "Marc Andreessen: AI Will Create New Hollywood Filmmaker Class",
+      "description": "a16z-backed Promise studio signals optimism for AI-native film production.",
+      "url": "https://www.businessinsider.com/marc-andreessen-ai-hollywood-movies-2025-10",
+      "source": "Business Insider",
+      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "New AI-powered video editing tools in Premiere Pro",
-      "description": "Adobe releases Object Mask, redesigned Shape Masks, Firefly Boards integration and Frame.io V4 panel in Premiere.",
-      "url": "https://blog.adobe.com/en/publish/2026/01/20/new-ai-powered-video-editing-tools-premiere-major-motion-design-upgrades-after-effects",
-      "source": "Adobe Blog",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+      "title": "Adobe Premiere Pro Generative Extend Now Generally Available",
+      "description": "AI-powered clip extension and Media Intelligence search shipping in 4K.",
+      "url": "https://news.adobe.com/news/2025/04/new-ai-innovation-in-industry",
+      "source": "Adobe",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "DaVinci Resolve 21 adds AI photo editing and Smart Cut",
-      "description": "Released June 2026 with neural upscaling, auto transcripts and filler word removal — free version available.",
-      "url": "https://resource.digen.ai/ai-video-editing-software-comparison-2026/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+      "title": "Runway Launches Runway Agent for End-to-End AI Filmmaking",
+      "description": "Agent handles ideation, Gen-4 Turbo generation, sound design and editing in one thread.",
+      "url": "https://runwayml.com/news/introducing-runway-agent",
+      "source": "Runway",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Mango AI Text-to-Video Generator launches real-time collaboration",
-      "description": "Free text-to-video tool adds team collaboration, automated scripting and music in 2026 update.",
-      "url": "https://resource.digen.ai/effortless-ai-video-generation-tools-2026/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "title": "LTX Studio Adds Reference-to-Video and Audio-to-Video Tools",
+      "description": "New production suite features consistent character generation and music-driven visuals.",
+      "url": "https://ltx.io/studio/solutions/production-tools",
+      "source": "LTX Studio",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Clixie AI Interactive Video Platform for Training & Sales",
-      "description": "Auto-generates quizzes, branching paths and SCORM modules from any video for LMS integration.",
-      "url": "https://www.clixie.ai/",
-      "source": "Clixie",
-      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
+      "title": "AI Video for Enterprise Training & Localization",
+      "description": "HeyGen and Synthesia dominate corporate L&D with avatar dubbing in 140+ languages.",
+      "url": "https://perso.ai/blog/ai-dubbing-tools-comparison-2026",
+      "source": "Perso AI",
+      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
     },
     {
-      "title": "CandidateView AI Video-Based WorkTech Platform",
-      "description": "One-way video interviews with AI scoring for hiring, sales outreach and customer experience across industries.",
-      "url": "https://candidateview.com/",
-      "source": "CandidateView",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+      "title": "Product Explainers & Ad Variations at Scale",
+      "description": "Startups use AI video for weekly updates, A/B testing hooks and multilingual campaigns.",
+      "url": "https://blog.mean.ceo/ai-video-generation-trends-june-2026/",
+      "source": "Mean CEO",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "Digen AI Agent for autonomous long-form video production",
-      "description": "Multi-stage workflows produce 15-30 minute videos with 80% less manual work and character consistency.",
-      "url": "https://resource.digen.ai/best-ai-video-editing-tools-for-professionals-2026/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "AI Video in Healthcare & Conservation Storytelling",
+      "description": "Generative media enables immersive training modules and environmental impact narratives.",
+      "url": "https://emergeamericas.com/generative-media-2025-trends/",
+      "source": "eMerge Americas",
+      "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Google Veo free tier: 10 generations per month",
-      "description": "Free access via Google Vids with 10 Veo 3.1 generations monthly; paid plans from $19.99.",
-      "url": "https://monday.com/blog/ai-agents/ai-for-video-creation/",
-      "source": "Monday.com",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "title": "Edimakor Father’s Day Offer 2026 — 65% Off + Free Credits",
+      "description": "Unlimited AI creation and VIP discounts running through July 9.",
+      "url": "https://www.send2press.com/wire/edimakor-fathers-day-offer-2026-free-credits-65-savings-and-unlimited-ai-creation/",
+      "source": "Send2Press",
+      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"
     },
     {
-      "title": "DaVinci Resolve 21 free version with full AI tools",
-      "description": "Professional color grading, neural upscaling and Smart Cut available at no cost.",
-      "url": "https://resource.digen.ai/ai-video-editing-software-comparison-2026/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+      "title": "Flixier Free Plan — No Credit Card Required",
+      "description": "Browser-based AI video generation and editing with generous free tier.",
+      "url": "https://flixier.com/",
+      "source": "Flixier",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "Mango AI free text-to-video generator",
-      "description": "Effortless creation with visuals, transitions and music — real-time collaboration included.",
-      "url": "https://resource.digen.ai/effortless-ai-video-generation-tools-2026/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+      "title": "Adobe Firefly Pro — Unlimited Runway Gen-4.5 Generations",
+      "description": "Limited-time unlimited access through December 22 for Firefly Pro subscribers.",
+      "url": "https://news.adobe.com/news/2025/12/adobe-and-runway-partner",
+      "source": "Adobe",
+      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Melies enables single-filmmaker 4K cinematic films in a day",
-      "description": "Complete workflow from screenplay to finished film using AI actors, voice and timeline editing.",
-      "url": "https://melies.co/ai-filmmaking",
-      "source": "Melies",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "Kalshi NBA Finals AI Commercial — $2K Budget",
+      "description": "Surrealistic ad created entirely with AI reaches millions during prime-time broadcast.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&q=60"
     },
     {
-      "title": "Curious Refuge AI courses reach 170 countries",
-      "description": "Global film school democratizes AI-assisted storytelling across narrative, documentary and advertising.",
-      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
-      "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "title": "Dataland AI Art Museum Opening in Los Angeles",
+      "description": "Refik Anadol’s new museum dedicated to ethical generative AI art launches June 2026.",
+      "url": "https://www.npr.org/2026/04/25/nx-s1-5799511/dataland-refik-anadol-los-angeles-ai-art-museum",
+      "source": "NPR",
+      "image_url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=600&q=60"
     },
     {
-      "title": "Amazon GenAI Creators’ Fund sparks new Prime Video series",
-      "description": "Purpose-built AI production platform enables fresh visual storytelling formats for streaming.",
-      "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
+      "title": "Nike “Never Done Evolving” — Serena Williams AI Avatars",
+      "description": "Historic footage transformed into AI-generated match between two eras of the champion.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=600&q=60"
     }
   ]
 }
