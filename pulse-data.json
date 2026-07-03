@@ -1,124 +1,152 @@
 {
   "ai": [
     {
-      "title": "Inside the AI Index: 12 Takeaways from the 2026 Report",
-      "description": "Stanford's 2026 AI Index shows models achieving breakthrough results in science and complex reasoning, but with concerning environmental toll.",
-      "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
-      "source": "Stanford HAI",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "Claude Sonnet 5 Released by Anthropic",
-      "description": "Anthropic releases Claude Sonnet 5 on June 30, 2026, latest frontier model with advanced reasoning capabilities.",
-      "url": "https://aireleasetracker.com/latest",
-      "source": "AI Release Tracker",
+      "title": "Claude Fable 5 Released by Anthropic",
+      "description": "Frontier model optimized for software engineering and autonomous multi-day workflows; redeployed globally after export controls lifted.",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "source": "Anthropic",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "New AI Papers Surge on arXiv April 2026",
-      "description": "Transformative acceleration with frontier models and foundational research challenging scaling assumptions.",
-      "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026",
-      "source": "devFlokers",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "Nemotron 3 Super: Open MoE Hybrid",
+      "description": "NVIDIA releases efficient Mixture-of-Experts hybrid Mamba-Transformer model for agentic reasoning with strong benchmarks.",
+      "url": "https://arxiv.org/abs/2604.12374",
+      "source": "NVIDIA",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "LongCat-2.0 1.6T Open-Source MoE",
+      "description": "Meituan ships massive 1.6T-parameter open MoE for agentic coding, scoring 59.5 on SWE-bench Pro under MIT license.",
+      "url": "https://huggingface.co/meituan/longcat-2.0",
+      "source": "Meituan",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "TabFM: Google Tabular Foundation Model",
+      "description": "Zero-shot foundation model for tabular data classification and prediction; weights released on Hugging Face.",
+      "url": "https://ai-tldr.dev/",
+      "source": "Google Research",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "OpenAI Secures $122B Round, Prepares IPO",
-      "description": "OpenAI now worth more than most countries with $122B round; preparing for near-$1T IPO in Q4 2026.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+      "title": "Anthropic Raises $65B at $965B Valuation",
+      "description": "Historic Series H makes Anthropic the world's most valuable private AI company; IPO-track likely last private round.",
+      "url": "https://aifundingtracker.com/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Shield AI Raises $1.5B for Autonomous Systems",
-      "description": "Shield AI secures $1.5B; projects $540M+ 2026 revenue, acquiring Aechelon for X-BAT drone development.",
+      "title": "OpenAI $122B Round Signals Sovereign Wealth Status",
+      "description": "900M weekly users and $20B ARR; preparing for near-$1T IPO target in Q4 2026.",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "source": "CNBC",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Shield AI Secures $1.5B for Autonomous Defense",
+      "description": "Funds X-BAT jet fighter drone acquisition and 80% YoY revenue growth projection to $540M.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&q=60"
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
     },
     {
       "title": "ElevenLabs Hits $11B Valuation",
-      "description": "Voice AI leader ElevenLabs reaches $11B valuation amid mainstream adoption; IPO plans for 2027-28.",
+      "description": "Voice AI leader eyes 2027-28 IPO amid mainstream adoption across non-English markets.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
+      "source": "Crescendo",
       "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
-    },
-    {
-      "title": "Trase Lands $107M Seed for Healthcare AI Agents",
-      "description": "Trase raises record $107M seed led by ARCH Venture Partners for AI agents in high-stakes industries.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "ShadCN + Tailwind v4 Revolutionizes UI Dev",
-      "description": "ShadCN CLI rewrite and Tailwind v4 deliver 5x faster rebuilds and seamless component integration.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "Apple Foundation Models Framework Expands",
+      "description": "WWDC 2026 adds image input, server-side Claude/Gemini support, Dynamic Profiles for agents; open source this summer.",
+      "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates/",
+      "source": "Apple",
+      "image_url": "https://images.unsplash.com/photo-1517697471335-3c6a1b0a5a0e?w=600&q=60"
     },
     {
-      "title": "TanStack Router & Query Dominate React",
-      "description": "TanStack tools explode in popularity for type-safe routing and data handling in full-stack React apps.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
+      "title": "MLX Scales Across Multiple Macs via RDMA",
+      "description": "Apple's open-source ML framework adds Metal 4 support and Thunderbolt RDMA for distributed training.",
+      "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates/",
+      "source": "Apple",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     },
     {
-      "title": "Next.js 15 and Svelte 5 Lead Full-Stack",
-      "description": "Next.js 15 with server components and Svelte 5 mature into production-ready full-stack platforms.",
-      "url": "https://wasp.sh/resources/2026/02/24/best-frameworks-web-dev-2026",
-      "source": "Wasp",
-      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
+      "title": "Cursor iOS Public Beta Launches",
+      "description": "Paid users can now launch cloud agents and remote-control desktop Cursor from iPhone to merge PRs.",
+      "url": "https://ai-tldr.dev/",
+      "source": "Cursor",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
+    },
+    {
+      "title": "JAX Gains Extreme Parallelism Upgrades",
+      "description": "NumPy-with-superpowers framework sees continued adoption for high-performance research and multi-device training.",
+      "url": "https://ergobite.com/us/ai-ml-frameworks/",
+      "source": "JAX Team",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Trump Administration Issues AI Innovation EO",
-      "description": "June 2026 executive order promotes AI innovation, slashes regulations, creates cyber defense priorities for frontier models.",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "title": "White House Pushes Voluntary AI Model Standards",
+      "description": "Advanced talks on benchmarks, release timelines and access rules for frontier models; possible announcement next week.",
+      "url": "https://techstartups.com/2026/07/02/top-tech-news-today-july-2-2026/",
       "source": "White House",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "EU AI Act Enters Full Force",
-      "description": "World's most comprehensive AI regulatory framework classifies systems by risk; extraterritorial reach like GDPR.",
-      "url": "https://qverlabs.com/blog/ai-regulation-2026-us-eu-china-policy",
-      "source": "QverLabs",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
+      "title": "Microsoft Launches $2.5B Frontier Company",
+      "description": "New AI consulting arm helps enterprises select best models and maximize ROI from AI investments.",
+      "url": "https://techstartups.com/2026/07/02/top-tech-news-today-july-2-2026/",
+      "source": "Microsoft",
+      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
     },
     {
-      "title": "India Launches AI Governance Framework",
-      "description": "2026 sees India's AI governance, DPDP rules, and CCI market study on AI driving Big Tech regulation phase.",
-      "url": "https://www.storyboard18.com/digital/ai-dpdp-and-it-rules-will-drive-new-phase-of-big-tech-regulation-in-india-in-2026-86739.htm",
-      "source": "Storyboard18",
-      "image_url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=60"
+      "title": "EU and India Tighten AI Regulation",
+      "description": "Omnibus proposals add flexibility to GDPR/AI Act; India finalizes DPDP rules and AI Governance framework in 2026.",
+      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
+      "source": "Wilson Sonsini",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+    },
+    {
+      "title": "Microsoft Adds Teams Controls for AI Bots",
+      "description": "New enterprise controls block unauthorized AI note-takers and meeting agents to protect confidential data.",
+      "url": "https://techstartups.com/2026/07/02/top-tech-news-today-july-2-2026/",
+      "source": "Microsoft",
+      "image_url": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Hits 13M Users, 2M Models",
-      "description": "Spring 2026 state of open source: users, models, datasets near doubling; China ecosystem surges with DeepSeek R1 impact.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
-    },
-    {
-      "title": "OpenAI Releases gpt-oss-120b on HF",
-      "description": "OpenAI publishes powerful open-weight 120B model for reasoning and agentic tasks on Hugging Face.",
+      "title": "OpenAI Releases gpt-oss-120B & 20B",
+      "description": "Powerful open-weight models for complex reasoning and agentic tasks; 120B and 20B variants now on Hugging Face.",
       "url": "https://huggingface.co/openai",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "source": "OpenAI",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "LeRobot Robotics Library Explodes",
-      "description": "Hugging Face's LeRobot for imitation learning, RL, and vision-language-action models sees rapid growth.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "Qwen3 235B-A22B Apache 2.0 Release",
+      "description": "Clean commercial license MoE model with 22B active parameters; top choice for multilingual enterprise use.",
+      "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B",
+      "source": "Alibaba",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "GLM-5.1 & Kimi K2.6 Agentic Models",
+      "description": "Strong tool-use and long-context open models for coding and agentic workflows land on Hugging Face.",
+      "url": "https://huggingface.co/",
+      "source": "Zhipu AI / Moonshot",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "Gemma 4 12B & 26B Open Models",
+      "description": "Google ships new Gemma 4 family under clean Apache 2.0; strong coding and general capabilities.",
+      "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
+      "source": "Google",
+      "image_url": "https://images.unsplash.com/photo-1517697471335-3c6a1b0a5a0e?w=600&q=60"
     }
   ]
 }
