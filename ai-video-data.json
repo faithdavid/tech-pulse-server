@@ -1,140 +1,147 @@
 {
   "filmschool": [
     {
-      "title": "A Complete Guide to AI Filmmaking in 2026",
-      "description": "Comprehensive overview of Seedance 2.0, Kling 3.0, Veo 3.1 and ImagineArt Film Studio workflows.",
-      "url": "https://www.imagine.art/blogs/ai-filmmaking-guide",
-      "source": "ImagineArt",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
-    },
-    {
-      "title": "Advanced AI Filmmaking 2.0 Course Launches",
-      "description": "Curious Refuge releases updated 4-module Hollywood-level AI filmmaking curriculum.",
-      "url": "https://curiousrefuge.com/advanced-ai-filmmaking",
-      "source": "Curious Refuge",
+      "title": "Curious Refuge AI Film School Trains Next-Gen Hollywood Filmmakers",
+      "description": "Specialized program teaching filmmakers to leverage machine learning tools for storytelling and production.",
+      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
+      "source": "Reuters",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "AI Filmmaker Academy Opens Enrollment",
-      "description": "30-lesson masterclass covering story, generation, audio, editing and monetization.",
-      "url": "https://www.aifilmmaker.academy/",
-      "source": "AI Filmmaker Academy",
-      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
+      "title": "NYU Tisch Partners with Runway for Hyper Cinema AI Experiment",
+      "description": "NYU Tisch School of the Arts grants students near-unlimited video-generation credits via Runway deal.",
+      "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
+      "source": "No Film School",
+      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=60"
+    },
+    {
+      "title": "AI Filmmaker Studio Launches Scalable Storytelling Workshops",
+      "description": "New platform and live workshops for mastering AI video creation and prompt engineering in film.",
+      "url": "https://www.ai-film.studio/",
+      "source": "AI Film Studio",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Adobe & Runway Announce Multi-Year AI Video Partnership",
-      "description": "Runway Gen-4.5 integrated into Adobe Firefly; unlimited generations for Pro users.",
-      "url": "https://news.adobe.com/news/2025/12/adobe-and-runway-partner",
-      "source": "Adobe",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
-    },
-    {
-      "title": "Netflix Building Internal AI Animation Studio",
-      "description": "New division to explore generative animation for original content.",
-      "url": "https://on.theverge.com/column/930118/netflix-gen-ai-animation-inkubator",
-      "source": "The Verge",
+      "title": "Amazon MGM Studios Greenlights Three AI Series Under GenAI Creators Fund",
+      "description": "First purpose-built AI production platform for Prime Video visual storytelling with AWS.",
+      "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
+      "source": "Variety",
       "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     },
     {
-      "title": "Marc Andreessen: AI Will Create New Hollywood Filmmaker Class",
-      "description": "a16z-backed Promise studio signals optimism for AI-native film production.",
-      "url": "https://www.businessinsider.com/marc-andreessen-ai-hollywood-movies-2025-10",
-      "source": "Business Insider",
+      "title": "Google Invests $75M in A24 for AI-Powered Filmmaking Tools",
+      "description": "Partnership to develop AI tools focused on creative control rather than cost-cutting alone.",
+      "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
+      "source": "Variety",
       "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
+    },
+    {
+      "title": "Runway Closes $315M Raise Amid Surging AI Video Demand",
+      "description": "Major funding round as studios and creators accelerate adoption of generative video tools.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f6b1?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Adobe Premiere Pro Generative Extend Now Generally Available",
-      "description": "AI-powered clip extension and Media Intelligence search shipping in 4K.",
-      "url": "https://news.adobe.com/news/2025/04/new-ai-innovation-in-industry",
-      "source": "Adobe",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
+      "title": "Kling 3.0 Launches with Native 4K and Multilingual Audio",
+      "description": "New model tops leaderboards with multi-modal architecture and 4K output support.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Runway Launches Runway Agent for End-to-End AI Filmmaking",
-      "description": "Agent handles ideation, Gen-4 Turbo generation, sound design and editing in one thread.",
-      "url": "https://runwayml.com/news/introducing-runway-agent",
-      "source": "Runway",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "Seedance 2.0 Released by ByteDance with Audio-Visual Generation",
+      "description": "Unified multimodal architecture produces motion, lighting, and voiceover in single pass.",
+      "url": "https://www.synthesia.io/post/best-ai-video-generators",
+      "source": "Synthesia",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "LTX Studio Adds Reference-to-Video and Audio-to-Video Tools",
-      "description": "New production suite features consistent character generation and music-driven visuals.",
-      "url": "https://ltx.io/studio/solutions/production-tools",
-      "source": "LTX Studio",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
+      "title": "Google Veo 3.1 Lite Debuts via Gemini API at $0.05/second",
+      "description": "Budget tier now available publicly with reliable cinematic results and API access.",
+      "url": "https://zapier.com/blog/best-ai-video-generator/",
+      "source": "Zapier",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+    },
+    {
+      "title": "Adobe Firefly Video Model Enters Public Beta",
+      "description": "New generative extend feature in Premiere Pro for seamless clip extension and editing.",
+      "url": "https://www.techloy.com/adobe-releases-its-ai-video-creation-tool-and-other-features-to-take-on-openai-and-meta",
+      "source": "Techloy",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "AI Video for Enterprise Training & Localization",
-      "description": "HeyGen and Synthesia dominate corporate L&D with avatar dubbing in 140+ languages.",
-      "url": "https://perso.ai/blog/ai-dubbing-tools-comparison-2026",
-      "source": "Perso AI",
-      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
+      "title": "Vertical 9:16 AI Video Surges to 43.7% Share for TikTok & Reels",
+      "description": "Short-form vertical content dominates AI video generation as platforms prioritize mobile-first formats.",
+      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
+      "source": "Vivideo",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     },
     {
-      "title": "Product Explainers & Ad Variations at Scale",
-      "description": "Startups use AI video for weekly updates, A/B testing hooks and multilingual campaigns.",
-      "url": "https://blog.mean.ceo/ai-video-generation-trends-june-2026/",
-      "source": "Mean CEO",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "AI Microdramas Adopted by Brands Like Crocs for Vertical Marketing",
+      "description": "Scripted short-form vertical videos become major trend for brand storytelling and engagement.",
+      "url": "https://www.opus.pro/blog/brands-betting-on-microdramas-ai-video-tools",
+      "source": "OpusClip",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "AI Video in Healthcare & Conservation Storytelling",
-      "description": "Generative media enables immersive training modules and environmental impact narratives.",
-      "url": "https://emergeamericas.com/generative-media-2025-trends/",
-      "source": "eMerge Americas",
-      "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=60"
+      "title": "Crypto TikTok Creators Leverage Veo 3.1 for Short-Form News Clips",
+      "description": "Niche vertical AI video tools optimized for 15-60 second cryptocurrency updates and memes.",
+      "url": "https://grokipedia.com/page/AI_tools_for_generating_short_crypto_videos_for_TikTok_in_2026",
+      "source": "Grokipedia",
+      "image_url": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Edimakor Father’s Day Offer 2026 — 65% Off + Free Credits",
-      "description": "Unlimited AI creation and VIP discounts running through July 9.",
+      "title": "InVideo Offers 50 Free AI Minutes + 20% Off Annual Plans",
+      "description": "New users get 50 free AI minutes first month; annual subscribers save 20% via NachoNacho.",
+      "url": "https://www.usatoday.com/deals/invideo",
+      "source": "USA Today Deals",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+    },
+    {
+      "title": "HitPaw Father’s Day Sale: Up to 50% Off AI Creative Tools",
+      "description": "Limited-time discount on video, photo, and audio AI tools through June 24, 2026.",
+      "url": "https://www.send2press.com/wire/hitpaw-fathers-day-sale-up-to-50-off-ai-creative-tools/",
+      "source": "Send2Press",
+      "image_url": "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?w=600&q=60"
+    },
+    {
+      "title": "Edimakor 65% Off + Free Credits Father’s Day Promotion",
+      "description": "Express deal runs June 10 – July 9 with VIP discounts and unlimited AI creation credits.",
       "url": "https://www.send2press.com/wire/edimakor-fathers-day-offer-2026-free-credits-65-savings-and-unlimited-ai-creation/",
       "source": "Send2Press",
       "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"
-    },
-    {
-      "title": "Flixier Free Plan — No Credit Card Required",
-      "description": "Browser-based AI video generation and editing with generous free tier.",
-      "url": "https://flixier.com/",
-      "source": "Flixier",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    },
-    {
-      "title": "Adobe Firefly Pro — Unlimited Runway Gen-4.5 Generations",
-      "description": "Limited-time unlimited access through December 22 for Firefly Pro subscribers.",
-      "url": "https://news.adobe.com/news/2025/12/adobe-and-runway-partner",
-      "source": "Adobe",
-      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Kalshi NBA Finals AI Commercial — $2K Budget",
-      "description": "Surrealistic ad created entirely with AI reaches millions during prime-time broadcast.",
-      "url": "https://www.superside.com/blog/ai-video-examples",
-      "source": "Superside",
-      "image_url": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&q=60"
+      "title": "Guns N' Roses 'The General' Music Video Showcases AI Dreamlike Imagery",
+      "description": "Creative Works London blends traditional animation with generative AI for surreal magenta cityscapes.",
+      "url": "https://www.prnewswire.com/news-releases/creative-works-london-showcases-ai-prowess-with-guns-n-roses-latest-music-video-the-general-302052099.html",
+      "source": "PR Newswire",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d2f0d0a?w=600&q=60"
     },
     {
-      "title": "Dataland AI Art Museum Opening in Los Angeles",
-      "description": "Refik Anadol’s new museum dedicated to ethical generative AI art launches June 2026.",
-      "url": "https://www.npr.org/2026/04/25/nx-s1-5799511/dataland-refik-anadol-los-angeles-ai-art-museum",
-      "source": "NPR",
-      "image_url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=600&q=60"
+      "title": "SIGGRAPH Explores Generative AI in Award-Winning Student Films",
+      "description": "2025 Student Academy Award winner 'The Song of Drifters' demonstrates human-AI co-creation pipelines.",
+      "url": "https://dac.siggraph.org/sparks/2026-04-24_confluence-of-generative-ai-and-the-art-of-filmmaking/",
+      "source": "SIGGRAPH DAC",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2a4155?w=600&q=60"
     },
     {
-      "title": "Nike “Never Done Evolving” — Serena Williams AI Avatars",
-      "description": "Historic footage transformed into AI-generated match between two eras of the champion.",
-      "url": "https://www.superside.com/blog/ai-video-examples",
-      "source": "Superside",
-      "image_url": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=600&q=60"
+      "title": "50 Futuristic AI Video Prompts Released for 2026 Creators",
+      "description": "Planet terraforming, art-style morphing, and cyberpunk cityscapes among viral prompt collections.",
+      "url": "https://zsky.ai/blog/50-ai-video-ideas-2026",
+      "source": "ZSky AI",
+      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
     }
   ]
 }
