@@ -1,140 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "AI Film School Trains Next Generation of Hollywood Moviemakers",
-      "description": "Reuters reports on new AI film schools providing instruction in 11 languages to students in 170 countries, incorporating generative AI into core curricula.",
+      "title": "Curious Refuge AI Film School Expands Training Programs",
+      "description": "Specialized curriculum trains next-gen filmmakers on machine learning tools for storytelling and production.",
       "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
       "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+    },
+    {
+      "title": "Google Flow: Best Free Cinematic Entry Point for 2026",
+      "description": "Veo 3.1 integration with Scenebuilder, camera presets, and 4K upscaling for film students and independents.",
+      "url": "https://www.imagine.art/blogs/ai-tools-for-film-production",
+      "source": "ImagineArt",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "NYU Tisch, Chapman, CalArts Double Down on Generative AI",
-      "description": "Prestigious programs like NYU Tisch partner with Runway for unlimited credits; Chapman hosts AI actress lectures; CalArts launches Chanel-funded AI center.",
-      "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
-      "source": "No Film School",
-      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=60"
-    },
-    {
-      "title": "Sundance Institute Receives $2M Google.org Grant for AI Literacy",
-      "description": "Google.org funds Sundance to train 100,000 artists in AI tools, bridging independent film and Silicon Valley.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "title": "Seedance 2.0 Tops 2026 Video Arena Leaderboard",
+      "description": "Multimodal audio-video generation with 1,015 blind votes; leads Kling v3 and LTX-2 for motion and physics.",
+      "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+      "source": "LLM Stats",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Adobe Acquires Topaz Labs for AI Image & Video Enhancement",
-      "description": "Adobe integrates Topaz’s tools into Firefly AI studio and Creative Cloud to enhance creator control over image and video quality.",
-      "url": "https://variety.com/2026/biz/news/adobe-acquires-ai-image-video-company-topaz-labs-1236790499/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
-    },
-    {
-      "title": "Amazon MGM Greenlights Three AI Series Under GenAI Creators’ Fund",
-      "description": "Amazon MGM Studios and AWS launch industry-first AI production platform; greenlights three Prime Video series powered by proprietary GenAI tools.",
+      "title": "Amazon MGM Studios Launches GenAI Creators’ Fund",
+      "description": "Greenlights three Prime Video series and purpose-built AI production platform with AWS integration.",
       "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
       "source": "Variety",
       "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     },
     {
-      "title": "OpenAI–Disney $1B Partnership for Licensed Character Generation",
-      "description": "Landmark studio-AI deal enables licensed IP workflows at scale; copyright and watermarking policies tighten globally.",
+      "title": "OpenAI–Disney $1B Partnership for Licensed Characters",
+      "description": "Major studio-AI deal enables IP-licensed generative workflows at unprecedented scale.",
       "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed Blog",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
+    },
+    {
+      "title": "Runway Closes $315M Round Amid Model Race",
+      "description": "Fresh capital fuels physics-aware video synthesis and real-time motion control features.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99b79c7f4?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "DaVinci Resolve 21 Launches with AI Photo Editing & Smart Cut",
-      "description": "Blackmagic’s June 2026 release adds neural upscaling, auto transcripts, facial recognition, and a full photo editing module alongside video tools.",
-      "url": "https://resource.digen.ai/ai-video-editing-software-comparison-2026/",
-      "source": "Digen Research",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
-    },
-    {
-      "title": "Gemini Omni Replaces Veo: Conversational Video Generation & Editing",
-      "description": "Google’s new multimodal model enables text-to-video, photo-to-video, multi-turn editing, native audio, and AI avatars in the Gemini app.",
-      "url": "https://gemini.google/overview/video-generation/",
-      "source": "Google",
+      "title": "Kling 3.0 Ships Native 4K + Multilingual Audio",
+      "description": "February 2026 release claims top leaderboard spot with multi-modal architecture and cost-efficient iteration.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
       "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     },
     {
-      "title": "Kling 3.0 & Seedance 2.0 Top Leaderboards with Native 4K & Audio",
-      "description": "Kuaishou and ByteDance release models achieving #1 rankings; 4K native output, multilingual audio, and 15-second+ clips now standard.",
+      "title": "Adobe Premiere Pro Quick Cut Automates Rough Cuts",
+      "description": "January 2026 neural filters analyze editing patterns and suggest cuts, reducing time 30-60%.",
+      "url": "https://resource.digen.ai/how-to-speed-up-video-editing-with-ai-2026/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
+    },
+    {
+      "title": "Veo 3.1 Lite Launches at $0.05/sec via Gemini API",
+      "description": "Budget-tier 720p access with native audio and scene extension for high-volume production.",
       "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed Blog",
-      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Netflix Launches TikTok-Style Vertical Video Feed with AI Recommendations",
-      "description": "Netflix rolls out vertical short-form feed and expands AI for content creation, recommendations, and ad customization targeting $3B ad revenue.",
-      "url": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
+      "title": "Mito AI Raises $4.5M for Professional Video Collaboration",
+      "description": "Browser-based AI orchestration platform targets TV, film, commercials, and music videos with real-time canvas.",
+      "url": "https://siliconangle.com/2026/01/30/mito-ai-raises-4-5-million-led-lightspeed-empower-video-professionals-ai-tools",
+      "source": "SiliconANGLE",
+      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
     },
     {
-      "title": "Versos AI Launches Video Intelligence Platform for AI Training Data",
-      "description": "CuriosityStream-backed platform converts archives into structured datasets; marketplace for licensing high-quality video data to hyperscalers.",
-      "url": "https://www.startupresearcher.com/news/versos-ai-launches-video-intelligence-platform-for-ai-training",
-      "source": "Startup Researcher",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "Synthesia Adds 160+ Language Avatars with Real-Time Translation",
+      "description": "Enterprise platform scales corporate training and explainer videos without cameras or actors.",
+      "url": "https://siit.co/blog/top-10-emerging-ai-tools-in-2026-transforming-industries-and-everyday-life/51180",
+      "source": "SIIT",
+      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
     },
     {
-      "title": "AI YouTube Niches Explode: Faceless How-To, Virtual Influencers & Music Videos",
-      "description": "Creators leverage AI for passive-income faceless channels, historical recreations, virtual influencers, and surreal music visuals.",
-      "url": "https://gen.pro/blog/youtube-ai-video",
-      "source": "GEN.pro",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "Runway Gen-4 Enables Real-Time VFX for Indie Filmmakers",
+      "description": "Physics-aware synthesis and automatic scene segmentation democratize high-end post-production.",
+      "url": "https://siit.co/blog/top-10-emerging-ai-tools-in-2026-transforming-industries-and-everyday-life/51180",
+      "source": "SIIT",
+      "image_url": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Krater AI Offers 15% Student Discount on All Plans for 1 Year",
-      "description": "Instant verification; stacks with yearly billing to bring multi-model AI (video, image, voice) down to ~$6.38/mo.",
-      "url": "https://krater.ai/blog/ai-student-discounts-2026",
-      "source": "Krater Blog",
-      "image_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&q=60"
-    },
-    {
-      "title": "InVideo Promo: 50 Free AI Minutes + 20% Off Annual Plans",
-      "description": "Limited-time coupon delivers 50 free AI minutes first month plus up to 20% savings on annual subscriptions.",
-      "url": "https://www.usatoday.com/deals/invideo",
-      "source": "USA Today Deals",
+      "title": "Pictory AI 40% Off Pro Annual + 2X Credits",
+      "description": "Limited January 2026 promotion for blog-to-video conversion with extended credits.",
+      "url": "https://pictory.ai/es/editor-video-ia-14",
+      "source": "Pictory",
       "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "Media.io Cyber Week: 30% Off AI Credits + 500 Free Credits",
-      "description": "Lowest prices of the year on 2000-credit plans; includes Nano Banana Pro image-to-image support.",
-      "url": "https://www.media.io/sales-promotion.html",
-      "source": "Media.io",
-      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
+      "title": "Kling AI Videos at $0.59/Week Flat 50% Off",
+      "description": "Couponzguru verified deal: 100 weekly credits for images and videos through 2026.",
+      "url": "https://www.couponzguru.com/software-coupons",
+      "source": "CouponzGuru",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Vadoo AI 30% Off Pro Plan with Code AI30",
+      "description": "Text-and-image-to-video platform offers verified discount for new subscribers.",
+      "url": "https://topai.tools/deals",
+      "source": "TopAI.Tools",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Guns N’ Roses ‘The General’ Music Video Powered by AI",
-      "description": "Creative Works London blends Stable Diffusion dreamlike imagery with live band footage for the official music video of the new single.",
-      "url": "https://www.prnewswire.com/news-releases/creative-works-london-showcases-ai-prowess-with-guns-n-roses-latest-music-video-the-general-302052099.html",
-      "source": "PR Newswire",
-      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
+      "title": "Shutterstock Showcase: Creative AI Live Demos",
+      "description": "Professionals demonstrate real-world generative video workflows with measurable commercial impact.",
+      "url": "https://shutterstockshowcasecreativeai.splashthat.com/",
+      "source": "Shutterstock",
+      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
     },
     {
-      "title": "Absolutely AI Creates Cinematic Short Film Showcasing Cairns with Luma & Midjourney",
-      "description": "Jamie van Leeuwen uses Midjourney stills + Luma AI animation to produce an immersive short film highlighting Far North Queensland’s ancient landscapes.",
-      "url": "https://www.jcu.edu.au/jcu-ideas-lab/blog/showcasing-creativity-supported-by-ai",
-      "source": "JCU Australia",
-      "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=60"
+      "title": "Behance AI Art Projects Surge in Cinematic Storytelling",
+      "description": "New wave of motion-graphics and generative film experiments tops discovery feeds.",
+      "url": "https://www.behance.net/search/projects/ai%20art",
+      "source": "Behance",
+      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
     },
     {
-      "title": "UK Startups Win £50k Grants for Generative AI in VFX & Performing Arts",
-      "description": "Lux Aeterna develops AI text-to-image VFX toolkits; Larkhall builds realtime reactive visuals for live music performances.",
-      "url": "https://blogs.nvidia.com/blog/ai-for-creative-industries-uk-startups",
-      "source": "NVIDIA Blog",
-      "image_url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&q=60"
+      "title": "ShowcaseAI Mobile Studio Hits 1M+ Downloads",
+      "description": "All-in-one AI video creation app delivers studio-quality output without traditional production.",
+      "url": "https://play.google.com/store/apps/details?hl=en_US&id=org.showcase.ai.showcaseai",
+      "source": "Google Play",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
     }
   ]
 }
