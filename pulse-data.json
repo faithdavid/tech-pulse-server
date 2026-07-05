@@ -1,27 +1,117 @@
 {
   "ai": [
-    {"title": "MIT Murakkab System Optimizes AI Agent Workflows", "description": "New system improves speed and energy-efficiency of multi-step AI agent workflows.", "url": "https://news.mit.edu/topic/artificial-intelligence2", "source": "MIT News", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
-    {"title": "Long-Context Models Reach 1M Tokens", "description": "Frontier systems now handle up to 1 million token contexts for complex reasoning.", "url": "https://blog.mean.ceo/latest-ai-breakthroughs-news-july-2026/", "source": "Mean CEO", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
-    {"title": "Low-Energy Photonic Computing Breakthrough", "description": "Exciton-polariton approach enables all-light switching at extremely low energy for edge AI.", "url": "https://blog.mean.ceo/latest-ai-breakthroughs-news-july-2026/", "source": "Mean CEO", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"}
+    {
+      "title": "Claude Mythos 5 & GPT-5.4 Frontier Releases",
+      "description": "10-trillion parameter models and Thinking variants push scaling frontier with elite reasoning benchmarks.",
+      "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "Stanford AI Index 2026: Science Breakthroughs",
+      "description": "AI achieves record results in science and complex reasoning, but environmental costs rise sharply.",
+      "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+      "source": "Stanford HAI",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "HY-Embodied-0.5 & TurboQuant Advances",
+      "description": "Tencent embodied agents and KV-cache compression unlock long-context efficiency on standard GPUs.",
+      "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026",
+      "source": "devFlokers",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    }
   ],
   "funding": [
-    {"title": "Microsoft Launches Frontier Company with $2.5B", "description": "New AI deployment business backed by $2.5 billion and 6,000 experts.", "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/", "source": "TechCrunch", "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"},
-    {"title": "OpenAI Closes $110B Round at $730B Valuation", "description": "Massive funding round cements OpenAI as the highest-valued AI company.", "url": "https://blog.mean.ceo/ai-startup-funding-news-july-2026/", "source": "Mean CEO", "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"},
-    {"title": "LeapXpert Raises $180M for Governed AI Comms", "description": "Riverwood Capital leads growth round for enterprise AI communication platform.", "url": "https://aifundingtracker.com/ai-startup-funding-news-today/", "source": "AI Funding Tracker", "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"}
+    {
+      "title": "Global H1 2026: 10B Startup Funding",
+      "description": "AI drives record capital; OpenAI/Anthropic alone account for 17B.",
+      "url": "https://www.masternodeai.com/en/news/global-startup-funding-record-510b-h1-2026-ai-boom",
+      "source": "MasterNodeAI",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+    },
+    {
+      "title": "Cyera Hits 2B Valuation",
+      "description": "AI-native data security platform quadruples valuation; 50M+ ARR.",
+      "url": "https://aifundingtracker.com/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Supabase Raises 00M at 0.5B",
+      "description": "Open-source AI app platform secures massive round led by GIC.",
+      "url": "https://aifundingtracker.com/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "Temporal Cloud 2.0 Workflow Orchestration", "description": "Major 2.0 release adds signals, updates, and time-travel debugging for reliable workflows.", "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl", "source": "DEV Community", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
-    {"title": "React 19 Compiler and Server Components", "description": "Stable release reduces boilerplate and powers AI-streamed user interfaces.", "url": "https://www.index.dev/blog/software-development-frameworks", "source": "Index.dev", "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"},
-    {"title": "Transformers v5.12.0 Adds MiniMax-M3-VL", "description": "New vision-language model support and major bug fixes released on Hugging Face.", "url": "https://releasebot.io/updates/huggingface", "source": "Releasebot", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"}
+    {
+      "title": "Apple Foundation Models Framework Expanded",
+      "description": "WWDC 2026 adds image input, server-side Claude/Gemini, Dynamic Profiles, open source release.",
+      "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates/",
+      "source": "MacRumors",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "LangGraph, CrewAI & AutoGen Agent Boom",
+      "description": "Agentic frameworks dominate 2026 developer tooling for multi-step workflows.",
+      "url": "https://www.instaclustr.com/education/agentic-ai/agentic-ai-frameworks-top-10-options-in-2026/",
+      "source": "Instaclustr",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "MLX & Metal 4 Scale Training",
+      "description": "Apple open-source ML framework now trains across multiple Macs via RDMA.",
+      "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates/",
+      "source": "MacRumors",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "South Korea Announces $880B AI & Semiconductor Plan", "description": "Massive 10-year national investment targeting AI infrastructure and robotics.", "url": "https://unrot.co/blogs/today-top-10-ai-news-july-1-2026", "source": "unrot.co", "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"},
-    {"title": "Trump EO Shifts US AI Policy to National Security", "description": "New executive order mandates pre-release model sharing and cybersecurity clearinghouse.", "url": "https://www.mcdermottlaw.com/insights/new-executive-order-shifts-us-ai-policy-toward-national-security/", "source": "McDermott Law", "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"},
-    {"title": "Meta Tests Rival Chatbots with Contractor Minors", "description": "Hundreds of contractors posed as minors to probe safety of competing AI systems.", "url": "https://unrot.co/blogs/today-top-10-ai-news-july-1-2026", "source": "unrot.co", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
+    {
+      "title": "Trump AI EO: Innovation Over Regulation",
+      "description": "June 2026 order slashes bureaucracy, promotes private-sector AI security collaboration.",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "source": "White House",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    },
+    {
+      "title": "EU AI Act August Deadline Looms",
+      "description": "High-risk transparency rules activate; fines for non-compliance begin.",
+      "url": "https://cubbbix.com/blog/ai-regulation-news-2026-global-update",
+      "source": "Cubbbix",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+    },
+    {
+      "title": "Colorado & Texas AI Laws Effective",
+      "description": "State-level high-risk AI governance and algorithmic discrimination rules now live.",
+      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
+      "source": "The Verge",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+    }
   ],
   "oss": [
-    {"title": "Hugging Face Transformers v5.12.0 Ships", "description": "MiniMax-M3-VL, PP-OCRv6, and Parakeet-RNNT added with extensive fixes.", "url": "https://releasebot.io/updates/huggingface", "source": "Releasebot", "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"},
-    {"title": "DeepSeek-V3.2 Introduces Sparse Attention", "description": "Experimental model with DeepSeek Sparse Attention for efficient long-context training.", "url": "https://huggingface.co/", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
-    {"title": "LeRobot Robotics Library Accelerates Growth", "description": "Open-source robotics toolkit sees rapid adoption for vision-language-action models.", "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"}
+    {
+      "title": "GLM-5.2 & Qwen3-235B Open Releases",
+      "description": "Massive open-weight models hit Hugging Face with strong agentic and multilingual performance.",
+      "url": "https://huggingface.co/models",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "Hugging Face Hits 2M+ Models",
+      "description": "Platform surpasses 2.2 million public models; 80% downloads from top 50.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "Kimi K2.6 Leads Open Agentic Coding",
+      "description": "1.1T parameter model tops coding/agent benchmarks under modified MIT license.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "Hugging Face Blog",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    }
   ]
 }
