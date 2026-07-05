@@ -1,117 +1,124 @@
 {
   "ai": [
     {
-      "title": "Claude Mythos 5 & GPT-5.4 Frontier Releases",
-      "description": "10-trillion parameter models and Thinking variants push scaling frontier with elite reasoning benchmarks.",
-      "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026",
-      "source": "devFlokers",
+      "title": "Claude Sonnet 5 Released by Anthropic",
+      "description": "Anthropic releases Claude Sonnet 5 on June 30, 2026, marking the latest frontier model with advanced reasoning capabilities.",
+      "url": "https://aireleasetracker.com/latest",
+      "source": "AI Release Tracker",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "Stanford AI Index 2026: Science Breakthroughs",
-      "description": "AI achieves record results in science and complex reasoning, but environmental costs rise sharply.",
-      "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
-      "source": "Stanford HAI",
+      "title": "New arXiv Papers on Recurrent Reasoning and Memory Drift",
+      "description": "Recent submissions include G-RRM for guiding symbolic solvers and DRIFTLENS for measuring memory-induced reasoning drift in LLMs.",
+      "url": "https://arxiv.org/list/cs.AI/recent",
+      "source": "arXiv",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "HY-Embodied-0.5 & TurboQuant Advances",
-      "description": "Tencent embodied agents and KV-cache compression unlock long-context efficiency on standard GPUs.",
+      "title": "Claude Mythos 5 and GPT-5.4 Set New Benchmarks",
+      "description": "Frontier models achieve elite academic reasoning and 94.3% on GPQA Diamond, pushing scaling limits with 10-trillion parameter variants.",
       "url": "https://www.devflokers.com/blog/new-ai-papers-arxiv-last-24-hours-april-2026",
       "source": "devFlokers",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Global H1 2026: 10B Startup Funding",
-      "description": "AI drives record capital; OpenAI/Anthropic alone account for 17B.",
-      "url": "https://www.masternodeai.com/en/news/global-startup-funding-record-510b-h1-2026-ai-boom",
-      "source": "MasterNodeAI",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+      "title": "Ramp Secures $750M at $44B Valuation",
+      "description": "Spend-management leader Ramp raises growth round led by Iconiq and GIC, joining top US fintech valuations.",
+      "url": "https://aifundingtracker.com/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "Cyera Hits 2B Valuation",
-      "description": "AI-native data security platform quadruples valuation; 50M+ ARR.",
+      "title": "Cyera Hits $12B Valuation After Quadrupling",
+      "description": "Data security startup Cyera reaches $12B valuation with $150M ARR, completing multiple acquisitions.",
       "url": "https://aifundingtracker.com/",
       "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "Supabase Raises 00M at 0.5B",
-      "description": "Open-source AI app platform secures massive round led by GIC.",
-      "url": "https://aifundingtracker.com/",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
+      "title": "OpenAI Files for IPO Targeting Near-$1T Valuation",
+      "description": "OpenAI confidential S-1 filing signals $122B round and preparation for Q4 2026 IPO at sovereign-wealth scale.",
+      "url": "https://pricepertoken.com/news/funding",
+      "source": "Price Per Token",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "SpaceX Acquires Cursor for $60B",
+      "description": "SpaceX acquires AI coding startup Cursor in the largest startup M&A deal of 2026.",
+      "url": "https://pricepertoken.com/news/funding",
+      "source": "Price Per Token",
+      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Apple Foundation Models Framework Expanded",
-      "description": "WWDC 2026 adds image input, server-side Claude/Gemini, Dynamic Profiles, open source release.",
+      "title": "Apple Unveils Major AI Developer Tool Updates at WWDC",
+      "description": "Foundation Models framework gains image input, third-party model support, Dynamic Profiles for agents, and open-source release planned.",
       "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates/",
       "source": "MacRumors",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1517697471332-2c0a6a8f2f3a?w=600&q=60"
     },
     {
-      "title": "LangGraph, CrewAI & AutoGen Agent Boom",
-      "description": "Agentic frameworks dominate 2026 developer tooling for multi-step workflows.",
-      "url": "https://www.instaclustr.com/education/agentic-ai/agentic-ai-frameworks-top-10-options-in-2026/",
-      "source": "Instaclustr",
+      "title": "Agentic Frameworks Surge: LangChain, LlamaIndex Lead",
+      "description": "JetBrains highlights top agentic frameworks for autonomous AI applications including LangChain, LlamaIndex, Haystack, and Semantic Kernel.",
+      "url": "https://blog.jetbrains.com/pycharm/2026/06/top-agentic-frameworks-for-building-applications-2026/",
+      "source": "JetBrains Blog",
       "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "MLX & Metal 4 Scale Training",
-      "description": "Apple open-source ML framework now trains across multiple Macs via RDMA.",
-      "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates/",
-      "source": "MacRumors",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "Google Launches ARDS for AI Agent Resource Discovery",
+      "description": "Backed by Microsoft, GitHub, Hugging Face and others, ARDS provides unified framework for agents to discover services and APIs.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo.ai",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Trump AI EO: Innovation Over Regulation",
-      "description": "June 2026 order slashes bureaucracy, promotes private-sector AI security collaboration.",
+      "title": "Trump Administration Issues AI Innovation and Security EO",
+      "description": "New executive order promotes AI innovation while establishing voluntary frameworks for frontier models and cybersecurity clearinghouse.",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
       "source": "White House",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "EU AI Act August Deadline Looms",
-      "description": "High-risk transparency rules activate; fines for non-compliance begin.",
-      "url": "https://cubbbix.com/blog/ai-regulation-news-2026-global-update",
-      "source": "Cubbbix",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "Connecticut Enacts AI Safety and Transparency Laws",
+      "description": "New state laws regulate AI companions for minors and require transparency in generative AI training data.",
+      "url": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-united-states",
+      "source": "White & Case",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     },
     {
-      "title": "Colorado & Texas AI Laws Effective",
-      "description": "State-level high-risk AI governance and algorithmic discrimination rules now live.",
-      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
-      "source": "The Verge",
-      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+      "title": "India Advances AI Governance Framework and DPDP Rules",
+      "description": "2026 marks decisive phase for Big Tech regulation with AI governance, data protection, and competition studies underway.",
+      "url": "https://www.storyboard18.com/digital/ai-dpdp-and-it-rules-will-drive-new-phase-of-big-tech-regulation-in-india-in-2026-86739.htm",
+      "source": "Storyboard18",
+      "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "GLM-5.2 & Qwen3-235B Open Releases",
-      "description": "Massive open-weight models hit Hugging Face with strong agentic and multilingual performance.",
-      "url": "https://huggingface.co/models",
+      "title": "OpenAI Releases gpt-oss-120b and gpt-oss-20b on Hugging Face",
+      "description": "Powerful open-weight models for reasoning, agentic tasks, and versatile developer use cases now publicly available.",
+      "url": "https://huggingface.co/openai",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "Hugging Face Hits 2M+ Models",
-      "description": "Platform surpasses 2.2 million public models; 80% downloads from top 50.",
+      "title": "Hugging Face Reports Doubling of Models and Datasets in 2025",
+      "description": "Open source ecosystem explodes with 2M+ models, 500k datasets, strong growth from Chinese organizations and robotics library LeRobot.",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "source": "Hugging Face Blog",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     },
     {
-      "title": "Kimi K2.6 Leads Open Agentic Coding",
-      "description": "1.1T parameter model tops coding/agent benchmarks under modified MIT license.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face Blog",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+      "title": "Transformers Library Adds DeepSeek-V3.2-Exp and Parakeet-RNNT",
+      "description": "June 2026 updates bring sparse attention mechanisms and advanced speech-to-text models to the open source stack.",
+      "url": "https://fazm.ai/t/hugging-face-new-models-june-2026",
+      "source": "Transformers Releases",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     }
   ]
 }
