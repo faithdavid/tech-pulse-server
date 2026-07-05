@@ -1,140 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "The AI Arms Race Hits Film School",
-      "description": "NYU Tisch partners with Runway for unlimited video-generation credits; Loyola Marymount launches AI Screenwriting course; CalArts integrates AI via Chanel-funded center; Sundance receives $2M from Google.org for AI literacy training.",
-      "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
-      "source": "No Film School",
+      "title": "AI film school trains next generation of Hollywood moviemakers",
+      "description": "Curious Refuge offers courses in AI-assisted documentary and narrative filmmaking in 11 languages to students in 170 countries.",
+      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
+      "source": "Reuters",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "AI Film School Trains Next Generation of Hollywood Moviemakers",
-      "description": "Curious Refuge offers AI-assisted filmmaking courses in 11 languages to students in 170 countries since 2023.",
-      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
-      "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
+      "title": "The AI Arms Race Hits Film School",
+      "description": "NYU Tisch partners with Runway for unlimited video-generation credits; Chapman invites AI actress Tilly Norwood.",
+      "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
+      "source": "No Film School",
+      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=60"
     },
     {
-      "title": "The Top 10 AI Filmmaking Tools",
-      "description": "Google Veo 3 leads video generation; top tools include Kling AI, Luma Labs Ray-3; film schools like USC experiment with AI writing via Saga and ChatGPT.",
-      "url": "https://russellsapalmer.medium.com/the-top-10-ai-filmmaking-tools-and-questions-answered-2ab9891a394d",
-      "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1533750349088-cd0c1ee3c1c7?w=600&q=60"
+      "title": "Transformer Model: AI in Film Schools",
+      "description": "CalArts partners with CHANEL for AI center; Sundance receives $2M Google.org grant for AI literacy training.",
+      "url": "https://filmmakermagazine.com/131002-report-ai-film-schools-2025/",
+      "source": "Filmmaker Magazine",
+      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
     }
   ],
   "industry": [
     {
       "title": "Amazon MGM Studios Greenlights Three AI Series",
-      "description": "Amazon MGM launches GenAI Creators’ Fund and partners with AWS for purpose-built AI production platform for Prime Video.",
+      "description": "Amazon launches GenAI Creators’ Fund and purpose-built AI production platform with AWS.",
       "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
       "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "Adobe Acquires Topaz Labs for AI Enhancement",
-      "description": "Adobe purchases Emmy-winning Topaz Labs to integrate into Firefly AI studio and Creative Cloud products.",
-      "url": "https://variety.com/2026/biz/news/adobe-acquires-ai-image-video-company-topaz-labs-1236790499/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+      "title": "How AI is Revolutionizing Video Production in 2026",
+      "description": "Autonomous agents reduce production costs by 78% and increase output 5x; timelines drop from weeks to hours.",
+      "url": "https://resource.digen.ai/how-ai-is-changing-video-production-2026/",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f6b7?w=600&q=60"
     },
     {
-      "title": "Runway Raises $315M; OpenAI–Disney $1B Deal",
-      "description": "Major funding rounds and studio partnerships accelerate AI video ecosystem; Google DeepMind invests in A24.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026",
+      "title": "Runway raises $315M amid OpenAI-Disney $1B deal",
+      "description": "Major funding round for Runway; OpenAI-Disney partnership for licensed character generation.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
       "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Google Releases Veo 3.1 Lite",
-      "description": "Budget tier at $0.05/second for 720p via Gemini API; full Veo 3.1 delivers native audio and 1080p.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
+      "title": "Gemini Omni replaces Veo in Gemini app",
+      "description": "New multimodal AI video model with image-to-video, video-to-video editing, native audio; 10s clips.",
+      "url": "https://gemini.google/overview/video-generation/",
+      "source": "Google",
       "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "ByteDance Launches Seedance 2.0",
-      "description": "New model hits #1 on leaderboards with native audio; Kling 3.0 and LTX-2.3 also release with 4K support.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Adobe Firefly Video Editor and Premiere Color Mode",
+      "description": "All-in-one AI generation/editing; new Color Mode for editors; Object Matte in After Effects.",
+      "url": "https://blog.adobe.com/en/publish/2026/04/15/adobe-extends-leadership-video-unleashing-new-ai-powered-creation-firefly-reinventing-color-editors-in-premiere",
+      "source": "Adobe",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "Luma Dream Machine & Adobe Firefly Updates",
-      "description": "Luma adds improved physics; Adobe Firefly gains commercial-safe IP indemnification and enterprise features.",
-      "url": "https://zapier.com/blog/best-ai-video-generator/",
-      "source": "Zapier",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "Google Vids adds free Veo 3.1 generation",
+      "description": "Anyone with Google account gets 10 free high-quality video clips monthly; Ultra users up to 1,000.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "source": "Google",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Netflix Adds Vertical Video Feed with AI Recommendations",
-      "description": "TikTok-style vertical feed launches; AI used for content creation, recommendations, and ad customization.",
-      "url": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
+      "title": "AI Video Surveillance Market Growth",
+      "description": "AI cameras and analytics for public safety, retail, and transportation; real-time facial recognition and anomaly detection.",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-in-video-surveillance-market-84216922.html",
+      "source": "MarketsandMarkets",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     },
     {
-      "title": "AI Video for Education & Corporate Training",
-      "description": "63% of enterprises use AI videos for training; tools convert documents to localized lesson videos automatically.",
-      "url": "https://resource.digen.ai/transform-content-with-ai-video-2026/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&q=60"
+      "title": "Marketing Agency Scales Video 10x with AI",
+      "description": "Agency uses Runway, Kling, HeyGen to produce 15 ad variations in one afternoon; 10x output increase.",
+      "url": "https://www.mindstudio.ai/blog/marketing-agency-scaled-video-production-10x-ai",
+      "source": "MindStudio",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "YouTube AI Niches: Music Videos, Historical Content, Virtual Influencers",
-      "description": "Top niches include AI music videos, historical recreations, and 24/7 virtual AI influencer channels.",
-      "url": "https://gen.pro/blog/youtube-ai-video",
-      "source": "GEN.pro",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "Vertical AI for Finance and Healthcare Video",
+      "description": "Specialized agents for financial video intelligence and medical imaging/video analytics in diagnostics.",
+      "url": "https://thetechtrends.tech/specialized-ai-agents-vertical-ai-guide",
+      "source": "Tech Trends",
+      "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"
     }
   ],
   "offers": [
     {
       "title": "InVideo Promo Codes July 2026",
-      "description": "25%–50% off subscription plans; verified coupons available for monthly and yearly tiers.",
+      "description": "25-50% off subscription plans verified for July; easy checkout discounts available.",
       "url": "https://www.usatoday.com/deals/invideo",
       "source": "USA Today",
       "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "Krater AI Student Discount",
-      "description": "15% off all plans for 1 year with instant verification; stacks with yearly billing for ~$6.38/mo.",
-      "url": "https://krater.ai/blog/ai-student-discounts-2026",
-      "source": "Krater",
-      "image_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&q=60"
+      "title": "Media.io Cyber Week AI Deals up to 30% off",
+      "description": "Lowest prices of the year on AI credits and subscriptions; 30% off media 2000 plan + 500 free credits.",
+      "url": "https://www.media.io/sales-promotion.html",
+      "source": "Media.io",
+      "image_url": "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?w=600&q=60"
     },
     {
-      "title": "Infocentroid Bulk AI Video Deal",
-      "description": "Base video ₹2000 ($22); buy 5 get 1 free; additional 8 seconds at ₹350.",
-      "url": "https://www.infocentroid.com/ai-video-creation-services",
-      "source": "Infocentroid",
-      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
+      "title": "Pictory AI 40% Off Pro Annual + 2X Credits",
+      "description": "Limited January 2026 promotion for annual subscribers with extra AI credits.",
+      "url": "https://pictory.ai/es/editor-video-ia-14",
+      "source": "Pictory",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     }
   ],
   "inspire": [
     {
       "title": "Guns N' Roses 'The General' AI Music Video",
-      "description": "Creative Works London uses Stable Diffusion for dreamlike, biomechanical AI visuals blended with live band footage.",
+      "description": "Creative Works London blends Stable Diffusion AI with live footage for dreamlike magenta cityscape visuals.",
       "url": "https://www.prnewswire.com/news-releases/creative-works-london-showcases-ai-prowess-with-guns-n-roses-latest-music-video-the-general-302052099.html",
       "source": "PR Newswire",
       "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
     },
     {
-      "title": "Italian Brainrot & AI Dance Video Trends",
-      "description": "Viral trends include AI squish effects, chibi figures, dance generators, and pet-to-person transformations.",
-      "url": "https://www.cyberlink.com/blog/photo-editing-online-tools/3883/ai-image-art-trends",
-      "source": "CyberLink",
-      "image_url": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=60"
+      "title": "Refik Anadol Unsupervised at MoMA",
+      "description": "AI interprets 200+ years of MoMA collection in real-time generative installation exploring machine dreams.",
+      "url": "https://www.moma.org/calendar/exhibitions/5535",
+      "source": "MoMA",
+      "image_url": "https://images.unsplash.com/photo-1549490349-8643362247b5?w=600&q=60"
     },
     {
-      "title": "Johnson Controls & Synthego AI Promo Videos",
-      "description": "Superside delivers puppet-style animations and 5-day AI-assisted campaigns with 1,500+ generated assets.",
+      "title": "10 Best AI Video Examples 2026",
+      "description": "Superside campaigns, Popeyes rap battle, Virgin Voyages 'Jen AI' showcase personalization and speed.",
       "url": "https://www.superside.com/blog/ai-video-examples",
       "source": "Superside",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2a7fca?w=600&q=60"
     }
   ]
 }
