@@ -1,126 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "invideo Agent One: The production layer",
-      "description": "First AI agent that went to film school with project-level memory and agentic multi-scene edits.",
-      "url": "https://invideo.io/blog/best-ai-filmmaking-tools/",
-      "source": "invideo",
+      "title": "AI film school trains next generation of Hollywood moviemakers",
+      "description": "Curious Refuge specializes in training filmmakers how to use machine learning tools for storytelling benefit.",
+      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "Rethinking Filmmaking Education Through Generative AI",
+      "description": "SIGGRAPH course explores sandbox approach for generative AI experimentation in computer graphics education.",
+      "url": "https://blog.siggraph.org/2026/04/ai-and-filmmaking.html/",
+      "source": "ACM SIGGRAPH",
       "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     },
     {
-      "title": "Google Veo 3.1 Native Audio",
-      "description": "Generates dialogue and sound effects in a single pass with stable API for enterprise.",
-      "url": "https://www.synthesia.io/post/best-ai-video-generators",
-      "source": "Synthesia",
+      "title": "Best AI Filmmaking Tools 2026",
+      "description": "Veo 3.1, Seedance 2.0, and invideo Agent One lead production pipelines for cinematic filmmaking.",
+      "url": "https://invideo.io/blog/best-ai-filmmaking-tools/",
+      "source": "invideo",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
-    },
-    {
-      "title": "Seedance 2.0 Multimodal",
-      "description": "Anchors generation with images, video clips, and audio references in one pass for director-level control.",
-      "url": "https://www.imagine.art/blogs/ai-tools-for-film-production",
-      "source": "ImagineArt",
-      "image_url": "https://images.unsplash.com/photo-1518676590629-5dc310e8bb9d?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Amazon MGM GenAI Creators' Fund",
-      "description": "Greenlights three AI series for Prime Video under new purpose-built AI production platform.",
+      "title": "OpenAI Sora API sunset and Veo 3.1 Lite pricing",
+      "description": "Sora consumer app and API discontinued; Veo 3.1 Lite at $0.05/second. OpenAI-Disney $1B deal reported.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "Amazon MGM Studios Greenlights Three AI Series",
+      "description": "New GenAI Creators' Fund launches purpose-built AI production platform for Prime Video.",
       "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
       "source": "Variety",
       "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     },
     {
-      "title": "OpenAI-Disney $1B Partnership",
-      "description": "Major studio-AI partnership for licensed character generation at scale.",
+      "title": "EU AI Act Article 50 enforcement begins August 2026",
+      "description": "Machine-readable marking required on all AI-generated video; penalties up to €15M.",
       "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
       "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
-    },
-    {
-      "title": "Runway $315M Raise",
-      "description": "Major funding round for cinematic VFX and professional ecosystem tools.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a8d0c1c?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Adobe Premiere Pro AI Updates",
-      "description": "Generative Extend, redesigned Shape Masks, Firefly Boards integration for pro editing.",
-      "url": "https://blog.adobe.com/en/publish/2026/01/20/new-ai-powered-video-editing-tools-premiere-major-motion-design-upgrades-after-effects",
-      "source": "Adobe",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
+      "title": "Seedance 2.0 and Kling 3.0 top AI video generators",
+      "description": "Seedance 2.0 for commercial work, Veo 3.1 for realism; Higgsfield hosts multi-model suite.",
+      "url": "https://higgsfield.ai/blog/best-ai-video-generators-2026",
+      "source": "Higgsfield",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     },
     {
-      "title": "DaVinci Resolve Studio 21",
-      "description": "AI Dialogue Matcher, Multicam SmartSwitch, voice isolation and color grading tools.",
-      "url": "https://www.techradar.com/pro/software-services/davinci-resolve-studio-21-video-editing-software-review",
-      "source": "TechRadar",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
+      "title": "Mosaic Agentic AI Video Editing Platform",
+      "description": "Uses Gemini 2.0 Flash for multimodal agents accelerating video editing from hours to seconds.",
+      "url": "https://usemosaic.ai/",
+      "source": "Mosaic",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-1c4b6a3e1e3c?w=600&q=60"
     },
     {
-      "title": "CapCut Pro AI Features",
-      "description": "Auto-captions, AI effects, beat sync and one-click enhancement for social media.",
-      "url": "https://creatordir-tools.vercel.app/articles/ai-video-editing-tools-2026.html",
-      "source": "CreatorAI Tools",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "17 best AI video generators in 2026",
+      "description": "Descript, Wondershare Filmora, VEED, Synthesia, HeyGen lead editors and avatar tools.",
+      "url": "https://zapier.com/blog/best-ai-video-generator/",
+      "source": "Zapier",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2a4157?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "AI Avatars for Enterprise",
-      "description": "Kaltura agentic AI avatars for personalized learning and corporate video at scale.",
-      "url": "https://corp.kaltura.com/",
-      "source": "Kaltura",
+      "title": "Vertical AI video models for corporate training",
+      "description": "Specialized models optimized for human movement and architectural lighting deliver reliable B2B results.",
+      "url": "https://resource.digen.ai/future-of-ai-video-generation-2026/",
+      "source": "Digen",
       "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
     },
     {
-      "title": "Assistive AI for Studios",
-      "description": "Flawless AI tools for film & TV protecting artistic rights with cinema-quality outputs.",
-      "url": "https://flawlessai.com/",
-      "source": "Flawless",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "AI Video Analysis for healthcare and retail",
+      "description": "NVIDIA Metropolis and AWS Rekognition drive patient monitoring, fall detection, and smart retail analytics.",
+      "url": "https://www.articsledge.com/post/ai-video-analysis",
+      "source": "Articsledge",
+      "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"
     },
     {
-      "title": "Memories.ai Visual Memory",
-      "description": "On-device visual AI for real-time indexing and persistent person tracking.",
-      "url": "https://memories.ai/",
-      "source": "Memories.ai",
-      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+      "title": "Text-to-video for medical education and architecture",
+      "description": "Vertical solutions generate training videos from textbooks and architectural walkthroughs from blueprints.",
+      "url": "https://resource.digen.ai/how-text-to-video-technology-works-2026/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Lifetime AI Video Studios",
-      "description": "Flat fee $80-$90 for integrated voice, image and video platforms with Emotion AI.",
-      "url": "https://resource.digen.ai/text-to-video-ai-software-lifetime-deals-2026/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+      "title": "InVideo promo codes July 2026",
+      "description": "25-50% off subscription plans available with verified coupon codes.",
+      "url": "https://www.usatoday.com/deals/invideo",
+      "source": "USA Today",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14b5d1f8c?w=600&q=60"
     },
     {
-      "title": "Veo 3.1 Lite API",
-      "description": "$0.05/second for 720p budget tier with native audio generation.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
+      "title": "Kling AI 3.0 free tier: 66 daily credits",
+      "description": "No credit card required; 720p output resets every 24 hours.",
+      "url": "https://www.atlascloud.ai/blog/guides/10-best-ai-video-generators-free-no-subscription-in-2026",
+      "source": "Atlas Cloud",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Wan 2.2 unlimited local generation",
+      "description": "Open-source Apache-2.0 model runs locally on consumer NVIDIA GPUs with no watermarks.",
+      "url": "https://www.atlascloud.ai/blog/guides/10-best-ai-video-generators-free-no-subscription-in-2026",
+      "source": "Atlas Cloud",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Melies AI Filmmaking Platform",
-      "description": "Complete platform with 18 image and 11 video models for full AI-generated films in a day.",
-      "url": "https://melies.co/ai-filmmaking",
-      "source": "Melies",
-      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
+      "title": "AI Video Generation becomes creative infrastructure",
+      "description": "Shift from one-shot generation to controllable workflows with image-to-video APIs and editing extensions.",
+      "url": "https://www.europeanbusinessreview.com/ai-video-generation-in-2026-the-year-it-started-looking-like-real-creative-infrastructure/",
+      "source": "European Business Review",
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
     },
     {
-      "title": "Higgsfield Diverse Use Cases",
-      "description": "Short films, ads, AI influencers and branded content with wide creative flexibility.",
-      "url": "https://www.synthesia.io/post/best-ai-video-generators",
-      "source": "Synthesia",
-      "image_url": "https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?w=600&q=60"
+      "title": "50 AI Video Ideas 2026 with free prompts",
+      "description": "Planet terraforming, art style morphing, and before-after transformations fuel viral creative projects.",
+      "url": "https://zsky.ai/blog/50-ai-video-ideas-2026",
+      "source": "ZSky AI",
+      "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=60"
+    },
+    {
+      "title": "Artlist AI Trend Report 2026",
+      "description": "87% of creative professionals use AI tools weekly; prompting becomes core marketing skill.",
+      "url": "https://artlist.io/blog/artlist-creative-trend-report-2026/",
+      "source": "Artlist",
+      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
     }
   ]
 }
