@@ -1,140 +1,126 @@
 {
   "filmschool": [
     {
-      "title": "Google Invests $75 Million in A24 to Develop AI-Powered Filmmaking Tools",
-      "description": "A24 and Google’s DeepMind partner on AI research for new filmmaking technologies.",
-      "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "invideo Agent One: The production layer",
+      "description": "First AI agent that went to film school with project-level memory and agentic multi-scene edits.",
+      "url": "https://invideo.io/blog/best-ai-filmmaking-tools/",
+      "source": "invideo",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     },
     {
-      "title": "Best AI Tools for Film Production in 2026",
-      "description": "Comprehensive guide to nine leading AI tools for filmmakers including Google Flow, Pika Labs, and Melies.",
+      "title": "Google Veo 3.1 Native Audio",
+      "description": "Generates dialogue and sound effects in a single pass with stable API for enterprise.",
+      "url": "https://www.synthesia.io/post/best-ai-video-generators",
+      "source": "Synthesia",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+    },
+    {
+      "title": "Seedance 2.0 Multimodal",
+      "description": "Anchors generation with images, video clips, and audio references in one pass for director-level control.",
       "url": "https://www.imagine.art/blogs/ai-tools-for-film-production",
       "source": "ImagineArt",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76bf?w=600&q=60"
-    },
-    {
-      "title": "AI in Filmmaking Takes Center Stage at Cannes 2026",
-      "description": "Industry leaders debate creator control over emerging AI tools at the festival.",
-      "url": "https://adsknews.autodesk.com/en/views/ai-in-filmmaking-at-cannes-2026/",
-      "source": "Autodesk News",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1518676590629-5dc310e8bb9d?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Amazon MGM Studios Greenlights Three AI Series for Prime Video",
-      "description": "New GenAI Creators’ Fund launches purpose-built AI production platform with AWS.",
+      "title": "Amazon MGM GenAI Creators' Fund",
+      "description": "Greenlights three AI series for Prime Video under new purpose-built AI production platform.",
       "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
       "source": "Variety",
       "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     },
     {
-      "title": "The AI Video Workflow in 2026",
-      "description": "Real pipeline for solo creators: brief to multi-platform localized delivery in an afternoon.",
-      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
-      "source": "Vivideo",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99c9e8e0c?w=600&q=60"
+      "title": "OpenAI-Disney $1B Partnership",
+      "description": "Major studio-AI partnership for licensed character generation at scale.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
     },
     {
-      "title": "AI Studios Expands to 2,000+ Avatars in 2026",
-      "description": "Major platform updates include bulk series creation and interactive quizzes for teams.",
-      "url": "https://scribehow.com/o/QJbcfdSIRv6Xcu-OkuCvzQ/page/AI_Studios_Review_2026_The_Most_Complete_AI_Avatar_Video_Platform_for_Creators_and_Teams__syuWBbhpQ76BogtDDxWN6g",
-      "source": "Scribe",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+      "title": "Runway $315M Raise",
+      "description": "Major funding round for cinematic VFX and professional ecosystem tools.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a8d0c1c?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Kling 3.0 and Seedance 2.0 Lead 2026 Model Releases",
-      "description": "Kuaishou and ByteDance launch native 4K models with audio; Veo 3.1 Lite at $0.05/sec.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "Adobe Premiere Pro AI Updates",
+      "description": "Generative Extend, redesigned Shape Masks, Firefly Boards integration for pro editing.",
+      "url": "https://blog.adobe.com/en/publish/2026/01/20/new-ai-powered-video-editing-tools-premiere-major-motion-design-upgrades-after-effects",
+      "source": "Adobe",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
     },
     {
-      "title": "Higgsfield and HeyGen Dominate Cinematic and Avatar Tools",
-      "description": "Advanced motion control, voice cloning, and enterprise workflows define top 2026 platforms.",
-      "url": "https://thatworksmedia.com/en/what-are-the-best-ai-video-tools-in-2026/",
-      "source": "That Works Media",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "DaVinci Resolve Studio 21",
+      "description": "AI Dialogue Matcher, Multicam SmartSwitch, voice isolation and color grading tools.",
+      "url": "https://www.techradar.com/pro/software-services/davinci-resolve-studio-21-video-editing-software-review",
+      "source": "TechRadar",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "LTX-2.3 Ships as First Open-Source 4K Model with Audio",
-      "description": "Lightricks releases open weights model supporting native 4K and long durations.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+      "title": "CapCut Pro AI Features",
+      "description": "Auto-captions, AI effects, beat sync and one-click enhancement for social media.",
+      "url": "https://creatordir-tools.vercel.app/articles/ai-video-editing-tools-2026.html",
+      "source": "CreatorAI Tools",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Disney Launches Vertical AI Video Tool for TikTok",
-      "description": "Legacy media enters vertical automation space with 36.20% CAGR market growth.",
-      "url": "https://resource.digen.ai/ai-video-generation-market-trends-2026",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "AI Avatars for Enterprise",
+      "description": "Kaltura agentic AI avatars for personalized learning and corporate video at scale.",
+      "url": "https://corp.kaltura.com/",
+      "source": "Kaltura",
+      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
     },
     {
-      "title": "Personalized Video Marketing Hits Scale in 2026",
-      "description": "HeyGen enables thousands of customized videos; 67% of brands use AI for social content.",
-      "url": "https://is4.ai/blog/our-blog-1/ai-video-generation-2026-what-works-what-doesnt-340",
-      "source": "is4.ai",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Assistive AI for Studios",
+      "description": "Flawless AI tools for film & TV protecting artistic rights with cinema-quality outputs.",
+      "url": "https://flawlessai.com/",
+      "source": "Flawless",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "Virtual Try-On and E-commerce Video Automation Emerge",
-      "description": "Specialized vertical models target real estate, medical education, and product videos.",
-      "url": "https://resource.digen.ai/ai-video-generator-market-trends-2026",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"
+      "title": "Memories.ai Visual Memory",
+      "description": "On-device visual AI for real-time indexing and persistent person tracking.",
+      "url": "https://memories.ai/",
+      "source": "Memories.ai",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Cyber Week AI Deals: Up to 30% Off Media.io Credits",
-      "description": "Lowest prices of the year on AI credits and all-in-one creation hub memberships.",
-      "url": "https://www.media.io/sales-promotion.html",
-      "source": "Media.io",
-      "image_url": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=600&q=60"
-    },
-    {
-      "title": "AI Studios Personal Plan from $24/month with Annual Savings",
-      "description": "Unlimited videos, 1080p, AI dubbing, and 100+ avatars; 20% off yearly billing.",
-      "url": "https://scribehow.com/o/QJbcfdSIRv6Xcu-OkuCvzQ/page/AI_Studios_Review_2026_The_Most_Complete_AI_Avatar_Video_Platform_for_Creators_and_Teams__syuWBbhpQ76BogtDDxWN6g",
-      "source": "Scribe",
+      "title": "Lifetime AI Video Studios",
+      "description": "Flat fee $80-$90 for integrated voice, image and video platforms with Emotion AI.",
+      "url": "https://resource.digen.ai/text-to-video-ai-software-lifetime-deals-2026/",
+      "source": "Digen",
       "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "Lifetime AI Video Studio Deals at $80–$90 Flat Fee",
-      "description": "Entry-level professional plans include emotion AI, 4K support, and commercial rights.",
-      "url": "https://resource.digen.ai/text-to-video-ai-software-lifetime-deals-2026/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
+      "title": "Veo 3.1 Lite API",
+      "description": "$0.05/second for 720p budget tier with native audio generation.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "50 AI Video Ideas for 2026 with Ready Prompts",
-      "description": "Transformation concepts, style morphing, and story-to-video workflows for viral content.",
-      "url": "https://zsky.ai/blog/50-ai-video-ideas-2026",
-      "source": "ZSky AI",
-      "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&q=60"
+      "title": "Melies AI Filmmaking Platform",
+      "description": "Complete platform with 18 image and 11 video models for full AI-generated films in a day.",
+      "url": "https://melies.co/ai-filmmaking",
+      "source": "Melies",
+      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
     },
     {
-      "title": "Dataland AI Art Museum Opens in Los Angeles",
-      "description": "Refik Anadol’s ethical AI museum launches with focus on generative art collections.",
-      "url": "https://www.npr.org/2026/04/25/nx-s1-5799511/dataland-refik-anadol-los-angeles-ai-art-museum",
-      "source": "NPR",
-      "image_url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=600&q=60"
-    },
-    {
-      "title": "Multimodal AI Workflows Converge Image and Video Creation",
-      "description": "Story-to-video pipelines and real-time agent-assisted generation define 2026 art trends.",
-      "url": "https://fiddl.art/blog/en/ai-art-trends-2026-ai-art-trends",
-      "source": "Fiddl.art",
-      "image_url": "https://images.unsplash.com/photo-1547891654-273190ca6380?w=600&q=60"
+      "title": "Higgsfield Diverse Use Cases",
+      "description": "Short films, ads, AI influencers and branded content with wide creative flexibility.",
+      "url": "https://www.synthesia.io/post/best-ai-video-generators",
+      "source": "Synthesia",
+      "image_url": "https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?w=600&q=60"
     }
   ]
 }
