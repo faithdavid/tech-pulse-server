@@ -1,140 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "Rutgers Launches AI and New Technologies in Filmmaking Course",
-      "description": "Rutgers Filmmaking introduces generative AI course for students adapting to evolving cinema tech landscape.",
-      "url": "https://variety.com/2026/film/focus/education-impact-report-2026-1236726484/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "The Best AI Tools for Filmmakers (2026)",
+      "description": "Comprehensive guide to Higgsfield, Runway, Midjourney, Sora, Adobe Firefly and more for AI filmmaking.",
+      "url": "https://www.filmcrux.com/blog/ai-tools",
+      "source": "Film Crux",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "AI Film School Trains Next-Gen Hollywood Moviemakers",
-      "description": "Global AI film school expands to 11 languages serving students in 170 countries with online bachelor's options.",
+      "title": "AI film school trains next generation of Hollywood moviemakers",
+      "description": "Curious Refuge specializes in training filmmakers how to use machine learning tools.",
       "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
       "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
     },
     {
-      "title": "Best AI Tools for Film Production in 2026",
-      "description": "Comprehensive guide covering Seedance 2.0, Kling 3.0, Runway Gen-4.5 and full AI production pipelines.",
-      "url": "https://www.imagine.art/blogs/ai-tools-for-film-production",
-      "source": "ImagineArt",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+      "title": "Best AI Filmmaking Tools 2026",
+      "description": "Veo 3.1, Seedance 2.0, Happy Horse and invideo Agent One lead the pack for native audio and production.",
+      "url": "https://invideo.io/blog/best-ai-filmmaking-tools/",
+      "source": "InVideo",
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "OpenAI Shuts Down Sora Consumer App and API",
-      "description": "Sora app dark April 2026, full API sunset September 2026 as OpenAI shifts focus.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+      "title": "Real-Time AI Video Startup Reactor Raises $59 Million",
+      "description": "Ex-Apple engineers secure funding from Jeffrey Katzenberg’s WndrCo for real-time AI video.",
+      "url": "https://variety.com/2026/digital/news/reactor-real-time-ai-video-funding-jeffrey-katzenberg-1236755883/",
+      "source": "Variety",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "Amazon MGM Greenlights Three AI Series Under GenAI Fund",
-      "description": "Amazon MGM Studios launches purpose-built AI production platform for Prime Video with AWS integration.",
+      "title": "Amazon MGM Studios Greenlights Three AI Series",
+      "description": "New GenAI Creators' Fund launches purpose-built AI production platform for Prime Video.",
       "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
       "source": "Variety",
       "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     },
     {
-      "title": "Runway Raises $315M as EU AI Act Enforcement Begins",
-      "description": "Runway funding round coincides with Article 50 watermarking rules taking effect August 2026.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Google Invests $75 Million in A24 for AI Filmmaking Tools",
+      "description": "Partnership to develop AI-powered tools without focusing solely on cost-cutting.",
+      "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
+      "source": "Variety",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Google Veo 3.1 Lite Launches at $0.05/Second",
-      "description": "Budget tier Veo 3.1 Lite delivers native audio generation with 720p output via public API.",
+      "title": "Kling 3.0 and Seedance 2.0 Lead 2026 Releases",
+      "description": "Native 4K, multilingual audio and top leaderboard rankings for new models from Kuaishou and ByteDance.",
       "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
       "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    },
-    {
-      "title": "invideo Agent One — First AI Agent That Went to Film School",
-      "description": "Agent One handles project-level memory, multi-scene edits and plain-language briefing for full productions.",
-      "url": "https://invideo.io/blog/best-ai-filmmaking-tools/",
-      "source": "invideo",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "Seedance 2.0 API Integrations Expand Across Platforms",
-      "description": "Unified multimodal audio-video generation with motion, lighting, lip-sync and multi-language voiceover in single pass.",
-      "url": "https://www.imagine.art/blogs/ai-tools-for-film-production",
-      "source": "ImagineArt",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "LTX-2.3 Ships Open-Source 4K with Audio",
+      "description": "Lightricks releases first open-source model line with native 4K, audio and open weights.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "Veo 3.1 Lite Budget Tier Released",
+      "description": "Google launches $0.05/sec 720p tier via Gemini API and Google AI Studio.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "23 Faceless YouTube Niches Still Wide Open in 2026",
-      "description": "AI workflow channels and emerging verticals driving six-figure earnings without showing faces.",
-      "url": "https://www.opus.pro/blog/faceless-youtube-niches-2026",
-      "source": "OpusClip",
+      "title": "AI YouTube Niches for 2026",
+      "description": "Faceless how-to, music videos, virtual influencers and AI editing tricks dominate demand.",
+      "url": "https://gen.pro/blog/youtube-ai-video",
+      "source": "Gen.pro",
       "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     },
     {
-      "title": "Netflix Launches Vertical Video Feed with AI Recommendations",
-      "description": "TikTok-style vertical feed rolling out alongside ChatGPT-powered search and AI content creation tools.",
-      "url": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
+      "title": "AI Video in Business Communication",
+      "description": "63% of enterprises use AI videos for training; 83% time saved on localized ads.",
+      "url": "https://resource.digen.ai/transform-content-with-ai-video-2026/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
     },
     {
-      "title": "AI Video Workflow 2026: Agentic Planning to Localization",
-      "description": "Solo creators now run full pipelines from brief to multi-platform localized clips using specialized models per shot.",
-      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
-      "source": "Vivideo",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "Character Consistency Becomes Table Stakes",
+      "description": "2026 trend: teams tag characters once for multi-shot narrative consistency across scenes.",
+      "url": "https://ltx.io/blog/ai-video-trends",
+      "source": "LTX",
+      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "InVideo Promo Codes — Up to 50% Off July 2026",
-      "description": "Verified coupons delivering 25-50% discounts on subscription plans for AI video creation.",
+      "title": "InVideo Promo Codes July 2026",
+      "description": "25-50% off subscription plans with verified USA TODAY coupons.",
       "url": "https://www.usatoday.com/deals/invideo",
-      "source": "USA Today",
+      "source": "USA TODAY",
       "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "Seedance 2.0 Fast — Cheapest Production API at $0.09/sec",
-      "description": "Limited-time 20% off Seedance 2.0 & 2.0 Mini with 1080p output enabling high-volume workflows.",
-      "url": "https://www.atlascloud.ai/blog/guides/cheapest-ai-video-generation-api-2026",
-      "source": "Atlas Cloud",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Krater AI 15% Student Discount",
+      "description": "Year-long 15% off all plans covering ChatGPT, Claude, image, video and voice tools.",
+      "url": "https://krater.ai/blog/ai-student-discounts-2026",
+      "source": "Krater",
+      "image_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&q=60"
     },
     {
-      "title": "Hailuo AI Annual Plans Save Up to 49%",
-      "description": "Annual billing locked for full-year savings on competitive AI video generation tiers.",
-      "url": "https://frameo.ai/blog/cheapest-ai-video-generators/",
-      "source": "Frameo",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "Google AI Pro Free for Students",
+      "description": "Up to 12 months free Gemini access for verified US students via SheerID.",
+      "url": "https://krater.ai/blog/ai-student-discounts-2026",
+      "source": "Krater",
+      "image_url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Dataland AI Art Museum Opens in Los Angeles",
-      "description": "Refik Anadol's new museum dedicated to ethical generative AI art opens June 2026.",
-      "url": "https://www.npr.org/2026/04/25/nx-s1-5799511/dataland-refik-anadol-los-angeles-ai-art-museum",
-      "source": "NPR",
-      "image_url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=600&q=60"
+      "title": "50 AI Video Ideas for 2026",
+      "description": "Planet terraforming, art style morphing and transformation reveals with free copy-paste prompts.",
+      "url": "https://zsky.ai/blog/50-ai-video-ideas-2026",
+      "source": "ZSky AI",
+      "image_url": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=600&q=60"
     },
     {
-      "title": "Runway AI Film Festival Returns June 2026",
-      "description": "4th edition of global AI creative festival with 3-15 minute generative video narratives in New York and LA.",
-      "url": "https://imastudio.com/blog/top-5-ai-film-festivals-2026",
-      "source": "Ima Studio",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "title": "Top AI Art Trends 2026",
+      "description": "Immersive installations, surreal dreamlike imagery and generative cinematic environments.",
+      "url": "https://www.wodacc.com/post/top-ai-art-trends-in-2026-the-future-of-creative-expression",
+      "source": "Wodacc",
+      "image_url": "https://images.unsplash.com/photo-1547891654-2731907a0a0c?w=600&q=60"
     },
     {
-      "title": "Global AI Creator Competition 2026 — $1M Prize Potential",
-      "description": "GAIC highlights AI short films with storytelling focus and ongoing creator development platform.",
-      "url": "https://imastudio.com/blog/top-5-ai-film-festivals-2026",
-      "source": "Ima Studio",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "Shutterstock Showcase: Creative AI",
+      "description": "Live showcase of cutting-edge generative video and AI-driven visual storytelling.",
+      "url": "https://www.youtube.com/watch?v=l9pD_Pss_Y4",
+      "source": "YouTube",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=600&q=60"
     }
   ]
 }
