@@ -2,151 +2,116 @@
   "ai": [
     {
       "title": "Anthropic Launches Claude Sonnet 5",
-      "description": "New agentic model scores 63.2% on coding benchmarks, approaching Opus performance at lower cost.",
+      "description": "Claude Sonnet 5 becomes default model with near-Opus performance, scoring 63.2% on agentic coding benchmarks.",
       "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "Recursive Self-Improvement in AI",
-      "description": "arXiv paper explores autonomous research loops moving beyond bounded self-refinement.",
-      "url": "https://arxiv.org/list/cs.AI/recent",
-      "source": "arXiv",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "PP-VAE Advances Private Cardiology AI",
-      "description": "University of Kansas model improves ECG analysis while protecting patient biometric data.",
+      "title": "PP-VAE Breakthrough in Cardiology AI",
+      "description": "University of Kansas researchers develop privacy-preserving AI for ECG analysis protecting patient biometric data.",
       "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&q=60"
     },
     {
-      "title": "OpenAI Releases GPT-Realtime-2.1",
-      "description": "New low-latency voice models for real-time agents and natural conversation.",
-      "url": "https://aiflashreport.com/topics/new-ai-model-releases.html",
-      "source": "AI Flash Report",
-      "image_url": "https://images.unsplash.com/photo-1589254065878-42c9da997711?w=600&q=60"
+      "title": "Photonic AI Platform for Medical Diagnosis",
+      "description": "Shenzhen University unveils all-fiber photonic AI using black phosphorus modulators for advanced diagnostics.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Salesforce Acquires Fin for $3.6B",
-      "description": "Major AI agent acquisition in June 2026 M&A wave focused on customer agents.",
-      "url": "https://www.channelinsider.com/channel-business/mergers-and-acquisitions/ma-june-2026-recap/",
-      "source": "Channel Insider",
-      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"
-    },
-    {
-      "title": "OpenAI Raises $122B Round",
-      "description": "Valued higher than most countries; IPO targeted near $1T in Q4 2026.",
+      "title": "MGX Raises $49 Billion AI Fund",
+      "description": "Abu Dhabi-based MGX secures record $49B for AI investments from global institutions.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
       "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "ElevenLabs Hits $11B Valuation",
-      "description": "Voice AI leader eyes IPO in 2027-28 amid mainstream adoption.",
+      "title": "OpenAI Secures $122B Round",
+      "description": "OpenAI valued at levels exceeding most countries with $122B funding, prepping for near-$1T IPO.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
       "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
       "title": "Shield AI Raises $1.5B",
-      "description": "Funds X-BAT drone and Aechelon acquisition; $540M 2026 revenue projected.",
+      "description": "Defense AI firm Shield AI lands $1.5B to advance autonomous systems and X-BAT drone.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
       "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1436491865332-7a61f927d7fb?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "ShadCN + Tailwind v4 Updates",
-      "description": "CLI rewrite and 5x faster rebuilds drive massive adoption in 2026 web dev.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
+      "title": "Temporal Cloud 2.0 Released",
+      "description": "Major workflow orchestration update with signals, updates, and time-travel debugging for reliable apps.",
+      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
+      "source": "DEV Community",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Playwright Becomes QA Standard",
-      "description": "Speed and AI-assisted testing make it the go-to browser automation tool.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
+      "title": "Google Play Services July 2026 Update",
+      "description": "New developer tools, Wear OS work profiles, and enhanced Maps integration in Play Services 26.26.",
+      "url": "https://www.techrepublic.com/article/news-google-play-services-july-update-wear-os-work-profiles/",
+      "source": "TechRepublic",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
     },
     {
-      "title": "TanStack Router & Query Surge",
-      "description": "Type-safe routing and data fetching dominate full-stack React development.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
-      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
-    },
-    {
-      "title": "Svelte 5 & React 19 Stable",
-      "description": "Runes reactivity and React Compiler reshape modern web frameworks.",
-      "url": "https://www.index.dev/blog/software-development-frameworks",
-      "source": "Index.dev",
-      "image_url": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=600&q=60"
+      "title": "Pkl Configuration Language Gains Traction",
+      "description": "Apple's Pkl sees widespread adoption in infrastructure and DevOps for safe, expressive configs.",
+      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
+      "source": "DEV Community",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Trump Signs AI Executive Order",
-      "description": "Federal pushback against state AI regulations; DOJ to sue over unconstitutional laws.",
-      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
-      "source": "Wilson Sonsini",
+      "title": "EU AI Act Nears Full Enforcement",
+      "description": "Comprehensive AI regulation becomes fully applicable August 2026 with high-risk system rules.",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "source": "European Commission",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "Google Launches Android 17 + Gemini",
-      "description": "Pixel Drop brings Gemini Omni video editing and Lyria 3 music generation.",
+      "title": "UN Hosts Global AI Governance Dialogue",
+      "description": "Geneva summit addresses catastrophic harm risks as AI outpaces regulatory frameworks worldwide.",
+      "url": "https://news.un.org/en/story/2026/07/1167862",
+      "source": "UN News",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
+    },
+    {
+      "title": "New York Mandates AI Ad Disclosures",
+      "description": "First state law requires clear labels on ads using AI-generated synthetic performers.",
       "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
-    },
-    {
-      "title": "Meta Adds AI Glasses Safeguards",
-      "description": "New privacy features to prevent secret recordings with AI smart glasses.",
-      "url": "https://www.aixploria.com/en/ai-news-today/",
-      "source": "AIxploria",
-      "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=60"
-    },
-    {
-      "title": "California AI Laws Take Effect",
-      "description": "Safety reporting, deepfake rules, and ADMT opt-out requirements now active.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/2026-is-coming-for-bigtech-and-ai-with-new-laws/cmxNvq0RE63",
-      "source": "Stocktwits",
-      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "DeepSeek Dominates Hugging Face",
-      "description": "Chinese open models lead downloads; DeepSeek-R1 and V4.1 top trending charts.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    },
-    {
-      "title": "Llama 4 & Qwen3 Lead Open Source",
-      "description": "Meta and Alibaba models ranked among top three open-weight releases for July 2026.",
-      "url": "https://aiflashreport.com/topics/new-ai-model-releases.html",
-      "source": "AI Flash Report",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "LeRobot Robotics Dataset Released",
-      "description": "Massive multimodal Learning to Drive (L2D) dataset advances real-world robotics.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
+      "title": "NVIDIA Joins LeRobot on Hugging Face",
+      "description": "Isaac GR00T 1.7 VLA model and Teleop framework added to open robotics library with 15M+ dataset downloads.",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "source": "NVIDIA Blog",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "Gemma 4 12B Open Sourced",
-      "description": "Google releases powerful 12B open-weight model under permissive license.",
-      "url": "https://aiflashreport.com/topics/new-ai-model-releases.html",
-      "source": "AI Flash Report",
-      "image_url": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&q=60"
+      "title": "Llama 4 Scout Released",
+      "description": "Meta's long-context open model with 10M token window and native multimodal capabilities.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "Phi-4 Reasoning Model Debuts",
+      "description": "Microsoft's 14B MIT-licensed model excels at math, science, and coding for local deployment.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1515878918825-757209df9c0e?w=600&q=60"
     }
   ]
 }
