@@ -2,116 +2,151 @@
   "ai": [
     {
       "title": "Anthropic Launches Claude Sonnet 5",
-      "description": "Claude Sonnet 5 becomes default model with near-Opus performance, scoring 63.2% on agentic coding benchmarks.",
+      "description": "New agentic model scores 63.2% on coding benchmarks, approaching Opus performance at lower cost.",
       "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo.ai",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "Recursive Self-Improvement in AI Paper",
-      "description": "New arXiv paper explores autonomous research loops and bounded self-refinement in AI systems.",
+      "title": "Recursive Self-Improvement in AI",
+      "description": "arXiv paper explores autonomous research loops moving beyond bounded self-refinement.",
       "url": "https://arxiv.org/list/cs.AI/recent",
       "source": "arXiv",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "OpenAI GPT-5 Multimodal Breakthrough",
-      "description": "GPT-5 features 2.4 trillion parameters and seamless integration of text, image, video, and audio.",
-      "url": "https://digitalnewsbreak.com/ai/ai-news-ai-breakthrough-latest-news",
-      "source": "Digital News Break",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "PP-VAE Advances Private Cardiology AI",
+      "description": "University of Kansas model improves ECG analysis while protecting patient biometric data.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=60"
+    },
+    {
+      "title": "OpenAI Releases GPT-Realtime-2.1",
+      "description": "New low-latency voice models for real-time agents and natural conversation.",
+      "url": "https://aiflashreport.com/topics/new-ai-model-releases.html",
+      "source": "AI Flash Report",
+      "image_url": "https://images.unsplash.com/photo-1589254065878-42c9da997711?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Together AI Raises $800M",
-      "description": "Valuation doubles as strategic investors back open-source AI workloads with $1.15B annual bookings.",
-      "url": "https://techstartups.com/2026/07/01/venture-capital-startup-funding-roundup-july-1-2026",
-      "source": "Tech Startups",
-      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
-    },
-    {
-      "title": "Anthropic Secures $30B Round",
-      "description": "Amazon and Google lead massive round as hyperscalers compete for AI infrastructure dominance.",
-      "url": "https://qubit.capital/blog/ai-startup-fundraising-trends",
-      "source": "Qubit Capital",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
       "title": "Salesforce Acquires Fin for $3.6B",
-      "description": "CRM giant acquires AI agent company to accelerate customer agent capabilities.",
-      "url": "https://www.channelinsider.com/channel-business/mergers-and-acquisitions/ma-june-2026-recap",
+      "description": "Major AI agent acquisition in June 2026 M&A wave focused on customer agents.",
+      "url": "https://www.channelinsider.com/channel-business/mergers-and-acquisitions/ma-june-2026-recap/",
       "source": "Channel Insider",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"
+    },
+    {
+      "title": "OpenAI Raises $122B Round",
+      "description": "Valued higher than most countries; IPO targeted near $1T in Q4 2026.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "ElevenLabs Hits $11B Valuation",
+      "description": "Voice AI leader eyes IPO in 2027-28 amid mainstream adoption.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
+    },
+    {
+      "title": "Shield AI Raises $1.5B",
+      "description": "Funds X-BAT drone and Aechelon acquisition; $540M 2026 revenue projected.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1436491865332-7a61f927d7fb?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "LangChain and LangGraph Reach v1.0",
-      "description": "Major stability milestone for AI agent orchestration frameworks with no breaking changes until v2.0.",
-      "url": "https://programming-helper.com/tech/langchain-2026-ai-agents-python-framework-production",
-      "source": "Programming Helper",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "ShadCN + Tailwind v4 Updates",
+      "description": "CLI rewrite and 5x faster rebuilds drive massive adoption in 2026 web dev.",
+      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
+      "source": "Medium",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "PyTorch Maintains Research Dominance",
-      "description": "Framework sees 24% YoY download growth; remains top choice for novel neural architectures and LLMs.",
-      "url": "https://www.anaconda.com/guides/ai-development-tools",
-      "source": "Anaconda",
-      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
+      "title": "Playwright Becomes QA Standard",
+      "description": "Speed and AI-assisted testing make it the go-to browser automation tool.",
+      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
+      "source": "Medium",
+      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
     },
     {
-      "title": "LiteParse Powers Local AI Agents",
-      "description": "Open-source document parsing tool hits 9.2k GitHub stars, enabling fast local processing for agents.",
-      "url": "https://programming-helper.com/tech/langchain-2026-ai-agents-python-framework-production",
-      "source": "Programming Helper",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "TanStack Router & Query Surge",
+      "description": "Type-safe routing and data fetching dominate full-stack React development.",
+      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
+      "source": "Medium",
+      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=60"
+    },
+    {
+      "title": "Svelte 5 & React 19 Stable",
+      "description": "Runes reactivity and React Compiler reshape modern web frameworks.",
+      "url": "https://www.index.dev/blog/software-development-frameworks",
+      "source": "Index.dev",
+      "image_url": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "US House Drafts Bill to Block State AI Rules",
-      "description": "Bipartisan legislation aims to prohibit states from regulating AI model development.",
-      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
-      "source": "Reuters",
+      "title": "Trump Signs AI Executive Order",
+      "description": "Federal pushback against state AI regulations; DOJ to sue over unconstitutional laws.",
+      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
+      "source": "Wilson Sonsini",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "White House Issues AI Innovation Order",
-      "description": "Executive order promotes advanced AI innovation and security while slashing bureaucratic constraints.",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-      "source": "White House",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+      "title": "Google Launches Android 17 + Gemini",
+      "description": "Pixel Drop brings Gemini Omni video editing and Lyria 3 music generation.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
     },
     {
-      "title": "UN Launches Global AI Governance Dialogue",
-      "description": "Geneva summit addresses catastrophic harm risks as AI surpasses human capabilities in many domains.",
-      "url": "https://news.un.org/en/story/2026/07/1167862",
-      "source": "UN News",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+      "title": "Meta Adds AI Glasses Safeguards",
+      "description": "New privacy features to prevent secret recordings with AI smart glasses.",
+      "url": "https://www.aixploria.com/en/ai-news-today/",
+      "source": "AIxploria",
+      "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=60"
+    },
+    {
+      "title": "California AI Laws Take Effect",
+      "description": "Safety reporting, deepfake rules, and ADMT opt-out requirements now active.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/2026-is-coming-for-bigtech-and-ai-with-new-laws/cmxNvq0RE63",
+      "source": "Stocktwits",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "OpenAI Releases GPT-OSS Models on HF",
-      "description": "gpt-oss-120b and gpt-oss-20b open-weight models launched for reasoning and agentic tasks.",
-      "url": "https://huggingface.co/openai",
+      "title": "DeepSeek Dominates Hugging Face",
+      "description": "Chinese open models lead downloads; DeepSeek-R1 and V4.1 top trending charts.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "IBM Launches Granite 4.0 Nano",
-      "description": "Smallest AI models yet released under Apache 2.0 for edge devices and low-latency applications.",
-      "url": "https://itsfoss.com/news/ibm-granite-4-nano",
-      "source": "It's FOSS",
-      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
+      "title": "Llama 4 & Qwen3 Lead Open Source",
+      "description": "Meta and Alibaba models ranked among top three open-weight releases for July 2026.",
+      "url": "https://aiflashreport.com/topics/new-ai-model-releases.html",
+      "source": "AI Flash Report",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "ByteDance Seed Open-Sources PAR Model",
-      "description": "New PAR model released on Hugging Face under Apache-2.0 with US region lock.",
-      "url": "https://zglg.work/en/ai/news/2026-07-03-bytedance-seed-open-sources-new-par-model-on-hugging-face",
-      "source": "ZGLG Work",
+      "title": "LeRobot Robotics Dataset Released",
+      "description": "Massive multimodal Learning to Drive (L2D) dataset advances real-world robotics.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    },
+    {
+      "title": "Gemma 4 12B Open Sourced",
+      "description": "Google releases powerful 12B open-weight model under permissive license.",
+      "url": "https://aiflashreport.com/topics/new-ai-model-releases.html",
+      "source": "AI Flash Report",
+      "image_url": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&q=60"
     }
   ]
 }
