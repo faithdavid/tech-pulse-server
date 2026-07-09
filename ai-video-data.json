@@ -1,140 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "AI Film School Trains Next Generation of Hollywood Moviemakers",
-      "description": "Curious Refuge's academy has become a training ground for Hollywood workers racing to adapt as AI reshapes production.",
+      "title": "Curious Refuge AI Film School Expands Globally",
+      "description": "AI film school now teaches in 11 languages to students in 170 countries, focusing on AI-assisted narrative and documentary filmmaking.",
       "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
       "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "A Complete Guide to AI Filmmaking in 2026",
-      "description": "ImagineArt Film Studio provides the full pipeline: Seedance 2.0, Veo 3.1, Wan AI for cinematic production.",
-      "url": "https://www.imagine.art/blogs/ai-filmmaking-guide",
-      "source": "ImagineArt",
+      "title": "invideo Agent One: AI That Went to Film School",
+      "description": "Project-level memory and agentic multi-scene editing for full productions from plain-language briefs.",
+      "url": "https://invideo.io/blog/best-ai-filmmaking-tools/",
+      "source": "invideo",
       "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     },
     {
-      "title": "How to Become an AI Filmmaker with AI Film Studio",
-      "description": "Platform empowers YouTube creators with cutting-edge AI video editing and storytelling tools.",
-      "url": "https://ai-film.studio/",
-      "source": "AI Film Studio",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "Google Veo 3.1 with Native Audio",
+      "description": "Generates dialogue and sound effects in one pass; stable API for enterprise cinematic workflows.",
+      "url": "https://www.synthesia.io/post/best-ai-video-generators",
+      "source": "Synthesia",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Amazon MGM Studios Greenlights Three AI Series for Prime Video",
-      "description": "New GenAI Creators’ Fund launches industry-first AI production platform with AWS for visual storytelling.",
-      "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
-      "source": "Variety",
+      "title": "Netflix Launches Vertical Video Feed + AI",
+      "description": "TikTok-style feed rolling out; AI for recommendations, content creation, and $3B ad revenue target.",
+      "url": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     },
     {
-      "title": "Google DeepMind Invests $75M in A24 for AI Research Partnership",
-      "description": "First-of-its-kind collaboration to shape AI tools with creators rather than impose them.",
-      "url": "https://mpost.io/two-visions-one-industry-inside-hollywoods-2026-reckoning-with-ai/",
-      "source": "Metaverse Post",
-      "image_url": "https://images.unsplash.com/photo-1478720568477-152d9f8f2d8b?w=600&q=60"
+      "title": "Gutenberg AI Motion Studio Targets CTV",
+      "description": "Reduces production from 6 weeks to 1; generates 10+ platform formats from single narrative for $38B market.",
+      "url": "https://www.medianews4u.com/gutenberg-unveils-ai-motion-studio-eyes-38-billion-global-connected-tv-opportunity/",
+      "source": "MediaNews4U",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a9a5ab9?w=600&q=60"
     },
     {
-      "title": "Lionsgate Partners with Runway for Generative Video IP",
-      "description": "Joint program to develop new intellectual property using Runway's generative video models.",
-      "url": "https://www.forbes.com/sites/andymeek/2026/07/06/the-biggest-media-deals-of-q2-2026/",
-      "source": "Forbes",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2a7fca?w=600&q=60"
+      "title": "Google Vids Major AI Upgrade",
+      "description": "AI avatar controls, custom music, direct YouTube publishing; up to 1,000 videos/month on Ultra plan.",
+      "url": "https://www.techrepublic.com/article/news-google-vids-ai-avatars-update/",
+      "source": "TechRepublic",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Seedance 2.0, Veo 3.1 and Kling 3.0 Dominate 2026 AI Video",
-      "description": "Seedance leads multi-shot cinematic generation; Veo 3.1 excels in native audio; Kling in 4K realism.",
-      "url": "https://invideo.io/blog/best-ai-filmmaking-tools/",
-      "source": "InVideo",
+      "title": "Runway Gen-4.5 for Filmmaking",
+      "description": "Industry-leading text-to-video with camera choreography understanding and image+text input support.",
+      "url": "https://zapier.com/blog/best-ai-video-generator",
+      "source": "Zapier",
       "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=600&q=60"
     },
     {
-      "title": "Mobbi AI Launches Agentic 'Vibe Editing' Platform",
-      "description": "Conversational AI agent integrates Seedance, Sora 2, Kling, Veo for full-length video creation via natural language.",
-      "url": "https://www.globenewswire.com/de/news-release/2026/02/13/3238166/0/en/Mobbi-AI-Launches-Agentic-Video-Editing-Platform-Pioneering-Vibe-Editing-for-Long-Form-Video-Creation.html",
-      "source": "GlobeNewswire",
+      "title": "Adobe Firefly + Kling 3.0 Integration",
+      "description": "New AI capabilities in Premiere, After Effects, and Firefly Video Editor with Kling 3.0 models.",
+      "url": "https://www.jonpeddie.com/news/adobe-releases-new-ai-driven-capabilities-for-video-users/",
+      "source": "Jon Peddie Research",
       "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     },
     {
-      "title": "DaVinci Resolve 21 Adds AI Photo Editing and Smart Cut",
-      "description": "June 2026 release brings neural upscaling, auto-transcripts and filler-word removal to the industry standard.",
-      "url": "https://resource.digen.ai/ai-video-editing-software-comparison-2026/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1574717024453-35456c9f3c9c?w=600&q=60"
+      "title": "Grok Imagine API Enters Video",
+      "description": "64.1% win rate vs Runway in editing tests; realistic motion, object edits, style transfer support.",
+      "url": "https://scouts.yutori.com/99c4fe5d-26f7-4bd5-9d78-0a4c3bce1b77",
+      "source": "Yutori",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "GLX Studio Launches Personalized Video Outreach at Enterprise Scale",
-      "description": "AI Story Builder converts CRM data and presentations into personalized prospect videos with 263% video demand growth.",
-      "url": "https://www.postcrescent.com/press-release/story/20929/glx-studio-launches-ai-powered-platform-for-personalized-video-outreach-at-enterprise-scale/",
-      "source": "EIN Presswire",
-      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
+      "title": "Netflix Vertical Short-Form Strategy",
+      "description": "TikTok-like feed for discovery of podcasts and shows; AI-powered personalization at scale.",
+      "url": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
+      "source": "TechCrunch",
+      "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3037c7bb?w=600&q=60"
     },
     {
-      "title": "Vertical AI Video Dominates Social with 59% Share in 2026",
-      "description": "Short-form 9:16 content leads adoption; marketing teams use 3.2 AI tools on average for TikTok/Reels campaigns.",
-      "url": "https://www.ngram.com/blog/ai-video-statistics-2026",
-      "source": "ngram",
+      "title": "AI YouTube Faceless How-To Channels",
+      "description": "Passive income niche using AI voiceovers and generated footage for finance, self-improvement content.",
+      "url": "https://gen.pro/blog/youtube-ai-video",
+      "source": "GEN.pro",
       "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     },
     {
-      "title": "Specialized Vertical Models for Corporate Training and Marketing",
-      "description": "Tiered AI market sees application-layer tools optimized for medical education, legal reenactments and real estate.",
-      "url": "https://resource.digen.ai/future-of-ai-video-generation-2026",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
+      "title": "Real Estate Virtual Staging with AI Video",
+      "description": "Spatial mapping and inpainting to sell properties faster via dynamic AI-generated staging.",
+      "url": "https://www.atlascloud.ai/blog/case-studies/6-innovative-use-cases-for-ai-video-apis-you-havent-thought-of-yet",
+      "source": "Atlas Cloud",
+      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "InVideo Promo Codes Deliver 25-50% Off Plans in July 2026",
-      "description": "Verified coupons available for annual subscriptions; easy checkout savings on AI video production platform.",
+      "title": "InVideo Promo Codes July 2026",
+      "description": "25-50% off subscription plans verified for July; easy checkout discounts on AI video production.",
       "url": "https://www.usatoday.com/deals/invideo",
       "source": "USA Today",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+    },
+    {
+      "title": "Lifetime AI Video Studios at $80-90",
+      "description": "Centralized platforms with voice + video; flat one-time fees including Emotion AI and 1080p-4K support.",
+      "url": "https://resource.digen.ai/text-to-video-ai-software-lifetime-deals-2026/",
+      "source": "Digen",
       "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
     },
     {
-      "title": "Kling AI Premier Plan at $64.99/mo with 4K Cinematic Output",
-      "description": "Ultra tier ($127.99) targets filmmakers; Standard starts at $6.99 with strong realism and physics.",
-      "url": "https://www.fahimai.com/kling-vs-basedlabs",
-      "source": "Fahim AI",
+      "title": "Viddo AI Premium Low Per-Video Pricing",
+      "description": "Veo 3.1 Lite at $0.0575/video; Seedance 2.0 at $0.345/video with priority access to multiple models.",
+      "url": "https://viddo.ai/",
+      "source": "Viddo AI",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "ZSky AI Pro at $19/mo Delivers 1080p with Synchronized Audio",
-      "description": "Cheapest per-second pricing at ~$0.06; unlimited free tier options emerging across multiple platforms.",
-      "url": "https://zsky.ai/ai-video-generator-pricing-comparison",
-      "source": "ZSky AI",
-      "image_url": "https://images.unsplash.com/photo-1554224154-22dec7ec8818?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Human AI Art Award 2026 at Kunstmuseum Bonn",
-      "description": "Christopher Kulendran Thomas exhibition runs June–September showcasing AI-human collaborative video art.",
-      "url": "https://www.art-magazine.ai/program",
-      "source": "Art Magazine",
-      "image_url": "https://images.unsplash.com/photo-1547891654-1e49a5a1a1c4?w=600&q=60"
+      "title": "Guns N' Roses 'The General' AI Music Video",
+      "description": "Creative Works London blends Stable Diffusion AI with live band footage for dreamlike magenta cityscapes.",
+      "url": "https://www.prnewswire.com/news-releases/creative-works-london-showcases-ai-prowess-with-guns-n-roses-latest-music-video-the-general-302052099.html",
+      "source": "PR Newswire",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d1795bf?w=600&q=60"
     },
     {
-      "title": "AIArt26 Conference & Night Show in Las Vegas September 2026",
-      "description": "20,000+ creators gather for immersive AI video, music and multimedia festival with live performances.",
-      "url": "https://aiart26.tech/",
-      "source": "AIArt26",
-      "image_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbb9b1b?w=600&q=60"
+      "title": "Civitai AI Video Gallery Showcase",
+      "description": "Community-driven gallery of AI-generated art videos with advanced models and community reactions.",
+      "url": "https://civitai.com/videos",
+      "source": "Civitai",
+      "image_url": "https://images.unsplash.com/photo-1547153767-19596b0b4f0e?w=600&q=60"
     },
     {
-      "title": "10 Mind-Blowing AI Video Projects Showcase Epic Gorilla Battles & More",
-      "description": "Higgsfield, Luma Reframe and Kling workflows transform drawings into professional animations and cinematic sequences.",
-      "url": "https://www.classcentral.com/course/youtube-10-mind-blowing-ai-video-projects-you-haven-t-seen-yet-453084",
-      "source": "Class Central",
-      "image_url": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=600&q=60"
+      "title": "Superside AI Video Campaign Examples 2026",
+      "description": "Forter, Johnson Controls, Synthego campaigns: puppet animation, brand-aligned AI storytelling in days.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a9a5ab9?w=600&q=60"
     }
   ]
 }
