@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Claude Sonnet 5 Released by Anthropic",
-      "description": "Anthropic launches Claude Sonnet 5 on June 30, 2026 — frontier model with major reasoning and agentic gains.",
-      "url": "https://aireleasetracker.com/latest",
-      "source": "AI Release Tracker",
+      "title": "Anthropic Launches Claude Sonnet 5",
+      "description": "Claude Sonnet 5 becomes default model with near-Opus performance, scoring 63.2% on agentic coding benchmarks.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo.ai",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "New Research Reduces AI Bias in CT Imaging",
-      "description": "Frontiers study shows Image2Image translation cuts reconstruction bias in medical AI models.",
-      "url": "https://www.frontiersin.org/journals/radiology/articles/10.3389/fradi.2026.1875867/full",
-      "source": "Frontiers in Radiology",
-      "image_url": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&q=60"
+      "title": "Recursive Self-Improvement in AI Paper",
+      "description": "New arXiv paper explores autonomous research loops and bounded self-refinement in AI systems.",
+      "url": "https://arxiv.org/list/cs.AI/recent",
+      "source": "arXiv",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "LLM News Aggregator Tracks 500+ Models",
-      "description": "llm-stats.com provides real-time tracking of GPT, Claude, Gemini, Llama releases and benchmarks.",
-      "url": "https://llm-stats.com/ai-news",
-      "source": "LLM Stats",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+      "title": "OpenAI GPT-5 Multimodal Breakthrough",
+      "description": "GPT-5 features 2.4 trillion parameters and seamless integration of text, image, video, and audio.",
+      "url": "https://digitalnewsbreak.com/ai/ai-news-ai-breakthrough-latest-news",
+      "source": "Digital News Break",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Salesforce Acquires Fin for $3.6 Billion",
-      "description": "Major AI agent acquisition — Salesforce expands customer service automation with $3.6B deal.",
-      "url": "https://www.channelinsider.com/channel-business/mergers-and-acquisitions/ma-june-2026-recap/",
+      "title": "Together AI Raises $800M",
+      "description": "Valuation doubles as strategic investors back open-source AI workloads with $1.15B annual bookings.",
+      "url": "https://techstartups.com/2026/07/01/venture-capital-startup-funding-roundup-july-1-2026",
+      "source": "Tech Startups",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
+    },
+    {
+      "title": "Anthropic Secures $30B Round",
+      "description": "Amazon and Google lead massive round as hyperscalers compete for AI infrastructure dominance.",
+      "url": "https://qubit.capital/blog/ai-startup-fundraising-trends",
+      "source": "Qubit Capital",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Salesforce Acquires Fin for $3.6B",
+      "description": "CRM giant acquires AI agent company to accelerate customer agent capabilities.",
+      "url": "https://www.channelinsider.com/channel-business/mergers-and-acquisitions/ma-june-2026-recap",
       "source": "Channel Insider",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
-    },
-    {
-      "title": "MGX Closes $49 Billion AI Investment Fund",
-      "description": "Abu Dhabi-backed MGX surpasses target with record $49B AI-focused fund from global investors.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "Shield AI Raises $1.5B for Autonomous Systems",
-      "description": "Defense AI leader secures $1.5B to advance X-BAT drone and Aechelon acquisition.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Apple Releases Foundation Models Framework",
-      "description": "WWDC26 brings new AI dev frameworks, Liquid Glass design, and Apple Intelligence enhancements.",
-      "url": "https://developer.apple.com/news/",
-      "source": "Apple Developer",
-      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
+      "title": "LangChain and LangGraph Reach v1.0",
+      "description": "Major stability milestone for AI agent orchestration frameworks with no breaking changes until v2.0.",
+      "url": "https://programming-helper.com/tech/langchain-2026-ai-agents-python-framework-production",
+      "source": "Programming Helper",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Temporal Cloud 2.0 Workflow Orchestration",
-      "description": "Major 2.0 release adds signals, time-travel debugger and event-driven architecture support.",
-      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
-      "source": "DEV Community",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "PyTorch Maintains Research Dominance",
+      "description": "Framework sees 24% YoY download growth; remains top choice for novel neural architectures and LLMs.",
+      "url": "https://www.anaconda.com/guides/ai-development-tools",
+      "source": "Anaconda",
+      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
     },
     {
-      "title": "Pkl Configuration Language Gains Traction",
-      "description": "Apple's Pkl sees broad adoption in infrastructure and DevOps teams for safe config management.",
-      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
-      "source": "DEV Community",
-      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
+      "title": "LiteParse Powers Local AI Agents",
+      "description": "Open-source document parsing tool hits 9.2k GitHub stars, enabling fast local processing for agents.",
+      "url": "https://programming-helper.com/tech/langchain-2026-ai-agents-python-framework-production",
+      "source": "Programming Helper",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "UN Hosts Global AI Governance Dialogue",
-      "description": "July 2026 Geneva summit addresses catastrophic risk warnings and international AI regulation frameworks.",
+      "title": "US House Drafts Bill to Block State AI Rules",
+      "description": "Bipartisan legislation aims to prohibit states from regulating AI model development.",
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "source": "Reuters",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    },
+    {
+      "title": "White House Issues AI Innovation Order",
+      "description": "Executive order promotes advanced AI innovation and security while slashing bureaucratic constraints.",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "source": "White House",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+    },
+    {
+      "title": "UN Launches Global AI Governance Dialogue",
+      "description": "Geneva summit addresses catastrophic harm risks as AI surpasses human capabilities in many domains.",
       "url": "https://news.un.org/en/story/2026/07/1167862",
       "source": "UN News",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    },
-    {
-      "title": "US Issues National Security AI Executive Order",
-      "description": "June 2026 EO mandates frontier model sharing and new AI-cybersecurity clearinghouse for national security.",
-      "url": "https://www.mcdermottlaw.com/insights/new-executive-order-shifts-us-ai-policy-toward-national-security/",
-      "source": "McDermott Will & Emery",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    },
-    {
-      "title": "EU AI Act Enforcement Tightens on Startups",
-      "description": "High-risk classification, documentation and human oversight now mandatory for EU-market AI products.",
-      "url": "https://blog.mean.ceo/ai-regulation-news-july-2026/",
-      "source": "Mean CEO",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face LeRobot Adds NVIDIA Isaac GR00T",
-      "description": "Open robotics community gains NVIDIA VLA models and Cosmos 3 physical AI integration via LeRobot.",
-      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
-      "source": "NVIDIA Blog",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
-    },
-    {
-      "title": "Transformers v5.13.0 Ships Major Updates",
-      "description": "Hugging Face releases v5.13.0 with expanded model support, export tools and quantization fixes.",
-      "url": "https://releasebot.io/updates/huggingface",
-      "source": "Releasebot",
+      "title": "OpenAI Releases GPT-OSS Models on HF",
+      "description": "gpt-oss-120b and gpt-oss-20b open-weight models launched for reasoning and agentic tasks.",
+      "url": "https://huggingface.co/openai",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Llama 4 Scout & Kimi K2.6 Top Open LLMs",
-      "description": "Meta Llama 4 Scout and Moonshot Kimi K2.6 lead 2026 open-source benchmarks for long-context and agents.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "IBM Launches Granite 4.0 Nano",
+      "description": "Smallest AI models yet released under Apache 2.0 for edge devices and low-latency applications.",
+      "url": "https://itsfoss.com/news/ibm-granite-4-nano",
+      "source": "It's FOSS",
+      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
+    },
+    {
+      "title": "ByteDance Seed Open-Sources PAR Model",
+      "description": "New PAR model released on Hugging Face under Apache-2.0 with US region lock.",
+      "url": "https://zglg.work/en/ai/news/2026-07-03-bytedance-seed-open-sources-new-par-model-on-hugging-face",
+      "source": "ZGLG Work",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ]
 }
