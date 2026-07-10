@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Anthropic Launches Claude Sonnet 5",
-      "description": "Claude Sonnet 5 becomes default model with near-Opus performance, scoring 63.2% on agentic coding benchmarks.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
+      "title": "OpenAI GPT-5.5 Released",
+      "description": "Flagship update aimed at agentic coding and knowledge work with API access.",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "source": "OpenAI",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "PP-VAE Breakthrough in Cardiology AI",
-      "description": "University of Kansas researchers develop privacy-preserving AI for ECG analysis protecting patient biometric data.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&q=60"
+      "title": "Anthropic Claude Opus 4.8",
+      "description": "Successor to Opus 4.7 with user-controllable effort dial and dynamic workflows.",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "source": "Anthropic",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Photonic AI Platform for Medical Diagnosis",
-      "description": "Shenzhen University unveils all-fiber photonic AI using black phosphorus modulators for advanced diagnostics.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=600&q=60"
+      "title": "LLM Research Papers 2026",
+      "description": "Major papers on architecture, Mamba-3, Nemotron 3 Super and attention residuals.",
+      "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+      "source": "Sebastian Raschka",
+      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "MGX Raises $49 Billion AI Fund",
-      "description": "Abu Dhabi-based MGX secures record $49B for AI investments from global institutions.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "OpenAI Secures $122B Round",
-      "description": "OpenAI valued at levels exceeding most countries with $122B funding, prepping for near-$1T IPO.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
+      "title": "Even Realities Raises $150M",
+      "description": "Pre-Series B for AI smart glasses led by Tencent and Meituan at $1B valuation.",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today",
+      "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "Shield AI Raises $1.5B",
-      "description": "Defense AI firm Shield AI lands $1.5B to advance autonomous systems and X-BAT drone.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
+      "title": "Quantum Systems $1.2B Series D",
+      "description": "Defense and autonomous systems funding led by Blackstone and Airbus.",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=600&q=60"
+    },
+    {
+      "title": "Together AI Secures $800M",
+      "description": "Series C for AI cloud infrastructure reaching $8.3B valuation.",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Temporal Cloud 2.0 Released",
-      "description": "Major workflow orchestration update with signals, updates, and time-travel debugging for reliable apps.",
-      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
-      "source": "DEV Community",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "PyTorch 2.15 Major Update",
+      "description": "Native JAX integration improving training speed for deep learning models by 30%.",
+      "url": "https://docs.pytorch.org/docs/2.12/index.html",
+      "source": "PyTorch",
+      "image_url": "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=600&q=60"
     },
     {
-      "title": "Google Play Services July 2026 Update",
-      "description": "New developer tools, Wear OS work profiles, and enhanced Maps integration in Play Services 26.26.",
-      "url": "https://www.techrepublic.com/article/news-google-play-services-july-update-wear-os-work-profiles/",
-      "source": "TechRepublic",
-      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=60"
+      "title": "JAX Gains Traction",
+      "description": "High-performance numerical computing favored by Google research teams.",
+      "url": "https://docs.jax.dev/en/latest/",
+      "source": "Google",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Pkl Configuration Language Gains Traction",
-      "description": "Apple's Pkl sees widespread adoption in infrastructure and DevOps for safe, expressive configs.",
-      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
-      "source": "DEV Community",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Anaconda Acquires Outerbounds",
+      "description": "Unified AI/ML platform with Metaflow orchestration framework.",
+      "url": "https://www.anaconda.com/press/anaconda-acquires-outerbounds",
+      "source": "Anaconda",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "EU AI Act Nears Full Enforcement",
-      "description": "Comprehensive AI regulation becomes fully applicable August 2026 with high-risk system rules.",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "source": "European Commission",
+      "title": "Trump Administration AI Policy",
+      "description": "Deregulatory stance with executive orders blocking state AI laws.",
+      "url": "https://www.politico.com/news/2026/06/27/tech-trump-ai-silicon-valley-00978862",
+      "source": "POLITICO",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "UN Hosts Global AI Governance Dialogue",
-      "description": "Geneva summit addresses catastrophic harm risks as AI outpaces regulatory frameworks worldwide.",
-      "url": "https://news.un.org/en/story/2026/07/1167862",
-      "source": "UN News",
-      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
+      "title": "California AI Regulation Push",
+      "description": "Big Tech lobbying to water down state AI safety and disclosure laws.",
+      "url": "https://www.itpro.com/business/policy-and-legislation/big-tech-flexing-its-muscles-to-try-and-water-down-californias-ai-regulation-heres-why-thats-a-problem",
+      "source": "ITPro",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     },
     {
-      "title": "New York Mandates AI Ad Disclosures",
-      "description": "First state law requires clear labels on ads using AI-generated synthetic performers.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=600&q=60"
+      "title": "EU AI Act Enforcement Delayed",
+      "description": "European Commission proposes 16-month delay to simplify rules.",
+      "url": "https://www.itpro.com/business/policy-and-legislation/big-tech-looks-set-to-swerve-ai-regulations-at-least-for-now",
+      "source": "ITPro",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "NVIDIA Joins LeRobot on Hugging Face",
-      "description": "Isaac GR00T 1.7 VLA model and Teleop framework added to open robotics library with 15M+ dataset downloads.",
-      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
-      "source": "NVIDIA Blog",
+      "title": "Qwen3 235B-A22B Released",
+      "description": "Apache 2.0 licensed MoE model with strong multilingual and enterprise support.",
+      "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    },
+    {
+      "title": "Llama 4 Scout Launched",
+      "description": "10M token context window with native multimodal input on Hugging Face.",
+      "url": "https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E",
+      "source": "Meta",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "Llama 4 Scout Released",
-      "description": "Meta's long-context open model with 10M token window and native multimodal capabilities.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "title": "Hugging Face Hits 500k Models",
+      "description": "40% year-over-year growth in open-source AI models hosted on platform.",
+      "url": "https://huggingface.co/",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "Phi-4 Reasoning Model Debuts",
-      "description": "Microsoft's 14B MIT-licensed model excels at math, science, and coding for local deployment.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1515878918825-757209df9c0e?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ]
 }
