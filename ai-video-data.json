@@ -1,140 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "Curious Refuge AI Film School Expands Globally",
-      "description": "AI film school now teaches in 11 languages to students in 170 countries, focusing on AI-assisted narrative and documentary filmmaking.",
+      "title": "Curious Refuge AI Film Academy Trains Hollywood",
+      "description": "Academy becomes training ground for moviemakers adapting to AI production reshaping careers.",
       "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
       "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
       "title": "invideo Agent One: AI That Went to Film School",
-      "description": "Project-level memory and agentic multi-scene editing for full productions from plain-language briefs.",
+      "description": "First AI agent built for full production workflows, handling scripting to final cut.",
       "url": "https://invideo.io/blog/best-ai-filmmaking-tools/",
       "source": "invideo",
       "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     },
     {
-      "title": "Google Veo 3.1 with Native Audio",
-      "description": "Generates dialogue and sound effects in one pass; stable API for enterprise cinematic workflows.",
-      "url": "https://www.synthesia.io/post/best-ai-video-generators",
-      "source": "Synthesia",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "title": "Seedance 2.0 & Happy Horse Lead 2026 Filmmaking Tools",
+      "description": "Native audio-visual sync and director-level control emerge as top priorities for cinematic AI.",
+      "url": "https://storyflow.so/blog/best-ai-tools-for-filmmakers-2026",
+      "source": "Storyflow",
+      "image_url": "https://images.unsplash.com/photo-1518676590629-5dc379e22ca5?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Netflix Launches Vertical Video Feed + AI",
-      "description": "TikTok-style feed rolling out; AI for recommendations, content creation, and $3B ad revenue target.",
-      "url": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
-      "source": "TechCrunch",
+      "title": "Google Invests $75M in A24 for AI Filmmaking Tools",
+      "description": "Partnership gives A24 DeepMind access while building new AI-powered production workflows.",
+      "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
+      "source": "Variety",
+      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
+    },
+    {
+      "title": "Amazon MGM Launches GenAI Creators' Fund",
+      "description": "Greenlights three AI series for Prime Video with purpose-built AI production platform.",
+      "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
+      "source": "Variety",
       "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     },
     {
-      "title": "Gutenberg AI Motion Studio Targets CTV",
-      "description": "Reduces production from 6 weeks to 1; generates 10+ platform formats from single narrative for $38B market.",
-      "url": "https://www.medianews4u.com/gutenberg-unveils-ai-motion-studio-eyes-38-billion-global-connected-tv-opportunity/",
-      "source": "MediaNews4U",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a9a5ab9?w=600&q=60"
-    },
-    {
-      "title": "Google Vids Major AI Upgrade",
-      "description": "AI avatar controls, custom music, direct YouTube publishing; up to 1,000 videos/month on Ultra plan.",
-      "url": "https://www.techrepublic.com/article/news-google-vids-ai-avatars-update/",
-      "source": "TechRepublic",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "2026 AI Video Workflow: Brief-First, Model-Aware",
+      "description": "Solo creators now deliver localized multi-platform content in hours instead of weeks.",
+      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
+      "source": "Vivideo",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99c9b1c1c?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Runway Gen-4.5 for Filmmaking",
-      "description": "Industry-leading text-to-video with camera choreography understanding and image+text input support.",
-      "url": "https://zapier.com/blog/best-ai-video-generator",
-      "source": "Zapier",
-      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=600&q=60"
-    },
-    {
-      "title": "Adobe Firefly + Kling 3.0 Integration",
-      "description": "New AI capabilities in Premiere, After Effects, and Firefly Video Editor with Kling 3.0 models.",
-      "url": "https://www.jonpeddie.com/news/adobe-releases-new-ai-driven-capabilities-for-video-users/",
-      "source": "Jon Peddie Research",
+      "title": "Seedance 2.0 Tops 2026 AI Video Generators",
+      "description": "Commercial leader for audio-visual joint generation with unmatched prompt adherence.",
+      "url": "https://higgsfield.ai/blog/best-ai-video-generators-2026",
+      "source": "Higgsfield",
       "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     },
     {
-      "title": "Grok Imagine API Enters Video",
-      "description": "64.1% win rate vs Runway in editing tests; realistic motion, object edits, style transfer support.",
-      "url": "https://scouts.yutori.com/99c4fe5d-26f7-4bd5-9d78-0a4c3bce1b77",
-      "source": "Yutori",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "Veo 3.1 & Kling 3.0 Deliver Native Realism",
+      "description": "Google and Kling models lead in physics, lighting, and cinematic quality benchmarks.",
+      "url": "https://resource.digen.ai/ai-video-creator-tools-2026/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=600&q=60"
+    },
+    {
+      "title": "QuickCut & Avatar Engine 3.0 Ship Major Updates",
+      "description": "Real-time collaborative editing and emotion-adjustable avatars reduce production time 60%.",
+      "url": "https://resource.digen.ai/how-to-speed-up-video-editing-with-ai-2026/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1574717024453-4e1f3f3f3f3f?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Netflix Vertical Short-Form Strategy",
-      "description": "TikTok-like feed for discovery of podcasts and shows; AI-powered personalization at scale.",
-      "url": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3037c7bb?w=600&q=60"
+      "title": "Vertical AI Models for Medical & Legal Training",
+      "description": "Specialized models for healthcare education and courtroom reenactments gain traction.",
+      "url": "https://resource.digen.ai/future-of-ai-video-generation-2026/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"
     },
     {
-      "title": "AI YouTube Faceless How-To Channels",
-      "description": "Passive income niche using AI voiceovers and generated footage for finance, self-improvement content.",
-      "url": "https://gen.pro/blog/youtube-ai-video",
-      "source": "GEN.pro",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "Agentic AI Video for Corporate Localization",
+      "description": "One-pass dubbing and reformatting enables afternoon delivery across six platforms.",
+      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
+      "source": "Vivideo",
+      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
     },
     {
-      "title": "Real Estate Virtual Staging with AI Video",
-      "description": "Spatial mapping and inpainting to sell properties faster via dynamic AI-generated staging.",
-      "url": "https://www.atlascloud.ai/blog/case-studies/6-innovative-use-cases-for-ai-video-apis-you-havent-thought-of-yet",
-      "source": "Atlas Cloud",
+      "title": "Talking Photo AI for Real Estate & Marketing",
+      "description": "Digital doubles and custom b-roll generation transform vertical marketing workflows.",
+      "url": "https://resource.digen.ai/future-of-ai-video-generation-2026/",
+      "source": "Digen",
       "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "InVideo Promo Codes July 2026",
-      "description": "25-50% off subscription plans verified for July; easy checkout discounts on AI video production.",
+      "title": "InVideo 25-50% Off July 2026 Promo Codes",
+      "description": "Verified discounts on subscription plans for creators and teams.",
       "url": "https://www.usatoday.com/deals/invideo",
       "source": "USA Today",
       "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "Lifetime AI Video Studios at $80-90",
-      "description": "Centralized platforms with voice + video; flat one-time fees including Emotion AI and 1080p-4K support.",
+      "title": "Lifetime AI Video Studios at $80-$90 Flat Fee",
+      "description": "One-time purchase bundles voice, image, and video with future updates included.",
       "url": "https://resource.digen.ai/text-to-video-ai-software-lifetime-deals-2026/",
       "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "Viddo AI Premium Low Per-Video Pricing",
-      "description": "Veo 3.1 Lite at $0.0575/video; Seedance 2.0 at $0.345/video with priority access to multiple models.",
-      "url": "https://viddo.ai/",
-      "source": "Viddo AI",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Education Discounts Up to 40% on FlexClip & Tools",
+      "description": "Ongoing creator and student promos across major AI video platforms.",
+      "url": "https://www.bretech.net/category/ai-video/",
+      "source": "BreTech",
+      "image_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Guns N' Roses 'The General' AI Music Video",
-      "description": "Creative Works London blends Stable Diffusion AI with live band footage for dreamlike magenta cityscapes.",
-      "url": "https://www.prnewswire.com/news-releases/creative-works-london-showcases-ai-prowess-with-guns-n-roses-latest-music-video-the-general-302052099.html",
-      "source": "PR Newswire",
-      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d1795bf?w=600&q=60"
+      "title": "Dataland AI Art Museum Opens in Los Angeles",
+      "description": "Refik Anadol's ethical AI museum features generative installations and large-scale projections.",
+      "url": "https://www.npr.org/2026/04/25/nx-s1-5799511/dataland-refik-anadol-los-angeles-ai-art-museum",
+      "source": "NPR",
+      "image_url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=600&q=60"
     },
     {
-      "title": "Civitai AI Video Gallery Showcase",
-      "description": "Community-driven gallery of AI-generated art videos with advanced models and community reactions.",
-      "url": "https://civitai.com/videos",
-      "source": "Civitai",
-      "image_url": "https://images.unsplash.com/photo-1547153767-19596b0b4f0e?w=600&q=60"
+      "title": "AIArt26 Conference Showcases Human-AI Creations",
+      "description": "Las Vegas event draws 20k+ for AI art, music, gaming, and immersive video experiences.",
+      "url": "https://aiart26.tech/",
+      "source": "AIArt26",
+      "image_url": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=60"
     },
     {
-      "title": "Superside AI Video Campaign Examples 2026",
-      "description": "Forter, Johnson Controls, Synthego campaigns: puppet animation, brand-aligned AI storytelling in days.",
-      "url": "https://www.superside.com/blog/ai-video-examples",
-      "source": "Superside",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a9a5ab9?w=600&q=60"
+      "title": "Echoes of the Abyss: Full AI Crime Drama Series",
+      "description": "Complete television show generated end-to-end with AI, now streaming with millions of views.",
+      "url": "https://thinglabs.io/best-ai-generated-videos",
+      "source": "thinglabs",
+      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
     }
   ]
 }
