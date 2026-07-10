@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "OpenAI GPT-5.5 Released",
-      "description": "Flagship update aimed at agentic coding and knowledge work with API access.",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "source": "OpenAI",
+      "title": "Anthropic Launches Claude Sonnet 5",
+      "description": "New default model scores 63.2% on agentic coding benchmarks, approaching Opus 4.8 performance at lower cost.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "Anthropic Claude Opus 4.8",
-      "description": "Successor to Opus 4.7 with user-controllable effort dial and dynamic workflows.",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "source": "Anthropic",
+      "title": "Meta Releases Muse Spark 1.1",
+      "description": "Latest frontier model from Meta, released July 9 2026, joins daily AI model release tracker.",
+      "url": "https://aireleasetracker.com/latest",
+      "source": "AI Release Tracker",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "LLM Research Papers 2026",
-      "description": "Major papers on architecture, Mamba-3, Nemotron 3 Super and attention residuals.",
-      "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
-      "source": "Sebastian Raschka",
-      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
+      "title": "PP-VAE Privacy Breakthrough in Cardiology",
+      "description": "University of Kansas AI model improves ECG analysis while protecting patient biometric data.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Even Realities Raises $150M",
-      "description": "Pre-Series B for AI smart glasses led by Tencent and Meituan at $1B valuation.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+      "title": "OpenAI $122B Round Values Company Near $1T",
+      "description": "900M weekly active users, $20B annualized revenue; IPO targeted for Q4 2026.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Quantum Systems $1.2B Series D",
-      "description": "Defense and autonomous systems funding led by Blackstone and Airbus.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today",
-      "source": "AI Funding Tracker",
+      "title": "Shield AI Raises $1.5B",
+      "description": "Funds X-BAT jet fighter drone and Aechelon acquisition; projects $540M 2026 revenue.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=600&q=60"
     },
     {
-      "title": "Together AI Secures $800M",
-      "description": "Series C for AI cloud infrastructure reaching $8.3B valuation.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "ElevenLabs Hits $11B Valuation",
+      "description": "Voice AI leader preparing for potential 2027–28 IPO amid mainstream adoption.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "PyTorch 2.15 Major Update",
-      "description": "Native JAX integration improving training speed for deep learning models by 30%.",
-      "url": "https://docs.pytorch.org/docs/2.12/index.html",
-      "source": "PyTorch",
-      "image_url": "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=600&q=60"
-    },
-    {
-      "title": "JAX Gains Traction",
-      "description": "High-performance numerical computing favored by Google research teams.",
-      "url": "https://docs.jax.dev/en/latest/",
-      "source": "Google",
+      "title": "Temporal Cloud 2.0 Workflow Orchestration",
+      "description": "Major 2.0 release adds event-driven signals, time-travel debugger; 60% reduction in workflow incidents reported.",
+      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
+      "source": "DEV Community",
       "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Anaconda Acquires Outerbounds",
-      "description": "Unified AI/ML platform with Metaflow orchestration framework.",
-      "url": "https://www.anaconda.com/press/anaconda-acquires-outerbounds",
-      "source": "Anaconda",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "OpenAI GPT-5.6 Sol, Terra, Luna Launch",
+      "description": "New family with ultra multi-agent acceleration, stronger coding and science performance; desktop app released.",
+      "url": "https://releasebot.io/updates/openai",
+      "source": "Releasebot",
+      "image_url": "https://images.unsplash.com/photo-1676299251951-871c2a0a7236a3?w=600&q=60"
+    },
+    {
+      "title": "NVIDIA Isaac GR00T 1.7 & LeRobot Integration",
+      "description": "Open robotics pipeline with GR00T 1.7 VLA model, Isaac Teleop, and Cosmos 3 integration planned.",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "source": "NVIDIA Blog",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Trump Administration AI Policy",
-      "description": "Deregulatory stance with executive orders blocking state AI laws.",
-      "url": "https://www.politico.com/news/2026/06/27/tech-trump-ai-silicon-valley-00978862",
-      "source": "POLITICO",
+      "title": "EU Action Plan on Cybersecurity and AI",
+      "description": "July 7 2026 release coordinates Member State responses to AI-driven cyber threats and resilience.",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "source": "European Commission",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "California AI Regulation Push",
-      "description": "Big Tech lobbying to water down state AI safety and disclosure laws.",
-      "url": "https://www.itpro.com/business/policy-and-legislation/big-tech-flexing-its-muscles-to-try-and-water-down-californias-ai-regulation-heres-why-thats-a-problem",
-      "source": "ITPro",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
+      "title": "UN Global Dialogue on AI Governance",
+      "description": "Geneva summit July 6-7 discusses catastrophic harm risks and international regulatory frameworks.",
+      "url": "https://news.un.org/en/story/2026/07/1167862",
+      "source": "UN News",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "EU AI Act Enforcement Delayed",
-      "description": "European Commission proposes 16-month delay to simplify rules.",
-      "url": "https://www.itpro.com/business/policy-and-legislation/big-tech-looks-set-to-swerve-ai-regulations-at-least-for-now",
-      "source": "ITPro",
-      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
+      "title": "US Frontier-Model Executive Order",
+      "description": "June 2026 order creates voluntary 30-day government review for covered frontier models focused on cybersecurity.",
+      "url": "https://pixflow.net/blog/ai-frontier-model-regulation-shakeup/",
+      "source": "Pixflow",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Qwen3 235B-A22B Released",
-      "description": "Apache 2.0 licensed MoE model with strong multilingual and enterprise support.",
-      "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
-    },
-    {
-      "title": "Llama 4 Scout Launched",
-      "description": "10M token context window with native multimodal input on Hugging Face.",
-      "url": "https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E",
-      "source": "Meta",
+      "title": "LeRobot v0.6.0 with NVIDIA GR00T 1.7",
+      "description": "Major robotics release adds Isaac GR00T 1.7, Isaac Teleop, 350k+ trajectories dataset on Hugging Face.",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "source": "NVIDIA / Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "Hugging Face Hits 500k Models",
-      "description": "40% year-over-year growth in open-source AI models hosted on platform.",
-      "url": "https://huggingface.co/",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Transformers v5.13.0 Adds 8 New Architectures",
+      "description": "Kimi K2.5-2.7, Xiaomi MiMo-V2-Flash, NVIDIA Nemotron 3.5 ASR and more released on Hugging Face.",
+      "url": "https://releases.sh/hugging-face/releases",
+      "source": "Hugging Face Releases",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "Llama 4 Scout 17B-16E Open Weights",
+      "description": "Meta’s long-context open model with 10M token window and native multimodal input now on Hugging Face.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "Hugging Face Blog",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     }
   ]
 }
