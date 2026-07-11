@@ -1,117 +1,26 @@
 {
   "ai": [
-    {
-      "title": "Anthropic Launches Claude Sonnet 5",
-      "description": "New default model scores 63.2% on agentic coding benchmarks, approaching Opus 4.8 performance at lower cost.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "Meta Releases Muse Spark 1.1",
-      "description": "Latest frontier model from Meta, released July 9 2026, joins daily AI model release tracker.",
-      "url": "https://aireleasetracker.com/latest",
-      "source": "AI Release Tracker",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "PP-VAE Privacy Breakthrough in Cardiology",
-      "description": "University of Kansas AI model improves ECG analysis while protecting patient biometric data.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=60"
-    }
+    {"title": "China's Z.ai GLM-5.2 Enters AI Race", "description": "GLM-5.2 demonstrates competitive capabilities comparable to leading frontier models from Anthropic and OpenAI.", "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"},
+    {"title": "Anthropic Launches Claude Sonnet 5", "description": "New default model scores 63.2% on agentic coding benchmarks, approaching Opus performance at lower cost.", "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
+    {"title": "Native Video Understanding Models Emerge", "description": "2026 models understand video frame-by-frame with full context retention for action tracking and reasoning.", "url": "https://fueler.io/blog/key-ai-research-breakthroughs-from-so-far", "source": "Fueler", "image_url": "https://images.unsplash.com/photo-1531746790731-6c087671e931?w=600&q=60"}
   ],
   "funding": [
-    {
-      "title": "OpenAI $122B Round Values Company Near $1T",
-      "description": "900M weekly active users, $20B annualized revenue; IPO targeted for Q4 2026.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "Shield AI Raises $1.5B",
-      "description": "Funds X-BAT jet fighter drone and Aechelon acquisition; projects $540M 2026 revenue.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=600&q=60"
-    },
-    {
-      "title": "ElevenLabs Hits $11B Valuation",
-      "description": "Voice AI leader preparing for potential 2027–28 IPO amid mainstream adoption.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
-    }
+    {"title": "OpenAI Secures $122B Round", "description": "Valued higher than most countries with 900M weekly users and $20B annualized revenue; IPO prep for near-$1T target.", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"},
+    {"title": "Shield AI Raises $1.5B", "description": "Funds X-BAT jet fighter drone and Aechelon acquisition; projects $540M revenue in 2026.", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1564769625688-6f2d85aac352?w=600&q=60"},
+    {"title": "ElevenLabs Hits $11B Valuation", "description": "Voice AI leader drives mainstream adoption; IPO targeted for 2027-28.", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"}
   ],
   "tools": [
-    {
-      "title": "Temporal Cloud 2.0 Workflow Orchestration",
-      "description": "Major 2.0 release adds event-driven signals, time-travel debugger; 60% reduction in workflow incidents reported.",
-      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
-      "source": "DEV Community",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    },
-    {
-      "title": "OpenAI GPT-5.6 Sol, Terra, Luna Launch",
-      "description": "New family with ultra multi-agent acceleration, stronger coding and science performance; desktop app released.",
-      "url": "https://releasebot.io/updates/openai",
-      "source": "Releasebot",
-      "image_url": "https://images.unsplash.com/photo-1676299251951-871c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "NVIDIA Isaac GR00T 1.7 & LeRobot Integration",
-      "description": "Open robotics pipeline with GR00T 1.7 VLA model, Isaac Teleop, and Cosmos 3 integration planned.",
-      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
-      "source": "NVIDIA Blog",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
-    }
+    {"title": "Apple Expands Foundation Models Framework", "description": "WWDC 2026 adds image input, third-party model support (Claude/Gemini), Dynamic Profiles for agents, open source release.", "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates/", "source": "MacRumors", "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"},
+    {"title": "PyTorch & Keras Lead 2026 AI Frameworks", "description": "PyTorch for research flexibility; Keras 3.0 multi-backend; LangChain for LLM agent orchestration.", "url": "https://blog.jetbrains.com/pycharm/2026/06/best-python-ai-frameworks-in-2026/", "source": "JetBrains", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
+    {"title": "MLX Scales Training Across Macs", "description": "Apple's open-source ML framework adds Metal 4 and RDMA over Thunderbolt support.", "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates/", "source": "MacRumors", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"}
   ],
   "industry": [
-    {
-      "title": "EU Action Plan on Cybersecurity and AI",
-      "description": "July 7 2026 release coordinates Member State responses to AI-driven cyber threats and resilience.",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "source": "European Commission",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    },
-    {
-      "title": "UN Global Dialogue on AI Governance",
-      "description": "Geneva summit July 6-7 discusses catastrophic harm risks and international regulatory frameworks.",
-      "url": "https://news.un.org/en/story/2026/07/1167862",
-      "source": "UN News",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    },
-    {
-      "title": "US Frontier-Model Executive Order",
-      "description": "June 2026 order creates voluntary 30-day government review for covered frontier models focused on cybersecurity.",
-      "url": "https://pixflow.net/blog/ai-frontier-model-regulation-shakeup/",
-      "source": "Pixflow",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
-    }
+    {"title": "US House Drafts Bill to Block State AI Rules", "description": "New legislation aims to centralize AI regulation at federal level; draws industry praise and civil society concerns.", "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/", "source": "Reuters", "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"},
+    {"title": "FDA Issues AI Medical Device Guidance", "description": "Reduces oversight for certain AI-enabled health technologies in 2026.", "url": "https://www.wsgrdataadvisor.com/2026/01/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for/", "source": "WSGR Data Advisor", "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"}
   ],
   "oss": [
-    {
-      "title": "LeRobot v0.6.0 with NVIDIA GR00T 1.7",
-      "description": "Major robotics release adds Isaac GR00T 1.7, Isaac Teleop, 350k+ trajectories dataset on Hugging Face.",
-      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
-      "source": "NVIDIA / Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
-    },
-    {
-      "title": "Transformers v5.13.0 Adds 8 New Architectures",
-      "description": "Kimi K2.5-2.7, Xiaomi MiMo-V2-Flash, NVIDIA Nemotron 3.5 ASR and more released on Hugging Face.",
-      "url": "https://releases.sh/hugging-face/releases",
-      "source": "Hugging Face Releases",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
-    },
-    {
-      "title": "Llama 4 Scout 17B-16E Open Weights",
-      "description": "Meta’s long-context open model with 10M token window and native multimodal input now on Hugging Face.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face Blog",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    }
+    {"title": "Hugging Face Ecosystem Doubles in 2025", "description": "13M users, 2M+ models, 500k datasets; China surges with DeepSeek R1 open releases.", "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"},
+    {"title": "Kimi K2.5 Open Multimodal Agent Released", "description": "Native multimodal agentic model advances long-horizon coding and swarm task orchestration on HF.", "url": "https://releasebot.io/updates/huggingface", "source": "Releasebot", "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"},
+    {"title": "DeepSeek-V3.2 & Gemma-4 Trend on HF", "description": "DeepSeek Sparse Attention and Unsloth Gemma-4-E4B multimodal models top trending charts.", "url": "https://huggingface.co/models", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&q=60"}
   ]
 }
