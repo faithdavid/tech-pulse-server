@@ -1,29 +1,29 @@
 {
   "ai": [
     {
-      "title": "China's Z.ai GLM-5.2 Challenges US Frontier Models",
-      "description": "GLM-5.2 demonstrates competitive capabilities to Anthropic and OpenAI models at lower cost, signaling China's accelerating AI progress.",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
+      "title": "Microsoft Unveils MAI-Code-1-Flash",
+      "description": "New coding model reduces reliance on OpenAI, lowers developer costs at Build conference.",
+      "url": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+      "source": "CNBC",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "Anthropic Launches Claude Sonnet 5 as Default",
-      "description": "New agentic Sonnet model scores 63.2% on coding benchmarks, approaching Opus performance at lower cost for Free and Pro users.",
+      "title": "China's Z.ai GLM-5.2 Challenges Frontier Labs",
+      "description": "New model enters competitive race against Anthropic and OpenAI with strong performance.",
       "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Meta Releases Muse Spark 1.1 Model",
-      "description": "Latest frontier model from Meta on July 9, 2026, tracked among top releases from major labs.",
-      "url": "https://aireleasetracker.com/latest",
-      "source": "AI Release Tracker",
+      "title": "Anthropic Launches Claude Sonnet 5",
+      "description": "Agentic default model scores 63.2% on coding benchmarks, near Opus performance at lower cost.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
       "title": "PP-VAE Breakthrough in Private Cardiology AI",
-      "description": "University of Kansas model improves ECG analysis while protecting patient privacy by reducing biometric data exposure.",
+      "description": "University of Kansas model improves ECG analysis while protecting patient biometric data.",
       "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"
@@ -31,108 +31,108 @@
   ],
   "funding": [
     {
-      "title": "OpenAI Raises $122B, Valued Over Most Countries",
-      "description": "900M weekly users, $20B ARR; preparing IPO targeting near-$1T valuation in Q4 2026.",
+      "title": "Alan Raises €480 Million for AI Healthcare",
+      "description": "Prevention insurance leader expands internationally with AI-powered health assistance.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
       "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "Shield AI Secures $1.5B for Autonomous Skies",
-      "description": "Funds acquisition of Aechelon and X-BAT drone development; projects $540M+ 2026 revenue (80% YoY).",
+      "title": "OpenAI Secures $122B Round, Eyes $1T IPO",
+      "description": "Valued higher than most countries with 900M weekly users and $20B annualized revenue.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
       "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1436491865332-7a61f9900f7d?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Shield AI Raises $1.5B for Autonomous Drones",
+      "description": "Funds X-BAT jet fighter drone and Aechelon acquisition; projects $540M 2026 revenue.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1436491865332-7a61f927d7fc?w=600&q=60"
     },
     {
       "title": "ElevenLabs Hits $11B Valuation",
-      "description": "Voice AI leader drives mainstream adoption; building toward 2027-28 IPO.",
+      "description": "Voice AI leader drives mainstream adoption; IPO targeted for 2027-28.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
       "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
-    },
-    {
-      "title": "Salesforce Acquires Fin for $3.6B",
-      "description": "CRM giant buys AI agent company to strengthen customer agent capabilities.",
-      "url": "https://www.channelinsider.com/channel-business/mergers-and-acquisitions/ma-june-2026-recap/",
-      "source": "Channel Insider",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Microsoft Releases .NET 10 and Visual Studio 2026",
-      "description": "New Agent Framework merges Semantic Kernel and AutoGen; faster IDE, post-quantum support, AI-driven modernization.",
-      "url": "https://www.techzine.eu/news/devops/136296/microsoft-releases-net-10-and-visual-studio-2026",
-      "source": "Techzine",
+      "title": "Microsoft Agent Framework 1.0 Released",
+      "description": "Merges Semantic Kernel and AutoGen into production SDK with native MCP + A2A support.",
+      "url": "https://alicelabs.ai/en/insights/best-ai-agent-frameworks-2026",
+      "source": "Alice Labs",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "Apple WWDC 2026: Foundation Models Swap AI Providers",
-      "description": "LanguageModel protocol lets apps switch Gemini/Claude backends without code changes; new Barcode/OCR tools.",
-      "url": "https://www.techtimes.com/articles/318039/20260609/wwdc-2026-developer-tools-foundation-models-now-swaps-ai-providers-without-code-changes.htm",
-      "source": "TechTimes",
-      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
+      "title": "LangGraph 1.0 and CrewAI 1.14 Ship MCP Native",
+      "description": "Major frameworks add first-class MCP tool support and streaming for agent pipelines.",
+      "url": "https://blog.logrocket.com/ai-dev-tool-power-rankings/",
+      "source": "LogRocket",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Xcode 27 Brings AI Agents to Build Cycle",
-      "description": "IDE integrates Claude, Gemini, OpenAI for structural bug-finding and architectural reasoning.",
-      "url": "https://www.techtimes.com/articles/318039/20260609/wwdc-2026-developer-tools-foundation-models-now-swaps-ai-providers-without-code-changes.htm",
-      "source": "TechTimes",
+      "title": "Claude Code and Cursor Dominate 2026 Dev Rankings",
+      "description": "AI coding tools lead multi-file editing, Git integration and browser automation workflows.",
+      "url": "https://blog.logrocket.com/ai-dev-tool-power-rankings/",
+      "source": "LogRocket",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Trump Administration Releases National AI Policy Framework",
-      "description": "Light-touch approach: preemption of state laws, IP protection, worker safeguards; DOJ AI Litigation Task Force formed.",
-      "url": "https://www.globalpolicywatch.com/2026/04/u-s-tech-legislative-regulatory-update-first-quarter-2026",
-      "source": "Global Policy Watch",
+      "title": "Trump Signs Frontier AI Executive Order",
+      "description": "Voluntary 30-day government review for covered models; strengthens cyber enforcement.",
+      "url": "https://pixflow.net/blog/ai-frontier-model-regulation-shakeup/",
+      "source": "Pixflow",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "EU Delays High-Risk AI Rules to Dec 2027",
-      "description": "European Commission extends applicability date amid industry feedback on AI Act implementation.",
-      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
-      "source": "Wilson Sonsini",
-      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
+      "title": "NVIDIA Tightens H200 China Sales Terms",
+      "description": "Requires full upfront payment amid regulatory uncertainty for AI chips.",
+      "url": "https://theaiinsider.tech/2026/01/09/ai-insiders-week-in-review-big-tech-ai-strategy-regulatory-pressure-fresh-capital/",
+      "source": "The AI Insider",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "India Advances AI Governance and DPDP Rules",
-      "description": "New framework, Competition Commission study on AI, RBI fintech AI rules signal 2026 regulatory push.",
-      "url": "https://www.storyboard18.com/digital/ai-dpdp-and-it-rules-will-drive-new-phase-of-big-tech-regulation-in-india-in-2026-86739.htm",
-      "source": "Storyboard18",
-      "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=60"
+      "title": "Big Tech Pushes Back on AI Regulation",
+      "description": "Industry lobbies against KOSA and state laws while White House framework advances.",
+      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "source": "The Verge",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "DeepSeek and Qwen Lead Hugging Face Momentum",
-      "description": "Chinese open-source models dominate downloads; Western labs push GPT-OSS, OLMo 3.1, Gemma 4 as alternatives.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "title": "Kimi K2.5, K2.6, K2.7 Added to Transformers",
+      "description": "Native multimodal agentic models for long-horizon coding and swarm orchestration on HF.",
+      "url": "https://github.com/huggingface/transformers/releases",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "Kimi K2.6 Tops Open-Source Coding Benchmarks",
-      "description": "Moonshot AI model excels in long-horizon coding, agentic workflows; strong on Hugging Face.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face Blog",
+      "title": "DeepSeek-V4 MoE Released on Hugging Face",
+      "description": "Next-gen Mixture-of-Experts model with architectural innovations over V3.",
+      "url": "https://github.com/huggingface/transformers/releases",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "Llama 4 Scout: 10M Token Context Open-Weight Model",
-      "description": "Meta's long-context multimodal release leads open-source long-context category.",
-      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
-      "source": "Hugging Face Blog",
-      "image_url": "https://images.unsplash.com/photo-1531746790731-6c087671e931?w=600&q=60"
+      "title": "EXAONE 4.5 Vision-Language Model Lands on HF",
+      "description": "LG AI Research open-weight VLM integrates dedicated visual encoder for multimodal tasks.",
+      "url": "https://github.com/huggingface/transformers/releases",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "DeepSeek-V3.2-Exp Introduces Sparse Attention",
-      "description": "Experimental DSA mechanism for efficient long-context training and inference on Hugging Face.",
-      "url": "https://fazm.ai/t/hugging-face-new-models-june-2026",
-      "source": "Hugging Face Updates",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "State of Open Source on HF: Spring 2026 Report",
+      "description": "Models and datasets near doubling; China and Korea ecosystems surge in activity.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
     }
   ]
 }
