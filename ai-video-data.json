@@ -2,139 +2,139 @@
   "filmschool": [
     {
       "title": "The AI Arms Race Hits Film School",
-      "description": "NYU Tisch, Chapman, and LMU double down on generative AI with Runway deals and new courses.",
+      "description": "NYU Tisch, Chapman, LMU, and CalArts double down on generative AI with Runway deals, AI-heavy curricula, and $2M Sundance Google grant for AI literacy.",
       "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
       "source": "No Film School",
       "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "Curious Refuge AI Film School Expands Globally",
-      "description": "AI-assisted documentary and narrative courses now in 11 languages across 170 countries.",
-      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
-      "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=60"
+      "title": "Best AI Tools for Filmmakers 2026",
+      "description": "Storyflow, Runway, ElevenLabs, Descript, Sora, and Suno ranked for real productions with scores up to 9.4/10.",
+      "url": "https://storyflow.so/blog/best-ai-tools-for-filmmakers-2026",
+      "source": "Storyflow",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76bf?w=600&q=60"
     },
     {
-      "title": "Google.org Gifts Sundance $2M for AI Literacy",
-      "description": "Training 100,000 artists bridging independent film and Silicon Valley tech.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
-      "source": "Google Blog",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a5d3e1c?w=600&q=60"
+      "title": "AI Video School Course Launches",
+      "description": "Udemy course covers Veo 3.1, Kling, Seedance, Runway for beginner-to-pro AI video creation with audio integration.",
+      "url": "https://www.udemy.com/course/ai-video-school/",
+      "source": "Udemy",
+      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Amazon MGM Greenlights Three AI Series for Prime",
-      "description": "New GenAI Creators’ Fund launches purpose-built AI production platform.",
+      "title": "Amazon MGM Greenlights Three AI Series",
+      "description": "Amazon MGM Studios launches GenAI Creators’ Fund and purpose-built AI production platform with AWS for Prime Video series.",
       "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
       "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     },
     {
-      "title": "A24 and Lionsgate Partner with Runway for Generative IP",
-      "description": "Joint program to develop new IP using generative video models starting with short-form series.",
-      "url": "https://www.forbes.com/sites/andymeek/2026/07/06/the-biggest-media-deals-of-q2-2026/",
-      "source": "Forbes",
-      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
+      "title": "Runway Raises $315M",
+      "description": "Runway closes major funding round amid OpenAI Sora API sunset and new EU AI Act enforcement starting August 2026.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "The AI Video Workflow in 2026",
-      "description": "Solo creators now ship multi-platform content in an afternoon using reformatting pipelines.",
-      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
-      "source": "Vivideo",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+      "title": "Synthesia Enterprise AI Video Platform",
+      "description": "Synthesia powers Fortune 100 training and sales videos in 160+ languages with 90% time savings reported by SAP and Moody's.",
+      "url": "https://www.synthesia.io/",
+      "source": "Synthesia",
+      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Adobe Premiere & After Effects v26.2 AI Updates",
-      "description": "New Shape Masks, Firefly Boards integration, Frame.io V4 panel, and Kling 3.0 models.",
-      "url": "https://blog.adobe.com/en/publish/2026/01/20/new-ai-powered-video-editing-tools-premiere-major-motion-design-upgrades-after-effects",
-      "source": "Adobe Blog",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "title": "Adobe Premiere & After Effects v26.2 Update",
+      "description": "Adobe adds Firefly Video Editor, Kling 3.0 integration, Frame.io Drive, and new AI Studio for Stock users.",
+      "url": "https://www.jonpeddie.com/news/adobe-releases-new-ai-driven-capabilities-for-video-users/",
+      "source": "Jon Peddie Research",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Seedance 2 & Gemini Omni Top Cinematic Rankings",
-      "description": "ByteDance Seedance 2 offers 15s clips with film-like camera motion; Gemini Omni excels at multi-shot.",
-      "url": "https://www.synthesia.io/post/best-ai-video-generators",
-      "source": "Synthesia",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "Runway Gen-4 Turbo & Product Mode",
+      "description": "Runway halves render times and adds Product Mode to lock geometry for ecommerce and consistent product visuals.",
+      "url": "https://www.rewarx.com/blogs/tested-every-ai-video-tool-released-june",
+      "source": "Rewarx",
+      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
     },
     {
-      "title": "Higgsfield & Krea Model Aggregators Launch",
-      "description": "Instant access to latest video models with unlimited testing periods and fast updates.",
-      "url": "https://www.synthesia.io/post/best-ai-video-generators",
-      "source": "Synthesia",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Pika 3.0 & HeyGen Avatar 4 Released",
+      "description": "Pika adds scene-extension API; HeyGen introduces Brand Voice cloning from 60-second audio for UGC ads.",
+      "url": "https://www.rewarx.com/blogs/tested-every-ai-video-tool-released-june",
+      "source": "Rewarx",
+      "image_url": "https://images.unsplash.com/photo-1574717024453-35456e0a7c7a?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "AI Vertical Video Generator for Reels & TikTok",
-      "description": "invideo AI creates trending vertical videos with scripts, scenes, voiceovers in 50+ styles.",
-      "url": "https://invideo.io/make/vertical-video/",
-      "source": "invideo",
+      "title": "AI YouTube Niches Explode",
+      "description": "Top 2026 niches: AI tool tutorials, faceless how-to channels, AI animated storytelling, music videos, and historical education.",
+      "url": "https://gen.pro/blog/youtube-ai-video",
+      "source": "GEN.pro",
       "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     },
     {
-      "title": "AI YouTube Niches: Tool Reviews to Faceless How-Tos",
-      "description": "Top niches include AI tool tutorials, animated storytelling, historical education, and music videos.",
-      "url": "https://gen.pro/blog/youtube-ai-video",
-      "source": "GEN.pro",
-      "image_url": "https://images.unsplash.com/photo-1516321497677-de7c1852f2c5?w=600&q=60"
+      "title": "Vertical AI Video Analytics",
+      "description": "Bessemer reports multimodal AI unlocking video analytics, visual inspection, and design tools in freight, AEC, and robotics.",
+      "url": "https://www.bvp.com/atlas/part-ii-multimodal-capabilities-unlock-new-opportunities-in-vertical-ai",
+      "source": "Bessemer Venture Partners",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "Vertical AI in Healthcare & Construction",
-      "description": "Video analytics for polyp detection (94% sensitivity) and 3D design generation in AEC.",
-      "url": "https://www.bvp.com/atlas/part-ii-multimodal-capabilities-unlock-new-opportunities-in-vertical-ai",
-      "source": "Bessemer",
-      "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"
+      "title": "AI GIF & Micro-Video Renaissance",
+      "description": "AI-powered GIF generators hit 20.5% CAGR; e-commerce adopts looping 'living photos' for product displays.",
+      "url": "https://resource.digen.ai/ai-video-generator-market-trends-2026-2/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Lifetime AI Video Studios at $80–$90 Flat Fee",
-      "description": "Centralized platforms bundle voice, image, and video with Emotion AI in one-time payments.",
-      "url": "https://resource.digen.ai/text-to-video-ai-software-lifetime-deals-2026/",
-      "source": "Digen",
+      "title": "InVideo 20% Lifetime Deal",
+      "description": "NachoNacho offers 20% off InVideo AI lifetime plans saving up to $1,897/year with promo code access.",
+      "url": "https://nachonacho.com/product/invideo",
+      "source": "NachoNacho",
       "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "Krater AI 15% Student Discount for 1 Year",
-      "description": "Covers ChatGPT, Claude, Gemini, image/video tools at ~$6.38/mo after discount.",
-      "url": "https://krater.ai/blog/ai-student-discounts-2026",
-      "source": "Krater",
-      "image_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&q=60"
+      "title": "Text-to-Video Lifetime Deals $80–$90",
+      "description": "2026 flat-fee lifetime AI studios with voice + video integration priced $80–$90 according to Entrepreneur and Mashable.",
+      "url": "https://resource.digen.ai/text-to-video-ai-software-lifetime-deals-2026/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "InVideo Promo Codes Up to 50% Off",
-      "description": "Verified July 2026 coupons for AI video creation platform subscriptions.",
-      "url": "https://www.usatoday.com/deals/invideo",
-      "source": "USA Today",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Epidemic Sound & VidNarrate Discounts",
+      "description": "40% off annual Epidemic Sound; VidNarrate offers up to 60% off animation studio and 40% template library.",
+      "url": "https://sociablelabs.com/software/ai-video-editing-software",
+      "source": "SociableLabs",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d2f0d0c?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Adobe Firefly AI Video Examples Showcase Fantasy & Art",
-      "description": "Five cinematic AI-generated videos demonstrating prompts for fantasy, motion, and stylized content.",
+      "title": "Coca-Cola & Nike AI Campaigns",
+      "description": "Coca-Cola 'Create Real Magic' and Nike 'Never Done Evolving' use AI avatars of Serena Williams and personalized celebrity experiences.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1559056199-641a0acdb6f0?w=600&q=60"
+    },
+    {
+      "title": "Popeyes McDonald’s Rap Battle",
+      "description": "AI-generated diss track video for Popeyes wraps goes viral, proving culture-driven marketing speed with wit.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1555396277-1d5d5f0e7e8c?w=600&q=60"
+    },
+    {
+      "title": "Adobe Firefly Video Examples",
+      "description": "New cinematic, animation, fantasy, and avatar video examples released showcasing Firefly model capabilities.",
       "url": "https://www.adobe.com/products/firefly/ai-generated-examples/videos.html",
       "source": "Adobe",
-      "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=60"
-    },
-    {
-      "title": "Creative AI Videos at NeurIPS: Fencing Hallucination & MOSAIC",
-      "description": "Interactive installations merging AI with performance, public discourse portraits, and guitar duets with AI creatures.",
-      "url": "https://neurips.cc/virtual/2023/session/75889",
-      "source": "NeurIPS",
-      "image_url": "https://images.unsplash.com/photo-1514525253161-7a3b7f0f8c6c?w=600&q=60"
-    },
-    {
-      "title": "Michaels Art Frames AI Creative Display",
-      "description": "AI-powered showcases transform traditional art framing into dynamic visual experiences.",
-      "url": "https://reelmind.ai/blog/michaels-art-frames-ai-showcases-creative-display",
-      "source": "ReelMind",
-      "image_url": "https://images.unsplash.com/photo-1547891654-1e49a5f4e3f4?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76bf?w=600&q=60"
     }
   ]
 }
