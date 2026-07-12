@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Vector Researchers Advance Generative AI at ICML 2026",
-      "description": "Vector Institute researchers present breakthroughs in generative AI, responsible AI, and scientific discovery at ICML 2026 in Seoul.",
-      "url": "https://vectorinstitute.ai/vector-researchers-icml-2026-accepted-papers/",
-      "source": "Vector Institute",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "OpenAI Releases GPT-5.2 with Multimodal Breakthroughs",
-      "description": "GPT-5.2 features hybrid architecture, 40% faster processing, and simultaneous video/audio/text handling with 92% reasoning accuracy.",
-      "url": "https://digitalnewsbreak.com/ai/openai-news-updates",
-      "source": "Digital News Break",
+      "title": "Claude Sonnet 5 Released as Default Model",
+      "description": "Anthropic’s most agentic Sonnet yet scores 63.2% on agentic coding benchmarks, approaching Opus performance at lower cost.",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "Claude Sonnet 5 Shifts Focus to Better Economics",
-      "description": "Anthropic's Claude Sonnet 5 delivers stronger coding and tool use at lower cost; AI moves from bigger models to practical economics.",
-      "url": "https://inews.zoombangla.com/ai-breakthroughs-july-2026-claude-sonnet-5/",
-      "source": "iNews",
+      "title": "Gemini 3.1 Pro Tops Reasoning Benchmarks",
+      "description": "Google DeepMind’s latest flagship leads GPQA Diamond and ARC-AGI-2, with Gemini 3.5 Pro expected soon.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "source": "Google DeepMind",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "GPT-5.6 and Muse Spark 1.1 Drop",
+      "description": "OpenAI GPT-5.6 rivals Fable 5; Meta releases Muse Spark 1.1 pursuing personal intelligence.",
+      "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
+      "source": "ZDNet",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Trase Raises $107M for Enterprise AI Agents",
-      "description": "Trase secures $107M seed round led by ARCH Venture Partners to build healthcare and enterprise AI agents.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
-      "source": "AI Funding Tracker",
+      "title": "OpenAI Closes $122B Round at $852B Valuation",
+      "description": "900M weekly users and $20B ARR; IPO targeted for Q4 2026 near $1T valuation.",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "source": "CNBC",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "OpenAI Valued at $122B in Massive Funding Round",
-      "description": "OpenAI raises record round pushing valuation above most countries; preparing for potential $1T IPO in Q4 2026.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Shield AI Raises $1.5B for Autonomous Defense",
+      "description": "Funds X-BAT jet fighter drone and Aechelon acquisition; projects $540M 2026 revenue.",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
     },
     {
-      "title": "Shield AI Raises $1.5B for Autonomous Defense Systems",
-      "description": "Shield AI secures $1.5B to advance X-BAT jet fighter drone and acquire Aechelon Technology.",
+      "title": "ElevenLabs Hits $11B Valuation",
+      "description": "Voice AI leader eyes 2027-28 IPO amid mainstream adoption in non-English markets.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
       "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Temporal Cloud 2.0 Transforms Workflow Orchestration",
-      "description": "Temporal 2.0 adds signals, updates, and time-travel debugging, cutting production incidents by 60% for developers.",
-      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
-      "source": "DEV Community",
+      "title": "React 19 & ShadCN + Tailwind v4 Dominate",
+      "description": "React Compiler + Server Components now standard; ShadCN CLI rewrite and Tailwind v4 deliver 5x faster rebuilds.",
+      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
+      "source": "Medium",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Pkl Configuration Language Gains DevOps Traction",
-      "description": "Apple's Pkl language sees major adoption in infrastructure teams for safe, expressive configuration management.",
-      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
-      "source": "DEV Community",
+      "title": "FastAPI + Pydantic Become LLM Default Stack",
+      "description": "Pydantic v2 + FastAPI + OpenAPI 3.1 now standard for agent tool-calling schemas across AI startups.",
+      "url": "https://www.index.dev/blog/software-development-frameworks",
+      "source": "Index.dev",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "Microsoft Build 2026 Showcases .NET Aspire and AI Dev Tools",
-      "description": "New labs and resources from Microsoft Build highlight cloud-native orchestration and AI-powered developer workflows.",
-      "url": "https://microsoft.github.io/build26-next-steps/devtools-frameworks",
-      "source": "Microsoft",
+      "title": "Docker 29.3 & PostgreSQL 18 Ship",
+      "description": "Docker Engine 29.3 with Containerd default; PostgreSQL 18 delivers 3x faster async I/O.",
+      "url": "https://toolradar.com/blog/open-source-developer-tools",
+      "source": "Toolradar",
       "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "UN Launches AI for Good Global Commission",
-      "description": "New UN commission aims to coordinate global AI governance amid diverging regulatory approaches in EU, US, and Asia.",
-      "url": "https://techstartups.com/2026/07/01/top-tech-news-today-july-1-2026",
-      "source": "Tech Startups",
-      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
+      "title": "US Federal AI Preemption Battle Intensifies",
+      "description": "Trump admin pushes 10-year state law freeze via One Big Beautiful Bill Act while DOJ forms AI Litigation Task Force.",
+      "url": "https://www.softwareimprovementgroup.com/blog/us-ai-legislation-overview/",
+      "source": "SIG",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "EU and Apple Clash Over Siri AI Delay and DMA Compliance",
-      "description": "Apple cites privacy risks from Digital Markets Act interoperability mandates while EU pushes for open competition.",
-      "url": "https://techstartups.com/2026/07/01/top-tech-news-today-july-1-2026",
-      "source": "Tech Startups",
+      "title": "EU AI Act High-Risk Deadline Pushed to 2027",
+      "description": "Annex III compliance extended; standalone high-risk systems now due December 2027.",
+      "url": "https://www.kiteworks.com/cybersecurity-risk-management/ai-regulation-2026-business-compliance-guide/",
+      "source": "Kiteworks",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "Datacentres Push Big Tech Carbon Emissions to France Levels",
-      "description": "Microsoft, Amazon and Google face scrutiny as AI infrastructure boom drives emissions despite net-zero pledges.",
-      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
-      "source": "The Guardian",
-      "image_url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=60"
+      "title": "California AI Laws Take Effect January 2026",
+      "description": "SB 53 transparency rules, ADMT risk assessments, and deepfake bans now live for frontier developers.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/2026-is-coming-for-bigtech-and-ai-with-new-laws/cmxNvq0RE63",
+      "source": "Stocktwits",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Surpasses 2 Million Public Models",
-      "description": "Open source AI ecosystem explodes with 13M users, 2M+ models, and 500k datasets on the Hugging Face Hub.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "title": "Qwen3-235B-A22B Tops Open-Source Leaderboard",
+      "description": "Alibaba’s MoE model leads coding, reasoning, and agentic benchmarks under Apache 2.0 on Hugging Face.",
+      "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "LeRobot Robotics Library Sees Explosive Growth",
-      "description": "Hugging Face's LeRobot for real-world robotics and vision-language-action models gains rapid community adoption.",
-      "url": "https://github.com/orgs/huggingface/repositories",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "Llama 4 Scout Ships 10M-Token Context",
+      "description": "Meta releases multimodal open-weight model with native 10M context and 109B total parameters.",
+      "url": "https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E",
+      "source": "Meta",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "DeepSeek R1 Sparks China Open-Source AI Surge",
-      "description": "Viral DeepSeek R1 release accelerates Chinese open-weight model contributions on Hugging Face throughout 2026.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "DeepSeek-V4 Pro Hits 1M Context",
+      "description": "MIT-licensed model becomes go-to for high-end coding and agentic workflows on Hugging Face.",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "source": "DeepSeek",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     }
   ]
 }
