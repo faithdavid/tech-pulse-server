@@ -1,32 +1,117 @@
 {
   "ai": [
-    {"title": "Anthropic Launches Claude Sonnet 5", "description": "New default model scores 63.2% on agentic coding benchmarks, nearing Opus performance at lower cost.", "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
-    {"title": "PP-VAE Protects Patient Privacy in ECG AI", "description": "University of Kansas model improves diagnosis while minimizing biometric data exposure.", "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
-    {"title": "AI Breakthrough Solves Hard Math Problem", "description": "New architecture delivers exponential speedups; results headed to NeurIPS 2026.", "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
-    {"title": "AlphaFold 3 Hits 99.2% Protein Accuracy", "description": "DeepMind model accelerates drug discovery timelines from decades to months.", "url": "https://digitalnewsbreak.com/ai/ai-news-ai-breakthrough-latest-news", "source": "Digital News Break", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"}
+    {
+      "title": "Vector Researchers Advance Generative AI at ICML 2026",
+      "description": "Vector Institute researchers present breakthroughs in generative AI, responsible AI, and scientific discovery at ICML 2026 in Seoul.",
+      "url": "https://vectorinstitute.ai/vector-researchers-icml-2026-accepted-papers/",
+      "source": "Vector Institute",
+      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "OpenAI Releases GPT-5.2 with Multimodal Breakthroughs",
+      "description": "GPT-5.2 features hybrid architecture, 40% faster processing, and simultaneous video/audio/text handling with 92% reasoning accuracy.",
+      "url": "https://digitalnewsbreak.com/ai/openai-news-updates",
+      "source": "Digital News Break",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "Claude Sonnet 5 Shifts Focus to Better Economics",
+      "description": "Anthropic's Claude Sonnet 5 delivers stronger coding and tool use at lower cost; AI moves from bigger models to practical economics.",
+      "url": "https://inews.zoombangla.com/ai-breakthroughs-july-2026-claude-sonnet-5/",
+      "source": "iNews",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    }
   ],
   "funding": [
-    {"title": "OpenAI Closes $122B Round", "description": "900M weekly users, $20B ARR; IPO targeting near-$1T valuation planned for Q4.", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"},
-    {"title": "Shield AI Raises $1.5B", "description": "Funds X-BAT drone acquisition and 80% YoY growth to $540M revenue.", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
-    {"title": "Rhoda AI Emerges with $450M", "description": "Stealth robotics startup ships autonomous manufacturing workflows under 2 min/cycle.", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
-    {"title": "ElevenLabs Hits $11B Valuation", "description": "Voice AI leader eyes 2027–28 IPO after explosive non-English market growth.", "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups", "source": "Crescendo AI", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"}
+    {
+      "title": "Trase Raises $107M for Enterprise AI Agents",
+      "description": "Trase secures $107M seed round led by ARCH Venture Partners to build healthcare and enterprise AI agents.",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "source": "AI Funding Tracker",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+    },
+    {
+      "title": "OpenAI Valued at $122B in Massive Funding Round",
+      "description": "OpenAI raises record round pushing valuation above most countries; preparing for potential $1T IPO in Q4 2026.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Shield AI Raises $1.5B for Autonomous Defense Systems",
+      "description": "Shield AI secures $1.5B to advance X-BAT jet fighter drone and acquire Aechelon Technology.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
+    }
   ],
   "tools": [
-    {"title": "Claude Opus 4.8 & Fable 5 Land in Claude Code", "description": "Highest WebDev Arena Elo (1653) now available inside the coding agent.", "url": "https://blog.logrocket.com/ai-dev-tool-power-rankings/", "source": "LogRocket", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"},
-    {"title": "LangGraph & CrewAI Drive Agentic Workflows", "description": "Stateful multi-agent pipelines and specialized agent teams become production standard.", "url": "https://medium.com/@technoloader-pvt-ltd/ai-development-in-2026-tools-frameworks-trends-23744f549518", "source": "Medium", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"},
-    {"title": "vLLM & TensorRT-LLM Optimize Inference", "description": "Production inference economics now require these tools for every AI product.", "url": "https://medium.com/@technoloader-pvt-ltd/ai-development-in-2026-tools-frameworks-trends-23744f549518", "source": "Medium", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"},
-    {"title": "Cursor & Windsurf Lead AI IDEs", "description": "Full multi-file editing + Git integration now table stakes for coding agents.", "url": "https://blog.logrocket.com/ai-dev-tool-power-rankings/", "source": "LogRocket", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"}
+    {
+      "title": "Temporal Cloud 2.0 Transforms Workflow Orchestration",
+      "description": "Temporal 2.0 adds signals, updates, and time-travel debugging, cutting production incidents by 60% for developers.",
+      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
+      "source": "DEV Community",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+    },
+    {
+      "title": "Pkl Configuration Language Gains DevOps Traction",
+      "description": "Apple's Pkl language sees major adoption in infrastructure teams for safe, expressive configuration management.",
+      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
+      "source": "DEV Community",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "Microsoft Build 2026 Showcases .NET Aspire and AI Dev Tools",
+      "description": "New labs and resources from Microsoft Build highlight cloud-native orchestration and AI-powered developer workflows.",
+      "url": "https://microsoft.github.io/build26-next-steps/devtools-frameworks",
+      "source": "Microsoft",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+    }
   ],
   "industry": [
-    {"title": "Trump Signs June 2026 AI Executive Order", "description": "Voluntary 30-day frontier-model review framework for national security.", "url": "https://pixflow.net/blog/ai-frontier-model-regulation-shakeup/", "source": "Pixflow", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
-    {"title": "California SB 53 Takes Effect", "description": "Transparency in Frontier AI Act now live; state AG enforcement ramps up.", "url": "https://www.softwareimprovementgroup.com/blog/us-ai-legislation-overview/", "source": "SIG", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"},
-    {"title": "Federal Preemption Battle Intensifies", "description": "Administration pushes 10-year moratorium on state AI laws via One Big Beautiful Bill Act.", "url": "https://www.softwareimprovementgroup.com/blog/us-ai-legislation-overview/", "source": "SIG", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"},
-    {"title": "India Rolls Out AI Governance Framework", "description": "DPDP rules + Competition Commission market study define Big Tech oversight.", "url": "https://www.storyboard18.com/digital/ai-dpdp-and-it-rules-will-drive-new-phase-of-big-tech-regulation-in-india-in-2026-86739.htm", "source": "Storyboard18", "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"}
+    {
+      "title": "UN Launches AI for Good Global Commission",
+      "description": "New UN commission aims to coordinate global AI governance amid diverging regulatory approaches in EU, US, and Asia.",
+      "url": "https://techstartups.com/2026/07/01/top-tech-news-today-july-1-2026",
+      "source": "Tech Startups",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
+    },
+    {
+      "title": "EU and Apple Clash Over Siri AI Delay and DMA Compliance",
+      "description": "Apple cites privacy risks from Digital Markets Act interoperability mandates while EU pushes for open competition.",
+      "url": "https://techstartups.com/2026/07/01/top-tech-news-today-july-1-2026",
+      "source": "Tech Startups",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+    },
+    {
+      "title": "Datacentres Push Big Tech Carbon Emissions to France Levels",
+      "description": "Microsoft, Amazon and Google face scrutiny as AI infrastructure boom drives emissions despite net-zero pledges.",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
+      "source": "The Guardian",
+      "image_url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=60"
+    }
   ],
   "oss": [
-    {"title": "DeepSeek R1 Open Reasoning Model", "description": "671B MoE (37B active) with 128K context released on Hugging Face.", "url": "https://huggingface.co/blog/daya-shankar/open-source-llms", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"},
-    {"title": "Llama 4 Scout Ships 10M Context", "description": "Native multimodal open-weight model with record-long context window.", "url": "https://huggingface.co/blog/daya-shankar/open-source-llms", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"},
-    {"title": "Qwen3-235B-A22B Apache 2.0 Release", "description": "Clean commercial license open-weight model optimized for agentic coding.", "url": "https://huggingface.co/blog/daya-shankar/open-source-llms", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"},
-    {"title": "LeRobot Robotics Datasets Surge", "description": "Hugging Face robotics library adds massive spatial-intelligence datasets.", "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026", "source": "Hugging Face", "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"}
+    {
+      "title": "Hugging Face Surpasses 2 Million Public Models",
+      "description": "Open source AI ecosystem explodes with 13M users, 2M+ models, and 500k datasets on the Hugging Face Hub.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "LeRobot Robotics Library Sees Explosive Growth",
+      "description": "Hugging Face's LeRobot for real-world robotics and vision-language-action models gains rapid community adoption.",
+      "url": "https://github.com/orgs/huggingface/repositories",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    },
+    {
+      "title": "DeepSeek R1 Sparks China Open-Source AI Surge",
+      "description": "Viral DeepSeek R1 release accelerates Chinese open-weight model contributions on Hugging Face throughout 2026.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    }
   ]
 }
