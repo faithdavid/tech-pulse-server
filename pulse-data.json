@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Claude Sonnet 5 Released as Default Model",
-      "description": "Anthropic’s most agentic Sonnet yet scores 63.2% on agentic coding benchmarks, approaching Opus performance at lower cost.",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "source": "Anthropic",
+      "title": "Meta Releases Muse Spark 1.1",
+      "description": "Latest frontier model from Meta with advanced reasoning capabilities released July 9 2026.",
+      "url": "https://aireleasetracker.com/latest",
+      "source": "AI Release Tracker",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "Gemini 3.1 Pro Tops Reasoning Benchmarks",
-      "description": "Google DeepMind’s latest flagship leads GPQA Diamond and ARC-AGI-2, with Gemini 3.5 Pro expected soon.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "source": "Google DeepMind",
+      "title": "LLM Research Papers: 2026 List",
+      "description": "Comprehensive roundup of architecture, scaling, and reasoning papers from Jan-May 2026.",
+      "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+      "source": "Sebastian Raschka",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "GPT-5.6 and Muse Spark 1.1 Drop",
-      "description": "OpenAI GPT-5.6 rivals Fable 5; Meta releases Muse Spark 1.1 pursuing personal intelligence.",
-      "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "source": "ZDNet",
+      "title": "July 2026 AI Research Breakthroughs",
+      "description": "Reasoning models, long-horizon tasks, video understanding, and efficiency gains dominate.",
+      "url": "https://skycrumbs.com/blog/ai-research-july-2026",
+      "source": "Skycrumbs",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "OpenAI Closes $122B Round at $852B Valuation",
-      "description": "900M weekly users and $20B ARR; IPO targeted for Q4 2026 near $1T valuation.",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "source": "CNBC",
+      "title": "OpenAI Raises $122B Round",
+      "description": "Valuation exceeds most countries; IPO targeted near $1T in Q4 2026.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo",
       "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "Shield AI Raises $1.5B for Autonomous Defense",
-      "description": "Funds X-BAT jet fighter drone and Aechelon acquisition; projects $540M 2026 revenue.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
-      "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
+      "title": "Shield AI Secures $1.5B",
+      "description": "Funds autonomous skies and X-BAT drone acquisition; $540M 2026 revenue projected.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1518364538800-6d5c3a3b7e4f?w=600&q=60"
     },
     {
       "title": "ElevenLabs Hits $11B Valuation",
-      "description": "Voice AI leader eyes 2027-28 IPO amid mainstream adoption in non-English markets.",
+      "description": "Voice AI leader eyes IPO 2027-28 amid mainstream adoption.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
       "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d2f0a5a?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "React 19 & ShadCN + Tailwind v4 Dominate",
-      "description": "React Compiler + Server Components now standard; ShadCN CLI rewrite and Tailwind v4 deliver 5x faster rebuilds.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
+      "title": "Apple WWDC 2026 AI & Dev Tools",
+      "description": "Foundation Models framework, Xcode 27, SwiftUI updates, MLX Metal 4 scaling.",
+      "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates/",
+      "source": "MacRumors",
+      "image_url": "https://images.unsplash.com/photo-1517697471333-12b6a9f4a2b7?w=600&q=60"
+    },
+    {
+      "title": "AI Agent Frameworks 2026 Comparison",
+      "description": "LangGraph, CrewAI, AutoGen, Semantic Kernel ranked for production use.",
+      "url": "https://alicelabs.ai/en/insights/best-ai-agent-frameworks-2026",
+      "source": "Alice Labs",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    },
+    {
+      "title": "Developer Productivity Tools Ranked",
+      "description": "Cursor, Augment Code, Claude Code, Aider lead AI coding stack.",
+      "url": "https://www.greptile.com/content-library/14-best-developer-productivity-tools",
+      "source": "Greptile",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "FastAPI + Pydantic Become LLM Default Stack",
-      "description": "Pydantic v2 + FastAPI + OpenAPI 3.1 now standard for agent tool-calling schemas across AI startups.",
-      "url": "https://www.index.dev/blog/software-development-frameworks",
-      "source": "Index.dev",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
-    },
-    {
-      "title": "Docker 29.3 & PostgreSQL 18 Ship",
-      "description": "Docker Engine 29.3 with Containerd default; PostgreSQL 18 delivers 3x faster async I/O.",
-      "url": "https://toolradar.com/blog/open-source-developer-tools",
-      "source": "Toolradar",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "US Federal AI Preemption Battle Intensifies",
-      "description": "Trump admin pushes 10-year state law freeze via One Big Beautiful Bill Act while DOJ forms AI Litigation Task Force.",
-      "url": "https://www.softwareimprovementgroup.com/blog/us-ai-legislation-overview/",
-      "source": "SIG",
+      "title": "US AI Regulatory Tracker Update",
+      "description": "Trump admin deregulatory stance; state laws on chatbots, ADMT, provenance advance.",
+      "url": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-united-states",
+      "source": "White & Case",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "EU AI Act High-Risk Deadline Pushed to 2027",
-      "description": "Annex III compliance extended; standalone high-risk systems now due December 2027.",
-      "url": "https://www.kiteworks.com/cybersecurity-risk-management/ai-regulation-2026-business-compliance-guide/",
-      "source": "Kiteworks",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "Q2 2026 Tech Legislative Roundup",
+      "description": "New bills on AI labeling, chatbots; NIST partnerships with DeepMind, Microsoft, xAI.",
+      "url": "https://www.insideglobaltech.com/2026/07/13/u-s-tech-legislative-regulatory-update-second-quarter-2026/",
+      "source": "Inside Global Tech",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
     },
     {
-      "title": "California AI Laws Take Effect January 2026",
-      "description": "SB 53 transparency rules, ADMT risk assessments, and deepfake bans now live for frontier developers.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/2026-is-coming-for-bigtech-and-ai-with-new-laws/cmxNvq0RE63",
-      "source": "Stocktwits",
-      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+      "title": "Big Tech AI Moves",
+      "description": "Microsoft in-house models, Meta Muse rollout, Tesla AI staff caps.",
+      "url": "https://winbuzzer.com/big-tech",
+      "source": "WinBuzzer",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Qwen3-235B-A22B Tops Open-Source Leaderboard",
-      "description": "Alibaba’s MoE model leads coding, reasoning, and agentic benchmarks under Apache 2.0 on Hugging Face.",
-      "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B",
+      "title": "Hugging Face Hub v1.23.0 Released",
+      "description": "Space templates, CLI updates, hf cp command, Xet download improvements.",
+      "url": "https://github.com/huggingface/huggingface_hub/releases",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "Llama 4 Scout Ships 10M-Token Context",
-      "description": "Meta releases multimodal open-weight model with native 10M context and 109B total parameters.",
-      "url": "https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E",
-      "source": "Meta",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "DeepSeek-V4 Pro Hits 1M Context",
-      "description": "MIT-licensed model becomes go-to for high-end coding and agentic workflows on Hugging Face.",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-      "source": "DeepSeek",
+      "title": "OpenAI Open-Weight Models on HF",
+      "description": "gpt-oss-120b and gpt-oss-20b released for reasoning and agentic tasks.",
+      "url": "https://huggingface.co/openai",
+      "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
+    },
+    {
+      "title": "New Models Trending on Hugging Face",
+      "description": "Qwythos-9B, ThinkingCap-Qwen3.6-27B, and multimodal releases surge.",
+      "url": "https://huggingface.co/",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ]
 }
