@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Meta Releases Muse Spark 1.1",
-      "description": "Latest frontier model from Meta with advanced reasoning capabilities released July 9 2026.",
-      "url": "https://aireleasetracker.com/latest",
-      "source": "AI Release Tracker",
+      "title": "Visual Access Boundaries in Vision-Language Model Reasoning",
+      "description": "New arXiv paper explores boundaries in VLM reasoning capabilities.",
+      "url": "https://arxiv.org/abs/2607.12815",
+      "source": "arXiv",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "LLM Research Papers: 2026 List",
-      "description": "Comprehensive roundup of architecture, scaling, and reasoning papers from Jan-May 2026.",
+      "title": "LLM Research Papers: The 2026 List",
+      "description": "Comprehensive roundup of major LLM papers from Jan-May 2026 including Nemotron 3, GLM-5.",
       "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
       "source": "Sebastian Raschka",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "July 2026 AI Research Breakthroughs",
-      "description": "Reasoning models, long-horizon tasks, video understanding, and efficiency gains dominate.",
-      "url": "https://skycrumbs.com/blog/ai-research-july-2026",
-      "source": "Skycrumbs",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "title": "DeepAnalyze: Autonomous Data Science via Agentic LLMs",
+      "description": "Agentic model autonomously handles full data science pipeline from raw data to reports.",
+      "url": "https://arxiv.org/abs/2510.16872",
+      "source": "arXiv",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "OpenAI Raises $122B Round",
-      "description": "Valuation exceeds most countries; IPO targeted near $1T in Q4 2026.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+      "title": "SoftBank Acquires DigitalBridge for $4B",
+      "description": "Major AI infrastructure deal to build superintelligence capabilities.",
+      "url": "https://www.forbes.com/sites/tylerroush/2025/12/29/softbank-will-buy-digitalbridge-for-4-billion-making-2025s-top-ai-deals-full-list-ranked/",
+      "source": "Forbes",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Shield AI Secures $1.5B",
-      "description": "Funds autonomous skies and X-BAT drone acquisition; $540M 2026 revenue projected.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1518364538800-6d5c3a3b7e4f?w=600&q=60"
+      "title": "Harvey AI Raises $600M Across Two Rounds",
+      "description": "Valuation doubles to $5B in legal AI space.",
+      "url": "https://fortune.com/2025/11/29/ai-startup-valuations-are-doubling-and-tripling-within-months-as-back-to-back-funding-rounds-fuel-a-stunning-growth-spurt/",
+      "source": "Fortune",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "ElevenLabs Hits $11B Valuation",
-      "description": "Voice AI leader eyes IPO 2027-28 amid mainstream adoption.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d2f0a5a?w=600&q=60"
+      "title": "Databricks Hits $43B Valuation",
+      "description": "$500M round with Nvidia participation signals IPO momentum.",
+      "url": "https://www.forbes.com/sites/dereksaul/2023/09/14/top-ipo-prospect-databricks-scores-43-billion-valuation-thanks-to-500-million-funding-round-including-ai-titan-nvidia/",
+      "source": "Forbes",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Apple WWDC 2026 AI & Dev Tools",
-      "description": "Foundation Models framework, Xcode 27, SwiftUI updates, MLX Metal 4 scaling.",
-      "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates/",
-      "source": "MacRumors",
-      "image_url": "https://images.unsplash.com/photo-1517697471333-12b6a9f4a2b7?w=600&q=60"
+      "title": "React 19 + Compiler Stable",
+      "description": "React Compiler and Server Components now production-ready.",
+      "url": "https://index.dev/blog/software-development-frameworks",
+      "source": "Index.dev",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "AI Agent Frameworks 2026 Comparison",
-      "description": "LangGraph, CrewAI, AutoGen, Semantic Kernel ranked for production use.",
-      "url": "https://alicelabs.ai/en/insights/best-ai-agent-frameworks-2026",
-      "source": "Alice Labs",
+      "title": "FastAPI + Pydantic 2 Dominates AI APIs",
+      "description": "Standard stack for LLM tool-calling schemas in 2026.",
+      "url": "https://spacelift.io/blog/software-development-tools",
+      "source": "Spacelift",
       "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Developer Productivity Tools Ranked",
-      "description": "Cursor, Augment Code, Claude Code, Aider lead AI coding stack.",
-      "url": "https://www.greptile.com/content-library/14-best-developer-productivity-tools",
-      "source": "Greptile",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
+      "title": "Zod v4 Runtime Validation",
+      "description": "Enhanced type safety for AI-integrated applications.",
+      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
+      "source": "Medium",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "US AI Regulatory Tracker Update",
-      "description": "Trump admin deregulatory stance; state laws on chatbots, ADMT, provenance advance.",
-      "url": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-united-states",
-      "source": "White & Case",
+      "title": "Trump Signs AI Innovation Executive Order",
+      "description": "Deregulatory framework prioritizes innovation and cybersecurity.",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "source": "White House",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "Q2 2026 Tech Legislative Roundup",
-      "description": "New bills on AI labeling, chatbots; NIST partnerships with DeepMind, Microsoft, xAI.",
-      "url": "https://www.insideglobaltech.com/2026/07/13/u-s-tech-legislative-regulatory-update-second-quarter-2026/",
-      "source": "Inside Global Tech",
-      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=60"
+      "title": "California AI Safety Laws Take Effect",
+      "description": "New rules require safety disclosures and ban deepfakes in specific contexts.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/2026-is-coming-for-bigtech-and-ai-with-new-laws/cmxNvq0RE63",
+      "source": "Stocktwits",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     },
     {
-      "title": "Big Tech AI Moves",
-      "description": "Microsoft in-house models, Meta Muse rollout, Tesla AI staff caps.",
-      "url": "https://winbuzzer.com/big-tech",
-      "source": "WinBuzzer",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "NIST Partners with DeepMind, Microsoft, xAI",
+      "description": "Frontier model evaluations advance voluntary security standards.",
+      "url": "https://www.insideglobaltech.com/2026/07/13/u-s-tech-legislative-regulatory-update-second-quarter-2026/",
+      "source": "Inside Global Tech",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Hub v1.23.0 Released",
-      "description": "Space templates, CLI updates, hf cp command, Xet download improvements.",
-      "url": "https://github.com/huggingface/huggingface_hub/releases",
+      "title": "Kimi K2.5/2.6 Agentic Models Added to Transformers",
+      "description": "Native multimodal agentic models for long-horizon coding and autonomous execution.",
+      "url": "https://github.com/huggingface/transformers/releases",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "State of Open Source on HF: Spring 2026",
+      "description": "2M+ models, 500k datasets; Chinese open-source surge continues.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "GLM-5.1 and Qwen3 Lead Agentic OSS",
+      "description": "Top open-source models for tool use, planning, and coding workflows.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    },
-    {
-      "title": "OpenAI Open-Weight Models on HF",
-      "description": "gpt-oss-120b and gpt-oss-20b released for reasoning and agentic tasks.",
-      "url": "https://huggingface.co/openai",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
-    },
-    {
-      "title": "New Models Trending on Hugging Face",
-      "description": "Qwythos-9B, ThinkingCap-Qwen3.6-27B, and multimodal releases surge.",
-      "url": "https://huggingface.co/",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     }
   ]
 }
