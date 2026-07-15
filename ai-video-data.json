@@ -1,98 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "Google Veo 3.1 and Gemini Omni Lead AI Filmmaking Tools 2026",
-      "description": "New multi-shot generation and native audio features are reshaping film school curricula and independent production pipelines.",
-      "url": "https://www.synthesia.io/post/best-ai-video-generators",
-      "source": "Synthesia",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "The AI Arms Race Hits Film School",
+      "description": "NYU Tisch partners with Runway for unlimited AI video credits; Chapman invites AI actress Tilly Norwood; LMU's AI screenwriting course fills fastest.",
+      "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
+      "source": "No Film School",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "Next-Gen Filmmaking Courses Add AI Storyboarding and Ethics",
-      "description": "Kentucky Wesleyan College and others launch dedicated AI film-making programs blending generative tools with traditional craft.",
-      "url": "https://studioarts.com/what-should-a-next-gen-filmmaking-course-include-in-2026/",
-      "source": "Studio Arts",
-      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b1d5c3c7?w=600&q=60"
+      "title": "Google.org Gifts Sundance $2M for AI Literacy",
+      "description": "Sundance Institute receives $2M to train 100,000 artists in AI tools, bridging independent film and tech.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+      "source": "Google Blog",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+    },
+    {
+      "title": "Higgsfield AI Video Platform Launches for Filmmakers",
+      "description": "All-in-one platform with Kling 3.0, Veo 3.1, Sora 2 access plus Cinema Studio controls for camera, motion and character consistency.",
+      "url": "https://higgsfield.ai/ai-video",
+      "source": "Higgsfield",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Google Invests $75M in A24 for AI-Powered Filmmaking Tools",
-      "description": "Partnership gives A24 access to DeepMind infrastructure while preserving studio IP control.",
-      "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
-    },
-    {
-      "title": "Amazon MGM Greenlights Three AI Series Under New GenAI Fund",
-      "description": "First purpose-built AI production platform for Prime Video announced in major studio move.",
+      "title": "Amazon MGM Studios Launches GenAI Creators Fund",
+      "description": "Greenlights three AI series for Prime Video; partners with AWS for first purpose-built AI production platform.",
       "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
       "source": "Variety",
       "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
+    },
+    {
+      "title": "OpenAI Sora API Shutdown Announced",
+      "description": "Consumer app and API discontinued; full sunset September 2026 as focus shifts to enterprise.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+    },
+    {
+      "title": "Runway Closes $315M Raise; Disney-OpenAI $1B Deal",
+      "description": "Major funding and studio partnerships signal explosive growth in generative video IP licensing.",
+      "url": "https://www.forbes.com/sites/andymeek/2026/07/06/the-biggest-media-deals-of-q2-2026/",
+      "source": "Forbes",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Kling 3.0 Ships Native 4K and Multilingual Audio",
-      "description": "Kuaishou model tops leaderboards within days of February 2026 launch; now on seven partner platforms.",
+      "title": "Kling 3.0 and Seedance 2.0 Top Leaderboards",
+      "description": "Kling 3.0 hits #1 with native 4K and multilingual audio; Seedance 2.0 reaches 1213 Elo with audio integration.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+    },
+    {
+      "title": "Google Veo 3.1 Lite Launches at $0.05/sec",
+      "description": "Budget tier now available via Gemini API; full Veo 3.1 remains flagship with native audio.",
       "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
       "source": "WaveSpeed",
       "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Google Releases Veo 3.1 Lite at $0.05 per Second",
-      "description": "Budget-tier API access opens cinematic generation to wider creator base with native audio.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f812?w=600&q=60"
+      "title": "invideo Agent One and Higgsfield Dominate 2026",
+      "description": "Agent One handles multi-scene productions; Higgsfield adds motion control and character locking across models.",
+      "url": "https://invideo.io/blog/best-ai-filmmaking-tools/",
+      "source": "invideo",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Vertical AI Models Target Corporate Training and Real Estate",
-      "description": "Specialized video-to-video models now dominate healthcare simulations, architectural walkthroughs, and legal reenactments.",
-      "url": "https://resource.digen.ai/future-of-ai-video-generation-2026",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
+      "title": "AI Video in Medical Education and Training",
+      "description": "HeyGen and Synthesia power localized medical explainer videos; Simulations Software cuts delivery time 50% and costs 80%.",
+      "url": "https://www.heygen.com/use-cases/medical-knowledge-sharing",
+      "source": "HeyGen",
+      "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=60"
     },
     {
-      "title": "Crypto and Short-Form Vertical Tools Optimize for TikTok",
-      "description": "New AI pipelines generate 15-60 second market-update clips with captions and voiceover in minutes.",
-      "url": "https://grokipedia.com/page/AI_tools_for_generating_short_crypto_videos_for_TikTok_in_2026",
-      "source": "Grokipedia",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
+      "title": "Retail & Fashion: H&M Creates 30 AI Digital Twins",
+      "description": "Hyper-realistic models generate diverse campaign assets at fraction of traditional shoot costs.",
+      "url": "https://www.ngram.com/blog/ai-video-marketing",
+      "source": "ngram",
+      "image_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&q=60"
+    },
+    {
+      "title": "Healthcare Video Analytics for Patient Safety",
+      "description": "AI fall detection cuts incidents 35%; remote monitoring reduces readmissions 25-30% saving over $1M annually.",
+      "url": "https://memories.ai/blogs/Healthcare_with_Advanced_Video_Analytics",
+      "source": "Memories.ai",
+      "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Lifetime AI Video Studios Launch at $80–$90 Flat Fee",
-      "description": "Centralized platforms bundle voice, image, and video generation with emotion AI; verified by Entrepreneur and Mashable.",
-      "url": "https://resource.digen.ai/text-to-video-ai-software-lifetime-deals-2026/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
+      "title": "InVideo Promo Codes: 25-50% Off July 2026",
+      "description": "Verified coupons available for subscription plans; 25% to 50% discounts confirmed for July.",
+      "url": "https://www.usatoday.com/deals/invideo",
+      "source": "USA Today",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "InVideo Offers 20% Lifetime Cashback on Annual Plans",
-      "description": "NachoNacho marketplace deal saves up to $1,897/year for agencies and educators.",
-      "url": "https://nachonacho.com/product/invideo",
-      "source": "NachoNacho",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+      "title": "Lifetime AI Video Studios at $80-$90 Flat Fee",
+      "description": "2026 deals bundle voice, image and video generation into one-time purchase platforms with Emotion AI.",
+      "url": "https://resource.digen.ai/text-to-video-ai-software-lifetime-deals-2026/",
+      "source": "Digen",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Krater AI Offers 15% Student Discount",
+      "description": "Yearly plans drop to $6.38/mo covering ChatGPT, Claude, image, video and voice tools.",
+      "url": "https://krater.ai/blog/ai-student-discounts-2026",
+      "source": "Krater",
+      "image_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "International AI Art Biennale Krakow 2026 Opens with Video Works",
-      "description": "Exhibitions and workshops explore creative dialogue between humans and AI across multiple venues.",
-      "url": "https://biennaleai.org/",
-      "source": "AI Art Biennale",
-      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
+      "title": "Nike’s Serena Williams AI Avatar Tennis Match",
+      "description": "Historical footage modeled into two AI Serenas playing realistic matches showcasing generational evolution.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=600&q=60"
     },
     {
-      "title": "AIArt26 Conference Brings 20,000 Creators to Las Vegas",
-      "description": "September event features AI video, music, and art pavilions plus immersive night shows.",
-      "url": "https://aiart26.tech/",
-      "source": "AIArt26",
-      "image_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&q=60"
+      "title": "Popeyes AI Diss Track Goes Viral",
+      "description": "Playful AI-generated rap battle video against McDonald’s drives massive engagement for new wraps launch.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&q=60"
+    },
+    {
+      "title": "Coca-Cola Create Real Magic Campaign",
+      "description": "Global brand leverages AI video for personalized, high-engagement storytelling that builds loyalty.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1554861586-036b830d2c4e?w=600&q=60"
     }
   ]
 }
