@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Visual Access Boundaries in Vision-Language Model Reasoning",
-      "description": "New arXiv paper explores boundaries in VLM reasoning capabilities.",
-      "url": "https://arxiv.org/abs/2607.12815",
-      "source": "arXiv",
+      "title": "Anthropic Launches Claude Sonnet 5",
+      "description": "Claude Sonnet 5 becomes default for Free and Pro users, scoring 63.2% on agentic coding benchmarks approaching Opus performance at lower cost.",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "LLM Research Papers: The 2026 List",
-      "description": "Comprehensive roundup of major LLM papers from Jan-May 2026 including Nemotron 3, GLM-5.",
-      "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
-      "source": "Sebastian Raschka",
+      "title": "OpenAI GPT-5 Multimodal Release",
+      "description": "GPT-5 with 2.4 trillion parameters achieves 98.7% accuracy on math olympiad problems and 96.3% on advanced coding challenges.",
+      "url": "https://digitalnewsbreak.com/ai/ai-news-ai-breakthrough-latest-news",
+      "source": "Digital News Break",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "DeepAnalyze: Autonomous Data Science via Agentic LLMs",
-      "description": "Agentic model autonomously handles full data science pipeline from raw data to reports.",
-      "url": "https://arxiv.org/abs/2510.16872",
-      "source": "arXiv",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "Google Gemini Ultra 2.0 for Science",
+      "description": "Gemini Ultra 2.0 autonomously designs experiments and identifies new superconductor candidates with 89% accuracy.",
+      "url": "https://digitalnewsbreak.com/ai/ai-news-ai-breakthrough-latest-news",
+      "source": "Digital News Break",
+      "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "SoftBank Acquires DigitalBridge for $4B",
-      "description": "Major AI infrastructure deal to build superintelligence capabilities.",
-      "url": "https://www.forbes.com/sites/tylerroush/2025/12/29/softbank-will-buy-digitalbridge-for-4-billion-making-2025s-top-ai-deals-full-list-ranked/",
-      "source": "Forbes",
+      "title": "OpenAI Secures $122B Round",
+      "description": "OpenAI now valued at levels exceeding most countries with 900M weekly users and $20B annualized revenue, IPO targeted for Q4 2026.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Harvey AI Raises $600M Across Two Rounds",
-      "description": "Valuation doubles to $5B in legal AI space.",
-      "url": "https://fortune.com/2025/11/29/ai-startup-valuations-are-doubling-and-tripling-within-months-as-back-to-back-funding-rounds-fuel-a-stunning-growth-spurt/",
-      "source": "Fortune",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+      "title": "MGX Raises $49B AI Fund",
+      "description": "Abu Dhabi-based MGX closes record $49 billion AI-focused fund from global institutional investors.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1579532537598-459ecdaf45c8?w=600&q=60"
     },
     {
-      "title": "Databricks Hits $43B Valuation",
-      "description": "$500M round with Nvidia participation signals IPO momentum.",
-      "url": "https://www.forbes.com/sites/dereksaul/2023/09/14/top-ipo-prospect-databricks-scores-43-billion-valuation-thanks-to-500-million-funding-round-including-ai-titan-nvidia/",
-      "source": "Forbes",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "title": "Shield AI Raises $1.5B",
+      "description": "Shield AI secures $1.5B for autonomous defense systems and X-BAT drone development, projecting $540M revenue in 2026.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo AI",
+      "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "React 19 + Compiler Stable",
-      "description": "React Compiler and Server Components now production-ready.",
-      "url": "https://index.dev/blog/software-development-frameworks",
-      "source": "Index.dev",
-      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
-    },
-    {
-      "title": "FastAPI + Pydantic 2 Dominates AI APIs",
-      "description": "Standard stack for LLM tool-calling schemas in 2026.",
-      "url": "https://spacelift.io/blog/software-development-tools",
-      "source": "Spacelift",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
-    },
-    {
-      "title": "Zod v4 Runtime Validation",
-      "description": "Enhanced type safety for AI-integrated applications.",
-      "url": "https://medium.com/@writertripathi/top-12-developer-tools-you-should-be-using-in-2026-e39503b81bf9",
-      "source": "Medium",
+      "title": ".NET July 2026 Servicing Updates",
+      "description": "Microsoft releases .NET 10.0.10, 9.0.18 and 8.0.29 with security fixes and improvements across all supported versions.",
+      "url": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/",
+      "source": "Microsoft .NET Blog",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "WordPress 7.0.1 Maintenance Release",
+      "description": "WordPress 7.0.1 ships with 13 core bug fixes and Gutenberg 23.5 plugin updates including layout improvements.",
+      "url": "https://developer.wordpress.org/news/2026/07/whats-new-for-developers-july-2026/",
+      "source": "WordPress Developer Blog",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "Temporal Cloud 2.0 Workflow Orchestration",
+      "description": "Temporal 2.0 adds first-class event-driven architecture support with signals and updates for reliable distributed workflows.",
+      "url": "https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl",
+      "source": "DEV Community",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Trump Signs AI Innovation Executive Order",
-      "description": "Deregulatory framework prioritizes innovation and cybersecurity.",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-      "source": "White House",
+      "title": "EU AI Act Phased Rollout Continues",
+      "description": "EU AI Act obligations for general-purpose and high-risk systems come into force, requiring transparency and risk classification.",
+      "url": "https://www.zonetechify.com/blog/ai-news-july-2026-latest-ai-developments",
+      "source": "ZoneTechify",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+    },
+    {
+      "title": "US Great American AI Act Passes Senate",
+      "description": "Senate passes bill 67-31 with preemption of state AI laws and safe harbor for NIST AI Risk Management Framework adoption.",
+      "url": "https://cubbbix.com/blog/ai-regulation-july-2026-global-update",
+      "source": "Cubbbix Tools",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "California AI Safety Laws Take Effect",
-      "description": "New rules require safety disclosures and ban deepfakes in specific contexts.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/2026-is-coming-for-bigtech-and-ai-with-new-laws/cmxNvq0RE63",
-      "source": "Stocktwits",
-      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
-    },
-    {
-      "title": "NIST Partners with DeepMind, Microsoft, xAI",
-      "description": "Frontier model evaluations advance voluntary security standards.",
-      "url": "https://www.insideglobaltech.com/2026/07/13/u-s-tech-legislative-regulatory-update-second-quarter-2026/",
-      "source": "Inside Global Tech",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "UK Launches AI Growth Lab",
+      "description": "UK establishes AI Growth Lab for legal sector innovation and plans social media ban for under-16s.",
+      "url": "https://www.welcome.ai/content/july-2026-ai-developments-highlight-regulatory-changes-and-market-trends",
+      "source": "Welcome.AI",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Kimi K2.5/2.6 Agentic Models Added to Transformers",
-      "description": "Native multimodal agentic models for long-horizon coding and autonomous execution.",
-      "url": "https://github.com/huggingface/transformers/releases",
+      "title": "Kimi K2.5 Open-Source Multimodal Model",
+      "description": "Moonshot AI releases Kimi K2.5 native multimodal agentic model on Hugging Face for long-horizon coding and swarm orchestration.",
+      "url": "https://releasebot.io/updates/huggingface",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=600&q=60"
     },
     {
-      "title": "State of Open Source on HF: Spring 2026",
-      "description": "2M+ models, 500k datasets; Chinese open-source surge continues.",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "NVIDIA GR00T 1.7 to LeRobot",
+      "description": "NVIDIA Isaac GR00T 1.7 open reasoning VLA model and Teleop framework integrated into Hugging Face LeRobot for humanoid robotics.",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "source": "NVIDIA Blog",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "GLM-5.1 and Qwen3 Lead Agentic OSS",
-      "description": "Top open-source models for tool use, planning, and coding workflows.",
+      "title": "Llama 4 Scout & Phi-4 Reasoning",
+      "description": "Meta releases Llama 4 Scout with 10M token context; Microsoft ships Phi-4-reasoning 14B MIT-licensed reasoning model on HF.",
       "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ]
 }
