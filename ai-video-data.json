@@ -1,140 +1,105 @@
 {
   "filmschool": [
     {
-      "title": "Google Invests $75 Million in A24 for AI Filmmaking Tools",
-      "description": "Major investment to develop AI-powered storyboards and production tools, backed by industry leaders like Martin Scorsese.",
-      "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
-    },
-    {
-      "title": "NYU Tisch Partners with Runway for Unlimited AI Video Credits",
-      "description": "Prestigious film school integrates generative AI tools into curriculum, signaling massive shift in storyteller training.",
+      "title": "NYU Tisch Partners with Runway for AI Video Credits",
+      "description": "NYU Tisch School of the Arts strikes deal with Runway giving students near-unlimited video-generation credits as part of Hyper Cinema experiment.",
       "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
       "source": "No Film School",
       "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=60"
     },
     {
-      "title": "Curious Refuge AI Film School Expands to 11 Languages",
-      "description": "Founded in 2020, now teaches AI-assisted documentary and narrative filmmaking to students in 170 countries.",
-      "url": "https://www.reuters.com/business/media-telecom/ai-film-school-trains-next-generation-hollywood-moviemakers-2026-02-14/",
-      "source": "Reuters",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "Sundance Institute Receives $2M Google.org Grant for AI Literacy",
+      "description": "Google.org gifts Sundance $2M to train 100,000 artists in AI literacy bridging independent film and tech.",
+      "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
+      "source": "No Film School",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=600&q=60"
+    },
+    {
+      "title": "AI Film School Launches Festival-Ready Short Film Course",
+      "description": "AI Video School course project becomes semi-finalist at Austin AI Film Festival and finalist at Seoul International AI Film Festival.",
+      "url": "https://aivideo.school/",
+      "source": "AI Video School",
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Amazon MGM Greenlights Three AI Series for Prime Video",
-      "description": "New GenAI Creators’ Fund launches purpose-built AI production platform in partnership with AWS.",
+      "title": "Amazon MGM Studios Greenlights Three AI Series for Prime Video",
+      "description": "Amazon MGM launches GenAI Creators’ Fund and purpose-built AI production platform with AWS for visual storytelling.",
       "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
       "source": "Variety",
       "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
     },
     {
-      "title": "Runway Closes $315M Raise Amid Surging Demand",
-      "description": "AI video leader secures major funding as studios race to integrate generative tools into pipelines.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "Google Invests $75 Million in A24 for AI Filmmaking Tools",
+      "description": "Google partners with A24 to develop AI-powered filmmaking tools using DeepMind research and infrastructure.",
+      "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
+      "source": "Variety",
+      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     },
     {
-      "title": "EU AI Act Article 50 Enforcement Begins August 2026",
-      "description": "Mandatory machine-readable watermarking on all AI-generated video for EU audiences, penalties up to €15M.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "AI Video Market Hits $847M in 2026 with 124M Monthly Users",
+      "description": "Global AI video generator market projected at $847 million; 124 million monthly active users across platforms.",
+      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
+      "source": "Vivideo",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Adobe Adds Kling 3.0 and Firefly Video Editor to Premiere",
-      "description": "v26.2 update brings native Kling 3.0 integration, AI Studio tools, and Frame.io Drive for seamless workflows.",
-      "url": "https://www.jonpeddie.com/news/adobe-releases-new-ai-driven-capabilities-for-video-users/",
-      "source": "Jon Peddie Research",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "title": "Vivideo.ai Launches Unified Multi-Model AI Video Workflow",
+      "description": "New release adds multi-model workflow, expanded avatars and long-form support consolidating text-to-video and image-to-video in one platform.",
+      "url": "https://www.manilatimes.net/2026/07/14/tmt-newswire/globenewswire/vivideoai-expands-ai-video-platform-with-unified-multi-model-workflow-and-expanded-avatar-and-voice-tools/2384413/amp",
+      "source": "Manila Times",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     },
     {
-      "title": "Kling 3.0 Tops Leaderboards with Native 4K and Audio",
-      "description": "February 2026 release delivers multilingual audio and multi-modal architecture, quickly claiming #1 spot.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1531746790731-6c087671e931?w=600&q=60"
+      "title": "Google Releases Veo 3.1 with 120-Second 1080p Generation",
+      "description": "Veo 3.1 launched June 29 2026 featuring native audio, cinematic controls and budget tier at $0.05/second.",
+      "url": "https://resource.digen.ai/new-ai-video-generators-2026/",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
     },
     {
-      "title": "Veo 3.1 Lite Launches at $0.05/Second via Gemini API",
-      "description": "Google releases budget-tier video model with public API access, enabling high-volume 720p generation.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Kling AI Adds Real-Time Collaborative Editing in July 2026 Update",
+      "description": "Kling platform update introduces real-time team editing and 98% visual consistency for anime and stylized content.",
+      "url": "https://resource.digen.ai/new-ai-video-generators-2026/",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Faceless YouTube Niches Explode with AI Workflows",
-      "description": "23 verticals now earning six figures using AI script, voice, B-roll, and clipping tools like OpusClip.",
-      "url": "https://www.opus.pro/blog/faceless-youtube-niches-2026",
-      "source": "OpusClip",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "Short-Form AI Video Dominates with 840% Growth Since 2024",
+      "description": "AI video generation volume grew 840% between Jan 2024 and Jan 2026; YouTube Shorts passes 70 billion daily views.",
+      "url": "https://pictory.ai/blog/ai-video-trends-2026",
+      "source": "Pictory",
+      "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
     },
     {
-      "title": "AI Video Summarizers Cut Corporate Training Time 91%",
-      "description": "Enterprises use automated tools to convert hours of footage into platform-optimized clips for HR, sales, and support.",
-      "url": "https://resource.digen.ai/transform-content-with-ai-video-2026/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
-    },
-    {
-      "title": "AI Historical & Educational Content Niche Booms",
-      "description": "Creators recreate historical scenes and visualize complex concepts for immersive documentary-style YouTube channels.",
-      "url": "https://gen.pro/blog/youtube-ai-video",
-      "source": "Gen.pro",
-      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
+      "title": "AI Avatars Enable Personalized Video at Scale for SMBs",
+      "description": "Small and medium businesses growing at 21.1% CAGR; 46% of AI video platform sign-ups now from SMBs.",
+      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
+      "source": "Vivideo",
+      "image_url": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Text-to-Video Lifetime Deals at $80-$90 Flat Fee",
-      "description": "Premium AI studios with emotion AI, voice synthesis, and commercial rights now available for one-time purchase.",
-      "url": "https://resource.digen.ai/text-to-video-ai-software-lifetime-deals-2026/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
-    },
-    {
-      "title": "Kling3.net Offers 40% Off 4K Cinematic Plans",
-      "description": "Limited-time discount on high-end text-to-video platform with native 4K output and advanced motion controls.",
-      "url": "https://topai.tools/deals",
-      "source": "TopAI.tools",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "HeyVid.ai Launches 50% Off Launch Promo",
-      "description": "New text-to-video and image generation platform offers deep discount on customizable AI creative tools.",
-      "url": "https://topai.tools/deals",
-      "source": "TopAI.tools",
-      "image_url": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=60"
+      "title": "Fliki Offers Free Digital Twin Creation for AI Video",
+      "description": "Fliki lets creators record once to build AI digital twin for videos in 80+ languages with no credit card required.",
+      "url": "https://fliki.ai/",
+      "source": "Fliki",
+      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "AI Music Videos Push Artistic Boundaries",
-      "description": "Musicians collaborate with AI to generate surreal, stylized visuals for original tracks, creating new audio-visual brands.",
-      "url": "https://gen.pro/blog/youtube-ai-video",
-      "source": "Gen.pro",
-      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
-    },
-    {
-      "title": "Agentic AI Video Workflows Deliver First Cuts in Minutes",
-      "description": "New platforms take full briefs and autonomously plan, generate, and assemble complete narrative videos.",
-      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
-      "source": "Vivideo",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
-    },
-    {
-      "title": "AI-Generated Historical Recreations Go Viral",
-      "description": "Creators use text-to-video to bring ancient events and figures to life, transforming educational content into cinematic experiences.",
-      "url": "https://gen.pro/blog/youtube-ai-video",
-      "source": "Gen.pro",
-      "image_url": "https://images.unsplash.com/photo-1461360370896-922624d12a74?w=600&q=60"
+      "title": "AI-Generated Short Film Selected for Multiple International Festivals",
+      "description": "AI Video School project short film reaches semi-finalist at Austin AI Film Festival and finalist at Seoul International AI Film Festival.",
+      "url": "https://aivideo.school/",
+      "source": "AI Video School",
+      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
     }
   ]
 }
