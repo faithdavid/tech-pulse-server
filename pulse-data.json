@@ -1,152 +1,117 @@
 {
   "ai": [
     {
-      "title": "MIT-Stanford Preprint: Self-Correction Key to Reasoning Models",
-      "description": "Analysis shows training for self-correction during reasoning outperforms sheer scale on hard math and logic problems.",
+      "title": "Reasoning Models Advance with Self-Correction Training",
+      "description": "MIT and Stanford preprint reveals self-correction during reasoning is key to success on hard math and logic tasks, outperforming scale alone.",
       "url": "https://skycrumbs.com/blog/ai-research-july-2026",
       "source": "Skycrumbs",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "Moonshot AI Releases Kimi K3: 2.8 Trillion Parameter Open MoE",
-      "description": "Massive open mixture-of-experts model with Kimi Delta Attention and 1M context window hits the scene.",
-      "url": "https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/",
-      "source": "MarkTechPost",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "Thinking Machines Lab Drops Inkling 975B Multimodal MoE",
-      "description": "Open-weights 975B parameter multimodal mixture-of-experts model released for advanced reasoning tasks.",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "source": "Thinking Machines",
+      "title": "Meta AI Improves Long-Video Understanding",
+      "description": "New models handle 30+ minute video sequences for question answering, pushing multimodal boundaries.",
+      "url": "https://arxiv.org/list/cs.AI/recent",
+      "source": "arXiv",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     },
     {
-      "title": "Meta Advances Long-Video Understanding Models",
-      "description": "New results enable question-answering across 30+ minute video sequences with improved multimodal comprehension.",
-      "url": "https://skycrumbs.com/blog/ai-research-july-2026",
-      "source": "Meta AI",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "ICML 2026 Spotlights Model Efficiency Gains",
+      "description": "Papers demonstrate comparable performance from far smaller parameter counts via optimized training.",
+      "url": "https://aiflashreport.com/topics/ai-research-news-page-3.html",
+      "source": "AI Flash Report",
+      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "OpenAI Closes Record $122B Round, Nears $1T Valuation",
-      "description": "900M weekly users, $20B ARR; company prepares IPO targeting near-trillion valuation in Q4 2026.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
+      "title": "OpenAI Closes $122B Round at $852B Valuation",
+      "description": "Prepares for near-$1T IPO in late 2026 amid 900M weekly users and $20B ARR.",
+      "url": "https://builtin.com/articles/top-tech-ipos-2026",
+      "source": "Built In",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "Shield AI Raises $1.5B for Autonomous Skies",
-      "description": "Funds X-BAT jet drone and Aechelon acquisition; projects $540M+ 2026 revenue (80% YoY growth).",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1436491865332-7a61f927d7fc?w=600&q=60"
+      "title": "Anthropic Hits $965B Valuation with $65B Raise",
+      "description": "Surpasses OpenAI as world's most valuable AI startup after latest funding.",
+      "url": "https://money.usnews.com/investing/articles/new-and-upcoming-ipos-in-2026",
+      "source": "U.S. News",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "ElevenLabs Hits $11B Valuation as Voice AI Explodes",
-      "description": "Voice synthesis leader eyes 2027-28 IPO amid mainstream adoption in non-English markets.",
+      "title": "DeepSeek Eyes $1.5B Raise at $71B Valuation",
+      "description": "Chinese AI leader targets IPO in 2026-2027 following strong model releases.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
       "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
-    },
-    {
-      "title": "xAI Secures $20B in Early 2026 Mega-Round",
-      "description": "Integration with SpaceX interests positions xAI for public markets via upcoming SpaceX IPO.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo",
-      "image_url": "https://images.unsplash.com/photo-1517976487492-5d5f5a7f2e0f?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "React 19 & Angular 19 Ship Major Reactivity Upgrades",
-      "description": "React Compiler + Actions; Angular signals and standalone components become default for enterprise apps.",
-      "url": "https://index.dev/blog/software-development-frameworks",
-      "source": "Index.dev",
+      "title": "PyTorch Hits Record Downloads in 2026",
+      "description": "1.3M monthly downloads via Anaconda as dominant ML framework; vLLM + Docker for serving.",
+      "url": "https://www.anaconda.com/guides/ai-development-tools",
+      "source": "Anaconda",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Intel Releases oneAPI 2025.1 Toolkits",
-      "description": "New AI optimizations, torch.compile support, and INT4 quantization for VLMs on Intel hardware.",
-      "url": "https://www.intel.com/content/www/us/en/developer/articles/news/oneapi-news-updates.html",
-      "source": "Intel",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "LangChain & LlamaIndex Power Enterprise RAG",
+      "description": "Leading LLM app frameworks for retrieval-augmented generation and agent orchestration.",
+      "url": "https://github.com/orgs/community/discussions/187143",
+      "source": "GitHub Community",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
-      "title": "Svelte 5 Introduces Runes Reactivity System",
-      "description": "Typed, explicit reactivity replaces old model; aligns with Solid and scales for large applications.",
-      "url": "https://index.dev/blog/software-development-frameworks",
-      "source": "Svelte",
-      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
-    },
-    {
-      "title": "Tauri 2 Launches with Mobile & Rust Desktop Power",
-      "description": "5-20x smaller than Electron; now ships iOS/Android alongside native desktop with native menus.",
-      "url": "https://index.dev/blog/software-development-frameworks",
-      "source": "Tauri",
+      "title": "Replit & Bolt.new Enable Prompt-to-App",
+      "description": "Natural language scaffolding for full-stack AI apps without traditional coding.",
+      "url": "https://www.anaconda.com/guides/ai-development-tools",
+      "source": "Anaconda",
       "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Trump Admin Signs AI Innovation & Security Executive Order",
-      "description": "June 2026 EO establishes frontier model security framework and AI cybersecurity clearinghouse.",
-      "url": "https://www.insideglobaltech.com/2026/07/13/u-s-tech-legislative-regulatory-update-second-quarter-2026",
+      "title": "Trump Signs AI Innovation Executive Order",
+      "description": "June 2026 EO promotes advanced AI while directing federal preemption of burdensome state rules.",
+      "url": "https://www.insideglobaltech.com/2026/07/13/u-s-tech-legislative-regulatory-update-second-quarter-2026/",
       "source": "Inside Global Tech",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "AI Godfathers Converge on Global Regulatory Framework",
-      "description": "Altman, Amodei, Hassabis push IAEA-style U.S.-led international forum for frontier AI oversight.",
-      "url": "https://www.axios.com/2026/07/16/ai-regulations-openai-anthropic-google",
-      "source": "Axios",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
-    },
-    {
-      "title": "NIST & CAISI Partner with Google, Microsoft, xAI on Frontier Testing",
-      "description": "Evaluation partnerships announced for national security testing of advanced AI systems.",
-      "url": "https://www.softwareimprovementgroup.com/blog/us-ai-legislation-overview/",
-      "source": "NIST",
-      "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=60"
-    },
-    {
-      "title": "Federal Preemption Push Continues Against State AI Laws",
-      "description": "DOJ AI Litigation Task Force challenges state statutes; administration seeks 10-year moratorium on new rules.",
-      "url": "https://www.insideglobaltech.com/2026/07/13/u-s-tech-legislative-regulatory-update-second-quarter-2026",
-      "source": "Inside Global Tech",
+      "title": "Connecticut Passes Comprehensive AI Law SB 5",
+      "description": "May 2026 law imposes obligations on developers, deployers for high-risk AI systems.",
+      "url": "https://techinsightedge.com/insight/ai-regulation-news/",
+      "source": "Tech Insight Edge",
       "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+    },
+    {
+      "title": "OpenAI, Anthropic, Databricks Prepare 2026 IPOs",
+      "description": "Frontier labs and data platforms target public markets at $850B–$1T valuations.",
+      "url": "https://builtin.com/articles/top-tech-ipos-2026",
+      "source": "Built In",
+      "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Surpasses 2 Million Public Models",
-      "description": "Ecosystem doubles in 2025; Chinese open-source surge and global sub-communities in robotics/science accelerate.",
+      "title": "Meta Releases Llama 4 Scout with 10M Context",
+      "description": "Open-weight model supports native multimodal and massive long-context windows.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+    },
+    {
+      "title": "DeepSeek R1 & Qwen3 Lead Open Reasoning",
+      "description": "671B MoE and strong agentic models dominate open-source leaderboards on HF.",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Inkling 975B Multimodal MoE Lands on Hugging Face",
-      "description": "Thinking Machines' flagship open-weights model trends immediately with 12.5k stars in days.",
-      "url": "https://huggingface.co/thinkingmachines/Inkling",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "Stability AI Releases SD3 Open-Source Image Model on HF",
-      "description": "Most powerful open uncensored text-to-image generator weights now freely available for local runs.",
-      "url": "https://decrypt.co/234935/stability-ai-releases-sd3-the-most-powerful-open-source-image-generator-is-available-in-huggingface",
-      "source": "Stability AI",
-      "image_url": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=600&q=60"
-    },
-    {
-      "title": "AllenAI OLMo 3.1 Collection Expands on Hugging Face",
-      "description": "New 32B Think/Instruct models plus post-training datasets released for open research community.",
-      "url": "https://huggingface.co/collections/allenai/olmo-31",
-      "source": "AllenAI",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "ByteDance Seed Open-Sources PAR Model",
+      "description": "Apache-2.0 licensed PAR released on Hugging Face for US region, boosting open ecosystem.",
+      "url": "https://zglg.work/en/ai/news/2026-07-03-bytedance-seed-open-sources-new-par-model-on-hugging-face",
+      "source": "ZGLG",
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
     }
   ]
 }
