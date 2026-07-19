@@ -1,105 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "NYU Tisch Partners with Runway for AI Video Credits",
-      "description": "NYU Tisch School of the Arts strikes deal with Runway giving students near-unlimited video-generation credits as part of Hyper Cinema experiment.",
+      "title": "NYU Tisch Strikes Runway Deal for Unlimited AI Video Credits",
+      "description": "Prestigious film school integrates generative AI tools into curriculum with near-unlimited video generation access for students.",
       "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
       "source": "No Film School",
-      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     },
     {
       "title": "Sundance Institute Receives $2M Google.org Grant for AI Literacy",
-      "description": "Google.org gifts Sundance $2M to train 100,000 artists in AI literacy bridging independent film and tech.",
+      "description": "Major funding to train 100,000 artists in AI tools, bridging independent film and Silicon Valley.",
       "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
       "source": "No Film School",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99e3e8e8c?w=600&q=60"
     },
     {
-      "title": "AI Film School Launches Festival-Ready Short Film Course",
-      "description": "AI Video School course project becomes semi-finalist at Austin AI Film Festival and finalist at Seoul International AI Film Festival.",
-      "url": "https://aivideo.school/",
-      "source": "AI Video School",
-      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
+      "title": "Chapman University Invites AI Actress Tilly Norwood for Lecture",
+      "description": "Dodge College hosts talks on AI-heavy cinema as part of $40k program investment.",
+      "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
+      "source": "No Film School",
+      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Amazon MGM Studios Greenlights Three AI Series for Prime Video",
-      "description": "Amazon MGM launches GenAI Creators’ Fund and purpose-built AI production platform with AWS for visual storytelling.",
+      "title": "Amazon MGM Studios Greenlights Three AI Series Under GenAI Fund",
+      "description": "First purpose-built AI production platform for Prime Video with AWS integration.",
       "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
       "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "Google Invests $75 Million in A24 for AI Filmmaking Tools",
-      "description": "Google partners with A24 to develop AI-powered filmmaking tools using DeepMind research and infrastructure.",
-      "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+      "title": "OpenAI Announces Sora Consumer App and API Shutdown Timeline",
+      "description": "Sora app dark April 2026, API sunset September 2026 amid shifting priorities.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     },
     {
-      "title": "AI Video Market Hits $847M in 2026 with 124M Monthly Users",
-      "description": "Global AI video generator market projected at $847 million; 124 million monthly active users across platforms.",
-      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
-      "source": "Vivideo",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "Runway Closes $315M Raise as EU AI Act Enforcement Looms",
+      "description": "Major funding round coincides with Article 50 watermarking requirements starting August 2026.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Vivideo.ai Launches Unified Multi-Model AI Video Workflow",
-      "description": "New release adds multi-model workflow, expanded avatars and long-form support consolidating text-to-video and image-to-video in one platform.",
+      "title": "Vivideo.ai Launches Unified Multi-Model Workflow with Avatars",
+      "description": "Consolidates text-to-video, image-to-video, and long-form tools with expanded AI avatars and voice.",
       "url": "https://www.manilatimes.net/2026/07/14/tmt-newswire/globenewswire/vivideoai-expands-ai-video-platform-with-unified-multi-model-workflow-and-expanded-avatar-and-voice-tools/2384413/amp",
       "source": "Manila Times",
-      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
     },
     {
-      "title": "Google Releases Veo 3.1 with 120-Second 1080p Generation",
-      "description": "Veo 3.1 launched June 29 2026 featuring native audio, cinematic controls and budget tier at $0.05/second.",
-      "url": "https://resource.digen.ai/new-ai-video-generators-2026/",
-      "source": "Digen AI",
-      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&q=60"
+      "title": "Higgsfield AI Integrates Kling 3.0, Veo 3.1, Sora 2 with Cinema Studio",
+      "description": "Full creative control platform adds camera motion, character locking and multi-model access.",
+      "url": "https://higgsfield.ai/ai-video",
+      "source": "Higgsfield",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "Kling AI Adds Real-Time Collaborative Editing in July 2026 Update",
-      "description": "Kling platform update introduces real-time team editing and 98% visual consistency for anime and stylized content.",
-      "url": "https://resource.digen.ai/new-ai-video-generators-2026/",
-      "source": "Digen AI",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "Reap Emerges as Top AI Video Editor for Batch Shorts Repurposing",
+      "description": "Combines clipping, flexible editor, freeform captions, Auto Reframe and API in one workflow.",
+      "url": "https://reap.video/blog/best-ai-video-editing-tools",
+      "source": "Reap",
+      "image_url": "https://images.unsplash.com/photo-1574717024453-35456c3a6e2f?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "Short-Form AI Video Dominates with 840% Growth Since 2024",
-      "description": "AI video generation volume grew 840% between Jan 2024 and Jan 2026; YouTube Shorts passes 70 billion daily views.",
-      "url": "https://pictory.ai/blog/ai-video-trends-2026",
-      "source": "Pictory",
-      "image_url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&q=60"
+      "title": "AI YouTube Niches Explode: Tool Tutorials, Faceless How-Tos Lead 2026",
+      "description": "Top verticals include AI animated storytelling, historical education, music videos and news analysis.",
+      "url": "https://gen.pro/blog/youtube-ai-video",
+      "source": "GEN.pro",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     },
     {
-      "title": "AI Avatars Enable Personalized Video at Scale for SMBs",
-      "description": "Small and medium businesses growing at 21.1% CAGR; 46% of AI video platform sign-ups now from SMBs.",
-      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
-      "source": "Vivideo",
+      "title": "Vertical AI Video in AEC and Freight Forwarding Gains Traction",
+      "description": "Multimodal models enable 3D design, visual inspection and invoice processing in specialized industries.",
+      "url": "https://www.bvp.com/atlas/part-ii-multimodal-capabilities-unlock-new-opportunities-in-vertical-ai",
+      "source": "Bessemer",
+      "image_url": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&q=60"
+    },
+    {
+      "title": "Personalized Interactive Videos Transform Marketing and Training",
+      "description": "AI generates viewer-specific content for sales, employee training and product explainers at scale.",
+      "url": "https://www.wevideo.com/blog/ai-in-action",
+      "source": "WeVideo",
       "image_url": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Fliki Offers Free Digital Twin Creation for AI Video",
-      "description": "Fliki lets creators record once to build AI digital twin for videos in 80+ languages with no credit card required.",
-      "url": "https://fliki.ai/",
+      "title": "InVideo Offers 50 Free AI Minutes on Annual Plans Through July 2026",
+      "description": "Promo codes deliver high-volume prompt-to-video access for creators and marketers.",
+      "url": "https://www.usatoday.com/deals/invideo",
+      "source": "USA Today",
+      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
+    },
+    {
+      "title": "Fliki and Pictory Extend Deep Annual Discounts for AI Video Tools",
+      "description": "50% off yearly plans and locked renewal rates reduce costs for training and marketing videos.",
+      "url": "https://fliki.ai/blog/black-friday-ai-video-tools",
       "source": "Fliki",
-      "image_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+    },
+    {
+      "title": "AI Video Production Costs Drop Below $30 per Minute with New Platforms",
+      "description": "Compared to traditional $1k–$50k per minute, generative tools deliver 100x savings.",
+      "url": "https://www.imagine.art/blogs/ai-video-generators-cost",
+      "source": "ImagineArt",
+      "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "AI-Generated Short Film Selected for Multiple International Festivals",
-      "description": "AI Video School project short film reaches semi-finalist at Austin AI Film Festival and finalist at Seoul International AI Film Festival.",
-      "url": "https://aivideo.school/",
-      "source": "AI Video School",
-      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
+      "title": "AI Video Portfolio Showcases Randomized Art Experiences",
+      "description": "Experimental site generates unique video art with random visuals, music and text on every view.",
+      "url": "https://ai-video-portfolio.vercel.app/",
+      "source": "Vercel",
+      "image_url": "https://images.unsplash.com/photo-1547891654-c66b80c5a3a1?w=600&q=60"
+    },
+    {
+      "title": "Superside Delivers 5-Day AI-Assisted Brand Campaigns for Synthego",
+      "description": "Generative Fill and AI assets create high-quality promo videos with 1,500-image library.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=600&q=60"
+    },
+    {
+      "title": "Popeyes and Virgin Voyages Launch Playful AI Diss Track and Personalized Campaigns",
+      "description": "Bold brand videos blend AI generation with celebrity charisma and cultural moments.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99e3e8e8c?w=600&q=60"
     }
   ]
 }

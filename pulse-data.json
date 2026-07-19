@@ -1,117 +1,152 @@
 {
   "ai": [
     {
-      "title": "Moonshot AI Releases Kimi K3",
-      "description": "Latest frontier model from Moonshot AI with major reasoning and multimodal gains, released July 16, 2026.",
-      "url": "https://aireleasetracker.com/latest",
-      "source": "AI Release Tracker",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
-    },
-    {
-      "title": "OpenAI Launches GPT-5.6 Family",
-      "description": "Sol, Terra, and Luna models debut with advanced agentic capabilities for coding and biology.",
-      "url": "https://buildez.ai/blog/ai-new-model-july-2026-developments",
-      "source": "BuildEZ Blog",
+      "title": "MIT-Stanford Preprint: Self-Correction Key to Reasoning Models",
+      "description": "Analysis shows training for self-correction during reasoning outperforms sheer scale on hard math and logic problems.",
+      "url": "https://skycrumbs.com/blog/ai-research-july-2026",
+      "source": "Skycrumbs",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "ByteDance Drops UniVR-34B-Planning",
-      "description": "New 34B planning-focused LLM released July 13, 2026 on Hugging Face.",
-      "url": "https://aiflashreport.com/model-releases.html",
-      "source": "AI Flash Report",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Moonshot AI Releases Kimi K3: 2.8 Trillion Parameter Open MoE",
+      "description": "Massive open mixture-of-experts model with Kimi Delta Attention and 1M context window hits the scene.",
+      "url": "https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/",
+      "source": "MarkTechPost",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "Thinking Machines Lab Drops Inkling 975B Multimodal MoE",
+      "description": "Open-weights 975B parameter multimodal mixture-of-experts model released for advanced reasoning tasks.",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "source": "Thinking Machines",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+    },
+    {
+      "title": "Meta Advances Long-Video Understanding Models",
+      "description": "New results enable question-answering across 30+ minute video sequences with improved multimodal comprehension.",
+      "url": "https://skycrumbs.com/blog/ai-research-july-2026",
+      "source": "Meta AI",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Anthropic Files for IPO After $65B Round",
-      "description": "Claude maker confidentially files for public listing following massive May funding.",
-      "url": "https://dealroom.net/blog/upcoming-recent-ipos",
-      "source": "Dealroom",
-      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
-    },
-    {
-      "title": "OpenAI Confidential IPO Filing at $852B Valuation",
-      "description": "OpenAI submits S-1, eyeing near-$1T valuation ahead of Q4 2026 public debut.",
-      "url": "https://www.ipox.com/ipox/the-ipox-update-07182026",
-      "source": "IPOX",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "MGX Closes $49B AI Fund",
-      "description": "Abu Dhabi firm exceeds target with record AI-focused capital from global investors.",
+      "title": "OpenAI Closes Record $122B Round, Nears $1T Valuation",
+      "description": "900M weekly users, $20B ARR; company prepares IPO targeting near-trillion valuation in Q4 2026.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
+    },
+    {
+      "title": "Shield AI Raises $1.5B for Autonomous Skies",
+      "description": "Funds X-BAT jet drone and Aechelon acquisition; projects $540M+ 2026 revenue (80% YoY growth).",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1436491865332-7a61f927d7fc?w=600&q=60"
+    },
+    {
+      "title": "ElevenLabs Hits $11B Valuation as Voice AI Explodes",
+      "description": "Voice synthesis leader eyes 2027-28 IPO amid mainstream adoption in non-English markets.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=60"
+    },
+    {
+      "title": "xAI Secures $20B in Early 2026 Mega-Round",
+      "description": "Integration with SpaceX interests positions xAI for public markets via upcoming SpaceX IPO.",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "source": "Crescendo",
+      "image_url": "https://images.unsplash.com/photo-1517976487492-5d5f5a7f2e0f?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "LangGraph 0.5 Ships Major Agent Updates",
-      "description": "LangChain's graph framework adds state management and human-in-the-loop patterns for reliable agents.",
-      "url": "https://skycrumbs.com/blog/ai-developer-tools-july-2026",
-      "source": "Skycrumbs",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "title": "React 19 & Angular 19 Ship Major Reactivity Upgrades",
+      "description": "React Compiler + Actions; Angular signals and standalone components become default for enterprise apps.",
+      "url": "https://index.dev/blog/software-development-frameworks",
+      "source": "Index.dev",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Weaviate 2.0 Reaches General Availability",
-      "description": "Vector DB hits GA with hybrid search, multi-tenancy, and improved enterprise APIs.",
-      "url": "https://skycrumbs.com/blog/ai-developer-tools-july-2026",
-      "source": "Skycrumbs",
-      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
+      "title": "Intel Releases oneAPI 2025.1 Toolkits",
+      "description": "New AI optimizations, torch.compile support, and INT4 quantization for VLMs on Intel hardware.",
+      "url": "https://www.intel.com/content/www/us/en/developer/articles/news/oneapi-news-updates.html",
+      "source": "Intel",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "JetBrains AI Assistant July Update",
-      "description": "Enhanced context awareness and project-convention matching across IDEs.",
-      "url": "https://skycrumbs.com/blog/ai-developer-tools-july-2026",
-      "source": "Skycrumbs",
-      "image_url": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=60"
+      "title": "Svelte 5 Introduces Runes Reactivity System",
+      "description": "Typed, explicit reactivity replaces old model; aligns with Solid and scales for large applications.",
+      "url": "https://index.dev/blog/software-development-frameworks",
+      "source": "Svelte",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=60"
+    },
+    {
+      "title": "Tauri 2 Launches with Mobile & Rust Desktop Power",
+      "description": "5-20x smaller than Electron; now ships iOS/Android alongside native desktop with native menus.",
+      "url": "https://index.dev/blog/software-development-frameworks",
+      "source": "Tauri",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Trump Admin Pushes Federal AI Preemption",
-      "description": "White House advances national policy framework to override state AI laws amid national security concerns.",
-      "url": "https://www.softwareimprovementgroup.com/blog/us-ai-legislation-overview/",
-      "source": "Software Improvement Group",
+      "title": "Trump Admin Signs AI Innovation & Security Executive Order",
+      "description": "June 2026 EO establishes frontier model security framework and AI cybersecurity clearinghouse.",
+      "url": "https://www.insideglobaltech.com/2026/07/13/u-s-tech-legislative-regulatory-update-second-quarter-2026",
+      "source": "Inside Global Tech",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "NIST Expands Frontier Model Evaluations",
-      "description": "CAISI signs evaluation pacts with Google, Microsoft, and xAI for pre-deployment testing.",
-      "url": "https://www.insideglobaltech.com/2026/07/13/u-s-tech-legislative-regulatory-update-second-quarter-2026/",
-      "source": "Inside Global Tech",
+      "title": "AI Godfathers Converge on Global Regulatory Framework",
+      "description": "Altman, Amodei, Hassabis push IAEA-style U.S.-led international forum for frontier AI oversight.",
+      "url": "https://www.axios.com/2026/07/16/ai-regulations-openai-anthropic-google",
+      "source": "Axios",
       "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "EU AI Act Phased Obligations Begin",
-      "description": "Transparency and risk classification rules for general-purpose AI systems enter force.",
-      "url": "https://www.zonetechify.com/blog/ai-news-july-2026-latest-ai-developments",
-      "source": "ZoneTechify",
+      "title": "NIST & CAISI Partner with Google, Microsoft, xAI on Frontier Testing",
+      "description": "Evaluation partnerships announced for national security testing of advanced AI systems.",
+      "url": "https://www.softwareimprovementgroup.com/blog/us-ai-legislation-overview/",
+      "source": "NIST",
       "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=60"
+    },
+    {
+      "title": "Federal Preemption Push Continues Against State AI Laws",
+      "description": "DOJ AI Litigation Task Force challenges state statutes; administration seeks 10-year moratorium on new rules.",
+      "url": "https://www.insideglobaltech.com/2026/07/13/u-s-tech-legislative-regulatory-update-second-quarter-2026",
+      "source": "Inside Global Tech",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Inkling 1T Multimodal Model Lands on HF",
-      "description": "Thinking Machines releases 1T-parameter native image-text-audio model with 1M context.",
-      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "source": "Hugging Face Blog",
-      "image_url": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=600&q=60"
-    },
-    {
-      "title": "Mistral Open-Sources Leanstral 1.5",
-      "description": "119B MoE model released with open weights on Hugging Face and API access.",
-      "url": "https://huggingface.co/blog/Svngoku/ai-models-week-july-09-2026",
+      "title": "Hugging Face Surpasses 2 Million Public Models",
+      "description": "Ecosystem doubles in 2025; Chinese open-source surge and global sub-communities in robotics/science accelerate.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
     },
     {
-      "title": "transformers v5.14.0 Released",
-      "description": "Major update adds Inkling support, generation improvements, and performance kernels.",
-      "url": "https://releasebot.io/updates/huggingface",
-      "source": "Releasebot",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "Inkling 975B Multimodal MoE Lands on Hugging Face",
+      "description": "Thinking Machines' flagship open-weights model trends immediately with 12.5k stars in days.",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "source": "Hugging Face",
+      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+    },
+    {
+      "title": "Stability AI Releases SD3 Open-Source Image Model on HF",
+      "description": "Most powerful open uncensored text-to-image generator weights now freely available for local runs.",
+      "url": "https://decrypt.co/234935/stability-ai-releases-sd3-the-most-powerful-open-source-image-generator-is-available-in-huggingface",
+      "source": "Stability AI",
+      "image_url": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=600&q=60"
+    },
+    {
+      "title": "AllenAI OLMo 3.1 Collection Expands on Hugging Face",
+      "description": "New 32B Think/Instruct models plus post-training datasets released for open research community.",
+      "url": "https://huggingface.co/collections/allenai/olmo-31",
+      "source": "AllenAI",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     }
   ]
 }
