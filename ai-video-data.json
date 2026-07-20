@@ -1,140 +1,140 @@
 {
   "filmschool": [
     {
-      "title": "NYU Tisch Partners with Runway for AI Film Credits",
-      "description": "NYU Tisch School of the Arts strikes deal giving students unlimited Runway video generation credits for Hyper Cinema experiments.",
-      "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
-      "source": "No Film School",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
-    },
-    {
-      "title": "Kentucky Wesleyan Launches Dedicated AI Filmmaking Course",
-      "description": "New course blends traditional filmmaking with generative AI storytelling tools for 2026 curriculum.",
-      "url": "https://filmlocal.com/filmmaking/why-hollywood-editors-are-quietly-using-ai-filmmaking/",
-      "source": "Film Local",
+      "title": "Best AI Tools for Film Production in 2026",
+      "description": "ImagineArt leads as the all-in-one platform; Google Flow offers free cinematic entry with Veo 3.1; Rutgers launches dedicated AI filmmaking course.",
+      "url": "https://www.imagine.art/blogs/ai-tools-for-film-production",
+      "source": "ImagineArt",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
     },
     {
-      "title": "Sundance Receives $2M Google.org Grant for AI Literacy",
-      "description": "Google.org funds training for 100,000 artists bridging independent film and Silicon Valley tech.",
-      "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
-      "source": "No Film School",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99a2a7fca?w=600&q=60"
+      "title": "AI Video School: Fundamentals of AI Filmmaking",
+      "description": "New course teaching visual storytelling fundamentals over tool-clicking; focuses on consistent characters and emotional narrative with latest models.",
+      "url": "https://aivideoschool.xyz/",
+      "source": "AI Video School",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "Variety Education Impact Report 2026",
+      "description": "Rutgers and other schools integrate generative AI courses; students adapt to AI-driven cinema landscape with new storytelling techniques.",
+      "url": "https://variety.com/2026/film/focus/education-impact-report-2026-1236726484/",
+      "source": "Variety",
+      "image_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "Amazon MGM Greenlights Three AI Series for Prime Video",
-      "description": "New GenAI Creators’ Fund launches purpose-built AI production platform with AWS for visual storytelling.",
-      "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
-      "source": "Variety",
-      "image_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=60"
+      "title": "ByteDance Targets July Launch of Seedance 2.5",
+      "description": "Volcengine's upgraded model brings native 4K, 30-second clips and 3D pre-vis for professional filmmaking and micro-drama markets.",
+      "url": "https://www.caixinglobal.com/2026-06-24/tech-brief-june-24-bytedance-targets-july-launch-of-upgraded-ai-video-model-102457122.html",
+      "source": "Caixin Global",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "Lionsgate and Runway Partner for Generative Video IP",
-      "description": "Joint program develops new IP starting with short-form series leveraging existing Lionsgate properties.",
-      "url": "https://www.forbes.com/sites/andymeek/2026/07/06/the-biggest-media-deals-of-q2-2026/",
-      "source": "Forbes",
-      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
+      "title": "AI Video Generation Market Grows 340% Since 2025",
+      "description": "Veo 3.1 leads photorealism; 72% of marketers now use AI video tools; open-source models reshape enterprise adoption.",
+      "url": "https://resource.digen.ai/new-ai-video-generators-2026/",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "A24 Partners with Google for AI Production Workflows",
-      "description": "Google invests in A24 to research and deploy AI tools across film and TV production pipelines.",
-      "url": "https://www.forbes.com/sites/andymeek/2026/07/06/the-biggest-media-deals-of-q2-2026/",
-      "source": "Forbes",
-      "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
+      "title": "Open Weights Transform Enterprise AI Video",
+      "description": "LTX-2.3 and similar models run on consumer GPUs; resolves IP and data-sovereignty blockers for regulated industries.",
+      "url": "https://ltx.io/blog/ai-video-trends",
+      "source": "LTX Studio",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Google Releases Veo 3.1 with Native Audio and 120s Clips",
-      "description": "June 2026 launch delivers 1080p cinematic controls, lighting, and integrated dialogue/sound effects.",
+      "title": "Google Veo 3.1 Released June 29, 2026",
+      "description": "Leading model with 120-second 1080p generation, cinematic controls, and superior temporal consistency via 3D latent diffusion.",
+      "url": "https://zapier.com/blog/best-ai-video-generator/",
+      "source": "Zapier",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+    },
+    {
+      "title": "Seedance 2.5 & Runway Gen-4.5 Updates",
+      "description": "ByteDance Seedance adds 4K and audio integration; Runway delivers pro camera direction and commercial-grade control stack.",
       "url": "https://resource.digen.ai/new-ai-video-generators-2026/",
-      "source": "Digen",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f6b7?w=600&q=60"
+    },
+    {
+      "title": "Synthesia & HeyGen LiveAvatar Advances",
+      "description": "Interactive real-time avatars and improved lip-sync drive enterprise training and personalized marketing video production.",
+      "url": "https://zapier.com/blog/best-ai-video-generator/",
+      "source": "Zapier",
       "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
-    },
-    {
-      "title": "Kling 3.0 Ships Native 4K and Real-Time Collaboration",
-      "description": "Kuaishou’s February update adds multilingual audio and team editing features for stylized content.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=60"
-    },
-    {
-      "title": "Seedance 2.0 Tops Leaderboards with Motion-Heavy Scenes",
-      "description": "ByteDance model reaches #1 Elo score supporting image, video, and audio references in single pass.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1536240478700-b869070585d1?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "AI Corporate Training Cuts Production from 2 Hours to 10 Minutes",
-      "description": "Trupeer and ElevenLabs stack automates narration, subtitles, and structure for SaaS demos and HR modules.",
-      "url": "https://leadde.ai/blog/how-to-produce-a-corporate-video-with-ai",
-      "source": "Leadde",
+      "title": "AI Video for Music & E-learning",
+      "description": "80% of indie artists now use AI video for campaigns; 54% of online course creators adopt talking-head generators with perfect lip-sync.",
+      "url": "https://resource.digen.ai/new-ai-video-generators-2026/",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d2f0d0c?w=600&q=60"
+    },
+    {
+      "title": "Local News & Weather AI Automation",
+      "description": "35% of local news stations deploy AI video for stock updates and weather reports; reduces production costs dramatically.",
+      "url": "https://resource.digen.ai/transform-content-with-ai-video-2026/",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=600&q=60"
+    },
+    {
+      "title": "HR & Corporate Training Videos",
+      "description": "63% of enterprises use AI-generated videos for onboarding; 76% time savings reported on policy update videos.",
+      "url": "https://resource.digen.ai/transform-content-with-ai-video-2026/",
+      "source": "Digen AI",
       "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
-    },
-    {
-      "title": "Real Estate 3D Walkthroughs Generated from Listing Photos",
-      "description": "Luma Dream Machine Pro and Digen Agent turn static images into narrated 360° property tours at scale.",
-      "url": "https://resource.digen.ai/best-ai-video-tools-for-business-2026-2/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=60"
-    },
-    {
-      "title": "E-commerce Product Videos Lift Conversions 35%",
-      "description": "AI tools generate 360° spins and usage demos directly from product images for online retailers.",
-      "url": "https://resource.digen.ai/best-ai-video-tools-for-business-2026-2/",
-      "source": "Digen",
-      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "InVideo July 2026 Promo Codes Offer 25-50% Off",
-      "description": "USA TODAY verified coupons deliver up to 50% savings on subscription plans for text-to-video workflows.",
-      "url": "https://www.usatoday.com/deals/invideo",
-      "source": "USA Today",
+      "title": "Fliki 50% Off Yearly Plans",
+      "description": "Standard plan $168/year (save $168); Premium $528/year; best for training, marketing and educational voice-first videos.",
+      "url": "https://fliki.ai/blog/black-friday-ai-video-tools",
+      "source": "Fliki",
       "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
     },
     {
-      "title": "Creaitor.ai Creator Plans Discounted 12-40% for New Users",
-      "description": "Multiple verified promo codes slash AI video maker subscriptions through July 2026.",
-      "url": "https://creaitorai.startupworld.com/",
-      "source": "Startup World",
+      "title": "InVideo 50 Free AI Minutes + 30% Off",
+      "description": "Annual plans include 50 free AI minutes first month with code IBF50; Studio plans 25-30% off for high-volume creators.",
+      "url": "https://fliki.ai/blog/black-friday-ai-video-tools",
+      "source": "InVideo",
       "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     },
     {
-      "title": "Lifetime AI Video Studios Available for $80-$90 Flat Fee",
-      "description": "Centralized platforms bundle voice, image, and video generation with Emotion AI in one-time purchases.",
-      "url": "https://resource.digen.ai/text-to-video-ai-software-lifetime-deals-2026/",
-      "source": "Digen",
+      "title": "Media.io 30% Off AI Credits",
+      "description": "Lowest price of the year on 2000-credit plans with 500 free credits; includes Nano Banana Pro image-to-video tools.",
+      "url": "https://www.media.io/sales-promotion.html",
+      "source": "Media.io",
       "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "AIART2026 Workshop and Gallery Opens in Bangkok",
-      "description": "IEEE event showcases multimodal agents and interactive AI artworks July 5-9 with live gallery exhibits.",
-      "url": "https://aiart2026.github.io/",
-      "source": "AIART2026",
-      "image_url": "https://images.unsplash.com/photo-1547891654-c8341d6a2d0a?w=600&q=60"
+      "title": "Kalshi NBA Finals AI Ad — $2,000 Budget",
+      "description": "Surrealistic AI commercial reached millions during NBA Finals; proves low-budget AI video can compete with traditional production.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&q=60"
     },
     {
-      "title": "Top AI Artists 2026: Hidreley Diao Leads with Viral Caricatures",
-      "description": "Brazilian creator’s pet portraits and pop-culture tributes drive empathy and social storytelling on Bored Panda.",
-      "url": "https://www.favikon.com/blog/top-ai-artists-social-media",
-      "source": "Favikon",
-      "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=60"
+      "title": "Microsoft Surface AI Storytelling Campaign",
+      "description": "Product features visualized through generative AI in under one month; heavy human editing kept brand voice authentic.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
     },
     {
-      "title": "Tropland Universe Builds Digital Animal Kingdom with AI",
-      "description": "Josh Gottsegen’s vibrant lion and wildlife narratives blend AI generation with heartwarming storytelling.",
-      "url": "https://www.favikon.com/blog/top-ai-artists-social-media",
-      "source": "Favikon",
-      "image_url": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=600&q=60"
+      "title": "Virgin Voyages 'Jen AI' Personalized Campaign",
+      "description": "Playful AI-powered promo blended celebrity charisma with personalized messaging; created exclusive-feeling audience experience.",
+      "url": "https://www.superside.com/blog/ai-video-examples",
+      "source": "Superside",
+      "image_url": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=60"
     }
   ]
 }
