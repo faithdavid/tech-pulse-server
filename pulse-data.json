@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Kimi K3 Released by Moonshot AI",
-      "description": "Latest frontier model release on July 16, 2026, advancing multimodal and agentic capabilities.",
+      "title": "Gemini 3.6 Flash Released",
+      "description": "Google releases Gemini 3.6 Flash on Jul 21 2026, latest frontier model update.",
       "url": "https://aireleasetracker.com/latest",
       "source": "AI Release Tracker",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
       "title": "Reasoning Models Self-Correct Breakthrough",
-      "description": "MIT/Stanford preprint shows self-correction during reasoning is key to solving hard math/logic problems.",
+      "description": "MIT and Stanford preprint shows self-correction during reasoning is key to success on hard problems.",
       "url": "https://skycrumbs.com/blog/ai-research-july-2026",
       "source": "Skycrumbs Blog",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "DeepMind Tops IMO Math Benchmark",
-      "description": "Google DeepMind system scores top 1% on International Mathematical Olympiad problems.",
+      "title": "Long-Horizon Software Engineering Gains",
+      "description": "DeepMind approach improves success rates on SWE-Bench for issues requiring 10+ steps.",
       "url": "https://skycrumbs.com/blog/ai-research-july-2026",
       "source": "Skycrumbs Blog",
-      "image_url": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "OpenAI $122B Round Values Company High",
-      "description": "OpenAI raises $122B, now worth more than most countries with $20B+ annualized revenue.",
-      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
-      "source": "Crescendo AI",
+      "title": "OpenAI Closes $122B Round at $852B Valuation",
+      "description": "OpenAI raises $122 billion, targets $1 trillion IPO in late 2026 with $25B annualized revenue.",
+      "url": "https://aifundingtracker.com/ai-ipo-tracker/",
+      "source": "AI Funding Tracker",
       "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=60"
     },
     {
-      "title": "Neko Raises $700M for Health AI",
-      "description": "Series C for AI-powered health scanning platform led by Lightspeed.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "title": "Anthropic in Talks for $50B at $900B Valuation",
+      "description": "Anthropic pushes toward $900 billion valuation with major investor interest.",
+      "url": "https://aifundingtracker.com/ai-ipo-tracker/",
       "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&q=60"
     },
     {
-      "title": "Shield AI Secures $1.5B for Autonomous Drones",
-      "description": "Funding fuels X-BAT jet fighter drone and Aechelon acquisition; $540M 2026 revenue projected.",
+      "title": "Shield AI Raises $1.5B for Autonomous Drones",
+      "description": "Shield AI secures $1.5B to advance X-BAT jet fighter drone and acquire Aechelon.",
       "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
       "source": "Crescendo AI",
-      "image_url": "https://images.unsplash.com/photo-1436491865332-7a61f927d7d5?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "IBM Launches Bob with Multi-Agent AI",
-      "description": "New tools for legacy modernisation and multi-agent AI capabilities in enterprise.",
-      "url": "https://www.developer-tech.com/news/ibm-bob-multi-agent-ai-legacy-modernisation/",
-      "source": "Developer Tech",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Xcode 27 Introduces Agentic Coding",
+      "description": "Apple's Xcode 27 brings full power of Anthropic, Google, and OpenAI agents into developer workflows.",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools",
+      "source": "Apple Newsroom",
+      "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=60"
     },
     {
-      "title": ".NET July 2026 Servicing Updates",
-      "description": "Security and non-security fixes released for .NET 10, 9, and 8 frameworks.",
-      "url": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/",
-      "source": "Microsoft .NET Blog",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "title": "GitHub Copilot Hits 20M Users",
+      "description": "Copilot reaches 20 million users with agent mode and support for 20+ models including Claude and GPT-4o.",
+      "url": "https://www.buildmvpfast.com/blog/best-developer-tools-2026-tech-stack",
+      "source": "BuildMVPFast",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=60"
     },
     {
-      "title": "Hugging Face Adds AI Agent Builder to Spaces",
-      "description": "New Space creation page includes AI agent option for faster iteration.",
-      "url": "https://releasebot.io/updates/huggingface",
-      "source": "Releasebot",
+      "title": "Playwright Dominates E2E Testing",
+      "description": "Playwright achieves 45% adoption among QA professionals with 235% YoY growth.",
+      "url": "https://www.buildmvpfast.com/blog/best-developer-tools-2026-tech-stack",
+      "source": "BuildMVPFast",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "EU AI Act Phased Rollout Accelerates",
-      "description": "Obligations for general-purpose and high-risk AI systems now in force globally influencing policy.",
-      "url": "https://www.zonetechify.com/blog/ai-news-july-2026-latest-ai-developments",
-      "source": "ZoneTechify",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
-    },
-    {
-      "title": "US States Enact AI Privacy and Disclosure Laws",
-      "description": "Arkansas children’s privacy bill and Colorado revised AI Act focus on transparency and audits.",
-      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
-      "source": "The Verge",
+      "title": "Trump Signs AI Innovation Executive Order",
+      "description": "June 2026 EO establishes framework for secure frontier AI development and cybersecurity clearinghouse.",
+      "url": "https://www.insideglobaltech.com/2026/07/13/u-s-tech-legislative-regulatory-update-second-quarter-2026/",
+      "source": "Inside Global Tech",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "NIST Partners with DeepMind, Microsoft, xAI",
-      "description": "New agreements for pre-deployment AI model evaluations and frontier capability research.",
+      "title": "DOJ Challenges State AI Laws",
+      "description": "DOJ AI Litigation Task Force intervenes to invalidate Colorado AI Act and preempt state regulations.",
       "url": "https://www.insideglobaltech.com/2026/07/13/u-s-tech-legislative-regulatory-update-second-quarter-2026/",
       "source": "Inside Global Tech",
-      "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
+    },
+    {
+      "title": "NIST Launches AI Agent Standards Initiative",
+      "description": "NIST advances standards for agentic AI systems security and deployment.",
+      "url": "https://www.globalpolicywatch.com/2026/04/u-s-tech-legislative-regulatory-update-first-quarter-2026",
+      "source": "Global Policy Watch",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Transformers v5.14.0 Released",
-      "description": "Major updates with new models like Inkling, TIPSv2 and performance improvements.",
-      "url": "https://releasebot.io/updates/huggingface",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+      "title": "Llama 4 Scout Released with 10M Context",
+      "description": "Meta releases Llama 4 Scout with native multimodal input and massive 10M token context window.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "Hugging Face Blog",
+      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "Kimi K2.5 Open-Source Multimodal Agent",
-      "description": "Advances long-horizon coding and autonomous execution in open-source community.",
-      "url": "https://releasebot.io/updates/huggingface",
-      "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
+      "title": "Kimi K2.6 and DeepSeek V4 Top Open-Source Charts",
+      "description": "Moonshot and DeepSeek models lead for coding, reasoning, and agentic workflows on Hugging Face.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "Hugging Face Blog",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "NVIDIA Cosmos 3 World Foundation Model",
-      "description": "Unified MoT architecture for physical AI, world generation and action in robotics.",
-      "url": "https://releasebot.io/updates/huggingface",
+      "title": "Hugging Face Ecosystem Doubles in 2025",
+      "description": "13M users, 2M+ models, 500k datasets as open-source AI activity surges globally.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "source": "Hugging Face",
-      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
     }
   ]
 }
