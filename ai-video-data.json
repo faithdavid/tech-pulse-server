@@ -1,126 +1,105 @@
 {
   "filmschool": [
     {
-      "title": "Google Flow Veo AI Filmmaking Tool",
-      "description": "Google introduces Flow as an AI filmmaking workspace with camera controls, scene building, and asset management for Veo and Gemini users.",
-      "url": "https://blog.google/innovation-and-ai/products/google-flow-veo-ai-filmmaking-tool/",
-      "source": "Google Blog",
+      "title": "Best AI Tools for Film Production in 2026",
+      "description": "Comprehensive guide covering Google Flow, Seedance 2.0, Kling 3.0 and full pipeline for cinematic filmmaking.",
+      "url": "https://www.imagine.art/blogs/ai-tools-for-film-production",
+      "source": "ImagineArt",
       "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=60"
     },
     {
-      "title": "16 Best AI Filmmaking Tools 2026",
-      "description": "StudioBinder organizes 16 AI tools by workflow phase: pre-production storyboarding, production virtual sets, and post-production editing.",
+      "title": "AI Video School Launches Festival-Winning Course",
+      "description": "New curriculum covers 30+ AI tools; student films reach Austin, Atlanta, Seoul festivals.",
+      "url": "https://aivideo.school/",
+      "source": "AI Video School",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+    },
+    {
+      "title": "16 Best AI Filmmaking Tools Organized by Workflow",
+      "description": "StudioBinder breaks down pre-production, production and post tools including Midjourney and Adobe Podcast.",
       "url": "https://www.studiobinder.com/blog/ai-filmmaking-tools/",
       "source": "StudioBinder",
       "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=60"
-    },
-    {
-      "title": "AI Video Generation Workflow Tools 2026",
-      "description": "Digen AI Agent leads autonomous workflows; production time for music videos drops from 3 weeks to 3 days.",
-      "url": "https://resource.digen.ai/ai-video-generation-workflow-tools-2026/",
-      "source": "Digen AI",
-      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "OpenAI-Disney $1B Partnership",
-      "description": "Landmark $1B deal for licensed character generation; first studio-AI partnership at this scale.",
-      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
-      "source": "WaveSpeed",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=60"
+      "title": "OpenAI Closes Sora App and Cancels $1B Disney Deal",
+      "description": "OpenAI shuts Sora consumer app and API; Disney partnership scrapped as focus shifts to agents and robotics.",
+      "url": "https://www.bbc.com/news/articles/c3w3e467ewqo",
+      "source": "BBC",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "Runway $315M Raise",
-      "description": "Runway closes major funding round as EU AI Act Article 50 enforcement begins August 2026.",
+      "title": "Runway Raises $315M Amid AI Video Shakeup",
+      "description": "Major funding round for Runway as OpenAI exits video generation space.",
       "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
       "source": "WaveSpeed",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     },
     {
-      "title": "HeyGen June 2026 Updates",
-      "description": "HyperFrames, live avatar APIs, Speech Cleanup and cloud rendering released for enterprise workflows.",
-      "url": "https://www.heygen.com/blog/heygen-release-update-tracking",
-      "source": "HeyGen",
-      "image_url": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&q=60"
+      "title": "Meta Rolls Out New AI Video Ad Tools",
+      "description": "Video Expansion and Image Animation features launch for Facebook and Instagram advertisers.",
+      "url": "https://www.marketingkeys.net/post/is-metas-new-ai-video-platform-game-changing",
+      "source": "Marketing Keys",
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "Veo 3.1 by Google DeepMind",
-      "description": "June 29 release: 120-second 1080p generation with cinematic lighting and camera controls.",
-      "url": "https://resource.digen.ai/new-ai-video-generators-2026/",
-      "source": "Digen AI",
-      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=60"
-    },
-    {
-      "title": "Kling 3.0 Style Locking",
-      "description": "98% visual consistency across scenes plus real-time collaborative editing added in July update.",
-      "url": "https://resource.digen.ai/new-ai-video-generators-2026/",
-      "source": "Digen AI",
+      "title": "Adobe Debuts AI Color Mode and Kling 3.0 Integration",
+      "description": "Premiere Pro, After Effects and Firefly receive major AI updates including Object Matte and Audio Match.",
+      "url": "https://www.jonpeddie.com/news/adobe-releases-new-ai-driven-capabilities-for-video-users/",
+      "source": "Jon Peddie Research",
       "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
     },
     {
-      "title": "LumeFlow AI Prompt Editing",
-      "description": "New 2026 feature: upload video and type changes like 'remove background person' or 'add cinematic lighting'.",
-      "url": "https://www.lumeflow.ai/ai-tools/best-ai-video-editing-tools",
-      "source": "LumeFlow",
-      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
+      "title": "Google Veo 3.1 Launches with 120-Second 1080p Generation",
+      "description": "New model features cinematic camera controls and native audio via Gemini API.",
+      "url": "https://resource.digen.ai/new-ai-video-generators-2026/",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&q=60"
+    },
+    {
+      "title": "StoryKit Launches Enterprise Text-to-Video Tool",
+      "description": "New SaaS feature converts meeting notes and scripts directly into SEO-ready videos with multi-language support.",
+      "url": "https://venturebeat.com/ai/storykit-announces-ai-text-to-video-tool",
+      "source": "VentureBeat",
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
     }
   ],
   "niches": [
     {
-      "title": "AI Video for Job Interviews",
-      "description": "iQua.ai delivers adaptive video interviews with 92/100 communication scores and STAR problem-solving verification.",
-      "url": "https://iqua.ai/",
-      "source": "iQua",
-      "image_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=60"
+      "title": "Kling 3.0 Dominates Anime and Stylized Content",
+      "description": "98% visual consistency across scenes with real-time collaborative editing for anime pipelines.",
+      "url": "https://resource.digen.ai/new-ai-video-generators-2026/",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=600&q=60"
     },
     {
-      "title": "Personalized Marketing Videos",
-      "description": "B2B teams use AI to create tailored product demos and onboarding sequences without multiplying production time.",
-      "url": "https://pictory.ai/blog/ai-video-trends-2026",
-      "source": "Pictory",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
-    },
-    {
-      "title": "Multilingual AI Dubbing",
-      "description": "HeyGen reduces dubbing costs by 80% and delivery from weeks to 24 hours using AI video translators.",
-      "url": "https://www.heygen.com/blog/heygen-release-update-tracking",
-      "source": "HeyGen",
-      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
+      "title": "Meta Muse Video Enables Personalized Avatar Videos",
+      "description": "July 2026 release combines user photos with video synthesis for branded avatar content.",
+      "url": "https://resource.digen.ai/new-ai-video-generators-2026/",
+      "source": "Digen AI",
+      "image_url": "https://images.unsplash.com/photo-1516321497677-de7c1859d90c?w=600&q=60"
     }
   ],
   "offers": [
     {
-      "title": "Google Vids Free Veo Tier",
-      "description": "10 free Veo 3.1 generations per month for any Google account; AI Pro plan starts at $19.99/month.",
-      "url": "https://monday.com/blog/ai-agents/ai-for-video-creation/",
-      "source": "Monday.com",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&q=60"
-    },
-    {
-      "title": "Runway Gen-3 Subscription",
-      "description": "Creative professionals access Gen-3 Alpha with motion brush controls starting at $12/user/month.",
-      "url": "https://monday.com/blog/ai-agents/ai-for-video-creation/",
-      "source": "Monday.com",
-      "image_url": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&q=60"
+      "title": "Veo 3.1 Lite Now Available via Gemini API",
+      "description": "First budget tier access to Veo family with full public API pricing.",
+      "url": "https://wavespeed.ai/blog/posts/ai-video-generation-news-2026/",
+      "source": "WaveSpeed",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "inspire": [
     {
-      "title": "Agentic AI Video Workflow",
-      "description": "Vivideo agentic chat turns a single prompt into planned, generated, assembled 45-second launch video in minutes.",
-      "url": "https://vivideo.ai/blog/state-of-ai-video-creation-2026",
-      "source": "Vivideo",
-      "image_url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=600&q=60"
-    },
-    {
-      "title": "Short-Form AI Content Boom",
-      "description": "YouTube Shorts passes 70 billion daily views as teams produce platform-native variants in minutes using AI.",
-      "url": "https://pictory.ai/blog/ai-video-trends-2026",
-      "source": "Pictory",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "AI Short Film Reaches Four International Festivals",
+      "description": "Student project developed entirely with AI tools becomes semi-finalist at Austin and Atlanta AI Film Festivals.",
+      "url": "https://aivideo.school/",
+      "source": "AI Video School",
+      "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=60"
     }
   ]
 }
