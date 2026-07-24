@@ -1,117 +1,117 @@
 {
   "ai": [
     {
-      "title": "Google Releases Gemini 3.6 Flash",
-      "description": "Google's latest model hits 82.8% on GPQA Diamond with major efficiency gains, released July 21 2026.",
-      "url": "https://aireleasetracker.com/latest",
-      "source": "AI Release Tracker",
+      "title": "Anthropic Launches Claude Sonnet 5",
+      "description": "New model leads Epoch Capabilities Index at 161, optimized for agentic coding and cheaper agent runs.",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5",
+      "source": "TechCrunch",
       "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=60"
     },
     {
-      "title": "NVIDIA Launches Nemotron-3-Embed-1B",
-      "description": "New embedding model optimized for NVFP4, available on Hugging Face as of July 14 2026.",
-      "url": "https://aiflashreport.com/model-releases.html",
-      "source": "AI Flash Report",
+      "title": "Google DeepMind Gemini 3.1 KV Cache Breakthrough",
+      "description": "Six-times KV cache reduction enables longer context multimodal reasoning on consumer hardware.",
+      "url": "https://skycrumbs.com/blog/ai-research-july-2026",
+      "source": "Skycrumbs",
       "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=60"
     },
     {
-      "title": "ByteDance Ships UniVR-34B-Planning",
-      "description": "34B planning model released July 13 targeting autonomous agent workflows.",
-      "url": "https://aiflashreport.com/model-releases.html",
-      "source": "AI Flash Report",
+      "title": "MIT-Stanford Recursive Multi-Agent Systems Paper",
+      "description": "Foundational work on Agent Swarm architectures published April 29 2026.",
+      "url": "https://www.devflokers.com/blog/latest-ai-model-releases-papers-open-source-projects-april-2026",
+      "source": "devFlokers",
       "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=60"
     }
   ],
   "funding": [
     {
-      "title": "Fora Raises $60M Series D",
-      "description": "Travel-advisor AI platform secures funding led by Forerunner Ventures on July 16 2026.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "title": "Meshy Raises $400M Series B",
+      "description": "Creative 3D AI startup hits $1.5B valuation — largest round to date in AI 3D.",
+      "url": "https://aifunding.me/deals",
       "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1553729459-0761c5c5f0a5?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=60"
     },
     {
-      "title": "Quantum Systems Closes $1.2B Series D",
-      "description": "Defense autonomous systems startup backed by Blackstone and Airbus in July 2026.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "title": "Genesis Robotics $500M Raise at $3.3B",
+      "description": "Robotics startup in talks for massive valuation amid AI hardware boom.",
+      "url": "https://aifunding.me/deals",
       "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=600&q=60"
     },
     {
-      "title": "Scaled Cognition Lands $100M Series A",
-      "description": "Enterprise AI reliability platform raises from Khosla Ventures June 25 2026.",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "title": "Emergent Labs $130M Series C",
+      "description": "Indian AI coding unicorn reaches $1.1B valuation.",
+      "url": "https://aifunding.me/deals",
       "source": "AI Funding Tracker",
-      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=60"
+      "image_url": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&q=60"
     }
   ],
   "tools": [
     {
-      "title": "PyTorch Downloads Surge 24% YoY",
-      "description": "Anaconda reports 1.3M downloads in May 2026 as dominant research framework.",
-      "url": "https://www.anaconda.com/guides/ai-development-tools",
-      "source": "Anaconda",
-      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
-    },
-    {
-      "title": "Anaconda Acquires Outerbounds",
-      "description": "Metaflow orchestration framework integrated into unified AI/ML platform.",
-      "url": "https://www.anaconda.com/guides/ai-development-tools",
-      "source": "Anaconda",
+      "title": "Google Gemma 4 Multimodal Family Ships",
+      "description": "Six open variants optimized for local inference released by Google.",
+      "url": "https://morningmail.ai/en/newsletter/ai-developer-tools-what-shipped-kncCRQDENxYjgBnSFQK5",
+      "source": "MorningMail",
       "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=60"
     },
     {
-      "title": "Intel Rolls Out OpenVINO Toolkit Updates",
-      "description": "New AI PC tools with WebNN and ONNX support for on-device inference.",
-      "url": "https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/frameworks-tools.html",
-      "source": "Intel",
-      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=60"
+      "title": "Thinking Machines Lab Releases Inkling 975B",
+      "description": "Former OpenAI CTO's open-weights model under Apache 2.0 on Hugging Face.",
+      "url": "https://morningmail.ai/en/newsletter/ai-developer-tools-what-shipped-kncCRQDENxYjgBnSFQK5",
+      "source": "MorningMail",
+      "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=60"
+    },
+    {
+      "title": "Unsloth GGUF/MLX Quantizations",
+      "description": "Dynamic 4-bit/8-bit optimized inference now on llama.cpp and Ollama.",
+      "url": "https://morningmail.ai/en/newsletter/ai-developer-tools-what-shipped-kncCRQDENxYjgBnSFQK5",
+      "source": "MorningMail",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
     }
   ],
   "industry": [
     {
-      "title": "California Weakens AI Tracking Rules",
-      "description": "Regulator gives Big Tech more leeway on consumer tracking under updated AI rules.",
-      "url": "https://apnews.com/us-news/gavin-newsom-california-artificial-intelligence-privacy-general-news-9af726479bf65d2b183e88eb985e36d9",
-      "source": "AP News",
+      "title": "White House AI Innovation Executive Order",
+      "description": "June 2026 order prioritizes cyber defense of AI systems and rejects mandatory model licensing.",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "source": "White House",
       "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&q=60"
     },
     {
-      "title": "Meta Removes Controversial AI Feature",
-      "description": "Instagram AI feature pulled after user backlash in July 2026.",
-      "url": "https://techcrunch.com/tag/big-tech-regulation",
-      "source": "TechCrunch",
-      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=60"
+      "title": "Amazon & Anthropic $25B Multi-Cloud AI Deal",
+      "description": "Major infrastructure investment announced amid export controls.",
+      "url": "https://thedailytechbrief.podbean.com/",
+      "source": "Daily Tech Brief",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
     },
     {
-      "title": "OpenAI, Google Push Back on State AI Laws",
-      "description": "Tech giants lobby to block or preempt state-level AI regulations across US.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-21/tech-industry-girds-for-new-battle-to-block-state-ai-rules",
-      "source": "Bloomberg",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=60"
+      "title": "Connecticut Passes Comprehensive AI Safety Law",
+      "description": "SB 5 imposes obligations on developers and deployers effective May 2026.",
+      "url": "https://techinsightedge.com/insight/ai-regulation-news/",
+      "source": "Tech Insight Edge",
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=60"
     }
   ],
   "oss": [
     {
-      "title": "Hugging Face Transformers v5.14.0",
-      "description": "Major release adds Inkling, TIPSv2 models plus performance and kernel improvements.",
-      "url": "https://releasebot.io/updates/huggingface",
-      "source": "Releasebot",
-      "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=60"
+      "title": "NVIDIA Nemotron-Labs-Twotower Open Weights",
+      "description": "Diffusion language model built on frozen Nemotron-3 backbone released.",
+      "url": "https://marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/",
+      "source": "MarkTechPost",
+      "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=600&q=60"
     },
     {
-      "title": "DeepSeek-V3.2-Exp Lands on HF",
-      "description": "Experimental model with DeepSeek Sparse Attention for long-context efficiency.",
-      "url": "https://huggingface.co/models",
+      "title": "German Consortium Soofi S 30B Open Model",
+      "description": "Fully open 30B model tops benchmarks in English and German on Hugging Face.",
+      "url": "https://morningmail.ai/en/newsletter/ai-developer-tools-what-shipped-kncCRQDENxYjgBnSFQK5",
+      "source": "MorningMail",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=60"
+    },
+    {
+      "title": "Hugging Face Inference Providers Expansion",
+      "description": "45,000+ models now accessible via unified API from  multiple providers.",
+      "url": "https://huggingface.co/",
       "source": "Hugging Face",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=60"
-    },
-    {
-      "title": "Kimi K2.5 Series Released",
-      "description": "Multimodal agentic models advancing long-horizon coding and swarm orchestration.",
-      "url": "https://releasebot.io/updates/huggingface",
-      "source": "Releasebot",
-      "image_url": "https://images.unsplash.com/photo-1639322537228-f41d9043c813?w=600&q=60"
     }
   ]
 }
